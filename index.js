@@ -11,7 +11,9 @@ import * as dotenv from 'dotenv'
 import * as fs from 'fs';
 dotenv.config()
 
-
+const PORT=3001
+const DB_URI = "mongodb+srv://admin:admin@cluster1.s2gzblr.mongodb.net/Atomic?retryWrites=true&w=majority"
+const API_KEYS = "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"
 
 const app = express()
 app.use(express.json())
@@ -19,10 +21,10 @@ app.use(cors())
 app.use(bodyParser.json({ limit: '10mb' }));
 app.use(bodyParser.urlencoded({ limit: '10mb', extended: true }));
 // // connect to db
-mongoose.connect(process.env.DB_URI)
+mongoose.connect(DB_URI)
 .then(()=>{
-    app.listen(process.env.PORT || 3001, ()=>{
-        console.log("connected to db &&  Listening on port ", process.env.PORT || 3001)
+    app.listen(PORT || 3001, ()=>{
+        console.log("connected to db &&  Listening on port ", PORT || 3001)
     })
     
 }).catch(err=>{
@@ -32,7 +34,7 @@ mongoose.connect(process.env.DB_URI)
 
 const openAi = new OpenAIApi(
     new Configuration({
-      apiKey:process.env.API_KEYS,
+      apiKey:API_KEYS,
     })
   )
 
