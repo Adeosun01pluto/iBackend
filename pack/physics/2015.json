@@ -1,0 +1,4221 @@
+
+[
+    {
+      "id": "c0673ffc-7d1f-45da-b45c-7206fc3f2982",
+      "question_text": [
+        "In which of the following device in the expansion of solid is a disadvantages?I. Simple pendulumII. Fire alarmsIII. ThermostatIV. Bimetallic thermometer"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Simple pendulum does not depend on thermal expansionFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II, III & IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ee5ceb2-f9fa-4c19-8dd3-bfc497612344",
+      "question_text": [
+        "The normal temperature of human body is record at what ranges?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Temperature Ranges in the Universe ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "The range of temperature is between 35°C and 43°C but for normal temperature of human body is between the range of 35°C to 37°C respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27°C to 43°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30°C to 40°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "98.4°C only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Between 35°C to 37°C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a94e7c4b-1e00-41cf-b6a4-7e4771afc48b",
+      "question_text": [
+        "The property of a body to remain at rest or to continue to move in a straight line is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "Inertia: the property of a body that resists any change to its uniform motion, equivalent to its mass",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "force",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Impulse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Inertia",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4c19b2f8-ebb0-41bc-a45d-e8407e3fc3a5",
+      "question_text": [
+        "Momentum and Kinetic energy are conserved in"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Elastic Collisions in One Dimension ",
+        " Linear Momentum and Collisions"
+      ],
+      "explanation": "Momentum and kinetic energy are conversed in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Inelastic collision",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Elastic collision",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Explosion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Spacecraft",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52cc1034-1945-4234-818b-bc5dcda363e4",
+      "question_text": [
+        "An alternating current with a frequency of 100HZ has a period of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Alternating Current ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "F = 100HZ, period, T = 1/f = 1/100= 0.01 secThe period (T) = 0.01sec",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.03sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.04sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.15sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c4022ca-9ebd-479f-9a03-969a8fa8ef93",
+      "question_text": [
+        "Efficiency of a transformer is equal to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Transformers ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Efficiency of a transformer = (power developed in the secondary coil ÷ power supplied to the primary coil) × 100%",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Efficiency of transformer = (secondary coil ÷ primary coi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " × 100%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Efficiency of transformer = (mechanical advantage ÷ velocity rati",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " × 100%C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dcac0797-7555-423c-938d-4acd7f220ef6",
+      "question_text": [
+        "Volatile liquids usually"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Points in Phase ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Volatile liquids (i.e. Ammonia or Freon) are usually have low boiling point",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Have high boiling points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "have low boiling points",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "have high densities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "have high melting points",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "848d00b6-0ca4-4efa-a7a0-4b1bce2808e9",
+      "question_text": [
+        "When a man moves toward a plane mirror at a speed of 6m/s, the distance the man and his image increased at a speed of?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "d = y, s = 6 m/s (The Man & Plane Mirror)d – δy, s = (5 &ndash ;6) m/s (The Man and Image)d2 ÷ s1 = d2 ÷ s2, y ÷ 6 = 2y ÷ s + 6Y (s + 6) = 2y × 6s + 6 = 12So = 12 – 6 = 6Since S + 6 = 0Then, S = 6 (substitute the value of S i.e S = 6)Into S + 6 = 0∴So = S + 6 = 6 + 6 = 12 m/s∴ S = 12 m/s",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 m/s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 m/s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e589116-6e3d-4123-bc54-c2c88214890c",
+      "question_text": [
+        "Which of the following instrument is most accurately for comparing electromotive force (e.m.f) of two cells?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Voltmeter: an instrument for measuring electric potential in voltsGalvanometer: it is a device used to indicate direction of a small electric currentPotentiometer: is a device for measuring or comparing e.m.fs of cellsMeter rule: measuring a distance at different points",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Voltmeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Meter rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Galvanometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Potentiometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "11ae90e5-24ba-442c-bd2d-86bf40252a41",
+      "question_text": [
+        "In an inelastic collisionI. Energy is conversedII. Energy is decreasedIII. Energy is increasedIV. Linear momentum conversed"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Inelastic Collisions ",
+        " Momentum and Impulse"
+      ],
+      "explanation": "In an inelastic collision, linear momentum is conserved and energy is decreasedMomentum and kinetic energy are conserved in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "facb246d-764b-48cd-84a0-c29fa71d0112",
+      "question_text": [
+        "A regular spacing or arrangement of atoms in a crystalline material is called"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Electron Microscopes ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "The regular arrangement of atoms in a crystalline materials is called LATTICES",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Orbit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Lattice",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Atomic structure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Energy level",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d425731-850f-40f3-9e65-2e06a1cf7c7f",
+      "question_text": [
+        "The net movement of solvent molecules from a region of high solvent potential to a region of lower solvent potential through a partially or semi permeable membrane is refer to as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Osmosis and Dialysis—Diffusion Across Membranes ",
+        " Fluid Dynamics and Applications"
+      ],
+      "explanation": "Diffusion: The movement of water vapors from regions of low concentration toward regions of high concentrationSurface tension: is a force transmitted through a sting or object surface tension = force (N) ÷ Area m2(Nm−2)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Osmosis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Surface tension",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Cohesion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c65e0e9-fcb5-4f74-9741-5bc989dc877b",
+      "question_text": [
+        "Which of the following option is right if an object fall freely to the ground?1. The total energy is Kinetic2. The ratio of potential energy to kinetic energy is constant3. The sum of potential and kinetic is constant"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "The total energy at any point combination of the PE and KEi.e. TEnergy = PE + K.E= mgh + ½ mr2= ½ m (gh + v2 )= ½ m (v2 + gh)∴ TEnergy = ½ m (V2 + gh)∴ Total energy at the height (hm) = PE + KE The sum of P.E and KE at any point is always constant .",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1 and 2 only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ebe57b84-a708-4c3c-b714-9215f1a43822",
+      "question_text": [
+        "The eyeball consists of a round tough white skin called"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "What’s Color Got to Do With It? A Whiter Shade of Pale ",
+        " Particle Physics"
+      ],
+      "explanation": "Sclerotic coat (sclera) is the tough outer coat of the eye that coves the eyeball (ii) sclerotic coat is modified in front of the eye to from a transparent and horny window",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sclerotic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Choroid coal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Optical fiber",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Accommodation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6e6b3161-4a52-4bcc-a6db-4940ebf4a26a",
+      "question_text": [
+        "Which one of the following is a vector quantity?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing the Graphical Method of Vector Addition and Subtraction ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "Temperature gradient(Tg) = DT ÷ L = T2 – T1 ÷ Li.e– it is the ratio of an increment in temperature to the lengthHence, Temperature gradient (Tg) has defined direction alongside with magnitudeAnd it is a vector gratuityMass, work & Time are scalar quantity",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Temperature gradient",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Work",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Time",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e6a21a8-7f45-45e3-88f1-650f44bc118f",
+      "question_text": [
+        "For a best result using temperature to achieve an accurate measurement, it is best to use"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Temperature ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Gas thermometers are considered best for use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "gas thermometer",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "clinical thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "alcohol thermometer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e18dbd3b-c912-4166-8969-4f6eb153ecb8",
+      "question_text": [
+        "The dimension of universal gravitational constant is……….?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Newton’s Universal Law of Gravitation ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "f α (MM ÷g2)F(GMM ÷ r2) [G – gravitational constant]GMM = Fr2G = F02 ÷ MM = m × aπr2 ÷ MM (f = ma)= (m × m5-2 × r2) ÷ MM= (Kg.m52 × m2) ÷ Kg.Kg=1 ÷ kg.m3.52The dimension mathematically representation have a quantities of M, L AND TM (Mass) = kg, L (Length) = M, T (Time) secondG = kg-1 m2.52(Using dimension rule) M-1.L3.T-2∴ The universal gravitational constant (G) =\\( M­^{–1}L^3 T^{–2} \\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( M­^{–1}L^3 T^{–2} ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ML3T2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ML3D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "823edbac-2dfe-497b-9de5-b916340d9c7f",
+      "question_text": [
+        "A good electric cell should have the following except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "A good electric cell should proses the following1. A long life of an electric cell,2. A minimum of polarization effect3. A cheap and safe electrolytesExcept D cost and dangerous of the electric cell",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A minimum of polarization effect",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A long life",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "A cheap and safe electrolytes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Cost and dangerous of the cell",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "175128e2-cc80-406e-85cd-d27d777e2d50",
+      "question_text": [
+        "The r.m.s value of a supply voltage is quoted at 200v. What is the approximate peak value of the voltage?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Vr.m.s = V0 ÷ V2, where Vr.m.s rep. to as voltage root –square mean, v = peak voltageVr.m.s = 200volt, v = ?200 = V0 ÷ V2V0 = 200v2= 200 × 1.414= 282.8 volts V0 = b &approx.; 283 volts",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "200volts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "300volts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "283volts",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "250volts",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7f0b72c-16fd-457b-9fd7-f76983a49af5",
+      "question_text": [
+        "Heat transfer by convection will take place is one the following substance."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Heat Transfer Methods ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Convection take place commonly in liquids (water) and slightly in gasses",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Stone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Mercury",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3f0630db-0c43-4d9c-be6b-c6f141421fa7",
+      "question_text": [
+        "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through those process.I. Using a soft iron oreII. Laminating the iron core to reduce energy loses due to eddy currentIII. Designing an efficient iron core"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Eddy Currents and Magnetic Damping ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Fig (I) (II) (III) are they in which a transformer was designed to reduce an energy loses by reducing through this collective designed or efforts",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I & II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I, II, & III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d24d90b-b140-4720-8c91-aa6f3b5c788b",
+      "question_text": [
+        "The two liquids which are often used in thermometer on experiment basic is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "What is a Fluid? ",
+        " Fluid Statics"
+      ],
+      "explanation": "Mercury and alcohol are often used in THERMOMETERNote:Water is never allowed to be used in thermometer because, it doesn’t expand uniformly",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alcohol and Water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Mercury and Alcohol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Alcohol only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28d6aca3-2cae-442f-bfda-e4a9a7fe20d3",
+      "question_text": [
+        "Neutron were discovered by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Particles, Patterns, and Conservation Laws ",
+        " Particle Physics"
+      ],
+      "explanation": "Neutron were discovered by James Chadwick in 1931",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "J.J. Thompson",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "James Chadwick",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Michael faraday",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dalton",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4df52817-e095-47af-99fb-7185d03a7fa2",
+      "question_text": [
+        "If a projectile has maximum range of 36m, find the speed of projection (Take g = 9.8m/s2)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Calculating Projectile Motion: Hot Rock Projectile ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "For maximum range (Rmax)Rmax = U2 ÷ α g where Rmax = 36m, U2 = ?, g = 9.8m/s236 = U2 ÷ 2 × 8.8U2 = 36 × 2 × 9.8m = 705.8√U = √ 705.6 = 26.5 (squaring both side)u= 26.5m/s, U = 27m/s (Approx.)The speed of projection = 27m/s2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27m/s2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2m/s2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4m/s2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7m/s2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "97c3d7e8-126c-44ac-8049-db0c3a1d2091",
+      "question_text": [
+        "What is the S.I unit of relative density?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Density and Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "Note: relative density has no S.I unit∴ Relative density = weight of substance ÷ weight of equal volume of waterRD = w1 ÷ (w1 – w2) (no S. I unit)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "kg m-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "kg m2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kg cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "has no S.I unit",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "64edc760-1089-4eb4-8e0c-4890dc8c9a2c",
+      "question_text": [
+        "A radioactive source emits X–rays of very short wavelength (10 -13m ) what is the frequently of these rays?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing X Rays ",
+        " Atomic Physics"
+      ],
+      "explanation": "Wavelength (Λ) = 10 -13mSpeed of X-ray = speed of light C = 3×103m/sFrequently (f) = ?Using V = fΛ (or (– f π for electromagnetic wave)f = c/Λ = 3 × 108 ÷ 10-13 = 3 × 103 × 103= 3 × 1013 × 1013= 3 × 1021HZ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 × 1018HZ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 × 10 19HZ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 × 1021HZ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3 × 10-19HZ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cfbdb1e5-bed8-413c-a385-b5917be8d85c",
+      "question_text": [
+        "The strength of an electromagnet increase with"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Electromagnets ",
+        " Magnetism"
+      ],
+      "explanation": "Note: the strength of an electromagnet increase with a decrease in the number of turns of the coil other are(ii) increase in current with in the coil",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increase in the number of turn of the coil",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decrease in current with the coil",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increase in the distance between the pole",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Increase in current without the coil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95541c72-beeb-4f79-a335-1a36f71c8cd1",
+      "question_text": [
+        "A platinum resistance thermometer wire has a resistance of 70hms at 0°Cand 7.5 Ohms at 100°C. Calculate the temperature of the wire when the resistance is 7.2 Ohms"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "What Causes Resistance? ",
+        " Electric Circuits"
+      ],
+      "explanation": "R0 = 7Ω , R1 = 7.2 Ω, R2 = 7.5 Ω, Tx = ?[(X – T100°C) ÷ (R1 - R0)] = [(T100°C – T0°C) ÷ (R2 - R0)][(Tx – 0) ÷ (72 – 7)] = [(100 – 0) ÷ (7.5 – 7)]Tx/0.2 = (100 ÷ 0.5)Tx = [(0.2 × 100)] ÷ 0.5= 20/0.5 = 40°C",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40°C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10°C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2a396e4-863b-4293-96cc-5eeaa139a1c3",
+      "question_text": [
+        "Which of the following will increases the boiling point of water?I. Taking it to a high altitudeII. Dissolving a salt into itIII. Heating it in a sealed flaskIV. Increasing the rate of heat supply."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "The boiling point of water can increase, if1. Heating it in a sealed flask2. The rate of the heat supply is increased",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "III & IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "II only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27a2fe52-2f73-40df-b599-c331641cf01e",
+      "question_text": [
+        "What is the magnitude of the couple which acts on a rotating circular disc of radius 2m, if a constant tangential force of 2N is responsible for the rotation."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Angular Acceleration ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "Magnitude =One of the forces x radius between them Hence, 2N x 2m =4Nm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15Nm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25Nm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3Nm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4Nm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "72a110f8-204e-45a7-8c7a-b89202070c87",
+      "question_text": [
+        "For a best result using temperature to achieve an accurate measurement, it is best to use"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Temperature ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "A gas thermometers are more besting use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "gas thermometer",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "clinical thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "alcohol thermometer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "971820fe-3ed3-4d0f-8710-5b9dd76bc5ac",
+      "question_text": [
+        "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Light Rays ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "(Neglect of Air resistance)Note: Both objects reach the ground at the same time",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Bothe light and heavy subject reach the ground at the same time",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "he light object get to the ground first before the heavy object",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "he heavy object to the ground first before the light object",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "None get to the ground first",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3103e6c4-a884-400e-8821-1f8e9a8f9d13",
+      "question_text": [
+        "If an object which mass is 3kg moves in a circular path of a radius 0.7m, record a speed at 2m/s what is the result of the angular velocity?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Angular Acceleration ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "M= 3kg, r = 0.7m, v = 2m/sv = wrw = angular velocityr = radius in an tangential circularv = speed of an objectW = V/δ = 2/ 0.7 = 2.85W = 2.853rads–1 (total interest whole number)W = &approx.; 3rads–1Angular velocity (w) = 3rads–1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4 rads–1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1rads–1–1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3–1rads–1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4rads–1–1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71d888ef-c958-4991-b026-5c9d3a71acf5",
+      "question_text": [
+        "The optical instrument which is suitable for viewing a nearby objects is ………..?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Optical Density ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "Microscope is used for nearby object",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Telescope",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sextant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "microscope",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "periscope",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fdc4af56-4664-43fe-9d70-2207c3ca5033",
+      "question_text": [
+        "The symbol −10X used to represent which of the particles?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Particle-Wave Duality Reviewed ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "Electron: A sub–atomic particle haring a negative charge and orbiting the nucleus (note: the symbol 0–1e represent the particle of an electrons.)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Proton",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Electrons",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Atoms",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "073ccd25-0bc1-4a51-9e33-82337b60bd7d",
+      "question_text": [
+        "If a mango fruit dropped at a height of 50 meters. How long does it reach the ground? (take g = 10m/s2)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Equal Displacements Example ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "From S = ut + ½gt2u = 0ms-150 = (0 × t) + ½(10)(t2)50 = 5.0t2t2 =50/5t = √10t = 3.2sec",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.2sec",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4e365432-cc0f-4f3c-9d7b-1ce4476b73fc",
+      "question_text": [
+        "A zinc has a heat capacity of 40 J/K, what is the mass of the zinc, given that the specific heat of zinc is 380 J/kg k"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Heat capacity (o) = mass (kg) specific heat of a substance (C2)i.e Q = MCwhere Q = 40 J/L, m = ?(380 J/Kgk)40 = m × 380m = 0.11kg (Approx)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.11kg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.12kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.13kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.14kg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35793168-f791-4834-adae-e3c3bf6624f6",
+      "question_text": [
+        "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Equal Displacements Example ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "Using the equationS = ut + ½ gt2H = s = 20m, t = ?G =10m/s2, u = 0m/s20 = 0 × t × ½ × 10 t20 = 5ti.e 5t2 = 20t = 20/5 = 4t = 4 (squaring both sides)√ t2 = √4= 2sec∴ t = 2sec",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "35sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.4sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6926fbfa-2f38-447e-b7f9-2bf9495552a1",
+      "question_text": [
+        "If the velocity ratio of a machine is 5. What is its ratio of x and y?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Simple Machines ",
+        " Statics and Torque"
+      ],
+      "explanation": "Velocity Ratio (V.R) = distance moved by the effort (x)÷ distance moved by the load (y)i.e. V.R = x/yv. R = 5, x/y = ?i.e x/y = 5/1; , where x = 5, y = 1x : y = 5 : 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 : 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1 : 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 : 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3 : 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "87994421-4a96-4f0b-ab46-e94c4e350198",
+      "question_text": [
+        "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Simple Machines ",
+        " Statics and Torque"
+      ],
+      "explanation": "Mechanical advantage (M.A) of a machine is the ratio of its load to effortMathematicallyMechanical advantage (M.A) = Load (L) ÷ Effort (E)In symbol M.A = L/ENote:Mechanical (advantages has no S.I unit)If M.A = 4 then,L/E = 4/1The ratio of load to effort = 4 : 1 respectively",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4:01",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:04",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5:01",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2:01",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9b97bca2-bac2-46e5-b36a-c05a2bc73f98",
+      "question_text": [
+        "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing RLC Series AC Circuits ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Magnetic relay device :is the device that controls a circuit (i.e one circuit )if a current in the second circuit is large or dangerous",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Electromagnetic devices",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Magnetic relay device",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "None at all",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sextant",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "41facdb3-0686-4eb1-9b46-dc02ffb5c3bf",
+      "question_text": [
+        "Heat losses to the surrounding is possible through the following except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Thermal Expansion of Solids and Liquids ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Conduction, conveying of heat or electricity through a material medium is required",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Conduction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Convection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Radiation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Expansion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "07eb34ce-bc6d-4318-aabd-910c07e1ed7d",
+      "question_text": [
+        "Quantities of heat Q can be measured using a container called"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Heat Pumps ",
+        " Thermodynamics"
+      ],
+      "explanation": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Measuring cylinder",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Calorimeter",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Meter rule",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6fc6df8-921f-4985-8923-5707a0496a24",
+      "question_text": [
+        "Lodestone is a natural magnet, it points at"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing the Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Lodestone is a natural magnet it points approximate at N – S when suspended freely",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N – W when suspended freely",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N–S when suspended freely",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "S – E when suspended freely",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "S–W when suspended freely",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ff5bea4-af72-4dcc-8e12-e0ee2d45d4e4",
+      "question_text": [
+        "What type of electromagnetic radiation can be used to take photographs in the haze?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Infrared Radiation ",
+        " Electromagnetic Waves"
+      ],
+      "explanation": "Infrared rays are easily detected by special photographic films and it can be used for taking picture in haze",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Radio waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "infrared rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Visible light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Gamma rays",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e614b66-7eaf-48e8-82e8-83ac014dc840",
+      "question_text": [
+        "A member of the crew of a SPACESHIP experiences weightlessness in a space when they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "“Weightlessness” and Microgravity ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "Weightlessness:– The state of being free from the effects of gravity. (zero gravity)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fall freely from the earth’s gravitational field",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Is walking on the planet",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "In between the sun and the earth",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Holding anything in space is negative",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "33d825e8-5282-4923-bf0f-241b5823f1a7",
+      "question_text": [
+        "Radio waves belong to the class of wave whose velocity is about"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Introduction to Electromagnetic Waves ",
+        " Electromagnetic Waves"
+      ],
+      "explanation": "A radio waves is an electromagnetic waves which travels with a constant velocity of 3 × 108m/s",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 ×106m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 ×108m/s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3 × 10-8m/s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "923dca49-194a-4d89-bafe-8da55856b9ce",
+      "question_text": [
+        "At 35°C and 5 atmospheres pressure the density of a gas is 0. 600g per liter. What is the density at 7 atmospheric pressure and 350°C."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Gauge Pressure, Absolute Pressure, and Pressure Measurement ",
+        " Fluid Statics"
+      ],
+      "explanation": "\\( \\theta1 = 35°C T1 = 273 + θ = 73 + 35 = 308k P1 = 5 \\)atmd1 = 0.600g/ litreθ2 = 350°C, T2 = 2 + 3 + θ= 273 + 350 = 623k, d2 = ?P2 = 7atmT a P a 1/d = TPK/d (where k is a constant)Tp1 ÷ d1 = T1P2 ÷ d2, [(308 × 5) ÷ 0.600]= (623 × 7) ÷ d2d2 = (623 × 7 ×0.600) ÷ (308 × 5)= 2616.6 ÷ 1540= 1.69g / litresd2 = 1.69g / litres∴ d2 = 1.70g / litres (Approx.)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.27g / liters",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25g / liters",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "17g / liters",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.15g / liters",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9be15cc-6b6a-4b82-aa42-e5b51c302d43",
+      "question_text": [
+        "The compressed regions and the space-out regions in longitude wave are refers to as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Compression and Rarefaction ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "The vibrating particles behave like a spiral spring with a series of compression region and space–out region.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Compression and Rarefaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Comparison and Explosion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reflection only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Refraction only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8fcf4be4-834d-43ab-9f48-b93b1efcdbf4",
+      "question_text": [
+        "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Ma Lb Tc?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Work: The Scientific Definition ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Work (w) = Force (f) × Distance (d)Note: f = ma = mass × acceleration= mass ×acceleration ×distance= kg ×ms–2 × m= kg m2 5–2(Note: the dimension of kg = M, M = L & S = T)Work = ML2 T–2 = Ma  Lb  Tci.e. Ma  Lb  Tc = as 1, b = 2, c = –2The value of a, band c = 1, 2, –2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, – 2, 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2, – 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1, 1, –2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2, 2, 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6528c35c-dbd0-48e2-a2cf-72920209eaf5",
+      "question_text": [
+        "Primary colours of light are"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Wave Nature of Light ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "explanation": "Primary colours of light are red, blue and greenSecondary colours of light are cyan, magneta and yellow",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Red, blue and green",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cyan, magneta and yellow",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Black, blue and green",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "None of these colours",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3c9e9460-dd38-4b89-a4c5-4c6f080a354c",
+      "question_text": [
+        "Electrons were discovered by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Multiple-Electron Atoms ",
+        " Atomic Physics"
+      ],
+      "explanation": "J.J. Thompson discovered ELECTRONS",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "James Chadwick B.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "J.J Thompson",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Sir Isaac Newton",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charles Newton",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2e9219c-2361-48b3-9770-a7be7d133459",
+      "question_text": [
+        "What is the relationship mechanical advantage (MA) velocity Ratio (V.R) and efficiency with percentage?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Simple Machines ",
+        " Statics and Torque"
+      ],
+      "explanation": "he relationship between M.A, V.R, e and 100% can be written ase = M.A/V.R × 100 %i.e E/100 = M.A/V.R= L ÷ E/x ÷ y = Ly/ExE/100 = Ly/Ex",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "e = M.A/V.R × 100 %",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "M.A = E.V.R",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "V.R = 1 ÷ sin θ M.A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M.A = 1/E × 100%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53018b4b-6dac-4c1c-ae31-297bea3b28f7",
+      "question_text": [
+        "The external parts of an object can be measure accurately through the use of which scientific instrument?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing DC Voltmeters and Ammeters ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Micrometer screw gauge measure an objects accurately (mainly on the external parts of the object). It measures the external parts of objects only",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Micrometer screw gauge",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Vernier Caliper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Meter rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "None of the instrument",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d9ffd98d-4963-4641-a811-9b0a56607d6c",
+      "question_text": [
+        "Convert 45°C to kelvin"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Changing Units ",
+        " Skills for Science"
+      ],
+      "explanation": "Note: T = 273 + θθ = 45°T = 273 + 45= 318K",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "318K",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "250K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "184K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "120K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ccd01d37-ec7c-4e56-befb-5c47b5ae4b8c",
+      "question_text": [
+        "A vector quantity can only be completely described when ……… and …………are mentioned."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Vectors and Scalars"
+      ],
+      "explanation": "A vector quantity has both magnitude and direction",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Magnitude and motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Magnitude and direction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Distance and specified displacement",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Moment and momentum",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "062edac1-96db-4ca5-a9fa-20773a2fd1a5",
+      "question_text": [
+        "In which of the following device in the expansion of solid is a disadvantages?I. Simple pendulumII. Fire alarmsIII. ThermostatIV. Bimetallic thermometer"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Simple pendulum does not depend on thermal expansionFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II, III & IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da65d783-9dc7-42ba-9517-d49870141be4",
+      "question_text": [
+        "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Potential Energy ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "Energy due to position T is potential energy (P.E)Energy due to motion is kinetic energy (K.E)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mechanical energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Stationary energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Potential energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Vibrational energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8735c36-4a29-4afe-9cc8-d3dc3b7c6456",
+      "question_text": [
+        "Calculate the gravitation force of attraction between two planets of 1024kg and 1027kg separated by a distance of 1020meters."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Newton’s Universal Law of Gravitation ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "F = (Gm1m2) ÷ r2M1 = 1024Kg, M2 = 1027Kg , r = 102(Note: the gravitational constant of G = \\(6.67 × 10^{ 7ndash; 11}\\) \\( Nm^2/Kg^2 \\)F = \\( (6.67 × 10^{– 11 + 24 + 27)} 10^40 = 6.67 × (10^40 ÷ 10^40)= 6.67Nf = 6.67N",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.67N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.56N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7.5N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.6N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cac270b7-4fb4-4100-bf29-f642f700f214",
+      "question_text": [
+        "Mr. F. Abioye observed his image though a plane mirror, kept a distance way from him at 4.7m in his room at what distance is the image found from Abioye eye?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "As object and image are usually at equal distance apart from the mirror /p>Distance between Abioye (a) and hip image (I) = AIi.e. AI = 4.7 + 47= 9.4m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9.4m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.5m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.7m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.9m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2fbe4eb7-558f-497c-8c8d-e93a22d23d62",
+      "question_text": [
+        "Body floats in fluid when its …………………"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "Note:The principle of floatation states that a floating body displaces its own weight of the fluid or which its float.For object to sink weight of the object (W) > upthrust of the fluid (v) i.e. w > u(i.e. weight of the body (or object) mass of the fluid)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Displaces its own volume of the liquid (flui",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Displaces its own mass of the fluid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Displace its own density of the fluidD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7eae655b-1199-4107-a1cf-bd30bb83c9c8",
+      "question_text": [
+        "The general gas law can be written as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing the Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Formula for general gas lawV × 1/T × PN [(PV) ÷ T] = K is constant",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "PV ÷ T = a constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "PV = a constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "v/t = a constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "p/T = a constant",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "06d8bd1d-5249-4c8c-b6db-5e6c254ba6e1",
+      "question_text": [
+        "A motor boy of a driver saw what seem to appear to be a pool of water a head of him, while his driver’s drives a new truck on a funny day. Which of the following explains his observation?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Applications of the Motion Equations ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "The appearance of pool of water on road surfaces is called MIRAGEHis observation show that light from the sun ray refracted through a layer of hot air(layer) which is closed to the ground, passes from a hot air layer to the cold layer",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "He saw a flying objects",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "He must be thinking of water and food",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "He was seeing the shadow of the car",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The sun ray from the sky were passing from a hot air (layer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5ef20265-dacc-4e3b-8313-f412b03c0f81",
+      "question_text": [
+        "Which of the following is not luminous object?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Newton’s Universal Law of Gravitation ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "Sun are self luminous sourceMoon is a non – luminous",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The sun",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The moon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "light candle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Star",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6ba0f0e0-4628-41fb-a85b-56bd9c65156e",
+      "question_text": [
+        "The resultant force of a couple is ………?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Algebraic Methods Continued ",
+        " Vectors and Scalars"
+      ],
+      "explanation": "Note: moment of a couple = force × length (fL)The tangential force is actingin an opposite direction alongside its lengthi.e f1 L1 = f2L2f2L2 − f1 L1 = 0(i.e Zero)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Infinity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Zero",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "One",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Half",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c80cac6-8b63-4b10-8f52-52b3c5caf94d",
+      "question_text": [
+        "Boyle’s law may be Witten as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Faraday’s Law of Induction ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Boyle‘s law stats that the volume of a given mass of a gas, at a constant temperature is inversely proportional to us pressure.MathematicallyV ∝ l/p, v = k/p (where k is constant)K = VPLet k = k1Then, if k = k, V and P = V1P1V1P1 = V2P2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P1V1= P2V2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "V1 = V2 ÷ T1T2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "P1T1 = P2T2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P1V1 ÷ T1 = P1V1 ÷ T2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ce4be39-9b4f-4237-a01a-d5c31b0a869b",
+      "question_text": [
+        "The direction of the path taken by light is called"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Ray Aspect of Light ",
+        " Geometric Optics"
+      ],
+      "explanation": "Ray – a beam of light or radiation",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Locus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Lines",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ray",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Beam",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "784970ea-6998-44fb-af11-23cee1586dd4",
+      "question_text": [
+        "What is the inductance (L) of an inductor whose reactance is 1Ω at 50/ π hertz (H)?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Inductance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "XL = WL = 2πFL (w = 2πf)XL = reactance inductor (S.I unit Ω)L = inductance (L) in HenryXL = 1Ω, f = 50/π, L = ?1 = 2× π × 50/π × L1 = 100Li.e. 100L = 1L = 1/1000.01H∴ Inductance (L) of a inductor = 0.01H",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 H",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01H",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10H",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1H",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5489eb6f-127a-4b8d-ae18-6fac7f634c76",
+      "question_text": [
+        "A stroboscope can be used to make the ware appear ………….."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Stationary Objects ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "Stroboscope is a scientific instrument used to make a wave appears stationary when used",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Stationary",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "In motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dipper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ripple",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30af5c7a-829f-4f3c-b58c-b704212e34b9",
+      "question_text": [
+        "In an elastic collisionI. Energy is conservedII. Energy is decreasedIII. Energy is increasedIV. Linear momentum conversed"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Elastic Collisions in One Dimension ",
+        " Linear Momentum and Collisions"
+      ],
+      "explanation": "In an inelastic collision, linear momentum is conserved and energy is decreasedMomentum and kinetic energy are conserved in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b65bc75-9e44-48a3-9dc0-86651141375f",
+      "question_text": [
+        "If the volume of a gas is recoded as 76cm3 at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "General formular of Gas laws(P1V1) ÷ T1= (P2V2) ÷ T2P1 = 800mmHg, V, = 76cm3, Tr = 273 + 27 = 300kP2 = 760mmHg, V2 = ? T2= 273 + 0 = 273 + 6 = 277k(800 × 76) ÷ 300 = (760 × V2) ÷ 273V2 =  (300 × 76 × 273) ÷ (300 × 760) = 72.8 cm3The volume of gas as S.T.P = 72.8 cm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36.2cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25.7cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "72.8cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "24.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d596fc1-d3c0-4142-be1b-43feb840d485",
+      "question_text": [
+        "In which of the following device in the expansion of solid is a disadvantages?I. Simple pendulumII. Fire alarmsIII. ThermostatIV. Bimetallic thermometer"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Simple pendulum does not depend on thermal expansionFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II, III & IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0882b50-bc40-429e-abf4-ec436da646cc",
+      "question_text": [
+        "The normal temperature of human body is record at what ranges?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Temperature Ranges in the Universe ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "The range of temperature is between 35°C and 43°C but for normal temperature of human body is between the range of 35°C to 37°C respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27°C to 43°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30°C to 40°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "98.4°C only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Between 35°C to 37°C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "865bb312-291d-4c11-af9d-4c2fc9fb91ae",
+      "question_text": [
+        "The property of a body to remain at rest or to continue to move in a straight line is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "Inertia: the property of a body that resists any change to its uniform motion, equivalent to its mass",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "force",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Impulse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Inertia",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "92997921-7a1e-4359-87d5-0e16163b7388",
+      "question_text": [
+        "Momentum and Kinetic energy are conserved in"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Elastic Collisions in One Dimension ",
+        " Linear Momentum and Collisions"
+      ],
+      "explanation": "Momentum and kinetic energy are conversed in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Inelastic collision",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Elastic collision",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Explosion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Spacecraft",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "baac3222-e841-43e4-bb47-c62022eb247f",
+      "question_text": [
+        "An alternating current with a frequency of 100HZ has a period of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Alternating Current ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "F = 100HZ, period, T = 1/f = 1/100= 0.01 secThe period (T) = 0.01sec",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.03sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.04sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.15sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3733ad91-0813-4e71-ab0e-857f0eacba11",
+      "question_text": [
+        "Efficiency of a transformer is equal to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Transformers ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Efficiency of a transformer = (power developed in the secondary coil ÷ power supplied to the primary coil) × 100%",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Efficiency of transformer = (secondary coil ÷ primary coi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " × 100%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Efficiency of transformer = (mechanical advantage ÷ velocity rati",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " × 100%C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "63b01caf-eaa2-4675-8528-87f787bc6c11",
+      "question_text": [
+        "Volatile liquids usually"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Points in Phase ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Volatile liquids (i.e. Ammonia or Freon) are usually have low boiling point",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Have high boiling points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "have low boiling points",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "have high densities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "have high melting points",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c02e41e-6f1e-4502-82eb-4046ca7ed8ce",
+      "question_text": [
+        "When a man moves toward a plane mirror at a speed of 6m/s, the distance the man and his image increased at a speed of?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "d = y, s = 6 m/s (The Man & Plane Mirror)d – δy, s = (5 &ndash ;6) m/s (The Man and Image)d2 ÷ s1 = d2 ÷ s2, y ÷ 6 = 2y ÷ s + 6Y (s + 6) = 2y × 6s + 6 = 12So = 12 – 6 = 6Since S + 6 = 0Then, S = 6 (substitute the value of S i.e S = 6)Into S + 6 = 0∴So = S + 6 = 6 + 6 = 12 m/s∴ S = 12 m/s",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 m/s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 m/s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c4f49cf-512f-4a4b-a612-e95c1e11bc70",
+      "question_text": [
+        "Which of the following instrument is most accurately for comparing electromotive force (e.m.f) of two cells?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Voltmeter: an instrument for measuring electric potential in voltsGalvanometer: it is a device used to indicate direction of a small electric currentPotentiometer: is a device for measuring or comparing e.m.fs of cellsMeter rule: measuring a distance at different points",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Voltmeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Meter rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Galvanometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Potentiometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f61e3246-eb35-45ba-8cfd-57a43b82313d",
+      "question_text": [
+        "In an inelastic collisionI. Energy is conversedII. Energy is decreasedIII. Energy is increasedIV. Linear momentum conversed"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Inelastic Collisions ",
+        " Momentum and Impulse"
+      ],
+      "explanation": "In an inelastic collision, linear momentum is conserved and energy is decreasedMomentum and kinetic energy are conserved in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b6d9259a-2fbe-4259-8023-7ed7fbab527e",
+      "question_text": [
+        "In which of the following device in the expansion of solid is a disadvantages?I. Simple pendulumII. Fire alarmsIII. ThermostatIV. Bimetallic thermometer"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Simple pendulum does not depend on thermal expansionFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II, III & IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94395efd-5a99-48f2-a7e3-15efe6244934",
+      "question_text": [
+        "The normal temperature of human body is record at what ranges?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Temperature Ranges in the Universe ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "The range of temperature is between 35°C and 43°C but for normal temperature of human body is between the range of 35°C to 37°C respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27°C to 43°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30°C to 40°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "98.4°C only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Between 35°C to 37°C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8992268d-c2c2-4945-9253-80e84c7fc2c5",
+      "question_text": [
+        "The property of a body to remain at rest or to continue to move in a straight line is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "Inertia: the property of a body that resists any change to its uniform motion, equivalent to its mass",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "force",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Impulse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Inertia",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1c9d73f1-6f56-4bce-a1ba-901670ce5b8b",
+      "question_text": [
+        "Momentum and Kinetic energy are conserved in"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Elastic Collisions in One Dimension ",
+        " Linear Momentum and Collisions"
+      ],
+      "explanation": "Momentum and kinetic energy are conversed in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Inelastic collision",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Elastic collision",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Explosion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Spacecraft",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3eb7fd0-8693-4800-b2d8-09aba74b41ff",
+      "question_text": [
+        "An alternating current with a frequency of 100HZ has a period of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Alternating Current ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "F = 100HZ, period, T = 1/f = 1/100= 0.01 secThe period (T) = 0.01sec",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.03sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.04sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.15sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0f15648-b363-450a-b548-98381d18424b",
+      "question_text": [
+        "Efficiency of a transformer is equal to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Transformers ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Efficiency of a transformer = (power developed in the secondary coil ÷ power supplied to the primary coil) × 100%",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Efficiency of transformer = (secondary coil ÷ primary coi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " × 100%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Efficiency of transformer = (mechanical advantage ÷ velocity rati",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " × 100%C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ef288c1a-353b-4a9f-80a8-9d19c9537e0d",
+      "question_text": [
+        "Volatile liquids usually"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Points in Phase ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Volatile liquids (i.e. Ammonia or Freon) are usually have low boiling point",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Have high boiling points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "have low boiling points",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "have high densities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "have high melting points",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8a0d01f-946e-4b81-b953-6e3c14c57edc",
+      "question_text": [
+        "When a man moves toward a plane mirror at a speed of 6m/s, the distance the man and his image increased at a speed of?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "d = y, s = 6 m/s (The Man & Plane Mirror)d – δy, s = (5 &ndash ;6) m/s (The Man and Image)d2 ÷ s1 = d2 ÷ s2, y ÷ 6 = 2y ÷ s + 6Y (s + 6) = 2y × 6s + 6 = 12So = 12 – 6 = 6Since S + 6 = 0Then, S = 6 (substitute the value of S i.e S = 6)Into S + 6 = 0∴So = S + 6 = 6 + 6 = 12 m/s∴ S = 12 m/s",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 m/s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 m/s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51fd1a2c-c804-439f-8f4e-ce848cc4d83c",
+      "question_text": [
+        "Which of the following instrument is most accurately for comparing electromotive force (e.m.f) of two cells?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Voltmeter: an instrument for measuring electric potential in voltsGalvanometer: it is a device used to indicate direction of a small electric currentPotentiometer: is a device for measuring or comparing e.m.fs of cellsMeter rule: measuring a distance at different points",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Voltmeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Meter rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Galvanometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Potentiometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b4aa26f2-d6a6-4032-87f2-b220446f36f6",
+      "question_text": [
+        "In an inelastic collisionI. Energy is conversedII. Energy is decreasedIII. Energy is increasedIV. Linear momentum conversed"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Inelastic Collisions ",
+        " Momentum and Impulse"
+      ],
+      "explanation": "In an inelastic collision, linear momentum is conserved and energy is decreasedMomentum and kinetic energy are conserved in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e93acad2-c124-4fd0-9798-644e778f6767",
+      "question_text": [
+        "In which of the following device in the expansion of solid is a disadvantages?I. Simple pendulumII. Fire alarmsIII. ThermostatIV. Bimetallic thermometer"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Simple pendulum does not depend on thermal expansionFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II, III & IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6a74c0a0-ea06-4f3b-b26b-b72e9b9bb981",
+      "question_text": [
+        "The normal temperature of human body is record at what ranges?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Temperature Ranges in the Universe ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "The range of temperature is between 35°C and 43°C but for normal temperature of human body is between the range of 35°C to 37°C respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27°C to 43°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30°C to 40°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "98.4°C only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Between 35°C to 37°C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "11b394b8-2c61-443b-a195-9ad00c0efa6c",
+      "question_text": [
+        "The property of a body to remain at rest or to continue to move in a straight line is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "Inertia: the property of a body that resists any change to its uniform motion, equivalent to its mass",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "force",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Impulse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Inertia",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2bd527c2-2508-43b6-87ec-01270d2e713c",
+      "question_text": [
+        "Momentum and Kinetic energy are conserved in"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Elastic Collisions in One Dimension ",
+        " Linear Momentum and Collisions"
+      ],
+      "explanation": "Momentum and kinetic energy are conversed in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Inelastic collision",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Elastic collision",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Explosion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Spacecraft",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8c16baaa-952d-4fa1-878e-6a922bdf02af",
+      "question_text": [
+        "An alternating current with a frequency of 100HZ has a period of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Alternating Current ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "F = 100HZ, period, T = 1/f = 1/100= 0.01 secThe period (T) = 0.01sec",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.03sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.04sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.15sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ed9c9b6f-42ba-4e62-8a1f-cf1ed164eb79",
+      "question_text": [
+        "Efficiency of a transformer is equal to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Transformers ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Efficiency of a transformer = (power developed in the secondary coil ÷ power supplied to the primary coil) × 100%",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Efficiency of transformer = (secondary coil ÷ primary coi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " × 100%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Efficiency of transformer = (mechanical advantage ÷ velocity rati",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " × 100%C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4cb93e3f-e6e0-4bed-9227-65ed43484863",
+      "question_text": [
+        "Volatile liquids usually"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Points in Phase ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Volatile liquids (i.e. Ammonia or Freon) are usually have low boiling point",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Have high boiling points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "have low boiling points",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "have high densities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "have high melting points",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cf52bdb8-b5ce-4627-9386-000aabc265e9",
+      "question_text": [
+        "When a man moves toward a plane mirror at a speed of 6m/s, the distance the man and his image increased at a speed of?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "d = y, s = 6 m/s (The Man & Plane Mirror)d – δy, s = (5 &ndash ;6) m/s (The Man and Image)d2 ÷ s1 = d2 ÷ s2, y ÷ 6 = 2y ÷ s + 6Y (s + 6) = 2y × 6s + 6 = 12So = 12 – 6 = 6Since S + 6 = 0Then, S = 6 (substitute the value of S i.e S = 6)Into S + 6 = 0∴So = S + 6 = 6 + 6 = 12 m/s∴ S = 12 m/s",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 m/s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 m/s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d8fb66b1-2fe7-44e9-ab16-c79dcabe2155",
+      "question_text": [
+        "Which of the following instrument is most accurately for comparing electromotive force (e.m.f) of two cells?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Voltmeter: an instrument for measuring electric potential in voltsGalvanometer: it is a device used to indicate direction of a small electric currentPotentiometer: is a device for measuring or comparing e.m.fs of cellsMeter rule: measuring a distance at different points",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Voltmeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Meter rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Galvanometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Potentiometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e16dd116-28f8-4cf9-8ede-9ebaa0b5836d",
+      "question_text": [
+        "In an inelastic collisionI. Energy is conversedII. Energy is decreasedIII. Energy is increasedIV. Linear momentum conversed"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Inelastic Collisions ",
+        " Momentum and Impulse"
+      ],
+      "explanation": "In an inelastic collision, linear momentum is conserved and energy is decreasedMomentum and kinetic energy are conserved in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00e4631e-ca8d-43cc-9f61-b1c75136f6eb",
+      "question_text": [
+        "In which of the following device in the expansion of solid is a disadvantages?I. Simple pendulumII. Fire alarmsIII. ThermostatIV. Bimetallic thermometer"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "The Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Simple pendulum does not depend on thermal expansionFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II, III & IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "07879e5c-2d3f-49fa-88bf-0ede219750fd",
+      "question_text": [
+        "The normal temperature of human body is record at what ranges?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Temperature Ranges in the Universe ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "The range of temperature is between 35°C and 43°C but for normal temperature of human body is between the range of 35°C to 37°C respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27°C to 43°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30°C to 40°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "98.4°C only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Between 35°C to 37°C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "79cfe374-d072-4a5b-913f-eaef7582eb62",
+      "question_text": [
+        "The property of a body to remain at rest or to continue to move in a straight line is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "Inertia: the property of a body that resists any change to its uniform motion, equivalent to its mass",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "force",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Impulse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Inertia",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8a972465-3b47-456c-963b-552544bc231c",
+      "question_text": [
+        "Momentum and Kinetic energy are conserved in"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Elastic Collisions in One Dimension ",
+        " Linear Momentum and Collisions"
+      ],
+      "explanation": "Momentum and kinetic energy are conversed in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Inelastic collision",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Elastic collision",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Explosion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Spacecraft",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f56f729-896c-45f8-a965-a6902f2db714",
+      "question_text": [
+        "An alternating current with a frequency of 100HZ has a period of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Alternating Current ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "F = 100HZ, period, T = 1/f = 1/100= 0.01 secThe period (T) = 0.01sec",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.03sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.04sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.15sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c765c06c-3970-48d0-8970-03f8dcf0ac7a",
+      "question_text": [
+        "Efficiency of a transformer is equal to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Transformers ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Efficiency of a transformer = (power developed in the secondary coil ÷ power supplied to the primary coil) × 100%",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Efficiency of transformer = (secondary coil ÷ primary coi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " × 100%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Efficiency of transformer = (mechanical advantage ÷ velocity rati",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " × 100%C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "165e06ec-9609-4f58-a516-287d81b65ba2",
+      "question_text": [
+        "Volatile liquids usually"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Points in Phase ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Volatile liquids (i.e. Ammonia or Freon) are usually have low boiling point",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Have high boiling points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "have low boiling points",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "have high densities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "have high melting points",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eee8a28d-b38c-4c37-8cc4-63f2361d0ad0",
+      "question_text": [
+        "When a man moves toward a plane mirror at a speed of 6m/s, the distance the man and his image increased at a speed of?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "d = y, s = 6 m/s (The Man & Plane Mirror)d – δy, s = (5 &ndash ;6) m/s (The Man and Image)d2 ÷ s1 = d2 ÷ s2, y ÷ 6 = 2y ÷ s + 6Y (s + 6) = 2y × 6s + 6 = 12So = 12 – 6 = 6Since S + 6 = 0Then, S = 6 (substitute the value of S i.e S = 6)Into S + 6 = 0∴So = S + 6 = 6 + 6 = 12 m/s∴ S = 12 m/s",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 m/s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 m/s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a2da8c4-102f-47ce-8253-62858e0ba731",
+      "question_text": [
+        "Which of the following instrument is most accurately for comparing electromotive force (e.m.f) of two cells?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Voltmeter: an instrument for measuring electric potential in voltsGalvanometer: it is a device used to indicate direction of a small electric currentPotentiometer: is a device for measuring or comparing e.m.fs of cellsMeter rule: measuring a distance at different points",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Voltmeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Meter rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Galvanometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Potentiometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "191ac3e7-8908-4f58-9bc9-4b9ddeeb051f",
+      "question_text": [
+        "In an inelastic collisionI. Energy is conversedII. Energy is decreasedIII. Energy is increasedIV. Linear momentum conversed"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Inelastic Collisions ",
+        " Momentum and Impulse"
+      ],
+      "explanation": "In an inelastic collision, linear momentum is conserved and energy is decreasedMomentum and kinetic energy are conserved in elastic collision",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III only",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

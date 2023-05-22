@@ -1,0 +1,3537 @@
+[
+    {
+      "id": "81de6291-abb5-4620-8f03-c46df4c49557",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth-to-mouth to each other at room temperature. The entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Entropy and Microstates ",
+        " Thermodynamics"
+      ],
+      "explanation": "Thanks to the second law of thermodynamics, we know that the entropy of the final mixture has to be equal to or greater than the initially isolated systems. This means that the answer cannot be that the entropy decreases. Equality occurs just when the two original systems have all their respective intensive variables (temperature, pressure) equal; then the final system also has the same values. If we were dealing with two identical gases, then the answer would have been that the entropy will remain unchanged.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8127b9c2-37c9-482b-976f-4394dda128b7",
+      "question_text": [
+        "A small quantity of solid ammonium chloride (NH4Cl) was heated gently in a test tube, the solid gradually disappears to produce two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Investigating Elements and Compounds ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sublimation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "precipitation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporationE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7061ecfc-f96c-4d54-bcaa-8b4f34b33e2d",
+      "question_text": [
+        "What volume of 0.5 MH2SO4 will exactly neutralize 20cm3 of 0.1 MNaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Volume and Mass-Volume Percentage ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4fec050e-1ace-43ca-a242-9b400cec75aa",
+      "question_text": [
+        "Calculate the relative molecular mass of Limestone CaCO3, (Ca = 40, C =12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "One molecule of CaCO has 1Ca, 1C and 30 atom relative molecular mass of CaCO31 × Ar of Ca +1 × Ar of C +3 × Ar of O(1 × 40 + 1 × 12 + 3 × 1)40 + 12 + 48=100Option A,C and D will not give 100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "56",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "76",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "057f5732-6167-416b-86c8-6f725d3e6eee",
+      "question_text": [
+        "One note of a hydrocarbon 36g of carbon and its density is 20. The structure of hydrocarbon is (organic chemical)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "2VD = RmmVD = Vapour Density, Rmm = relative2 × 20 − 40 molecular massMole of carbon − 36/12= 3Mole of H2 = 40 − 36= 4The compound contains 3mole of carbon and 4 hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3C = CH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3CH = CH2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3CH2C = CH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH33CH2CH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0e7c97e-3edf-4a42-b9d8-f0662a881bc0",
+      "question_text": [
+        "5 block elements of the periodic table one made up of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Arrangement of the Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "5 block elements only are made up of group 1 and 2 options A,C,D takes place of the other blocks in the periodic table p,d,f etc.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "groups 1, 2, 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "groups 1, and 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "group 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "group 3 to 7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc740862-611c-4dfa-8030-7f7c90a30f78",
+      "question_text": [
+        "The principal constituent of natural gas is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Producing Hydrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Methane CH4.A. is the principal and commercial constituent natural gas. Option B,C,D are also constituent of natural gas but they are not commercial and of economic importance",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b896777f-35c9-4cfe-86f9-3c61c90ac642",
+      "question_text": [
+        "Rare gases are suitable because they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Rare gases are stable because they have duplet or octet electronic configurations in the outermost shells in their atoms, as a result they don’t go into solution easily. option A, B, Dare not because they go into solution easily (unstable)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are monoatomic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "form ions easily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "are volatile gases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "730115f8-8559-42e0-b079-47810dad2d03",
+      "question_text": [
+        "Electronic configuration of an elements 13x in the subsidiary energy level is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Electronic Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( 1s^2 2s^2 2p^6 3s^2 3p^1 ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( 1s^22s^2 2p^4 3p^1 3s^1 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5725e6e3-a1a5-4e71-af6e-b3e5c896f5a6",
+      "question_text": [
+        "Alloys are best prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Alloy is a metal that consist of two or more metals mixed together e.g. is mass which is an alloy of copper and zinc. Are not prepared with option A,B,C, and the do not result in mixture and metals together",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroplating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Arc-welding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reducing and mixture of their metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cooking a molten of the metals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "226f5061-3371-4957-b831-378cd65f0ec4",
+      "question_text": [
+        "What is the volume of energy required to burn 45cm3 of mixture at S.T.P"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Strengths of Ionic and Covalent Bonds ",
+        " Chemical Bonding"
+      ],
+      "explanation": "CH4(g) + 2O2(g) → 2H2O(g)1 volume of methane will react with 90cm3 of oxygen at S.T.P",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "135.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90.0cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "20c62c9e-1a00-4f6d-8e3d-6e9dc7fdeccf",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f2af965f-657f-4b1e-8d2b-3344da9227f9",
+      "question_text": [
+        "There are basic particles from which matter called be made except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "Salt is a chemical used for varieties of purposes, so it’s not part of matter, Atom being the smallest part of molecule and ion are charge which are part of matter",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Salt",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Atom",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Molecule",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29c67fc2-588c-468a-9703-3e01eab3fa05",
+      "question_text": [
+        "An oxidation state of or in K2CrO7"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "The oxidation state of K2Cr2O7 is +6. option A,C,D are the oxidation state of other elements like O7,C14, etc.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "72403304-fea3-46e3-a5c7-3a136b4c06fe",
+      "question_text": [
+        "Which of the activities is commonly used as a nuclear fuel"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Nuclear Fuels ",
+        " Nuclear Chemistry"
+      ],
+      "explanation": "Uranium is common nuclear because of its less stability as a result has a great tendency to increase energy than. Options B,C,D which are not stable",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "uranium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "palladium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "actium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "thorium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "68a08594-19e2-49d2-8902-67da0deb52a4",
+      "question_text": [
+        "All these are electromagnetic waves except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Waves ",
+        " Electronic Structure of Atoms"
+      ],
+      "explanation": "Photon is unit of energy that carries light and has zero mass A, C and D are all electromagnetic waves of higher mass",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "White light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Photon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "X-ray",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Infrared",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d011f899-3822-4b15-896e-8dc3f5217f71",
+      "question_text": [
+        "Cu2S(s) + O2(g) = 2CU(s) + SO22(g)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isolation of Copper ",
+        " Transition Metals"
+      ],
+      "explanation": "The oxidation number is from h to O as a result of release of sulphur. Option B, C, D are not the actual oxidation number for copper",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+1 to 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0 to +2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+2 to +1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0 to +1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f399dc0a-a9e7-430c-97cd-bd94f82a14f9",
+      "question_text": [
+        "Rare gases are suitable because they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Rare gases are stable because they have duplet or octet electronic configurations in the outermost shells in their atoms, as a result they don’t go into solution easily. option A, B, Dare not because they go into solution easily (unstable)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are monoatomic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "form ions easily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "are volatile gases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c7d5943-ca8d-4427-ab59-0d9036dbdea2",
+      "question_text": [
+        "P1V1 = P2V2 supports ?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Boyle’s Law ",
+        " States of Matter"
+      ],
+      "explanation": "V = 1/Pcross multiplyK = VPV1P1 = V2V2For a fixed amount of an ideal gas kept at a fixed temperature, pressure and volume are inversely proportional. Or Boyle's law is a gas law, stating that the pressure and volume of a gas have an inverse relationship, when temperature is held constant.The equations supports only Boyle’s law. Option A,C,D are not in support of the equation...",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Charles’s law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Boyles’s law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Graham’s law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Avogadro’s law",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "172a3026-e972-4f97-837f-1f778d8b839b",
+      "question_text": [
+        "Flow of current in electrolytes is due to the movement of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Electrolytes, Ionization and Conductivity ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Holes and electron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charges",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c81d6579-3f44-4640-b5ae-ff3b8a3cecb1",
+      "question_text": [
+        "What is the volume of energy required to burn 45cm3 of mixture at S.T.P"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Strengths of Ionic and Covalent Bonds ",
+        " Chemical Bonding"
+      ],
+      "explanation": "CH4(g) + 2O2(g) → 2H2O(g)1 volume of methane will react with 90cm3 of oxygen at S.T.P",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "135.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90.0cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "38a2d1fb-8538-4863-b266-87afc5dbeed1",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "665bd708-4ae4-4e30-a916-e31f7365be5c",
+      "question_text": [
+        "There are basic particles from which matter called be made except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "Salt is a chemical used for varieties of purposes, so it’s not part of matter, Atom being the smallest part of molecule and ion are charge which are part of matter",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Salt",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Atom",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Molecule",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a76f04fe-e236-4211-aae8-d6716d26e856",
+      "question_text": [
+        "An oxidation state of or in K2CrO7"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "The oxidation state of K2Cr2O7 is +6. option A,C,D are the oxidation state of other elements like O7,C14, etc.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "77cc32b9-9d80-4997-9482-7ee6ca45ec29",
+      "question_text": [
+        "Which of the activities is commonly used as a nuclear fuel"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Nuclear Fuels ",
+        " Nuclear Chemistry"
+      ],
+      "explanation": "Uranium is common nuclear because of its less stability as a result has a great tendency to increase energy than. Options B,C,D which are not stable",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "uranium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "palladium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "actium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "thorium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b412854-5dd7-488b-892e-29824099b702",
+      "question_text": [
+        "All these are electromagnetic waves except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Waves ",
+        " Electronic Structure of Atoms"
+      ],
+      "explanation": "Photon is unit of energy that carries light and has zero mass A, C and D are all electromagnetic waves of higher mass",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "White light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Photon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "X-ray",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Infrared",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af727cfb-2684-4db7-87f3-7aa2d9c2cd46",
+      "question_text": [
+        "Cu2S(s) + O2(g) = 2CU(s) + SO22(g)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isolation of Copper ",
+        " Transition Metals"
+      ],
+      "explanation": "The oxidation number is from h to O as a result of release of sulphur. Option B, C, D are not the actual oxidation number for copper",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+1 to 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0 to +2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+2 to +1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0 to +1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "686840dc-b865-4055-9ad8-ce8c2e86c09f",
+      "question_text": [
+        "Rare gases are suitable because they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Rare gases are stable because they have duplet or octet electronic configurations in the outermost shells in their atoms, as a result they don’t go into solution easily. option A, B, Dare not because they go into solution easily (unstable)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are monoatomic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "form ions easily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "are volatile gases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d08aef82-65b7-4883-a62a-dee69df1c9c1",
+      "question_text": [
+        "P1V1 = P2V2 supports ?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Boyle’s Law ",
+        " States of Matter"
+      ],
+      "explanation": "V = 1/Pcross multiplyK = VPV1P1 = V2V2For a fixed amount of an ideal gas kept at a fixed temperature, pressure and volume are inversely proportional. Or Boyle's law is a gas law, stating that the pressure and volume of a gas have an inverse relationship, when temperature is held constant.The equations supports only Boyle’s law. Option A,C,D are not in support of the equation...",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Charles’s law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Boyles’s law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Graham’s law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Avogadro’s law",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ffd2b058-468d-4689-a3f4-43027b64839a",
+      "question_text": [
+        "Flow of current in electrolytes is due to the movement of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Electrolytes, Ionization and Conductivity ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Holes and electron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charges",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6504af99-bdc0-47af-83d5-45448a28065a",
+      "question_text": [
+        "In the discovery of protein, the instrument used is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Discharge tube with central cathode is an apparatus for producing cathode rays and positive rays. Option A,B,C will not yield cathode rays and positive rays",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cathode ray tube",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "glass tube and discharge tube",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discharge tube with terminal cathode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discharge tube with central cathode",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "db2db001-2dd6-4bf0-a0e2-c1b17e7bcdff",
+      "question_text": [
+        "The above orbital diagram shown the electronic configuration of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem144.jpg",
+      "explanation": "Nitrogen has an electronic configuration of 7 i.e1s2 2ps2 2p3. option A,C,D are chlorine 17, calcium 20, neon 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "nitrogen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "calcium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "neon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea2f139b-5a60-4267-9cdd-da10d3cfa95f",
+      "question_text": [
+        "Atomicity of ozone is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Ozone means Oz as the atomicity is 3. Option A,B,D cannot give ozone because their atomicity is not 3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1c190bf-9160-4d0e-b9bb-06bfb4daad07",
+      "question_text": [
+        "Which of the noble gases has the greatest ionization energy"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Variation in Ionization Energies ",
+        " Electronic Structure of Atoms"
+      ],
+      "explanation": "Helium has the greatest ionization energy because they are less stable. Options B,C,D have low ionization energy because one more stable and do not react easily",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "He",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Xe",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ar",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Rr",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "56ff4020-a9b7-4791-ba56-fa56937f5572",
+      "question_text": [
+        "Which of these require crystallization most?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Computational Chemistry in Drug Design ",
+        " Advanced Theories of Covalent Bonding"
+      ],
+      "explanation": "Crystallization is required the most in industries where the purity of their products is important e.g in the manufacture of drugs and in sugar production. Options B,C and D do not undergo crystallization",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Drug making",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cement making",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Paint making",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Perfume making",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "66fb7abd-84d5-440e-8296-a68d901a7d6c",
+      "question_text": [
+        "In the industrial production of H2 is removed by (solution)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Industrial Production of Fertilizers ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Washing under pressure is an action in the industrial production of H. Options B,C,D will not yield Co and H",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "washing under pressure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "drying over phosphorus (",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "passing the mixture to the limewaterD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ae35d694-fea2-4ca4-b264-79f48a82fd82",
+      "question_text": [
+        "Chlorine, consisting of two isotopes of mass numbers 35 and 37, has an atomic mass of 35.5.The relative abundance of the isotope of mass number 37 is?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Isotopes ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "75",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "99340f3d-eba1-450f-be38-3ab9ee29a528",
+      "question_text": [
+        "What is the pH of 0.001 mol dm-3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+] [OH-] = 10-14[H+] = 10-14/[OH-] = 10-14/(1 * 10-3) = 10-11pH = -Log10[H+]= - Log10[10-11] = - 1 * -11 Log10[10-11] = 1 = -1 * -11 * 1 = 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bb883dab-dad0-4d7d-bf63-7ea492378107",
+      "question_text": [
+        "The oxidation state of oxygen in tetraoxosulphate (VI) acid is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "H2SO4(O.N of hydrogen * 2 ) + O.N of sulphur + O.N of oxygen * 4 = 0∴ 1 * 2 + 6 + 4x = 02 + 6 + 4x = 08 + 4x = 04x 0 - 8 = -84x = -8x = -8/4 = -2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "+4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e6ebcd5-64fb-408b-b805-4bbaed067c32",
+      "question_text": [
+        "Tartaric acid is used industrially to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Acid-Base Reactions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "Tartaric acid is a white, crystalline organic acid that occurs naturally in many fruits, most notably in grapes, but also in bananas, tamarinds, and citrus. Its salt, potassium bitartrate, commonly known as cream of tartar, develops naturally in the process of winemaking. It is commonly mixed with sodium bicarbonate and is sold as baking powder used as a leavening agent in food preparation.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "make baking powder",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "make fruit juices",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remove rust",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dry substance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34f1aff0-c29b-4e23-80e7-903460916d3b",
+      "question_text": [
+        "The fuming of kettles is caused by the presence in the water of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "The furring of kettles or boilers is as a result of the decomposition of Ca(HCO3)2 into CaCO3, and this coats the inside of a kettle or boiler used in heating water containing dissolved Ca(HCO3)2.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Calcium tetraoxosulphate (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Calcium hydrogentrioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "55308b4a-d2ce-400c-91cd-a6d21b880396",
+      "question_text": [
+        "PCl5(g) ↔ PCl3(g) + Cl2(g)In the reaction above, a decrease in pressure will"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Phosphorus Halogen Compounds ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Decelerate the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increase the yield of PCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increase the yield of PCl5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Accelerate the reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aac2bd47-6c38-4d6c-ba61-16ad7a7a779b",
+      "question_text": [
+        "A change in the temperature of a saturated solution disturbs the equilibrium between the"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Undissolved solute and the solvent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Dissolved solute and the solvent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dissolved solute and the undissolved solute",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dissolved solute and the solution",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "20e8cef4-eb3a-4400-9d97-6a0042017d3d",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth-to-mouth to each other at room temperature. The entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Entropy and Microstates ",
+        " Thermodynamics"
+      ],
+      "explanation": "Thanks to the second law of thermodynamics, we know that the entropy of the final mixture has to be equal to or greater than the initially isolated systems. This means that the answer cannot be that the entropy decreases. Equality occurs just when the two original systems have all their respective intensive variables (temperature, pressure) equal; then the final system also has the same values. If we were dealing with two identical gases, then the answer would have been that the entropy will remain unchanged.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "470427e9-604e-49bd-b8ea-96e9641f0fc7",
+      "question_text": [
+        "A small quantity of solid ammonium chloride (NH4Cl) was heated gently in a test tube, the solid gradually disappears to produce two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Investigating Elements and Compounds ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sublimation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "precipitation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporationE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71f530d8-7f01-445b-b83d-6521660fd62a",
+      "question_text": [
+        "What volume of 0.5 MH2SO4 will exactly neutralize 20cm3 of 0.1 MNaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Volume and Mass-Volume Percentage ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3d7a336-5918-458d-973a-f79a54b9b5db",
+      "question_text": [
+        "Calculate the relative molecular mass of Limestone CaCO3, (Ca = 40, C =12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "One molecule of CaCO has 1Ca, 1C and 30 atom relative molecular mass of CaCO31 × Ar of Ca +1 × Ar of C +3 × Ar of O(1 × 40 + 1 × 12 + 3 × 1)40 + 12 + 48=100Option A,C and D will not give 100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "56",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "76",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00b0b9e7-618f-435d-be75-2ed1130c1526",
+      "question_text": [
+        "One note of a hydrocarbon 36g of carbon and its density is 20. The structure of hydrocarbon is (organic chemical)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "2VD = RmmVD = Vapour Density, Rmm = relative2 × 20 − 40 molecular massMole of carbon − 36/12= 3Mole of H2 = 40 − 36= 4The compound contains 3mole of carbon and 4 hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3C = CH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3CH = CH2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3CH2C = CH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH33CH2CH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0900bcc9-fc53-4666-8e24-0e72b6098bad",
+      "question_text": [
+        "5 block elements of the periodic table one made up of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Arrangement of the Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "5 block elements only are made up of group 1 and 2 options A,C,D takes place of the other blocks in the periodic table p,d,f etc.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "groups 1, 2, 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "groups 1, and 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "group 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "group 3 to 7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1ba9b3a-deb1-45ee-81cb-eeb70cb6691b",
+      "question_text": [
+        "The principal constituent of natural gas is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Producing Hydrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Methane CH4.A. is the principal and commercial constituent natural gas. Option B,C,D are also constituent of natural gas but they are not commercial and of economic importance",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ec018b70-87b2-4f3e-a42c-49e075364f97",
+      "question_text": [
+        "Rare gases are suitable because they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Rare gases are stable because they have duplet or octet electronic configurations in the outermost shells in their atoms, as a result they don’t go into solution easily. option A, B, Dare not because they go into solution easily (unstable)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are monoatomic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "form ions easily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "are volatile gases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "749d1192-299c-42f8-a882-75e5fdf0b2de",
+      "question_text": [
+        "Electronic configuration of an elements 13x in the subsidiary energy level is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Electronic Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( 1s^2 2s^2 2p^6 3s^2 3p^1 ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( 1s^22s^2 2p^4 3p^1 3s^1 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aa2d014e-c4c0-40e5-b206-2b07c1c05222",
+      "question_text": [
+        "Alloys are best prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Alloy is a metal that consist of two or more metals mixed together e.g. is mass which is an alloy of copper and zinc. Are not prepared with option A,B,C, and the do not result in mixture and metals together",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroplating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Arc-welding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reducing and mixture of their metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cooking a molten of the metals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5119da85-2315-4c36-8fae-e4d71a1f1f68",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth-to-mouth to each other at room temperature. The entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Entropy and Microstates ",
+        " Thermodynamics"
+      ],
+      "explanation": "Thanks to the second law of thermodynamics, we know that the entropy of the final mixture has to be equal to or greater than the initially isolated systems. This means that the answer cannot be that the entropy decreases. Equality occurs just when the two original systems have all their respective intensive variables (temperature, pressure) equal; then the final system also has the same values. If we were dealing with two identical gases, then the answer would have been that the entropy will remain unchanged.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79fe4a90-8ead-4080-9ad3-3d2d471f8c41",
+      "question_text": [
+        "A small quantity of solid ammonium chloride (NH4Cl) was heated gently in a test tube, the solid gradually disappears to produce two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Investigating Elements and Compounds ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sublimation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "precipitation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporationE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "20d97624-96f7-42b4-948b-569e07a849e2",
+      "question_text": [
+        "What volume of 0.5 MH2SO4 will exactly neutralize 20cm3 of 0.1 MNaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Volume and Mass-Volume Percentage ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "46fa9353-5c37-41b8-9907-edb674512aa9",
+      "question_text": [
+        "Calculate the relative molecular mass of Limestone CaCO3, (Ca = 40, C =12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "One molecule of CaCO has 1Ca, 1C and 30 atom relative molecular mass of CaCO31 × Ar of Ca +1 × Ar of C +3 × Ar of O(1 × 40 + 1 × 12 + 3 × 1)40 + 12 + 48=100Option A,C and D will not give 100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "56",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "76",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8a863d9d-ed1c-4771-9614-ec7d6c590031",
+      "question_text": [
+        "One note of a hydrocarbon 36g of carbon and its density is 20. The structure of hydrocarbon is (organic chemical)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "2VD = RmmVD = Vapour Density, Rmm = relative2 × 20 − 40 molecular massMole of carbon − 36/12= 3Mole of H2 = 40 − 36= 4The compound contains 3mole of carbon and 4 hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3C = CH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3CH = CH2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3CH2C = CH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH33CH2CH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b301c450-c805-41f2-af43-088d6802d857",
+      "question_text": [
+        "5 block elements of the periodic table one made up of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Arrangement of the Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "5 block elements only are made up of group 1 and 2 options A,C,D takes place of the other blocks in the periodic table p,d,f etc.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "groups 1, 2, 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "groups 1, and 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "group 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "group 3 to 7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71b9da25-3471-4e5c-8e06-07b8c5742779",
+      "question_text": [
+        "The principal constituent of natural gas is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Producing Hydrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Methane CH4.A. is the principal and commercial constituent natural gas. Option B,C,D are also constituent of natural gas but they are not commercial and of economic importance",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c14e9e6-b243-4895-97fb-1f7b7eae0610",
+      "question_text": [
+        "Rare gases are suitable because they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Rare gases are stable because they have duplet or octet electronic configurations in the outermost shells in their atoms, as a result they don’t go into solution easily. option A, B, Dare not because they go into solution easily (unstable)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are monoatomic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "form ions easily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "are volatile gases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2ac2d111-32b4-44b8-98b0-291058a8435b",
+      "question_text": [
+        "Electronic configuration of an elements 13x in the subsidiary energy level is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Electronic Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( 1s^2 2s^2 2p^6 3s^2 3p^1 ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( 1s^22s^2 2p^4 3p^1 3s^1 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "533c7d6b-0747-4cdf-ad78-4b7330a02315",
+      "question_text": [
+        "Alloys are best prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Alloy is a metal that consist of two or more metals mixed together e.g. is mass which is an alloy of copper and zinc. Are not prepared with option A,B,C, and the do not result in mixture and metals together",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroplating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Arc-welding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reducing and mixture of their metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cooking a molten of the metals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b3f50d4b-3e63-4c5d-a33d-a695dccb7bdd",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth-to-mouth to each other at room temperature. The entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Entropy and Microstates ",
+        " Thermodynamics"
+      ],
+      "explanation": "Thanks to the second law of thermodynamics, we know that the entropy of the final mixture has to be equal to or greater than the initially isolated systems. This means that the answer cannot be that the entropy decreases. Equality occurs just when the two original systems have all their respective intensive variables (temperature, pressure) equal; then the final system also has the same values. If we were dealing with two identical gases, then the answer would have been that the entropy will remain unchanged.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bee87236-3071-4eeb-a022-efbed4326741",
+      "question_text": [
+        "A small quantity of solid ammonium chloride (NH4Cl) was heated gently in a test tube, the solid gradually disappears to produce two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Investigating Elements and Compounds ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sublimation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "precipitation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporationE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "73af45f0-e838-458e-b71d-bdd6f630baa2",
+      "question_text": [
+        "What volume of 0.5 MH2SO4 will exactly neutralize 20cm3 of 0.1 MNaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Volume and Mass-Volume Percentage ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4fc44b43-ce49-4ec7-af6d-10657e232d8a",
+      "question_text": [
+        "Calculate the relative molecular mass of Limestone CaCO3, (Ca = 40, C =12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "One molecule of CaCO has 1Ca, 1C and 30 atom relative molecular mass of CaCO31 × Ar of Ca +1 × Ar of C +3 × Ar of O(1 × 40 + 1 × 12 + 3 × 1)40 + 12 + 48=100Option A,C and D will not give 100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "56",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "76",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e194b3c-519d-45f1-92e7-5064953e9ecc",
+      "question_text": [
+        "One note of a hydrocarbon 36g of carbon and its density is 20. The structure of hydrocarbon is (organic chemical)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "2VD = RmmVD = Vapour Density, Rmm = relative2 × 20 − 40 molecular massMole of carbon − 36/12= 3Mole of H2 = 40 − 36= 4The compound contains 3mole of carbon and 4 hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3C = CH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3CH = CH2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3CH2C = CH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH33CH2CH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d637f45-8661-4f04-bf6f-41d88a875746",
+      "question_text": [
+        "5 block elements of the periodic table one made up of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Arrangement of the Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "5 block elements only are made up of group 1 and 2 options A,C,D takes place of the other blocks in the periodic table p,d,f etc.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "groups 1, 2, 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "groups 1, and 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "group 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "group 3 to 7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3497f571-afdc-4184-9e1d-58c28a74e77f",
+      "question_text": [
+        "The principal constituent of natural gas is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Producing Hydrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Methane CH4.A. is the principal and commercial constituent natural gas. Option B,C,D are also constituent of natural gas but they are not commercial and of economic importance",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c81a8cd2-f00b-467c-9703-d61bc4a78099",
+      "question_text": [
+        "Rare gases are suitable because they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Rare gases are stable because they have duplet or octet electronic configurations in the outermost shells in their atoms, as a result they don’t go into solution easily. option A, B, Dare not because they go into solution easily (unstable)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are monoatomic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "form ions easily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "are volatile gases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64ce5ac4-aae8-4796-86ad-140cbd22a45b",
+      "question_text": [
+        "Electronic configuration of an elements 13x in the subsidiary energy level is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Electronic Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( 1s^2 2s^2 2p^6 3s^2 3p^1 ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( 1s^22s^2 2p^4 3p^1 3s^1 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb567f40-91b2-4651-abc0-cb1e0c5547c7",
+      "question_text": [
+        "Alloys are best prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Alloy is a metal that consist of two or more metals mixed together e.g. is mass which is an alloy of copper and zinc. Are not prepared with option A,B,C, and the do not result in mixture and metals together",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroplating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Arc-welding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reducing and mixture of their metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cooking a molten of the metals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "727c3457-b1db-4a04-acd1-705c35ab3605",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth-to-mouth to each other at room temperature. The entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Entropy and Microstates ",
+        " Thermodynamics"
+      ],
+      "explanation": "Thanks to the second law of thermodynamics, we know that the entropy of the final mixture has to be equal to or greater than the initially isolated systems. This means that the answer cannot be that the entropy decreases. Equality occurs just when the two original systems have all their respective intensive variables (temperature, pressure) equal; then the final system also has the same values. If we were dealing with two identical gases, then the answer would have been that the entropy will remain unchanged.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16f1147a-6353-4e34-9c32-ff7cf0e00da0",
+      "question_text": [
+        "A small quantity of solid ammonium chloride (NH4Cl) was heated gently in a test tube, the solid gradually disappears to produce two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Investigating Elements and Compounds ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sublimation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "precipitation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporationE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "59f00d60-ed13-4be9-a672-76c1ad1233b0",
+      "question_text": [
+        "What volume of 0.5 MH2SO4 will exactly neutralize 20cm3 of 0.1 MNaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Volume and Mass-Volume Percentage ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9eb88e67-9db4-462e-a7a8-27783ef4b79e",
+      "question_text": [
+        "Calculate the relative molecular mass of Limestone CaCO3, (Ca = 40, C =12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "One molecule of CaCO has 1Ca, 1C and 30 atom relative molecular mass of CaCO31 × Ar of Ca +1 × Ar of C +3 × Ar of O(1 × 40 + 1 × 12 + 3 × 1)40 + 12 + 48=100Option A,C and D will not give 100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "56",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "76",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53c0a3bd-7538-4ac0-8e4f-539a31225a44",
+      "question_text": [
+        "One note of a hydrocarbon 36g of carbon and its density is 20. The structure of hydrocarbon is (organic chemical)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "2VD = RmmVD = Vapour Density, Rmm = relative2 × 20 − 40 molecular massMole of carbon − 36/12= 3Mole of H2 = 40 − 36= 4The compound contains 3mole of carbon and 4 hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3C = CH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3CH = CH2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3CH2C = CH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH33CH2CH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9092d9b-4d7e-4a24-82a5-83830c1fa060",
+      "question_text": [
+        "5 block elements of the periodic table one made up of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Arrangement of the Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "5 block elements only are made up of group 1 and 2 options A,C,D takes place of the other blocks in the periodic table p,d,f etc.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "groups 1, 2, 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "groups 1, and 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "group 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "group 3 to 7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f2791c17-faf1-4c65-b94b-0297853aaa00",
+      "question_text": [
+        "The principal constituent of natural gas is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Producing Hydrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Methane CH4.A. is the principal and commercial constituent natural gas. Option B,C,D are also constituent of natural gas but they are not commercial and of economic importance",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34ff082b-46a3-42d3-a1ea-8704c0829394",
+      "question_text": [
+        "Rare gases are suitable because they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Rare gases are stable because they have duplet or octet electronic configurations in the outermost shells in their atoms, as a result they don’t go into solution easily. option A, B, Dare not because they go into solution easily (unstable)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are monoatomic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "form ions easily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "are volatile gases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d39779fa-5603-46e3-a3dc-8083b7626795",
+      "question_text": [
+        "Electronic configuration of an elements 13x in the subsidiary energy level is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Electronic Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( 1s^2 2s^2 2p^6 3s^2 3p^1 ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( 1s^22s^2 2p^4 3p^1 3s^1 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "15ecbe0d-b555-48b5-b7bb-064ad64cdd29",
+      "question_text": [
+        "Alloys are best prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Alloy is a metal that consist of two or more metals mixed together e.g. is mass which is an alloy of copper and zinc. Are not prepared with option A,B,C, and the do not result in mixture and metals together",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroplating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Arc-welding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reducing and mixture of their metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cooking a molten of the metals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "783d4bee-08eb-48b8-94a0-5b446d817286",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth-to-mouth to each other at room temperature. The entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Entropy and Microstates ",
+        " Thermodynamics"
+      ],
+      "explanation": "Thanks to the second law of thermodynamics, we know that the entropy of the final mixture has to be equal to or greater than the initially isolated systems. This means that the answer cannot be that the entropy decreases. Equality occurs just when the two original systems have all their respective intensive variables (temperature, pressure) equal; then the final system also has the same values. If we were dealing with two identical gases, then the answer would have been that the entropy will remain unchanged.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8f53b12-a958-4142-9b0b-1bc34efc6179",
+      "question_text": [
+        "A small quantity of solid ammonium chloride (NH4Cl) was heated gently in a test tube, the solid gradually disappears to produce two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Investigating Elements and Compounds ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sublimation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "precipitation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporationE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e21f9a3-c669-4bfd-9db9-808cd956f04c",
+      "question_text": [
+        "What volume of 0.5 MH2SO4 will exactly neutralize 20cm3 of 0.1 MNaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Volume and Mass-Volume Percentage ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d7d76dd-933b-41b6-b93d-e82476e7d719",
+      "question_text": [
+        "Calculate the relative molecular mass of Limestone CaCO3, (Ca = 40, C =12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "One molecule of CaCO has 1Ca, 1C and 30 atom relative molecular mass of CaCO31 × Ar of Ca +1 × Ar of C +3 × Ar of O(1 × 40 + 1 × 12 + 3 × 1)40 + 12 + 48=100Option A,C and D will not give 100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "56",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "76",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b2949422-a020-4ee8-9dac-a1b27ed3083f",
+      "question_text": [
+        "One note of a hydrocarbon 36g of carbon and its density is 20. The structure of hydrocarbon is (organic chemical)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "2VD = RmmVD = Vapour Density, Rmm = relative2 × 20 − 40 molecular massMole of carbon − 36/12= 3Mole of H2 = 40 − 36= 4The compound contains 3mole of carbon and 4 hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3C = CH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3CH = CH2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3CH2C = CH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH33CH2CH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c4156c9f-058a-4863-8e48-710311a87842",
+      "question_text": [
+        "5 block elements of the periodic table one made up of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Arrangement of the Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "5 block elements only are made up of group 1 and 2 options A,C,D takes place of the other blocks in the periodic table p,d,f etc.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "groups 1, 2, 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "groups 1, and 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "group 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "group 3 to 7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8031b4e1-eaab-4727-ad8f-e0e96e8b26d6",
+      "question_text": [
+        "The principal constituent of natural gas is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Producing Hydrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Methane CH4.A. is the principal and commercial constituent natural gas. Option B,C,D are also constituent of natural gas but they are not commercial and of economic importance",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f9425590-3984-4d19-bfc0-c720b154e471",
+      "question_text": [
+        "Rare gases are suitable because they"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Rare gases are stable because they have duplet or octet electronic configurations in the outermost shells in their atoms, as a result they don’t go into solution easily. option A, B, Dare not because they go into solution easily (unstable)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are monoatomic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "form ions easily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have duplet or octet electronic configuration in the outermost shells in their atoms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "are volatile gases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d64ca199-46f3-45b3-a1d8-36c1129e6adc",
+      "question_text": [
+        "Electronic configuration of an elements 13x in the subsidiary energy level is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Electronic Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( 1s^2 2s^2 2p^6 3s^2 3p^1 ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( 1s^22s^2 2p^4 3p^1 3s^1 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f39ff5b-699e-4a1f-b72e-ebd494e8ac83",
+      "question_text": [
+        "Alloys are best prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Alloy is a metal that consist of two or more metals mixed together e.g. is mass which is an alloy of copper and zinc. Are not prepared with option A,B,C, and the do not result in mixture and metals together",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroplating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Arc-welding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reducing and mixture of their metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cooking a molten of the metals",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]

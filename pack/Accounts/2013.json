@@ -1,0 +1,3301 @@
+
+[
+    {
+      "id": "a9a0bf05-5add-4a1a-a91f-e801ab1a2e8e",
+      "question_text": [
+        "Accounting information seeks to provide"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "permanent records for all transactions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "analysis of accounts to trade debtors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "audited reports on the accounts of a company",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "data about the employees of a company",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "547d5332-163c-44d3-ae76-54fc26987fb6",
+      "question_text": [
+        "When the debit side total of an account, t means that the account has"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "been overdrawn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "been understand",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit balance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21a8c6bb-66de-47fb-aad7-f813e151c4d4",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 1 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit capital and credit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credit cash and debit bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit cash and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit purchases and credit cash",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8178cbd3-6597-48c3-bdbf-b2abad897110",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 31 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit Agromachinex and credit cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit equipment and credit Agromachinex",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit capital and debit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit cash and debit purchases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "32c2836c-515f-4c0e-b23f-e8d35057cd7c",
+      "question_text": [
+        "The total credit sales for a period can be extracted from the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sales day book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "petty cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "returns inwards",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2efe6722-d296-436d-be65-78c1c2265cc5",
+      "question_text": [
+        "The major source document which enables an employer to calculate the employee wages is the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nominal roll of employees",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "record of number of hours worked",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "effort of the employee",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "record of number of dependants per employee",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0408153e-89a1-4401-977b-3226ff7509a7",
+      "question_text": [
+        "Which of the following items is a capital expenditure?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Maintenance of office machine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Purchase of office stationery",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carriage inwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Purchase of office machinery",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2e82218e-f129-4301-bf43-4b1876fd02b6",
+      "question_text": [
+        "The corresponding entry of personal accounts found in the debit side of the cash is to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "credit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit the ledger",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit the ledger",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "608acdb8-6b05-4948-bc4f-dc6f2644143f",
+      "question_text": [
+        "Alaka who owed Saka #15,000, settled his debt after deducting cash discount of 10percent. To record the discount in the book of Saka, debit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discount recieved account and credit Alaka's account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alaka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Saka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount allowed account and credit Alaka's account",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "371bbb55-2616-4535-818e-f3e07b0ba4eb",
+      "question_text": [
+        "1. The amount of the imprest is the same from one organization to another11.At the end of a fixed period, the petty cashier received a fixed sum of money.111. At the end of a period, the petty cashier is reimbursed with the amount spent in that period.1V. The system is a method by which a measure of control is kept on petty cash expenses.Which of the above is correct about the imprest system?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, 11 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 111 and 1V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11 and 1V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "111 and 1V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6da91b9c-78db-4ce3-aa26-6b2e5ee1e0f3",
+      "question_text": [
+        "A machine bought for #35,000 was estimated to have a life span of 5 years with a scrap value of #9,000The yearly depreciation using the straight line method would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#8,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#6,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#5,200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#4,400",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "08aac1bc-c0dd-435d-a6a0-8476280445a3",
+      "question_text": [
+        "A machine bought for #35,000 was estimated to have a life span of 5 years with a scrap value of #9,000.If the scrap value is presently #15,000 what will be the yearly depreciation using straight line method?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#4,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "#7,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#11,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#24,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a7d0b3c-76bf-4e66-9137-996888905f10",
+      "question_text": [
+        "The purchase of mattresses from Freehold enterprises by cheque amounted to #305,150. The correct entries for this transaction in the book of the buyer is to debit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales account and credit bank account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases and credit bank account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cash and credit freehold",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bank and credit freehold",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "965e002b-1916-4e23-8f7a-8d9a0397f2c7",
+      "question_text": [
+        "Sales - #232,000Opening stock - ₦28,000Purchases - #128,000Carriage inwards - ₦4,000Carriage outwards - ₦6,000Closing stock - ₦10,000Discount received - ₦18,000Expenses - ₦20,000Calculate the gross profit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#100,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#86,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#82,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#76,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "682dcbeb-9e64-4c96-a305-97f3f450092e",
+      "question_text": [
+        "Sales - #232,000Opening stock - ₦28,000Purchases - #128,000Carriage inwards - ₦4,000Carriage outwards - ₦6,000Closing stock - ₦10,000Discount received - ₦18,000Expenses - ₦20,000Calculate the expenses debited to the profit and loss account"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#17,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#23,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#26,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#30,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "212b7ca9-48a7-4deb-812e-e9357cef6e6e",
+      "question_text": [
+        "Given:Opening capital - #1,500Capital introduced - ₦500Profit for the year - ₦800Cash drawings - ₦250Calculate the closing capital"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#2,550",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "#2,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#2,350",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#2,250",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a258c0b-c696-4682-85b3-27fb1f38e860",
+      "question_text": [
+        "What type of stock valuation would a vegetable seller adopt in valuing it's product?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "LIFO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "FIFO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Simple average",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Weighted average",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf66a7d7-8c07-4668-a6a4-c6338e0c109a",
+      "question_text": [
+        "The total cash and cheques received from customers in a control account is derived from the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purchases day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "income and expenditure account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sales journal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "057157c6-a234-4f80-a394-74961bf6b22e",
+      "question_text": [
+        "1/1/2010 31/12/2010Creditors - #9,000 #9,800Rent owing - #3,800 #2,500Rates prepaid - #2,000 #3,500Motor van - #8,000 #8,000Premises - #10,000 #10,500Calculate the closing capital"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#8,700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#9,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#9,700",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#10,700",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f2a47446-1098-45b1-903e-e05c2f5586f5",
+      "question_text": [
+        "Given:Opening capital - #50,000Closing capital - #64,000Drawings - #16,000Determine the net profit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#2,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#14,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#20,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#30,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b4e9390d-ce52-46f9-96c6-f7170bc2e78b",
+      "question_text": [
+        "The estimated profit or loss for a period is calculated by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "closing capital less opening capital add drawings",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "opening capital less closing capital add drawings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "opening capital less drawings add closing capital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "opening capital add closing add drawings",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe150301-4675-4894-ae22-ff2c33975cad",
+      "question_text": [
+        "Given:Drawings - #3,500Net loss - #2,500Capital 1/1/2007 - #35,000Additional capital - #10,000The adjusted capital as at 31/1/2007 is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#39,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#45,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#46,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "849a653c-d8c8-4eac-8db8-c135f1b2d65e",
+      "question_text": [
+        "When goods produced are transferrd at cost plus mark-up sale, the difference between the cost and the transferred price is a"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sales commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "manufacturing profit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "factory reserves",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0423e266-82db-4133-81fe-ac661f0315d4",
+      "question_text": [
+        "The addition of prime cost, indirect cost and opening work-in-progress less the closing work-in-progress will result in cost of"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "goods available for sale",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "goods sold",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "goods manufactured",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "materials put into production",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d97f07e-423a-4977-9e78-1b3306e5ebb9",
+      "question_text": [
+        "Opening stock of raw materials - #75,000Purchase of raw materials - #330,000Closing stock of raw materials - #80,000Direct wages - #30,000Carriages of raw materials - #10,000Calculate the cost of raw materials used"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#495,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#415,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#335,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#305,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f115201-efa5-45ea-bb20-b03551bde07a",
+      "question_text": [
+        "Purchase of raw materials - #330,000Closing stock of raw materials - #80,000Direct wages - #30,000Carriages of raw materials - #10,000Determine the prime cost"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#525,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#515,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#465,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#365,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d90d1b10-7983-49c1-8547-792610a8b7f1",
+      "question_text": [
+        "In manufacturing account, the work-in-progress at the end of the year is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "deducted from the cost of goods completed during this year",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "added to the cost of goods completed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "stated in the profit and loss account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "stated in the prime cost section",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2d0387e-0d24-4230-8435-5344b6860605",
+      "question_text": [
+        "Which of the following is accounted for in receipts and payment account"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Subscriptions recieved in advance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Subscriptions due not yet recieved",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Accrued expenses on annual dances",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Depreciation of the club house",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bcf5ef84-371d-42f7-ae1d-1be4b25e68dc",
+      "question_text": [
+        "Which of the following expenses relates to the profit and loss account of a manufacturing firm"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Direct materials",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Direct labour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Administrative overhead",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Work-in-progress",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c6c1893-3b97-47ba-a5d1-abf1e3030286",
+      "question_text": [
+        "1. Direct materials11.Direct labour111.Direct expenses1V. Factory expensesPrime cost consist of"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1,11 and 111",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1,11 and 1V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1,111 and 1V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11,111 and 1V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75d4b963-5a5f-4d6f-8c6a-afa06b0e663b",
+      "question_text": [
+        "The amount paid by a new partner on admission as a compensation for the reputation built up by old partners is a"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bonus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "premium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "goodwill",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3c85edfa-3957-418b-b79d-e84ee7b036a9",
+      "question_text": [
+        "A partnership's internal regulations are set out by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a deed",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a constitution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an article",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "206f135d-d63d-4aac-84a9-9f17651cfbc8",
+      "question_text": [
+        "In a partnership account, interest on drawings is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited to appropriation account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credited to appropiation account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "treated as an expense in profit and loss account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "recorded in the balance sheet as current assets",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e32acbd-6651-4563-9f65-3e0d3526a7ef",
+      "question_text": [
+        "When a share valued at 50k is issued at #1.59, it is said to be issued  at"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "par",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "premium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "interest",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff24f552-7ac3-4bfe-be81-cc82ef2152eb",
+      "question_text": [
+        "The purchase consideration that is lower than the net asset implies that, the buyer has gained the advantage of"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "net income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "revenue reserve",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "capital reserve",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "net loss",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e22e1b69-8da4-4bc6-b555-103fe58b39d7",
+      "question_text": [
+        "When shares are issued at a discount, entries  are to debit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "application allotment account and credit discount accoun",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "discount account and credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cash account and credit discount account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount account and credit bank account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f6bd2fa-e957-4ef6-8a60-ab9768e1ab4d",
+      "question_text": [
+        "When there is no basis of apportionment in an organization, the expenses should be apportioned based on"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "equality",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "floor space",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "896e92bb-d3b3-4fe5-88e4-fb07d2cb57c0",
+      "question_text": [
+        "Department K YOpening stock #2,500 #800Purchases #120,000 #100,000Sales #180,000 #200,000Salaries #8,000 #30,000Closing stock #3,000 #1,500Rate expenses of #1,500 are apportioned in the ratio 1:2.What is he net profit of Y?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#52,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#68,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#68,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#69,700",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4ae98a2d-f380-42c5-9df5-6de878cd5636",
+      "question_text": [
+        "The objective of departmental account is to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ascertain the cost of running the organization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ascertain the amount of profit or loss for each department",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ascertain the amount of profits for losses for the enterprises",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "offset the loss of each treatment",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0830d229-5b13-4275-8ffb-9aeca0ace216",
+      "question_text": [
+        "Which of the following is the capital reserve of a company"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Share premium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Retained profit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Accumulated depreciation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Loss on forfeited shares",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "633180db-e7ed-4885-8a15-9e77a5a78e27",
+      "question_text": [
+        "Given:Applications were invited by the directors of Abiodun PLC for 500,000 ordinary shares of #1:00 each at #1:10 per share payable as follows;On application 46kOn allotment 20k1st Call 15k2nd Call 19kHow much is to be paid for application?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#230,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "#280,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#500,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#550,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "961a77a5-bc68-431e-8bf2-ac466caffe0a",
+      "question_text": [
+        "The issued share capital is the number of shares that are"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "authorized by share holders",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "shared among the directors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fully subscribed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "in the share certificate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f70d5fc4-1c3d-4770-a8f6-25af81003ba7",
+      "question_text": [
+        "The distributable profit available to shareholders at the end of each year is the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "total profit and debtors balance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "general reserve and retained profit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "retained profit and fictitious assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "total profit less creditors balance",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d85f48af-a236-4589-92a6-3f6812d06ae1",
+      "question_text": [
+        "The debenture issued at par above the nominal value is said to be issued at a"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cost price",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "mark-up",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "premium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "margin",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a4a9314-40f5-422b-82ca-b9c09249a7e5",
+      "question_text": [
+        "Accountant-general of the federation is responsible for"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the general supervision of all auditing personnel in all the ministeries",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the compilation of annual financial statement",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the interpretation of rules and regulations affecting the private sectors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ensuring the efficient operation of the ministries",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f80cad66-411f-499c-986b-28faef48cec7",
+      "question_text": [
+        "Given:Assets and Liabilities of a Local GovernmentBank balance #6,484,000Cash ₦900,000General revenue balances #9,774,500Accrued salaries #1,220,000Investment in shares #1,480,000Vehicles #7,620,000Calculate the liabilities of the local government"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#10,994,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "#17,394,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#18,774,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#18,874,500",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d65ee2d-522f-4f3e-91cd-49c7815cc8a1",
+      "question_text": [
+        "An instrument which allows public officers to increase expenditure within a year is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "statutory allocation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "supplementary budget",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "virement",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "warrant",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "783ac76a-1fd7-4b11-9675-143f8a2c7594",
+      "question_text": [
+        "Accounting information seeks to provide"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "permanent records for all transactions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "analysis of accounts to trade debtors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "audited reports on the accounts of a company",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "data about the employees of a company",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6a135c8-06dc-41e9-bc56-bb12b5f8d2bd",
+      "question_text": [
+        "When the debit side total of an account, t means that the account has"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "been overdrawn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "been understand",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit balance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1833fab3-8954-4322-8396-b452320e133d",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 1 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit capital and credit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credit cash and debit bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit cash and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit purchases and credit cash",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f4a4178-2b49-4ab9-92dc-afee8cf48bd1",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 31 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit Agromachinex and credit cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit equipment and credit Agromachinex",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit capital and debit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit cash and debit purchases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c5777a0-c09a-4036-8865-d362fae6374c",
+      "question_text": [
+        "The total credit sales for a period can be extracted from the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sales day book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "petty cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "returns inwards",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1d47da3-5351-456b-9406-cc7c600b9edd",
+      "question_text": [
+        "The major source document which enables an employer to calculate the employee wages is the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nominal roll of employees",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "record of number of hours worked",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "effort of the employee",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "record of number of dependants per employee",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "359d2263-2a02-4707-98b4-ca77862dd499",
+      "question_text": [
+        "Which of the following items is a capital expenditure?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Maintenance of office machine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Purchase of office stationery",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carriage inwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Purchase of office machinery",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5cb0bee7-0cbe-44df-81fb-1d7f8068804b",
+      "question_text": [
+        "The corresponding entry of personal accounts found in the debit side of the cash is to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "credit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit the ledger",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit the ledger",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a4f0057d-d7cf-48fe-aa2a-8f00a98d2a4a",
+      "question_text": [
+        "Alaka who owed Saka #15,000, settled his debt after deducting cash discount of 10percent. To record the discount in the book of Saka, debit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discount recieved account and credit Alaka's account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alaka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Saka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount allowed account and credit Alaka's account",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "24f1a7c2-8dd8-4839-8abe-2cf57c8c09d3",
+      "question_text": [
+        "1. The amount of the imprest is the same from one organization to another11.At the end of a fixed period, the petty cashier received a fixed sum of money.111. At the end of a period, the petty cashier is reimbursed with the amount spent in that period.1V. The system is a method by which a measure of control is kept on petty cash expenses.Which of the above is correct about the imprest system?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, 11 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 111 and 1V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11 and 1V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "111 and 1V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4666de7e-3c6c-469f-a94d-2ebdce167a53",
+      "question_text": [
+        "Accounting information seeks to provide"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "permanent records for all transactions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "analysis of accounts to trade debtors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "audited reports on the accounts of a company",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "data about the employees of a company",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5bfefe71-82ea-49bf-81cc-ffe82307772b",
+      "question_text": [
+        "When the debit side total of an account, t means that the account has"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "been overdrawn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "been understand",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit balance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b3d5ed3d-b594-44af-9a23-d021801316cd",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 1 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit capital and credit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credit cash and debit bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit cash and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit purchases and credit cash",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "940d8926-2ec9-4cd1-96b4-1d3df4fbe8c1",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 31 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit Agromachinex and credit cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit equipment and credit Agromachinex",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit capital and debit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit cash and debit purchases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0f3a2273-930d-4b0b-9046-8e5aacab654d",
+      "question_text": [
+        "The total credit sales for a period can be extracted from the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sales day book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "petty cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "returns inwards",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5368812b-6673-473b-94e7-91769a32522a",
+      "question_text": [
+        "The major source document which enables an employer to calculate the employee wages is the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nominal roll of employees",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "record of number of hours worked",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "effort of the employee",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "record of number of dependants per employee",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a978bbd9-3045-4d12-a225-f97951034e2a",
+      "question_text": [
+        "Which of the following items is a capital expenditure?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Maintenance of office machine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Purchase of office stationery",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carriage inwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Purchase of office machinery",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e9a7a509-1d05-4631-9d33-7ea21659c185",
+      "question_text": [
+        "The corresponding entry of personal accounts found in the debit side of the cash is to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "credit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit the ledger",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit the ledger",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8fe0821a-4e7b-4e7d-bdf6-940943a62cb5",
+      "question_text": [
+        "Alaka who owed Saka #15,000, settled his debt after deducting cash discount of 10percent. To record the discount in the book of Saka, debit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discount recieved account and credit Alaka's account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alaka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Saka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount allowed account and credit Alaka's account",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6c4112d7-7e23-4f5c-9af9-f2eb7c685d67",
+      "question_text": [
+        "1. The amount of the imprest is the same from one organization to another11.At the end of a fixed period, the petty cashier received a fixed sum of money.111. At the end of a period, the petty cashier is reimbursed with the amount spent in that period.1V. The system is a method by which a measure of control is kept on petty cash expenses.Which of the above is correct about the imprest system?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, 11 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 111 and 1V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11 and 1V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "111 and 1V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "56bf428d-6005-4633-ba39-85eec84fd808",
+      "question_text": [
+        "Accounting information seeks to provide"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "permanent records for all transactions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "analysis of accounts to trade debtors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "audited reports on the accounts of a company",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "data about the employees of a company",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1e0d72d-aabe-479e-856f-183f143cc93e",
+      "question_text": [
+        "When the debit side total of an account, t means that the account has"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "been overdrawn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "been understand",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit balance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cdb7820c-7cbd-4ee0-96b1-2074dcb08fec",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 1 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit capital and credit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credit cash and debit bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit cash and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit purchases and credit cash",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b2a1120-37ad-4f99-aed9-141a550fce77",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 31 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit Agromachinex and credit cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit equipment and credit Agromachinex",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit capital and debit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit cash and debit purchases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ddfdc16c-24dd-4c0f-875b-45b09781977d",
+      "question_text": [
+        "The total credit sales for a period can be extracted from the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sales day book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "petty cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "returns inwards",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4e91c9a-73d4-4e7d-a138-678460b1deee",
+      "question_text": [
+        "The major source document which enables an employer to calculate the employee wages is the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nominal roll of employees",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "record of number of hours worked",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "effort of the employee",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "record of number of dependants per employee",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7aa88008-0701-4d67-bce1-3b508fe08af8",
+      "question_text": [
+        "Which of the following items is a capital expenditure?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Maintenance of office machine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Purchase of office stationery",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carriage inwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Purchase of office machinery",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b5357eb0-c14d-48bd-ad9f-83c953f06dc8",
+      "question_text": [
+        "The corresponding entry of personal accounts found in the debit side of the cash is to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "credit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit the ledger",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit the ledger",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84ebcb78-61f8-435b-a660-b4a54a83f64f",
+      "question_text": [
+        "Alaka who owed Saka #15,000, settled his debt after deducting cash discount of 10percent. To record the discount in the book of Saka, debit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discount recieved account and credit Alaka's account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alaka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Saka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount allowed account and credit Alaka's account",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bdf2f496-6116-47d4-a4eb-5a42f1000a69",
+      "question_text": [
+        "1. The amount of the imprest is the same from one organization to another11.At the end of a fixed period, the petty cashier received a fixed sum of money.111. At the end of a period, the petty cashier is reimbursed with the amount spent in that period.1V. The system is a method by which a measure of control is kept on petty cash expenses.Which of the above is correct about the imprest system?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, 11 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 111 and 1V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11 and 1V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "111 and 1V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1efad2b0-4024-4253-8914-7b8a7049228d",
+      "question_text": [
+        "Accounting information seeks to provide"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "permanent records for all transactions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "analysis of accounts to trade debtors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "audited reports on the accounts of a company",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "data about the employees of a company",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1fd93bf-38b6-459d-81ab-71127035f2be",
+      "question_text": [
+        "When the debit side total of an account, t means that the account has"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "been overdrawn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "been understand",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit balance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "20ea68ed-fda8-4c2e-aaef-51eaba49b24a",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 1 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit capital and credit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credit cash and debit bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit cash and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit purchases and credit cash",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d8a7f157-b77f-40b0-a023-e767c5a09a28",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 31 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit Agromachinex and credit cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit equipment and credit Agromachinex",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit capital and debit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit cash and debit purchases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "234e3860-a61b-4de7-89c4-fb4a7f96f5de",
+      "question_text": [
+        "The total credit sales for a period can be extracted from the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sales day book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "petty cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "returns inwards",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2884c966-6630-47a7-8603-91b983716e5d",
+      "question_text": [
+        "The major source document which enables an employer to calculate the employee wages is the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nominal roll of employees",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "record of number of hours worked",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "effort of the employee",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "record of number of dependants per employee",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1cc77d1d-6429-4ffb-b1cd-5ff663a700ca",
+      "question_text": [
+        "Which of the following items is a capital expenditure?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Maintenance of office machine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Purchase of office stationery",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carriage inwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Purchase of office machinery",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9de25cb5-fe50-4a8d-a9ee-611762a794b9",
+      "question_text": [
+        "The corresponding entry of personal accounts found in the debit side of the cash is to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "credit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit the ledger",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit the ledger",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3da783b-59b2-494d-9b38-cce56b520992",
+      "question_text": [
+        "Alaka who owed Saka #15,000, settled his debt after deducting cash discount of 10percent. To record the discount in the book of Saka, debit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discount recieved account and credit Alaka's account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alaka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Saka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount allowed account and credit Alaka's account",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c0508d44-76ba-4c59-8c0b-2b208d068c67",
+      "question_text": [
+        "1. The amount of the imprest is the same from one organization to another11.At the end of a fixed period, the petty cashier received a fixed sum of money.111. At the end of a period, the petty cashier is reimbursed with the amount spent in that period.1V. The system is a method by which a measure of control is kept on petty cash expenses.Which of the above is correct about the imprest system?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, 11 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 111 and 1V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11 and 1V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "111 and 1V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4412dc21-fa4a-45cb-97bf-f31297d66af6",
+      "question_text": [
+        "Accounting information seeks to provide"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "permanent records for all transactions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "analysis of accounts to trade debtors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "audited reports on the accounts of a company",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "data about the employees of a company",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2bd418c2-69cd-424e-8126-0a6c0db0f210",
+      "question_text": [
+        "When the debit side total of an account, t means that the account has"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "been overdrawn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "been understand",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit balance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "06ad4462-6396-4e48-a9f4-a17267196bae",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 1 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit capital and credit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credit cash and debit bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit cash and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit purchases and credit cash",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c099ab9c-62d0-4381-ad58-386655ac605e",
+      "question_text": [
+        "July 1 - Started business with #10,500July 31- Paid Agromachinex #6,000 owing themThe double entry for July 31 would be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit Agromachinex and credit cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit equipment and credit Agromachinex",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit capital and debit cash",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit cash and debit purchases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4c116835-ccb3-4c31-9fe0-2de00befcfbc",
+      "question_text": [
+        "The total credit sales for a period can be extracted from the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sales day book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "petty cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "returns inwards",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9850e762-7989-4217-b105-f117679d32bf",
+      "question_text": [
+        "The major source document which enables an employer to calculate the employee wages is the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nominal roll of employees",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "record of number of hours worked",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "effort of the employee",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "record of number of dependants per employee",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "986fc10e-5346-48e4-b176-230cdd3ffc31",
+      "question_text": [
+        "Which of the following items is a capital expenditure?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Maintenance of office machine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Purchase of office stationery",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carriage inwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Purchase of office machinery",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b192b510-db43-4c4c-b100-92ca770a620f",
+      "question_text": [
+        "The corresponding entry of personal accounts found in the debit side of the cash is to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "credit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit real accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit the ledger",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit the ledger",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8dd689b-47df-40a5-b5a0-8f3ed839fe91",
+      "question_text": [
+        "Alaka who owed Saka #15,000, settled his debt after deducting cash discount of 10percent. To record the discount in the book of Saka, debit"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discount recieved account and credit Alaka's account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alaka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Saka's account and credit discount recieved account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount allowed account and credit Alaka's account",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "aa71e5e3-f97e-49af-a514-87c71d31537c",
+      "question_text": [
+        "1. The amount of the imprest is the same from one organization to another11.At the end of a fixed period, the petty cashier received a fixed sum of money.111. At the end of a period, the petty cashier is reimbursed with the amount spent in that period.1V. The system is a method by which a measure of control is kept on petty cash expenses.Which of the above is correct about the imprest system?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, 11 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 111 and 1V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11 and 1V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "111 and 1V",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

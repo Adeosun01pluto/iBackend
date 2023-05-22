@@ -1,0 +1,3348 @@
+
+[
+    {
+      "id": "f75a1286-70e9-4da3-8d2a-58a4f9b5355c",
+      "question_text": [
+        "Which of the following alloys contain iron?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Duralumin and steel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Brass and bronze",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Steel and permalloy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Soft solder and duralumin",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9cc9a6ad-d2a0-4a69-8036-c1dc14b726da",
+      "question_text": [
+        "To obtain pure carbon (II) oxide from its mixture with carbon (IV) oxide, the mixture should be"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Oxides, Peroxides, and Hydroxides ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "passed over heated copper (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bubbled through water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bubbled through concentrated tetroxosulphate (VI",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f7ba260b-0f48-49be-ac9f-28a670b2d600",
+      "question_text": [
+        "The most abundant element on the earth's crust is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "flourine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab3160f0-ed1f-457a-a04c-277224ea5fd8",
+      "question_text": [
+        "Metalliods are also referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Metalloids ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "semi-metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colliods",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6fa44f7e-4bd7-4f0f-8b25-f7690485f5bc",
+      "question_text": [
+        "The ores that can be concentrated by flotation are"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Stoichiometric Calculations ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitride ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sulphide ores",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c4ecaf58-d0c0-4f1e-9aa6-3f567badfc6a",
+      "question_text": [
+        "The property used in the industrial preparation of nitrogen and oxygen from air is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Elevation of the Boiling Point of a Solvent ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rate of diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "boiling point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b67f8f35-86db-482e-b5fb-3a97221d83c3",
+      "question_text": [
+        "In a flame test for calcium, the flame appears"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "green when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "blue when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "orange -red when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "brick-red when viewed through a blue-glass",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ceb3ce70-572b-4618-b102-abec19cabed8",
+      "question_text": [
+        "N2(g) + 3H2(g) ↔ 2NH3(g) ΔH = -90 kJIn the equation above, the yield of ammonia can be decreased by"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Catalysts Do Not Affect Equilibrium ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "removing the ammonia as it is formed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "adding a catalyst",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b38a4ed2-0113-4460-a06a-cd1210a1c484",
+      "question_text": [
+        "The gas that can be dried using concentrated tetraoxosulphate (VI) acid is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen bromide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sulphur (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39e1ea7e-a7db-4105-a8f7-9b70f1a0dd02",
+      "question_text": [
+        "NH4Cl(s) ↔ NH3(g) + HCL(g)The reaction above can only attain equilibrium if"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Calculations Involving Equilibrium Concentrations ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a gaseous reactant is added",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "one of the products is removed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it is in a closed system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "it is an open system",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce0628f3-dc92-41c4-8745-4c7a8657f9b7",
+      "question_text": [
+        "The most suitable metal that can be used as lightning conductor is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Acid and Metal Oxide ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "silver",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "copper",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "iron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "aluminium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a5f63f5d-a2fc-4227-b11f-05e7dbb1e5e5",
+      "question_text": [
+        "In the diagram above which of the cures illustrates Arrhenius' law?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Models for Acids and Bases ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem2.png",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "R",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "X",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b08b059c-64c5-4662-bce9-f38e93a8fc97",
+      "question_text": [
+        "I. Treatment of cancerII. Detection of leakages in water mainsIII. Detection of the ages of ancient toolsIV. Preparation of drugsWhich combination of the above refers to the uses of radioactive isotopes?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and II",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I, II and III",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II, III and IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ccc98087-33c9-4e56-b4ee-00c5af9f7695",
+      "question_text": [
+        "What is the valence shell electron configuration of the element with atomic number 17?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1s2 2s2 2p6 3s2 3p4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1s2 2s2 2p6 3s2 3p5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2s2 2p6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3s2 3p5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8e2a195-b67e-4fd0-9b86-644b7c9bb095",
+      "question_text": [
+        "The density of a certain gas is 1.98gdm-3 at s.t.p. What is the molecular mas of the gas?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Kinetic-Molecular Theory ",
+        " Gases"
+      ],
+      "explanation": "Density = mass/volume∴ 1.98 = molecular mass/22.4molecular mass = 1.98 * 22.4 = 44.35 ≅ 44.05",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "44.0 g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "54.0 g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "26.0 g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "31.0 g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "115397bf-c3b3-42c7-b4c8-b49e29c4e4fd",
+      "question_text": [
+        "When pure aluminium metal is heated to red hot in the presence of nitrogen gas, the compound formed is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Al2N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Al2N2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "AlN",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Al2N3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a29109e-8082-45e5-9090-598134f2ed5f",
+      "question_text": [
+        "A dense white fume is formed when ammonia gas reacts  with"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Hydrogen Compounds ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "12f7f73e-2bb2-45e4-bbfd-b957b160da53",
+      "question_text": [
+        "Sugar is separated from its impurities by"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Separation Techniques ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "precipitation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "crystallization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "54345b2a-e19d-46b8-b89f-942dbf6b8017",
+      "question_text": [
+        "The component of an atom that contributes least to its mass is the"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Atomic Mass and Diameter ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "proton",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "nucleus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electron",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "de0b72cf-424c-4f14-8e4c-2df91fa2236a",
+      "question_text": [
+        "An element wil readily form an electrovalent compound if it electron configuration is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2, 8, 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2, 8, 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, 8, 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2, 8, 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "41925f8c-e9db-4f9f-98b1-673b110d3b73",
+      "question_text": [
+        "A heterogenous mixture can be defined as any mixture"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Mixtures ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "of a solute nd a solvent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "whose cmposition is uniform",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "whose composition is not uniform",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "formed by solids and liquids",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c8137ce-9df1-4010-a68c-7e6107cac017",
+      "question_text": [
+        "The pressure of 100cm3 of oxygen at 35oC is 750mmHg. What will be the volume of gas if the pressure is reduced to 100mmHg without changing the temperature?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Volume and Temperature: Charles’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "650 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "850 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "580 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "750 cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "113a114d-9f5a-4c90-9e5e-cd3741fc5530",
+      "question_text": [
+        "The gas that is the most dangerous pollutant to human is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Stoichiometric Calculations ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sulphur (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ddaab791-51ea-4961-8ca8-304d4341e1e8",
+      "question_text": [
+        "Natural water collected from rivers and ponds contain oxygen, carbon (IV) oxide and"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Nitrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitrogen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sulphurE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "435b2427-f884-416b-9e5f-82508ed1b9dc",
+      "question_text": [
+        "How many moles of limestone will be required to produce 5.6g of CaO?[Ca = 40, C = 12, O= 16]"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Calculating Moles and Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "CaCO3 → CaO + CO2CaCO3 = 40 + 12 + 16 * 3 = 100, CaO = 40 + 16 = 5656gt of CaO was produced by 100g of CaCO3∴ 5.6g of CaO will produce by(5.6 * 100)/56 = 10g of CaCO3moles = mass/molar mass = 10/100 = 0.10m",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.20 mol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.10 mol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.12 mol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.56 mol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96696658-0fef-40a3-afff-7947f9066c95",
+      "question_text": [
+        "The shape of the hydrocarbon compound CH4 is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "square planar",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "planar",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "linear",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "tetrahedral",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "76d44630-7d46-4aa5-a4e1-02c0e8389b08",
+      "question_text": [
+        "Which of these properties gives a solid its definite shape?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "strong intermolecular attraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "high melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high boiling point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "weak intermolecular attraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "966bc4e7-166d-44b5-87e1-3990f8ecceb4",
+      "question_text": [
+        "When water boilers are used for long period of time, the solid substances left behind as scale are"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Periods in the Periodic Table ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "magnesium trioxosilicate (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " and rust",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "magnesium trioxosilicate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " and calcium tetraoxosulphate (VI",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7509b1f7-ed1f-490d-b13c-90f9029bbabb",
+      "question_text": [
+        "25cm3 of a mixture of nobel gases was obtained from air after the removal of other constituents. What was the original volume of air"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Percentage of noble gases in air is 1%25 = (1/100) * T ∴ T = 25 * 100 = 2500 cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2,500 cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1250 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80 cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "581d259e-d917-4324-a635-fb02a0bfe518",
+      "question_text": [
+        "The solubility curve shows the variation of solute concentration with"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "volume",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "vapour density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "pressure",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "536739b2-4da1-4661-bad0-ef5bdeb297be",
+      "question_text": [
+        "The air around smelting industries is likely to contain"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Preparation of the Transition Elements ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H2S, CO and N2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CO2, SO3 and H2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2, SO2 and CO2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "SO2, N2 and CO2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b902d0de-46f1-46c3-9293-1227f52a8890",
+      "question_text": [
+        "Kerosine is commonly used to remove the red colour stain of palm oil from cloths because it"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "helps to spread the oil over a larger surface area",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "react with the oil to form an odourless compound",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "makes the oil evaporate easily by dissolving it",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "helps to dilute the oil and reduce its colour",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d36740c5-a992-410c-b38c-0cde5fcfbd11",
+      "question_text": [
+        "Which of the following are structural isomers?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Isomers ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanoic acid and propan-1, 2-diol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Propanal and propanone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ethanoic acid and propanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ethan-1, 2-diol and ethanoic acid",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95ce67a0-53a0-421c-b251-45263934969e",
+      "question_text": [
+        "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate (IV) solution is used to remove"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "basic impurities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "acidic impurities",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethoxyethane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e677c7e6-db70-4917-b361-de8223fc9736",
+      "question_text": [
+        "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open-chain alkane?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Basics of Organic Nomenclature: Naming Alkanes ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Two",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Three",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Four",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "One",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4602bda6-d393-430e-a61c-b4fb15ce6dbe",
+      "question_text": [
+        "Equal moles of ethyne and hydrogen iodide react to give"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Applications ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2 = CH2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH2 - CHI",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3 - CI",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH2 = CHI",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "666c4fcc-8ba0-47c5-907e-617fd152e55c",
+      "question_text": [
+        "A substance that is used as a ripening agent for fruits is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Alkenes ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "propene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "methane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b544ee22-0bac-4d93-8b56-bc49a0987f8c",
+      "question_text": [
+        "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time, it eventually produces a solution of"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NaHSO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Na2SO3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "NaHSO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Na2SO4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd6760a4-8654-4c46-8137-a8e0654a938d",
+      "question_text": [
+        "What is the correct IUPAC name for NO2-?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Dioxonitrate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Trioxonitrate (II",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " ionC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d0d24c8f-c07a-483a-81d2-d99d1709d6b4",
+      "question_text": [
+        "What will happen if an aluminium spoon is used to stir a solution of iron (II) trioxonitrates (V)?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The spoon will be oxidized while the iron (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " ions will be reduced to the metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The spoon will increase in size",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The spoon will be reduced while the iron (II",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f4d688c-b449-42d7-876a-e50ea0eb7446",
+      "question_text": [
+        "The enzymes responsible for converting sucrose into two simple isomeric sugars is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Carbohydrates and Diabetes ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "maltase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "amylase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "invertase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "lactase",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d285d1f0-48a5-4ec5-b7fa-423b44605a55",
+      "question_text": [
+        "The decolourization of purple colour of tetraoxomanganate (VII) ion is a test for"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Changes in Colour ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkenes",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c559acb-27c1-4ac1-a8b2-ba4738c05369",
+      "question_text": [
+        "Phenolphthalein in acidic solution is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Equilibrium in a Solution of a Salt of a Weak Acid and a Weak Base ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colourless",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e9e6b72-6f62-4ff6-a049-36246af51994",
+      "question_text": [
+        "When iron is exposed to moisture and it rusts, the value of ΔG for the reaction is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Atomic Mass and the Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "neutral",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c8d02844-7946-4095-b74d-8852650cef5a",
+      "question_text": [
+        "In which of the following reactions can the oxidation number of the nitrogen be said to have increased?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NO(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " + O2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " → 2NO2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "795d0a76-936b-462d-8871-1015b39fbc3d",
+      "question_text": [
+        "2H2 + O22 → H2+O ΔH = -571kJIn the equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Calorimetry ",
+        " Thermochemistry"
+      ],
+      "explanation": "2H2 + O22 → H2+O ΔH = -571kJ 4.0g of Hydrogen burn in air to produce -571 kJ ∴ 12.0s of Hydrogen will burn in air to produce (12 * -571)/4 = -1713kJ",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1142 kJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-571 kJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+1142 kJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1713 kJ",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5553adec-84fa-4c16-9776-b076b2fd9199",
+      "question_text": [
+        "Which of the following equimolar solutions will have the highest pH?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3COOHa",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NaOH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NH4OH",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6aa99128-5166-4be8-aa89-121877cf443a",
+      "question_text": [
+        "The solubility curve shows the variation of solute concentration with"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "volume",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "vapour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "pressureE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e4bd7f69-f60f-43b6-bc06-ecfe0086d413",
+      "question_text": [
+        "Which of the following alloys contain iron?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Duralumin and steel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Brass and bronze",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Steel and permalloy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Soft solder and duralumin",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7671371f-7763-40ce-a9ef-8d4ae178dc32",
+      "question_text": [
+        "To obtain pure carbon (II) oxide from its mixture with carbon (IV) oxide, the mixture should be"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Oxides, Peroxides, and Hydroxides ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "passed over heated copper (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bubbled through water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bubbled through concentrated tetroxosulphate (VI",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1ef304c3-55a2-4b8d-8357-67701aa7badd",
+      "question_text": [
+        "The most abundant element on the earth's crust is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "flourine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dedf689b-a236-41e0-ac5f-76c406769a56",
+      "question_text": [
+        "Metalliods are also referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Metalloids ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "semi-metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colliods",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1e86988-17ad-405d-8e25-f4348443677f",
+      "question_text": [
+        "The ores that can be concentrated by flotation are"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Stoichiometric Calculations ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitride ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sulphide ores",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42a6c064-b227-4ad0-b9e0-4f3a8c2dadb9",
+      "question_text": [
+        "The property used in the industrial preparation of nitrogen and oxygen from air is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Elevation of the Boiling Point of a Solvent ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rate of diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "boiling point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df5c6ac4-8cb2-41b3-9147-c50a376abba8",
+      "question_text": [
+        "In a flame test for calcium, the flame appears"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "green when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "blue when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "orange -red when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "brick-red when viewed through a blue-glass",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ee3bfc8e-c528-4f65-a772-8bf807ec5ced",
+      "question_text": [
+        "N2(g) + 3H2(g) ↔ 2NH3(g) ΔH = -90 kJIn the equation above, the yield of ammonia can be decreased by"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Catalysts Do Not Affect Equilibrium ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "removing the ammonia as it is formed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "adding a catalyst",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42a93c60-fd16-4cd2-8905-6d7fc8f3cf07",
+      "question_text": [
+        "The gas that can be dried using concentrated tetraoxosulphate (VI) acid is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen bromide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sulphur (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25f52960-ed2f-4f8d-91b0-38b1e57faca4",
+      "question_text": [
+        "NH4Cl(s) ↔ NH3(g) + HCL(g)The reaction above can only attain equilibrium if"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Calculations Involving Equilibrium Concentrations ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a gaseous reactant is added",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "one of the products is removed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it is in a closed system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "it is an open system",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cecb1a42-be24-4174-acfb-3a5744e9f150",
+      "question_text": [
+        "Which of the following alloys contain iron?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Duralumin and steel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Brass and bronze",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Steel and permalloy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Soft solder and duralumin",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ae25709d-0823-4b07-ab48-1ecd5bbeb6b5",
+      "question_text": [
+        "To obtain pure carbon (II) oxide from its mixture with carbon (IV) oxide, the mixture should be"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Oxides, Peroxides, and Hydroxides ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "passed over heated copper (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bubbled through water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bubbled through concentrated tetroxosulphate (VI",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e7f9480-cd76-43da-be19-d81cdec348f5",
+      "question_text": [
+        "The most abundant element on the earth's crust is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "flourine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc284ee2-5dd4-4523-ae85-25d11f39f66a",
+      "question_text": [
+        "Metalliods are also referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Metalloids ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "semi-metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colliods",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a209a508-f128-4eda-bbf3-bd3dc6819ce3",
+      "question_text": [
+        "The ores that can be concentrated by flotation are"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Stoichiometric Calculations ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitride ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sulphide ores",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d03c14e5-ab23-4921-83bb-a1d386650307",
+      "question_text": [
+        "The property used in the industrial preparation of nitrogen and oxygen from air is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Elevation of the Boiling Point of a Solvent ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rate of diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "boiling point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cae5e61d-a7b8-4d80-b4a0-9bca54c13c97",
+      "question_text": [
+        "In a flame test for calcium, the flame appears"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "green when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "blue when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "orange -red when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "brick-red when viewed through a blue-glass",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d82ad579-0180-4d3a-8d38-8437d251983a",
+      "question_text": [
+        "N2(g) + 3H2(g) ↔ 2NH3(g) ΔH = -90 kJIn the equation above, the yield of ammonia can be decreased by"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Catalysts Do Not Affect Equilibrium ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "removing the ammonia as it is formed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "adding a catalyst",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2942ae75-75f0-47e0-9515-fdb97f96a438",
+      "question_text": [
+        "The gas that can be dried using concentrated tetraoxosulphate (VI) acid is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen bromide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sulphur (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b5200c4-32e3-42aa-a1ee-9df4764fd340",
+      "question_text": [
+        "NH4Cl(s) ↔ NH3(g) + HCL(g)The reaction above can only attain equilibrium if"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Calculations Involving Equilibrium Concentrations ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a gaseous reactant is added",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "one of the products is removed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it is in a closed system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "it is an open system",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30c17c99-f204-485e-a168-e9efc468096b",
+      "question_text": [
+        "Which of the following alloys contain iron?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Duralumin and steel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Brass and bronze",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Steel and permalloy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Soft solder and duralumin",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "beed24cd-d71b-484e-b790-bdd182ea28ce",
+      "question_text": [
+        "To obtain pure carbon (II) oxide from its mixture with carbon (IV) oxide, the mixture should be"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Oxides, Peroxides, and Hydroxides ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "passed over heated copper (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bubbled through water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bubbled through concentrated tetroxosulphate (VI",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e6921431-c579-47bb-8928-e84d687b5808",
+      "question_text": [
+        "The most abundant element on the earth's crust is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "flourine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c57aca0d-c17a-47d4-a972-af854affd305",
+      "question_text": [
+        "Metalliods are also referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Metalloids ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "semi-metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colliods",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "295883e2-d981-49f9-854a-caed128a03bf",
+      "question_text": [
+        "The ores that can be concentrated by flotation are"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Stoichiometric Calculations ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitride ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sulphide ores",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd1078df-ea94-425e-a761-87d48b146505",
+      "question_text": [
+        "The property used in the industrial preparation of nitrogen and oxygen from air is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Elevation of the Boiling Point of a Solvent ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rate of diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "boiling point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c117b443-1fd0-4fc3-a9a9-a25ebf7ac60d",
+      "question_text": [
+        "In a flame test for calcium, the flame appears"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "green when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "blue when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "orange -red when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "brick-red when viewed through a blue-glass",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bbffd8b9-e9fd-4621-94de-e78fbf4e2b55",
+      "question_text": [
+        "N2(g) + 3H2(g) ↔ 2NH3(g) ΔH = -90 kJIn the equation above, the yield of ammonia can be decreased by"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Catalysts Do Not Affect Equilibrium ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "removing the ammonia as it is formed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "adding a catalyst",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c346966a-2948-4dcd-af47-25ef69204c8d",
+      "question_text": [
+        "The gas that can be dried using concentrated tetraoxosulphate (VI) acid is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen bromide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sulphur (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4be5d59f-9d3e-483b-ad55-07c7ff708392",
+      "question_text": [
+        "NH4Cl(s) ↔ NH3(g) + HCL(g)The reaction above can only attain equilibrium if"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Calculations Involving Equilibrium Concentrations ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a gaseous reactant is added",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "one of the products is removed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it is in a closed system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "it is an open system",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "be07d6eb-5aaa-4f77-b16f-a9f3a1615af9",
+      "question_text": [
+        "Which of the following alloys contain iron?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Duralumin and steel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Brass and bronze",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Steel and permalloy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Soft solder and duralumin",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8baaa9d0-9dd1-4ee1-981d-19a00ebe995d",
+      "question_text": [
+        "To obtain pure carbon (II) oxide from its mixture with carbon (IV) oxide, the mixture should be"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Oxides, Peroxides, and Hydroxides ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "passed over heated copper (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bubbled through water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bubbled through concentrated tetroxosulphate (VI",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "108a25ac-2cc7-4b36-9318-f40651782344",
+      "question_text": [
+        "The most abundant element on the earth's crust is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "flourine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ad9d2207-2955-4df5-b10c-809f65618769",
+      "question_text": [
+        "Metalliods are also referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Metalloids ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "semi-metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colliods",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "294e9513-aa24-45a2-b531-ca8b2af5bf42",
+      "question_text": [
+        "The ores that can be concentrated by flotation are"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Stoichiometric Calculations ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitride ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sulphide ores",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide ores",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "non-metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a42c0598-1c04-44a6-ae5e-44969cfbf27c",
+      "question_text": [
+        "The property used in the industrial preparation of nitrogen and oxygen from air is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Elevation of the Boiling Point of a Solvent ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rate of diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "boiling point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30a7fc7d-7be8-4810-8ff4-686bed6b0ef0",
+      "question_text": [
+        "In a flame test for calcium, the flame appears"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "green when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "blue when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "orange -red when viewed through a blue glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "brick-red when viewed through a blue-glass",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "74ff2fa9-646c-4a40-bb62-861f0876793b",
+      "question_text": [
+        "N2(g) + 3H2(g) ↔ 2NH3(g) ΔH = -90 kJIn the equation above, the yield of ammonia can be decreased by"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Catalysts Do Not Affect Equilibrium ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "removing the ammonia as it is formed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "adding a catalyst",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "245cb9ad-92e4-412e-acd7-96435e5ccd44",
+      "question_text": [
+        "The gas that can be dried using concentrated tetraoxosulphate (VI) acid is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen bromide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sulphur (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8f3ea0ac-6368-454c-a444-0a6e1556068c",
+      "question_text": [
+        "NH4Cl(s) ↔ NH3(g) + HCL(g)The reaction above can only attain equilibrium if"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Calculations Involving Equilibrium Concentrations ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a gaseous reactant is added",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "one of the products is removed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it is in a closed system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "it is an open system",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,4225 @@
+
+[
+    {
+      "id": "ae48dcfa-23f2-4999-89fa-4b285ad02c72",
+      "question_text": [
+        "Find the effective resistance in the diagram above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "What Causes Resistance? ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy184.jpg",
+      "explanation": "The resistors are in series ∴ Reff = R1 + R2 + .....= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "44689122-62e4-42b7-a652-ce762117ecaf",
+      "question_text": [
+        "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Inductance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy183.jpg",
+      "explanation": "Left = L1 + L2 + L3= 5mH + 10mH + 20mH = 35mH",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.35mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.90mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35.0mH",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6c1ecc29-365c-493e-9dbf-a0a1c8f714cd",
+      "question_text": [
+        "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron[m = 9.1 x 10-31kg, e = 1.6 x 10-19C, h = 6.6 x 10-34js]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "λ =__h√(2evm) =____6.6 x 10-34√(2 x 1.6x10-19 x 10000 x 9.1x10-34)1.223 x 10-11m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.22 x 10-11m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.87 x 10-10m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.27 x 1011m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.27 x 1014m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f362e6a7-662d-4dae-91b5-0d54b34fd203",
+      "question_text": [
+        "14N +4He →17O + X728In the equation above, the particles X is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Particle-Wave Duality Reviewed ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "for the conversion of mass 14 + 4 = 17 + x ∴ X = 18 - 17 = 1for conservation pf charge:7 + 2 = 8 + yy = 9 - 8 = 1Thus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a proton",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an α - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a β - particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19216595-4700-4642-ac55-ce6c00b0b88d",
+      "question_text": [
+        "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy182.jpg",
+      "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "moving Q nearer to O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "moving P nearer to O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "addding a weight Q to Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "moving P further away from O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fbdc4838-5fef-4c06-899e-f75e004bee65",
+      "question_text": [
+        "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy181.jpg",
+      "explanation": "VR = No. of pulleys = 4Efficiency = M.A/V.R x 100% = loadEffort x 100%_V.R∴80 = 1200 x 100 x 1100__Effort4∴ Effort = 1200 x 100 = 375N_80 x 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "275N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "325N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "375N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "573N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19b3fc0c-a7f3-4f66-9396-73a67c8a525f",
+      "question_text": [
+        "The diagram above is the heating curve for a solid QR is the"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy180.jpg",
+      "explanation": "At melting point there is no change temperature",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "melting region",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "boiling region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sublimation region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporating process",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c930141f-1b9d-44c9-a89a-3cfe1fab8789",
+      "question_text": [
+        "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Wave-Like Nature of Em Radiation ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy179.jpg",
+      "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "parallel to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "parallel to OY",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60o to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60v to OY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2214d3a6-6cdb-4777-87bf-572c6fb6ce85",
+      "question_text": [
+        "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Magnifications = V/U = 4∴ V = 4U1/V + 1/U = 1/f1/4u + 1/U = 1/125/4U = 1/124U = 12 x 5 = 60∴ U = 15 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94004564-613e-4018-ad1f-7125584f9e14",
+      "question_text": [
+        "The dimension of electromotive force are `"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Electrical work W = QE,Where Q is the quantity of change and E is the electromotive force.∴ E = W = FxDQ_ItWhere D is the displacement,I = current and t = timeBut dimension of force,= unit of mass x unit of Acceleration  = unit of mass xunit of velocityunit of time  = unit of mass x unit of displacement__unit of time x unit of timeML/T2 = MLT-2∴ Dimension of emf E = MLT-2L = ML2T-3I-1__IT",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ML2T-3I-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ML2T-3I-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M2LT-2I-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M2L2T-1I-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cadfedf-3c6b-4422-a6c9-42f8fec590bf",
+      "question_text": [
+        "The resultant of two forces 12N and 5N is 13N. What is the angle between the two forces?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Introducing the Four Basic Forces ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "R2 - P2 + Q2 = 122 + 52= 144 + 25 = 169∴R = √169 = 13N∴ angle between the forces is 90o",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "90o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "180o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "905c2f93-bbd8-4a20-a1a1-333f39053e04",
+      "question_text": [
+        "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Units of Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The force which is centripetal F = MV2_R=5 x 723.5= 70V = √(Fr) and if F is tripped, then V = √(3Fr)/m= √(3x70x3.5)/5= 12.1ms-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.6 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.1 ms-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "21.0 ms-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef1a869f-0616-4ca5-9282-e0fad7ccde8c",
+      "question_text": [
+        "A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6N and 8N. Calculate the acceleration of the motion"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Man Pulling a Box Example ",
+        " Newton's Laws"
+      ],
+      "explanation": "Smooth plane has negligible friction ∴ only the resultant of the perpendicular forces is acting on the body, which is given asF = √ 82 + 62  = √ 64 + 36  = √ 100 = 10NBut F = Ma∴ a = F/M = 10/4 = 2.5 ms-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 ms-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.0 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.5 ms-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9b242fb-95a8-4017-a98a-671e7581bd5d",
+      "question_text": [
+        "A block of aluminum is heated electrically by a 30 w heater if the temperature rises by 10°c in 5 minutes, the heat capacity of the aluminum is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Heat supplied = Heat gained Pt = MCDθ30 x 5 x 60 = c x 10where c = mc which is the heat capacity c = (30 x 5 x60)/10 = 900 JKg-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "900 JK-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "90 JK-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "100 JK-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "200 JK-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8333948c-27ce-430a-a711-0eca1a88e7e1",
+      "question_text": [
+        "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "(1)/v + (1)/u = (1)/f(1)/v + (1)/15 = (1)/5(1)/v = (1)/5 - (1)/15 = (3 - 1)/15 = (2)/15∴ v = (15)/2 = 7.5 cm magnification = (v)/u = (image size)/object size(7.5)/15 = (X)/4 ∴ image size. X = (7.5 x 4)/15 = 2 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "148bfb57-4712-4a6a-b528-6905670477a5",
+      "question_text": [
+        "I. for current amplification.II. for voltage stabilization. III. for power amplification.IV. as a switch.which of the above are the uses of transistor?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Power in Electric Circuits ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Transistor is used for amplification of current, power and as a switch in logic gates.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I,II,III and IV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I,III, and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "I, II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I,II and IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "815e7c98-a7fc-450d-93c5-87db4e66400c",
+      "question_text": [
+        "The d.c generator has essentially the same components as the a.c generator except the presence of?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "DC Generator ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "To correct and A.C generator with a D.C generator the slip ring is replaced with split-ring communicator",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "slip-ring",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon brushes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "split ring",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "armature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "034a587c-7981-4e35-b5ec-d0df0f429ce3",
+      "question_text": [
+        "A step-down transformer has a power output of 50 W and efficiency of 80%. if the mains supply voltage is 200 v, calculate the primary current of the transformer."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Transformers ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Efficiency = (power output)/power input x 100%= 1s VS x 100% 1pVp∴ (80)/100 = (50)/IP x 200I P = (50 x 100)/80 x 200 = 3.125 A",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.31 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.20 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.40 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.00 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b027bfff-bafe-447f-b0a3-3a9d822df408",
+      "question_text": [
+        "Caesium has a work function of 3 x 10-19J. the maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 1014HZ is?[h = 6.6 x 1010-34Js]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "Max kinetic energy = Energy of incident electron - work function. EK = hf - w= 6.6 x 10-34 x 6.7 x 1014 - 3 x 10-19= 4.422 x 10-19 - 3 x 10-19= 1.422 x 10-19J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.42 x 10-19J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.00 x 10-19J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.42 x 1010-19J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.42 x 10-19J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a58b5dae-e2f8-4c6d-8d6c-9c3bd0d9f2dd",
+      "question_text": [
+        "zener diode is used for?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Zener diode is useful in stabilized power supply i.e to keep steady the voltage of a power supply.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "current amplification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "power amplification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "voltage regulation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "energy conversion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "419f56cd-176c-482e-85c3-6f65e3010a2b",
+      "question_text": [
+        "When a pure semiconductor is heated, its resistance"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Heating a pure semiconductor increases the mobility of electrons and holes and hence the conductivity. thus, the resistance decreases on heating",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreases",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "remains the same",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases and then decreases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "45fc71fa-ace1-47cc-b4d6-8656eb9cbbce",
+      "question_text": [
+        "In the microscope, the eyepiece lens merely acts as?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "The basic function of microscope is magnification",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an inverter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a refiner",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a diminisher",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a magnifier",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3f45da30-9cbe-47d2-9325-ed4b81be722d",
+      "question_text": [
+        "An observer with normal eyes views an object with magnifying glass of focal length 5 cm. the angular magnification is?[least distance of distinct vision D = 25 cm]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Physics of the Eye ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "Angular magnification, M = ((D)/F + 1) where D is least distance of distinct vision ∴ M = ((25)/5 + 1) = -6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44653b0e-4e5b-45a2-8b61-26196dff002e",
+      "question_text": [
+        "A short chain is sometimes attached to the back of a petrol tanker to?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Conductors and Electric Fields in Static Equilibrium ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "The friction between the tanker and air creates charges which the chain conducts to the ground.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "generate more friction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ensure the balancing of the tanker",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "caution the driver when overspeeding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "conduct excess charges to the car",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c6075ea4-a1f0-4af0-9402-b9b5c5df10d3",
+      "question_text": [
+        "An electric generator has e.m.f. of 240 V and an internal resistance of 1Ω if the current supplied by the generatoris 20A when the terminal voltage is 220 V, find the ratio of the power supplied to the power dissipated?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Electric Power and Energy ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Power supplied = IE = 20 X 240 = 4800 WPower dissipated = IV = 20 X 220 = 4400 W(Power supplied)/Power dissipated = (4800 W)/4400 W = (12)/11",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12:11",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11:12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa9d2cd3-f930-4094-9bd9-ffa4327959c6",
+      "question_text": [
+        "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Transformation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Energy consumed = power x time= (60 W x 10 + 40 W x 5) x 24 h= (600 W + 200 W ) x 24 h= 800 W x 24h = 19200 w h= 19.2 kWh",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.96 kWh",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "19.2 kWh",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.60 kWh",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "19.20 kWh",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aaa3e443-2af7-4bdd-9f68-75b67ce3fdbd",
+      "question_text": [
+        "I. Total internal reflection of light.II. Conservation of light energy.III. Relative motion of the earth, sun and moon.IV. Rectilinear propation of light.Which of the above is a phenomenon of total solar eclipse?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summary of Properties of Light ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "Due to rectilinear propagation of light we have ecslipse which occur as a result relative motion of the earth, sun and moon",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and IV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and IV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III and IV only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d23e26f3-4406-4c13-9428-ee93a136065e",
+      "question_text": [
+        "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Image Formation by Thin Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Magnification = (image height)/object height = (lenght camera)/object distance from pin-hole∴(2)/4 = (6)/X X (4 x 6)/2 = 12 cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "16.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da87d1ed-3f35-4de8-9021-042ceac6c7bd",
+      "question_text": [
+        "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "(1)/V + (1)/U = (1)/f(1)/V +  (1)/20 = (1)/10(1)/V = (1)/10 - (1)/20 = (2 -1)/20 = (1)/20∴ V = 20 cm mag = (image height)/object height = (v)/u(X)/5 = (20)/50X = 5 cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "266401f9-42fe-4360-84e6-13eba31ac8b1",
+      "question_text": [
+        "Convex mirror are used as driving mirrors because images formed are?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "Image formed by convex mirror is always erect, virtual and diminished",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "erect, virtual and diminished",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "erect, real and diminished",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "erect, virtual and magnified",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inverted virtual and diminished",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "783b7aae-fffe-4d31-9e4d-c4a11e017adf",
+      "question_text": [
+        "An object placed at the bottom of a well full of clear water appears closer to the surface due to?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Surface Tension ",
+        " Fluid Statics"
+      ],
+      "explanation": "Real depth and apparent dept is due to refraction",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diffraction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "refraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "polarization",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aed4c90b-57ba-403f-b3a1-bc5f7b58f745",
+      "question_text": [
+        "If the partial pressure of water vapour at 27°C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Humidity, Evaporation, and Boiling ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Relative Humidity = (S.V.P. of water at dew point)/S.V.P of    water at air temperature =(18)/24 x 100% = 75%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "33%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "75%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "82%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c3918a7-2b49-4b73-b39c-ba8824b20fde",
+      "question_text": [
+        "In a good thermos flask, the main cause of heat loss is?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Conduction ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Since the cork is in contact with the walls of the flask, little conduction takes place",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "conduction through the cork",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the plastic base of the thermos flask",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the silvered walls and shiny metals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the outer cover or jacker",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c50b4156-29e3-4c0e-a2c2-c0de03ba5271",
+      "question_text": [
+        "Given the progressive wave equation y = 5 sin (2000 πt - 0.4x), calculate wave length"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 5sin (200 πt - 0.4X) with the wave equation y = A sin (wt -KX) K = (2π)/λ = 0.4  ∴ λ = (2π)/0.4 = 15.7M",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12.4 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15.7 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17.5 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18.6 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fcbc7baf-87ea-448f-8540-64060abcdee6",
+      "question_text": [
+        "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Timber/ quality depends on the overtones or harmonics, and timber is a characteristic property of source of sound.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "wavelength",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "harmonies",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "frequency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "velocity",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "399f21da-b798-4c95-9841-8680227a4a1f",
+      "question_text": [
+        "When cold water is poured on a can containing hot water, the can collapses because the"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Gauge Pressure, Absolute Pressure, and Pressure Measurement ",
+        " Fluid Statics"
+      ],
+      "explanation": "Cold water reduces the temperature of the hot water inside the can causing the contraction of the hot water. This reduces the pressure inside the can and the can collapses due to the external greater expression.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "steam condeses and occupies the partial vacuum in the can",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "external air pressure counter balances the pressure within the can",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "steam expands to occupy the vacuum remaining in the can",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "external pressure becomes greater than the pressure within the can.",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "68346fdb-ae9d-4954-b412-f705a47f0f2b",
+      "question_text": [
+        "An empty density bottle weighs 2 N. if its weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Density and Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "relative density = (weight of substance )/weight of equal volume of water = (4 - 2)/5 - 2 = (2)/3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "/3C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4c678a75-9c79-41c4-a323-fca88a0a9b9a",
+      "question_text": [
+        "The thermometric properties of a thermocouple is the change in?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Temperature difference between hot and cold junctions of thermocouple is proportional to the emf. generated",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "equivalent resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "electromotive force",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "colour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "pressure",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cbf6e8ab-2a3e-418f-8b2d-437bcad25693",
+      "question_text": [
+        "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Time ",
+        " One-Dimensional Kinematics"
+      ],
+      "explanation": "The elastic potential energy of the balance wheel reduces as the wheel expands, therefore the clock will loose time.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the clock gians time",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the accuracy of the clock is not affected",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the clock losses time",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "the clock stops working",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dc8a591a-bb33-4984-8641-8be2302d1180",
+      "question_text": [
+        "A sealed flask contains 600cm3 of air at 27°C and is heated to 35°C at constant pressure. The new volume is?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "pv Diagrams and Their Relationship to Work Done On Or by a Gas ",
+        " Thermodynamics"
+      ],
+      "explanation": "V1 = 600cm3, T1 = 27 = 273 = 300kT2 = 35 + 273 = 308K, V2 = ?(V)1/T1= (V)2/T2 = V2 = (V)1/T1 x X T2 = (600 X 308)/300 = 616 cm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "508 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "516 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "608 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "616 cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "92c6181b-6bc0-48f0-8f66-c2b6a917df27",
+      "question_text": [
+        "If a body mass 5kg is thrown vertically upwards with velocity u,at what height will the potential energy equal to the kinetic energy?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Converting Between Potential Energy and Kinetic Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "From V2 = U2 + 2as O = U 2 - 2gH, since at maximum height H, the final velocity, v = O.∴ H = (U)2/2gPE = KE at (1)/2 H = (U)2/2g x (1)/2 = U2 4g",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "h =(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2/g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "h = (",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2/4gC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e45cec3c-6e69-4203-a0df-5c8d86c475d1",
+      "question_text": [
+        "Counting of currency notes with moist fingers is based on the principles of?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Van De Graaff Generator ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "since currency and finger contain unlike molecules, the force involved is adhesion",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cohesion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "adhesion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "viscosity",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fca211a3-d826-41f7-a7f4-5f30be84b8cf",
+      "question_text": [
+        "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms-1. find the coefficient of friction between the road and the tyres."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "More Static Friction Examples ",
+        " Newton's Laws"
+      ],
+      "explanation": "F = (mv)2/r = (100 x 5)2 = 250N R = mg = 100 x 10 - 1000N coefficient of friction, µ = (F)/R = (250)/1000 = 0.25",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.25",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4da7750b-e665-4f09-bdbc-99a712c3edf2",
+      "question_text": [
+        "A spring of force constant 500 NM-1 is compressed such that its length shortens by 5cm. The energy stored in the spring is?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Energy stored in a spring = (1)/2 K e2 = (1)/2 x 500(0.05)2 = 0.625J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.625 J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.250 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "62.500 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "625.000 J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "77e4c13f-1f2c-495b-82c8-4320e06145d0",
+      "question_text": [
+        "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "hlpl = hwpwwhere, L =liquid and W = water (pl)/pw = (hw)/hl = (26.5)/20.4  = 1.299",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "933410cd-9511-4c5c-b8c2-0e88d74cf51b",
+      "question_text": [
+        "I. Force (N)II.Torque (NM)III. Current (A)IV. Power (W)Which of the above are the correct S. I: units of the quantities indicated?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Torque On a Current Loop ",
+        " Magnetism"
+      ],
+      "explanation": "Torque has the same unit as moment = Nm∴i, iii and iv have correct units.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I, II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, III and IV only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e3c78b1b-da06-4bb7-acc4-d1f744a15e87",
+      "question_text": [
+        "Which of the following is NOT a vector quantity?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing the Graphical Method of Vector Addition and Subtraction ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "Altitude is just a measure of height, regardless of direction.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "altitude",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "acceleration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "displacement",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "weight",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80865304-bd1f-41e0-8350-3efd7050194c",
+      "question_text": [
+        "If a wheel 1.2 m in diameter rotates at one revolation per second, calculate the velocity of the wheel."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Gyroscopic Effects: Vector Aspects of Angular Momentum ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "V = wr = 2πf r = 2 x (22)/7 x 1 x 0.6 = 3.77ms-1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.6 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.77 ms-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.5 ms-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bcf37646-4d72-4d31-aac1-66cc66a63d44",
+      "question_text": [
+        "I. All the three forces must be concurrent.II. The upward force is equal to the downward force.III. The algebraic sum of the moment about any point must be zero.which of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Forces in Equilibrium ",
+        " Newton's Laws"
+      ],
+      "explanation": "Option ii is one of the condition of an equilibrium of parallel forces only i and iii are correct",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6a7ad7a7-086d-4591-a70f-ac5923ae8d90",
+      "question_text": [
+        "What is the frquency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Kinematics of Rotational Motion ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "Frequency = (No. of revolutions)/ Time = (90)/25 = 3.6 Hz",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.01 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.04 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.27 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.60 Hz",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1249cd89-d0f7-4325-98be-594223a8e1ce",
+      "question_text": [
+        "Find the effective resistance in the diagram above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "What Causes Resistance? ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy184.jpg",
+      "explanation": "The resistors are in series ∴ Reff = R1 + R2 + .....= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "28dcd90a-9dc5-4a2c-a1b2-81d347ac46f4",
+      "question_text": [
+        "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Inductance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy183.jpg",
+      "explanation": "Left = L1 + L2 + L3= 5mH + 10mH + 20mH = 35mH",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.35mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.90mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35.0mH",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e62022a9-13fa-4eec-97a6-9b5dedc03860",
+      "question_text": [
+        "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron[m = 9.1 x 10-31kg, e = 1.6 x 10-19C, h = 6.6 x 10-34js]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "λ =__h√(2evm) =____6.6 x 10-34√(2 x 1.6x10-19 x 10000 x 9.1x10-34)1.223 x 10-11m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.22 x 10-11m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.87 x 10-10m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.27 x 1011m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.27 x 1014m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3f5a208-ca1e-4c44-a867-cbf2af5c0612",
+      "question_text": [
+        "14N +4He →17O + X728In the equation above, the particles X is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Particle-Wave Duality Reviewed ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "for the conversion of mass 14 + 4 = 17 + x ∴ X = 18 - 17 = 1for conservation pf charge:7 + 2 = 8 + yy = 9 - 8 = 1Thus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a proton",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an α - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a β - particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "90233b83-7fbd-43f0-8b85-cfab2871d4da",
+      "question_text": [
+        "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy182.jpg",
+      "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "moving Q nearer to O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "moving P nearer to O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "addding a weight Q to Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "moving P further away from O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "32441e6e-172b-4ab3-b413-56566652c305",
+      "question_text": [
+        "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy181.jpg",
+      "explanation": "VR = No. of pulleys = 4Efficiency = M.A/V.R x 100% = loadEffort x 100%_V.R∴80 = 1200 x 100 x 1100__Effort4∴ Effort = 1200 x 100 = 375N_80 x 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "275N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "325N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "375N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "573N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9f7ed70-9b90-4b42-bd75-0b209b39e05f",
+      "question_text": [
+        "The diagram above is the heating curve for a solid QR is the"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy180.jpg",
+      "explanation": "At melting point there is no change temperature",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "melting region",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "boiling region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sublimation region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporating process",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9b88ae22-ac73-4b7c-9b67-e4566258815c",
+      "question_text": [
+        "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Wave-Like Nature of Em Radiation ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy179.jpg",
+      "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "parallel to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "parallel to OY",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60o to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60v to OY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c646264e-f940-4d7b-b5c7-7ce5422f59bb",
+      "question_text": [
+        "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Magnifications = V/U = 4∴ V = 4U1/V + 1/U = 1/f1/4u + 1/U = 1/125/4U = 1/124U = 12 x 5 = 60∴ U = 15 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b087b5d5-8aa5-40fb-a74c-7edd53cf30b4",
+      "question_text": [
+        "The dimension of electromotive force are `"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Electrical work W = QE,Where Q is the quantity of change and E is the electromotive force.∴ E = W = FxDQ_ItWhere D is the displacement,I = current and t = timeBut dimension of force,= unit of mass x unit of Acceleration  = unit of mass xunit of velocityunit of time  = unit of mass x unit of displacement__unit of time x unit of timeML/T2 = MLT-2∴ Dimension of emf E = MLT-2L = ML2T-3I-1__IT",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ML2T-3I-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ML2T-3I-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M2LT-2I-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M2L2T-1I-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96fc6be9-a8dd-404a-8239-c0d8aa5e81dc",
+      "question_text": [
+        "Find the effective resistance in the diagram above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "What Causes Resistance? ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy184.jpg",
+      "explanation": "The resistors are in series ∴ Reff = R1 + R2 + .....= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bd87f540-c185-49ad-8986-d812db1663cb",
+      "question_text": [
+        "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Inductance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy183.jpg",
+      "explanation": "Left = L1 + L2 + L3= 5mH + 10mH + 20mH = 35mH",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.35mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.90mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35.0mH",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8b032781-8e02-4739-a771-ac7316fd39d1",
+      "question_text": [
+        "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron[m = 9.1 x 10-31kg, e = 1.6 x 10-19C, h = 6.6 x 10-34js]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "λ =__h√(2evm) =____6.6 x 10-34√(2 x 1.6x10-19 x 10000 x 9.1x10-34)1.223 x 10-11m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.22 x 10-11m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.87 x 10-10m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.27 x 1011m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.27 x 1014m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4488d20a-a961-4b13-90e5-9de24c5e8669",
+      "question_text": [
+        "14N +4He →17O + X728In the equation above, the particles X is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Particle-Wave Duality Reviewed ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "for the conversion of mass 14 + 4 = 17 + x ∴ X = 18 - 17 = 1for conservation pf charge:7 + 2 = 8 + yy = 9 - 8 = 1Thus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a proton",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an α - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a β - particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ec829fe-9d3e-4bba-a453-f246d171e042",
+      "question_text": [
+        "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy182.jpg",
+      "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "moving Q nearer to O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "moving P nearer to O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "addding a weight Q to Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "moving P further away from O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71f162b8-384a-4d71-b722-58f18ae5480a",
+      "question_text": [
+        "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy181.jpg",
+      "explanation": "VR = No. of pulleys = 4Efficiency = M.A/V.R x 100% = loadEffort x 100%_V.R∴80 = 1200 x 100 x 1100__Effort4∴ Effort = 1200 x 100 = 375N_80 x 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "275N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "325N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "375N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "573N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "601a3161-abe5-4441-94a4-cb3cddcd6cbd",
+      "question_text": [
+        "The diagram above is the heating curve for a solid QR is the"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy180.jpg",
+      "explanation": "At melting point there is no change temperature",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "melting region",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "boiling region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sublimation region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporating process",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9772d87b-df0b-4367-bd0d-18b44b24e447",
+      "question_text": [
+        "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Wave-Like Nature of Em Radiation ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy179.jpg",
+      "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "parallel to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "parallel to OY",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60o to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60v to OY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a23a59b2-408a-4fa3-9f3f-d3e3e68dd45e",
+      "question_text": [
+        "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Magnifications = V/U = 4∴ V = 4U1/V + 1/U = 1/f1/4u + 1/U = 1/125/4U = 1/124U = 12 x 5 = 60∴ U = 15 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c987236c-cfb7-4956-9183-056f5a34cc14",
+      "question_text": [
+        "The dimension of electromotive force are `"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Electrical work W = QE,Where Q is the quantity of change and E is the electromotive force.∴ E = W = FxDQ_ItWhere D is the displacement,I = current and t = timeBut dimension of force,= unit of mass x unit of Acceleration  = unit of mass xunit of velocityunit of time  = unit of mass x unit of displacement__unit of time x unit of timeML/T2 = MLT-2∴ Dimension of emf E = MLT-2L = ML2T-3I-1__IT",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ML2T-3I-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ML2T-3I-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M2LT-2I-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M2L2T-1I-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c78269b-2fc3-4133-bed8-87a72c9fd914",
+      "question_text": [
+        "Find the effective resistance in the diagram above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "What Causes Resistance? ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy184.jpg",
+      "explanation": "The resistors are in series ∴ Reff = R1 + R2 + .....= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bcdf0cc0-1d73-455c-b93e-1721cee3d533",
+      "question_text": [
+        "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Inductance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy183.jpg",
+      "explanation": "Left = L1 + L2 + L3= 5mH + 10mH + 20mH = 35mH",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.35mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.90mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35.0mH",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "856bbe44-e321-4ffc-9cc1-12e7d7dab89d",
+      "question_text": [
+        "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron[m = 9.1 x 10-31kg, e = 1.6 x 10-19C, h = 6.6 x 10-34js]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "λ =__h√(2evm) =____6.6 x 10-34√(2 x 1.6x10-19 x 10000 x 9.1x10-34)1.223 x 10-11m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.22 x 10-11m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.87 x 10-10m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.27 x 1011m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.27 x 1014m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "515d6b81-c84f-487c-aba5-84354ad0a21d",
+      "question_text": [
+        "14N +4He →17O + X728In the equation above, the particles X is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Particle-Wave Duality Reviewed ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "for the conversion of mass 14 + 4 = 17 + x ∴ X = 18 - 17 = 1for conservation pf charge:7 + 2 = 8 + yy = 9 - 8 = 1Thus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a proton",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an α - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a β - particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aef17210-e72f-4cea-ab1c-b244ca3288b9",
+      "question_text": [
+        "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy182.jpg",
+      "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "moving Q nearer to O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "moving P nearer to O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "addding a weight Q to Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "moving P further away from O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "652a58c1-3b34-4ec9-a996-b9004443d836",
+      "question_text": [
+        "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy181.jpg",
+      "explanation": "VR = No. of pulleys = 4Efficiency = M.A/V.R x 100% = loadEffort x 100%_V.R∴80 = 1200 x 100 x 1100__Effort4∴ Effort = 1200 x 100 = 375N_80 x 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "275N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "325N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "375N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "573N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa7de191-2f33-47ed-a3d3-9e9ba47bdc6f",
+      "question_text": [
+        "The diagram above is the heating curve for a solid QR is the"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy180.jpg",
+      "explanation": "At melting point there is no change temperature",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "melting region",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "boiling region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sublimation region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporating process",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3bdd151-69b8-4e9a-9aab-655fff7dbc50",
+      "question_text": [
+        "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Wave-Like Nature of Em Radiation ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy179.jpg",
+      "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "parallel to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "parallel to OY",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60o to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60v to OY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3149dd8-8ebf-41fe-a71f-8a5654dd031d",
+      "question_text": [
+        "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Magnifications = V/U = 4∴ V = 4U1/V + 1/U = 1/f1/4u + 1/U = 1/125/4U = 1/124U = 12 x 5 = 60∴ U = 15 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b0b8a72-f1a0-47ce-b5ea-85d330199cf2",
+      "question_text": [
+        "The dimension of electromotive force are `"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Electrical work W = QE,Where Q is the quantity of change and E is the electromotive force.∴ E = W = FxDQ_ItWhere D is the displacement,I = current and t = timeBut dimension of force,= unit of mass x unit of Acceleration  = unit of mass xunit of velocityunit of time  = unit of mass x unit of displacement__unit of time x unit of timeML/T2 = MLT-2∴ Dimension of emf E = MLT-2L = ML2T-3I-1__IT",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ML2T-3I-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ML2T-3I-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M2LT-2I-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M2L2T-1I-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab69ac8e-1043-454e-bec9-6e7e3bc70553",
+      "question_text": [
+        "Find the effective resistance in the diagram above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "What Causes Resistance? ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy184.jpg",
+      "explanation": "The resistors are in series ∴ Reff = R1 + R2 + .....= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "164b6be5-d70b-4ac8-935f-d5f36fb9cf74",
+      "question_text": [
+        "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Inductance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy183.jpg",
+      "explanation": "Left = L1 + L2 + L3= 5mH + 10mH + 20mH = 35mH",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.35mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.90mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35.0mH",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "364124c8-610d-44c6-b763-6348fadc655b",
+      "question_text": [
+        "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron[m = 9.1 x 10-31kg, e = 1.6 x 10-19C, h = 6.6 x 10-34js]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "λ =__h√(2evm) =____6.6 x 10-34√(2 x 1.6x10-19 x 10000 x 9.1x10-34)1.223 x 10-11m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.22 x 10-11m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.87 x 10-10m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.27 x 1011m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.27 x 1014m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98689e0e-1b5f-4d12-92ae-125e79976f73",
+      "question_text": [
+        "14N +4He →17O + X728In the equation above, the particles X is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Particle-Wave Duality Reviewed ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "for the conversion of mass 14 + 4 = 17 + x ∴ X = 18 - 17 = 1for conservation pf charge:7 + 2 = 8 + yy = 9 - 8 = 1Thus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a proton",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an α - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a β - particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f2eee44b-088b-4a2a-a014-c924a015c219",
+      "question_text": [
+        "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy182.jpg",
+      "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "moving Q nearer to O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "moving P nearer to O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "addding a weight Q to Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "moving P further away from O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16d768d1-c684-4e84-b7ea-4e9a1fbf8b79",
+      "question_text": [
+        "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy181.jpg",
+      "explanation": "VR = No. of pulleys = 4Efficiency = M.A/V.R x 100% = loadEffort x 100%_V.R∴80 = 1200 x 100 x 1100__Effort4∴ Effort = 1200 x 100 = 375N_80 x 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "275N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "325N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "375N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "573N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af17a93f-1e13-4654-922e-e8a79d80fef7",
+      "question_text": [
+        "The diagram above is the heating curve for a solid QR is the"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy180.jpg",
+      "explanation": "At melting point there is no change temperature",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "melting region",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "boiling region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sublimation region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporating process",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "975fb893-dbb7-482a-a7e5-31de2d9adea2",
+      "question_text": [
+        "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Wave-Like Nature of Em Radiation ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy179.jpg",
+      "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "parallel to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "parallel to OY",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60o to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60v to OY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9bee8084-fbaf-4469-b0aa-4094239227ea",
+      "question_text": [
+        "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Magnifications = V/U = 4∴ V = 4U1/V + 1/U = 1/f1/4u + 1/U = 1/125/4U = 1/124U = 12 x 5 = 60∴ U = 15 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "620fcbdf-8306-458b-a3f3-0651ebc003fd",
+      "question_text": [
+        "The dimension of electromotive force are `"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Electrical work W = QE,Where Q is the quantity of change and E is the electromotive force.∴ E = W = FxDQ_ItWhere D is the displacement,I = current and t = timeBut dimension of force,= unit of mass x unit of Acceleration  = unit of mass xunit of velocityunit of time  = unit of mass x unit of displacement__unit of time x unit of timeML/T2 = MLT-2∴ Dimension of emf E = MLT-2L = ML2T-3I-1__IT",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ML2T-3I-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ML2T-3I-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M2LT-2I-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M2L2T-1I-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3921658a-d294-4d71-a244-5cc915b1d413",
+      "question_text": [
+        "Find the effective resistance in the diagram above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "What Causes Resistance? ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy184.jpg",
+      "explanation": "The resistors are in series ∴ Reff = R1 + R2 + .....= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f7a4d04c-e58b-4137-b21f-caf5e02dce90",
+      "question_text": [
+        "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Inductance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy183.jpg",
+      "explanation": "Left = L1 + L2 + L3= 5mH + 10mH + 20mH = 35mH",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.35mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.90mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35.0mH",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1a7d1000-9591-472a-813e-a94afde2c3d0",
+      "question_text": [
+        "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron[m = 9.1 x 10-31kg, e = 1.6 x 10-19C, h = 6.6 x 10-34js]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "λ =__h√(2evm) =____6.6 x 10-34√(2 x 1.6x10-19 x 10000 x 9.1x10-34)1.223 x 10-11m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.22 x 10-11m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.87 x 10-10m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.27 x 1011m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.27 x 1014m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "57da204b-969d-4105-8991-974c01bc01c0",
+      "question_text": [
+        "14N +4He →17O + X728In the equation above, the particles X is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Particle-Wave Duality Reviewed ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "for the conversion of mass 14 + 4 = 17 + x ∴ X = 18 - 17 = 1for conservation pf charge:7 + 2 = 8 + yy = 9 - 8 = 1Thus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a proton",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an α - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a β - particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2569bdb-7d51-4650-b77a-04244aee115d",
+      "question_text": [
+        "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy182.jpg",
+      "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "moving Q nearer to O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "moving P nearer to O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "addding a weight Q to Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "moving P further away from O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "519c140f-6775-44a0-8476-6a070b3f4029",
+      "question_text": [
+        "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy181.jpg",
+      "explanation": "VR = No. of pulleys = 4Efficiency = M.A/V.R x 100% = loadEffort x 100%_V.R∴80 = 1200 x 100 x 1100__Effort4∴ Effort = 1200 x 100 = 375N_80 x 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "275N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "325N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "375N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "573N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "65ee89d2-ff2f-4ab0-aa1c-d1c52b44e189",
+      "question_text": [
+        "The diagram above is the heating curve for a solid QR is the"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy180.jpg",
+      "explanation": "At melting point there is no change temperature",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "melting region",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "boiling region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sublimation region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporating process",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc57dfaf-bac5-447b-83db-5bbbf068de33",
+      "question_text": [
+        "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Wave-Like Nature of Em Radiation ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy179.jpg",
+      "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "parallel to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "parallel to OY",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60o to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60v to OY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5da75d00-0440-4b48-9663-2a4f7bb5c8cd",
+      "question_text": [
+        "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Magnifications = V/U = 4∴ V = 4U1/V + 1/U = 1/f1/4u + 1/U = 1/125/4U = 1/124U = 12 x 5 = 60∴ U = 15 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2c26a66-3089-4b9d-ad0a-0f5694d1e0a1",
+      "question_text": [
+        "The dimension of electromotive force are `"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Electrical work W = QE,Where Q is the quantity of change and E is the electromotive force.∴ E = W = FxDQ_ItWhere D is the displacement,I = current and t = timeBut dimension of force,= unit of mass x unit of Acceleration  = unit of mass xunit of velocityunit of time  = unit of mass x unit of displacement__unit of time x unit of timeML/T2 = MLT-2∴ Dimension of emf E = MLT-2L = ML2T-3I-1__IT",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ML2T-3I-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ML2T-3I-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M2LT-2I-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M2L2T-1I-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28c7bef9-0cec-4f38-ac96-e814b9bc6de8",
+      "question_text": [
+        "Find the effective resistance in the diagram above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "What Causes Resistance? ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy184.jpg",
+      "explanation": "The resistors are in series ∴ Reff = R1 + R2 + .....= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0adc825e-7b25-483f-a8e6-ce887d79178a",
+      "question_text": [
+        "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Inductance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy183.jpg",
+      "explanation": "Left = L1 + L2 + L3= 5mH + 10mH + 20mH = 35mH",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.35mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.90mH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35.0mH",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6e87bfb0-0aea-41e5-8263-86084132bd9a",
+      "question_text": [
+        "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron[m = 9.1 x 10-31kg, e = 1.6 x 10-19C, h = 6.6 x 10-34js]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "λ =__h√(2evm) =____6.6 x 10-34√(2 x 1.6x10-19 x 10000 x 9.1x10-34)1.223 x 10-11m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.22 x 10-11m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.87 x 10-10m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.27 x 1011m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.27 x 1014m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bdfb01b1-d6db-4c70-abcd-4ddcce686451",
+      "question_text": [
+        "14N +4He →17O + X728In the equation above, the particles X is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Particle-Wave Duality Reviewed ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "for the conversion of mass 14 + 4 = 17 + x ∴ X = 18 - 17 = 1for conservation pf charge:7 + 2 = 8 + yy = 9 - 8 = 1Thus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a proton",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an α - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a β - particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b93524ff-d484-4340-9703-8e9ee5da92c3",
+      "question_text": [
+        "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy182.jpg",
+      "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "moving Q nearer to O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "moving P nearer to O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "addding a weight Q to Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "moving P further away from O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "515086f8-d586-44a7-97ba-a6b11f186c74",
+      "question_text": [
+        "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy181.jpg",
+      "explanation": "VR = No. of pulleys = 4Efficiency = M.A/V.R x 100% = loadEffort x 100%_V.R∴80 = 1200 x 100 x 1100__Effort4∴ Effort = 1200 x 100 = 375N_80 x 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "275N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "325N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "375N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "573N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd2ea677-dadc-4b03-ba1f-afb1edb02c2f",
+      "question_text": [
+        "The diagram above is the heating curve for a solid QR is the"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy180.jpg",
+      "explanation": "At melting point there is no change temperature",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "melting region",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "boiling region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sublimation region",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporating process",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2709d30a-869e-4625-a7f8-e11f5ec49c3b",
+      "question_text": [
+        "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Wave-Like Nature of Em Radiation ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy179.jpg",
+      "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "parallel to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "parallel to OY",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60o to OX",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60v to OY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5de9b8b2-4e38-4840-bca3-bdca487d3d3a",
+      "question_text": [
+        "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Magnifications = V/U = 4∴ V = 4U1/V + 1/U = 1/f1/4u + 1/U = 1/125/4U = 1/124U = 12 x 5 = 60∴ U = 15 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd081e36-736c-4a05-a57c-6e9440e5362d",
+      "question_text": [
+        "The dimension of electromotive force are `"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Electrical work W = QE,Where Q is the quantity of change and E is the electromotive force.∴ E = W = FxDQ_ItWhere D is the displacement,I = current and t = timeBut dimension of force,= unit of mass x unit of Acceleration  = unit of mass xunit of velocityunit of time  = unit of mass x unit of displacement__unit of time x unit of timeML/T2 = MLT-2∴ Dimension of emf E = MLT-2L = ML2T-3I-1__IT",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ML2T-3I-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ML2T-3I-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M2LT-2I-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M2L2T-1I-1",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

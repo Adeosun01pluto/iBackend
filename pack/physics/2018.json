@@ -1,0 +1,3036 @@
+
+[
+    {
+      "id": "1ec7b4c6-05ad-48d0-baab-c0c17623ee64",
+      "question_text": [
+        "A man walks 1km due east and then 1 km due north. His displacement is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Magnitude of displacement = \\(\\sqrt{1^2 + 1^2} = \\sqrt{2}\\text{km}\\) Direction of displacement, \\(\\theta\\): \\(\\tan \\theta = \\frac{1}{1}\\) \\(\\theta = \\tan^{-1} 1\\) \\(\\theta = 45^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "√2km N 45°E",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1km N 30°E",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1km N 15°E",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "√2km N 60°E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80ccc866-1c06-4dd9-90d3-9aebc6a11506",
+      "question_text": [
+        "The density of 400cm3 of palm oil was 0.9gcm-3 before frying. If the density of the oil was 0.6gcm-3 after frying, assuming no loss of oil due to spilling, its new volume was?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "\\(\\text{Density} = \\cfrac{\\text{mass}}{\\text{volume}}\\) \\(\\text{Initial mass} = \\text{initial density} \\times \\text{initial volume}\\) \\(= 0.9\\mathrm{gcm^{-3}} \\times 400\\mathrm{cm^3}\\) \\(= 360\\text{g}\\) \\(\\text{Final volume} = \\cfrac{\\text{mass}}{\\text{final density}} = \\cfrac{360\\text{g}}{0.6\\mathrm{gcm^{-3}}}\\) \\(= 600\\mathrm{cm^{-3}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1360cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "600cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "775fe541-ee97-4677-8c49-d4a43e152fd7",
+      "question_text": [
+        "Natural radioactivity consists of the emission of"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Radioactive decay releases different types of energetic emissions. The three most common types of radioactive emissions are alpha particles, beta particles, and gamma rays.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "α- particles and β-rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "α- particles and X-rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "α- particles, β - rays and g-rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "γ- rays and X-rays",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "baa6126c-1263-473e-9b0c-fc65690578c6",
+      "question_text": [
+        "Which of the following is true of an electrical charge?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Electric charge is the physical property of matter that causes it to experience a force when placed in an electromagnetic field. There are two types of electric charges; positive and negative (commonly carried by protons and electrons respectively). Like charges repel and unlike attract.Positive charge means deficit electrons. Negative charge means excess of electrons. Electric current means movement of electrons.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Positive charge means deficit electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Negative charge means excess of electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "electric current means movement of electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "All of the above",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ba28fa9b-d40d-4b61-8f1d-724995cfe4ef",
+      "question_text": [
+        "Which of the following does NOT describe the Image formed by a plane minor?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Plane mirrors produce images with a number of distinguishable characteristics. Images formed by plane mirrors are virtual, upright, left-right reversed, the same distance from the mirror as the object's distance, and the same size as the object.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Erect",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Laterally inverted",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Same distance from mirror as object",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Magnified",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "805212fd-af40-4089-8e51-67b6cfad7d06",
+      "question_text": [
+        "What is the resultant resistance of the circuit in the image shown?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/phy_1.jpeg",
+      "explanation": "Formulae resistance in parallel = 1/R = 1/R1 +1/R2 1/R = 1/2 +1/2 = 1 Resistance are now in series R = 1 + 3 + 4 = 8 ohms",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "11Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.6Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "89086d40-cba1-4bb7-83ad-6f06587f2d19",
+      "question_text": [
+        "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Water is heated, turns into steam and spins a steam turbine which drives the electrical generator. The steam released powers an engine called a turbine, transforming heat energy from burning coal into mechanical energy, particularly kinetic energy that spins the turbine engine. The kinetic energy of the spinning turbine does work in a generator, a machine that turns this work into electric energy. The lamp uses this electricity to generate heat and light.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "heat ----> Light----> Sound ----> Kinetic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Kinetic ----> Light ----> Heat ----> Electricity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "heat ----> Kinetic ----> Electricity ----> Heat and Light",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "electricity ----> Kinetic ----> Heat ----> Light",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dab0c1ab-758d-4922-a885-ecec7c6c7ea5",
+      "question_text": [
+        "Cathode rays are"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Cathode rays (electron beam or e-beam) are streams of electrons observed in vacuum tubes. Thomson showed that cathode rays were composed of a previously unknown negatively charged particle, which was later named the electron.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "High-energy electromagnetic waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "protons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "streams of electrons",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5e29125f-79cb-4b02-b19c-55d736ceba1f",
+      "question_text": [
+        "A narrow beam of white light can be split up into different colours by a glass prism. The correct explanation is that"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "When light passes through a prism the light bends. As a result, the different colors that make up white light become separated. This happens because each color has a particular wavelength and each wavelength bends at a different angle.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "white light Is an electromagnetic wave",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the prism has all the colours of the white light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "different colours of white light travel with different speeds in glass",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "white light has undergone total Internal reflection in the prism",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a3bef5e2-ccb5-4100-bd54-405741661826",
+      "question_text": [
+        "The diagram shown represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40, then the value of W is?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/phy_2.jpeg",
+      "explanation": "Let the total number of pulleys used in both the blocks be \\(n\\). In a block-and-tackle pulley system, the velocity ratio is equal to n. Efficiency = \\(\\cfrac{\\text{MA}}{\\text{VR}} \\times 100\\%\\) \\(\\text{MA} = \\cfrac{\\text{L}}{\\text{E}}, \\text{VR} = n\\) Efficiency = \\(\\cfrac{\\text{L}}{\\text{E}} \\times \\cfrac{1}{\\text{n}} \\times 100\\%\\) \\(\\text{E} = \\cfrac{\\text{L}}{\\text{Eff.} \\times n} \\times 100\\%\\) \\(\\text{E} = \\cfrac{120\\text{N}}{40\\% \\times 6} \\times 100\\%\\) \\(\\text{E} = 50\\text{N}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "28.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "48.0N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "233.0N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50.0N",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "03e2b25c-91b1-4bd6-9af9-f64d211f751b",
+      "question_text": [
+        "What type of reaction is represented by the following scheme?\\(_{1} ^{2} X\\) + \\(_{1} ^{2} Y\\)  -----> \\(_{2} ^{3} Z\\) + \\(_{1} ^{0} n\\) + energy"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Nuclear fusion is a process where two or more nuclei combine to form an element with a higher atomic number (more protons in the nucleus). Fusion is the reverse process of nuclear fission. Fusion reactions power the Sun and other stars. Fusion releases energy.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "fusion reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "fission reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Chain reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "radioactive decay",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d4163e3-c759-4843-8ba8-53f44c8323ec",
+      "question_text": [
+        "The amount of heat needed to raise the temperature of 10kg of Copper by 1K is its"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Specific heat capacity of a substance is the amount of heat required to raise the temperature of a unit mass of it through  1 Kelvin and measured in J/Kg/K, whereas heat or thermal capacity of a body is the quantity of heat required to raise it's temperature by 1 Kelvin and measured in J/K.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "specific heat capacity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "latent heat",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "heat capacity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "internal energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "999b1e58-5ad9-4889-9a68-555afac758ca",
+      "question_text": [
+        "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "M = ZIt M is the mass deposited in g Z is Electrochemical equivalent in g/C I is current on ampere t is time in seconds I = M ÷ (Z × t) I = 36 ÷ (0.0012 × 5 × 60) I = 100A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6000A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "38b4404b-2552-4525-ac74-3962064a7d93",
+      "question_text": [
+        "Shadows and eclipses result from the"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "The rectilinear propagation of light means that light travels in straight lines as a wave. This can be observed in the well-defined shadows formed when an object blocks a light source and through the use of a pinhole camera.According to Sudipa Sarkar, the formation of shadows with sharp edges demonstrates the rectilinear propagation of light, i.e. The fact that light travels in straight line. When an opaque obstacle is placed between a source of light and a screen, a shadow of the obstacle is formed on the screen. The kind of shadow depends on the size of the source of light. If it is a point source (light from a small hole), the shadow obtained is a region of total darkness, called umbra.If an extended source of light, e.g. a bulb, is used, the umbra is surrounded by a region of partial darkness, called penumbra. The moon is seen because it reflects the sun's light. An eclipse of the moon (lunar eclipse) occurs when the earth comes between the sun and the moon and prevents some of the light from the sun from reaching the moon. In other words, the earth casts its shadow on the moon. The solar eclipse occurs when the moon comes between the sun and the earth.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "refraction of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "reflection of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "defraction of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rectilinear propagation of light",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7e6f205a-87b1-4fe7-9dcf-053295dcdf97",
+      "question_text": [
+        "Which of the following obeys Ohm's law?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Ohm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "all metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "diode only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "all electrolytes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "204d86b6-dbc3-487f-bdc0-4e758f4b8e0b",
+      "question_text": [
+        "Which of the following statements are TRUE of isotopes?I. Isotopes of an element have the same chemical properties because they have the same number of electronsII. Isotopes of elements are normally separated using physical propertiesIII. Isotopes of an element have the same number of protons in their nuclei"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "The number of proton being equivalent to the number of electron in the nuclei of isotopes, they have same chemical but different physical properties due to differences in the number of neutrons.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "284942a5-e59c-4eae-b632-32764e0c6db7",
+      "question_text": [
+        "In the diagram given the hanging mass m2 is adjusted until m1 is on the verge of sliding. The coefficient of static"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/phys_3.jpeg",
+      "explanation": "I think the correct option is C (\\(\\frac{m_2}{m_1}\\)). The coefficient of friction is a ratio of two forces and hence g will cancel out.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{m_1}{m_2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{m_1g}{m_2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "56593f1d-e7dd-4b78-ad8e-8c1cbae08aa0",
+      "question_text": [
+        "Which of the following may be used to explain a mirage?I. Layers of air near the road surface have varying refractive indices in hot weatherII. Road surfaces sometimes become good reflectors in hot weatherIII. Light from the sky can be reflected upwards after coming close to the road surface."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d48b5c36-ef8e-4795-8de9-3df42d7302f5",
+      "question_text": [
+        "In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/phy_4.jpeg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "660mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "890mm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "690mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "860mm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1001cb37-1bb3-4dfc-b0f7-35cabfdf9645",
+      "question_text": [
+        "Which of the following has the lowest internal resistance when new?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "The internal resistance of an accumulator battery of emf 6V is 10 Ω when it is fully discharged. As the battery gets charged up, its internal resistance decreases to 1Ω.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Leclanche cell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Daniell cell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Torch battery",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Accumulator",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d1488abc-63e1-4b15-8ee4-ab832325bd76",
+      "question_text": [
+        "The pitch of an acoustic device can be increased by"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "Pitch is a perceptual property of sounds that allows their ordering on a frequency-related scale, or more commonly, pitch is the quality that makes it possible to judge sounds as \"higher\" and \"lower\" in the sense associated with musical melodies. The pitch of an acoustic device can be increased by increasing the frequency.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decreasing the loudness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increasing the intensity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increasing the frequency",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "decreasing the intensity",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb37f10c-0c64-42f9-bde8-545bf3807a0c",
+      "question_text": [
+        "One of the features of the fission process is that"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "When the nuclei of heavy atoms (such as uranium and plutonium) are split energy is released in the form of heat and radiation. Fission can be achieved by bombarding the nucleus with neutrons. A neutron will more easily hit a fissile uranium atom if its speed is slowed down. The fission process usually leads to chain reactions.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it leads to chain reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "its products are not radioactive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutrons are not released",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the of the masses of the reactants equals the sum of the masses of the products",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e8c1b2e-44db-4a48-af1a-d4eaed9bb427",
+      "question_text": [
+        "The linear expansivity of brass is 2 x 10\\(^{-5}\\) C\\(^{-1}\\). If the volume of a piece of brass is 15.00cm at 0°C, what is the volume at 100°C"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "Linear expansivity = \\(\\cfrac{V_2−V_1}{V_1 \\times \\Delta \\theta}\\) \\(3 \\times 2 \\times 10^{-5} = \\cfrac{V_2 − 15}{15 \\times (100 − 0)}\\) \\(V_2 = 15.09\\)cm\\(^3\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16.03cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "15.09cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8cf17854-2465-46dc-8011-e5a0b364c5ca",
+      "question_text": [
+        "A lead bullet of mass 0.05 kg is fired with a velocity of 200 ms into a lead block of mass 0.95 kg. Given that the lead block can move freely. the final kinetic energy after impact is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "200J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5aadf2e2-8ab5-4f25-8584-3c9da13e5ffd",
+      "question_text": [
+        "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively. What is the voltage across the capacitor?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "82431d28-e74d-4a00-8791-faf7cb1ce037",
+      "question_text": [
+        "If the fraction of the atoms of a radioactive material left after 120years is \\(\\frac{1}{64}\\), what is the half-life of the material?  \\(\\frac{1}{64}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 years",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10 years",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 years",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 years",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23d6b661-2a18-48a2-bc45-54d1ca7687fd",
+      "question_text": [
+        "In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/phy_5.jpeg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "U",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "T",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "R and T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Q and R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d04c52d0-343e-4204-995c-de61a9c0cf87",
+      "question_text": [
+        "The time rate of loss of heat by a body is proportional to the"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "temperature of its surroundings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "temperature of the body",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "difference in temperature between the body and its surroundings",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ratio of the temperature of the body to that of its surroundings",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aac717be-ac4b-4e14-ad97-3666d14d7a3e",
+      "question_text": [
+        "A positively charged rod X is brought near an uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that Y has"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "no charge and a zero potential",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a positive charge and a zero potential",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a negative charge and a positive potential",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a negative charge and a negative potential",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "51ece157-3afb-405f-80e2-919e166194b1",
+      "question_text": [
+        "Electrical appliances in homes are normally earthed so that"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a person touching the appliances is safe from electric shock",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "both the a.c. and d.c. sources can be used",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the appliances are maintained at a higher pd than the earth",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the appliances are maintained at a lower pd than the earth",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3bf88113-e03d-4fd0-a1ef-9166592981dc",
+      "question_text": [
+        "The process whereby a liquid turns spontaneously into vapour is called"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "regelation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "evaporation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "boiling",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sublimation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c3f3bdd-7f25-4738-9381-54f15992a540",
+      "question_text": [
+        "The differences observed in solids, liquids and gases may be accounted for by"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "their relative masses",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "their melting points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the spacing and forces acting between the molecules",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "the different molecules in each of them",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "514b83d6-8bac-4408-b03e-33c7bdaa9241",
+      "question_text": [
+        "Convex mirrors are used as driving mirrors because images formed are"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "erect, Virtual and diminished",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "erect, real and diminished",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "erect, virtual and magnified",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inverted, virtual and diminished",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eb74ab4c-6641-476c-83aa-d5495e8569ea",
+      "question_text": [
+        "Musical instruments playing the same note can be distinguished from one another owing to the difference in their"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "From the quality of sound. Quality of sound is a characteristic of sound that makes it possible to differentiate sounds from different sources even if they're of the same pitch or frequency.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "quality",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "pitch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "intensity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "loudness",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78362a3c-6f2c-46cf-929d-5a45b2e73e2f",
+      "question_text": [
+        "In the diagram shown, If the south-poles of two magnets stroke a steel bar, the polarities at T and V will respectively be"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/phy_6.jpeg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "north and south",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "south and south",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "north and north",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "south and north",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71ac42d1-a42f-41bd-b8bb-38cc6c4df9f7",
+      "question_text": [
+        "In homes, electrical appliances and lamps are connected in parallel because"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "less current will be used",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "less voltage will be used",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "parallel connection does not heat up the wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "series connection uses high voltage",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a0c7c742-9a61-4e98-aa70-ae9eea899521",
+      "question_text": [
+        "An object moves in a circular path of radius 0.5m with a speed of 1ms\\(^{-1}\\). What is its angular velocity?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "Angular velocity V=rw Where V=1m/s r=0.5m w=? V=rw 1=0.5×w W=1/0.5 W=2rad/s",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8rads\\(^{-1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4rads\\(^{-1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b9a867d0-bfae-48d1-9ba9-a39c353c86a2",
+      "question_text": [
+        "What effort will a machine of efficiency 90% apply to a load of 180N if its efforts arm is twice as long as its load arm?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "90N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "120N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7491bd70-952e-4480-8d4a-32b6646b6710",
+      "question_text": [
+        "Calculate the effective capacitance of the circuit in the diagram given"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "The three 2uf capacitors are in parallel to each other so u add them like this 2uf+2uf+2uf=6uf So u have three capacitors in series 6uf 2uf and 3uf They are in series so 1/C= 1/6+1/3=1/2 C=2uf Then the same thing with the last two capay 1/2+1/2=1uf Thanks",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4μf",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3μf",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2μf",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1μf",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d07580cb-48fc-4e1c-9439-d4392048cf16",
+      "question_text": [
+        "Which of the following diagrams represents correctly an n-p-n transistor?i.iiiii  "
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "4",
+      "image": "data:image/png;base64,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",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2864ef93-7edb-4971-893b-9dca06261e24",
+      "question_text": [
+        "The inner diameter of a small test tube can be measured accurately using a"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "A vernier caliper is a measuring device used to precisely measure linear dimensions. It is a very useful tool to use when measuring the diameter of  a round objects like cylinders because the measuring jaws can be secured on either side of the circumference. Vernier calipers have both a fixed main scale and a moving vernier scale. The main scale is graduated in either millimetres or tenths of an inch. The vernier scale allows much more precise readings to be taken (usually to the nearest 0.02mm or 0.001 inch) in comparison to a standard ruler (which only measures to th nearest 1mm or 0.25 inch). The vernier scale was invented by French mathematician Pierre Vernier in 1631. As part of the vernier caliper, it is used together with the main scale, and helps to provide very precise measurements. Vernier calipers usually show either imperial or metric measurements, but some measure in both.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Micrometres screw gauge",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Pair of dividers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Metre rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Pair of vernier calliper",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8f0890f1-9df9-4fde-b68f-c183b8ad769d",
+      "question_text": [
+        "A pulley system has three pulleys in the fixed block and two in the movable block and if the pulley has an efficiency of 72%, the mechanical advantage of the system is?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "To make it easier understood MA = E × Vr/100 Vr in a pulley system is the number of pulleys and in this case we have 5 (3 and 2) So MA = 72 × 5 = 360/100 = 3.6 Thanks",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e417c49-815b-40eb-952f-16a4084c8e00",
+      "question_text": [
+        "When an atom loses or gain a charge it becomes"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "If an atom gains or loses an electron, it becomes an ion. An atom that gains a negative electron, it becomes a negative ion. If it loses an electron it becomes a positive ion.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "An electron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "An ion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "A neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A proton",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dbf66677-cf3b-4d1e-94ef-823895537899",
+      "question_text": [
+        "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Initial momentum = (0.8) × (5)= 4.0kgms\\(^{-1}\\)Final momentum= (0.8) × (– 5)= – 4.0kgms\\(^{-1}\\)Impulse on ball= Change in momentum= 4.0 – (– 4.0)= 8.0.0kgms\\(^{-1}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0kgm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2kgm/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4kgm/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8kgm/s",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "20417521-de4a-4cb4-aeb9-5e3cde8c71cc",
+      "question_text": [
+        "The force between the molecules of a liquid in contact with that of a solid is?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "(ii) Adhesion : The force of attraction between unlike molecules, i.e. between the molecules of different liquids or between the molecules of a liquid and those of a solid body when they are in contact with each other, is known as the force of adhesion. This force enables two different liquids to adhere to each other or a liquid to adhere to a solid body or surface.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Adhesive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cohesive",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Magnetic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Repulsive",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7386caca-221b-42a7-aa33-117c34e442e6",
+      "question_text": [
+        "A body of mass 100g moving with a velocity if 10ms-1 collides with a wall. If after collision it moves with a velocity of 2.0ms−1 in the opposite direction, calculate the change in momentum."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Momentum = Mass x VelocityChange in Momentum = Mass x (change in velocity)Change in Momentum = Mass x (v - u)Mass = 100g = 0.1kgU = 2ms\\(^{-1}\\)V = 10ms\\(^{-1}\\)Change in momentum = m (v − u)= 0.1 (10 − 2)= 0.1 (8)= 0.8Ns",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.8Ns",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.2Ns",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0Ns",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80.0Ns",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85f21c2d-a71a-4d91-88e1-d2c68c43ca03",
+      "question_text": [
+        "A 20kg mass is to be pulled up a slope inclined at 300 to the horizontal. If efficiency of the plane is 75%. The force required to pull the load up the plane is J [g=10ms\\(^{− 2}\\)]"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "V. R = \\(\\frac{1}{Sinθ}\\)m = 20kgV.R = \\(\\frac{1}{Sin 30 }\\)= 2Efficiency = 75%Load = mg= 20 x 10 = 200NEfficiency = \\(\\frac{M.A}{V.R \\times 100}\\)75/100 = \\(\\frac{M.A}{2}\\)M .A = 75 x \\(\\frac{2}{100}\\)M. A = 1.5Since M. A. = \\(\\frac{\\text{Load}}{\\text{Effort or Force}}\\)Force = \\(\\frac{200}{1.5}\\)= 133.33 N",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "87N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "73.5N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "133.3N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "533.2N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a590ef0f-b023-41ab-903d-dbc3bbb58c6f",
+      "question_text": [
+        "The tendency of a body to remain at rest when a force is applied to it is called."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Inertia, property of a body by virtue of which it opposes any agency that attempts to put it in motion or, if it is moving, to change the magnitude or direction of its velocity. Inertia is a passive property and does not enable a body to do anything except oppose such active agents as forces and torques. A moving body keeps moving not because of its inertia but only because of the absence of a force to slow it down, change its course, or speed it up.There are two numerical measures of the inertia of a body: its mass, which governs its resistance to the action of a force, and its moment of inertia about a specified axis, which measures its resistance to the action of a torque about the same axis.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Impulse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Momentum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Inertia",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Friction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "908ac6fd-2763-4e43-a03f-7e33a65e0015",
+      "question_text": [
+        "An object is placed 20cm from a concave mirror of focal length 10cm. The linear magnification of the image produced is?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "\\(\\frac{I}{V}\\) = \\(\\frac{1}{f}\\) – \\(\\frac{1}{u}\\)\\(\\frac{I}{V}\\) = \\(\\frac{1}{10}\\) – \\(\\frac{1}{20}\\)= \\(\\frac{1}{20}\\) VV = 20cm.M = \\(\\frac{V}{U}\\)= \\(\\frac{20}{20}\\)= 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cf0e8754-5734-4fa4-89f9-31fdc8d9fa22",
+      "question_text": [
+        "The energy needed to move a unit positive charge around a complete electric circuit is called the"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Electric potential difference: work needed per unit of charge to move a test charge between the two points.Electric energy: energy derived from electric potential energy.Kinetic energy: moving energy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electromotive force",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "electric potential difference",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "electric energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "kinetic energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d8c15f3e-e6a9-497d-ae60-c926913dbfed",
+      "question_text": [
+        "A force of 5N acts at a point Y on a rod XYZ as shown in this diagram. If XYZ is 2m, what is the moment of the force about point X?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "Moment = Force × Distance= 5N × 2m= 10Nm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0Nm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3Nm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7Nm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10Nm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "268abcad-0860-40f8-8235-1543d4f894e2",
+      "question_text": [
+        "The resistance of a 40W car head lamp, drawing current from a 12V battery is ____."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "Power delivered to head lamp = \\(\\frac{V^2}{R}\\)= 40WR = \\(\\frac{V^2}{40}\\)= \\(\\frac{(12^2)}{40}\\)= 3.6Ω",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.3Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.3Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.6Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.8Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d259170-7755-4b8c-a5fb-5ad80bebc760",
+      "question_text": [
+        "A beam of light is incident from air to water at an angle of 300. Find the angle of refraction if the refractive index of water is 4/3"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "X = \\(\\frac{4}{3}\\) r = ?Shell’s law:. 7 = \\(\\frac{Sin 2^0}{ Sin r^0}\\)\\(\\frac{V}{g}\\) = \\(\\frac{Sin 30^0}{Sin r^0}\\)Sin\\(r^0\\) = \\(\\frac{3 Sin 30^0}{4}\\)Sin \\(r^0\\) = 0.375R \\(^o\\) = Sin-1 (0.375)R \\(^o\\) = 22.02 \\(^o\\)R \\(^o\\) = 22 \\(^o\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15\\(^o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18\\(^o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64117c4f-5994-4741-a3f4-82f828bf3b36",
+      "question_text": [
+        "An electric heating coil rated at 1KW is used to heat 2kg of water for 2 minutes. The initial water temperature is 30\\(^o\\)C. Taking the specific heat of the water as 4,000Jkg \\(^{-1}\\) and neglecting that of the container, the final water temperature is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "Power = 1kw = 100WTime = 2mins = 2 × 60 = 120secsEnergy = power × time1000 × 120 = 120,000JEnergy = mc(θ\\(_2\\) – θ\\(_1\\))120,000 = 2 × 4000(θ\\(_2\\) – θ\\(_1\\))θ2 = 30 + 15 = 45 \\(^o\\) C",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15.0\\(^o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "45.0\\(^o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "66099ed6-6652-4344-852c-4bfe3b71e3ca",
+      "question_text": [
+        "What flows to the earth by connecting the conductor to the earth?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "Ion: an atom with a net electric charge due to loss or gain of one or more electronsNeutron: a subatomic particle of about the same mass as a proton without electric charge.Proton: a subatomic particle with a positive charge",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Electrons",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Proton",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca27ee71-bcc2-47fe-80bc-d39c438a2630",
+      "question_text": [
+        "Temperature is the property of a body which is proportional to the ____."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "Temperature is the property of a body which is proportional to the average kinetic energy of its molecules.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "total kinetic energy of its molecules",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "average kinetic energy of its molecules",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "average speed of its molecules",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "maximum speed of its molecules",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "50f3c44e-c269-4ce4-b4dd-7a36104500cb",
+      "question_text": [
+        "The product of force and time is?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "An impulse is equal to the net force on the object times the time period over which this force is applied. Impulse is derive from the equation F = ma, which comes from Newton's second law of motion.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Impulse",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Momentum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Inertia",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Friction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e994f0f0-d746-4a51-9a3a-599be1874cc7",
+      "question_text": [
+        "Which of the following concepts is not an evidence of the particles nature of matter?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "Diffusion is the net movement of molecules/atoms from a region of high concentration to low concentration.Brownian motion is the erratic random movement of microscopic particles in a field.Diffraction is the various phenomena that occur when a wave encounters an obstacle.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Brownian motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Diffraction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Crystallization",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7f0107a1-2cd7-4d2b-9010-6430e3ec8dbe",
+      "question_text": [
+        "A car traveled at a uniform speed of 100km/h, spends 15m moving from point A to point B along its route. The distance between A and B is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "Distance = speed × time= \\(\\frac{(\\frac{100 \\times 103}{3600})}{15 \\times 60}\\)= 25km",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25km",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "15km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10km",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe241a12-3041-4156-b44d-ea2570fa9157",
+      "question_text": [
+        "A solid cube of side 50cm and mass 75kg floats in a liquid with \\(\\frac{1}{3}\\) of its height above the liquid surface. The relative density of the liquid is?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "6",
+      "explanation": "Volume of liquid displaced= \\(\\frac{2}{3}\\)(0.5)\\(^3\\)Mass of liquid displaced = mass of floating cube = 75kgDensity of liquid = \\(\\frac{mass}{volume}\\)= \\(\\frac{75}{(\\frac{7}{3(0.5)})}\\) × 3= 0.9 × 103kgm\\(^{-3}\\)R.D of liquid = \\(\\frac{(0.9 )}{(1.0)}\\) × 103= 0.9",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.33",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.67",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.90",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9f525af6-bc8a-4269-89b3-bfd01d3db7fc",
+      "question_text": [
+        "A man hears his echo from a nearby hill 2s after he shouted. If the frequency of his voice is 260Hz and the wavelength is 1.29m, how far away is the hill"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "Recall V = F × lambda= 260 × 1.29= 335.4ms\\(^{-1}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "330.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "335.4m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "660.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "670.8m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ed0a110b-1539-4c0a-bcf5-b9be75889f80",
+      "question_text": [
+        "Which of the following is an essential physical property of the wires uses for making fuses ?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "Fuse wires have a low melting point so that if a huge amount of current is passed through it to any appliance than that wire would melt and stop the appliance from getting damaged by not letting the current pass any further.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Hypothermal conductivity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Low electrical resistivity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Low melting point",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "664817f5-1b42-48b3-acac-e318e4daa4ea",
+      "question_text": [
+        "A 40W instrument has a resistance 90 Ohms. On what voltage should it be operated normally"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "P = 40WR = 90WV = ?P = \\(\\frac{V^2}{R}\\)V\\(^2\\) = PR = 40 x 90V\\(^2\\) = 3000V = √3600V = 60N",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "150V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "225V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "360V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "01115776-2e56-4a15-950f-9d0bc73259a9",
+      "question_text": [
+        "Mercury which is spilled onto a glass surface forms ball-like shapes because____."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "In case of small drops of mercury, the gravitational potential energy is negligible in comparison to the potential energy due to surface tension.Consequently, to keep the drop in equilibrium, the mercury drop’s surface tends to contract so that its surface area will be the least for a sphere and the drops will be spherical.But in the case of bigger drops of mercury, the potential energy due to gravity is predominant over the potential energy due to surface tension.Consequently, to keep equilibrium , the mercury drop tends to assume minimum potential energy as possible, the drop becomes oval in shape and lower center of gravity.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury is a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The cohesive force between its molecules is greater than the adhesive force between mercury and glass molecules",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "The cohesive force between its molecules is less than the adhesive force between mercury and glass molecules",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The viscosity of mercury is height",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b361b77e-1990-4b7d-8467-2e0d68f4f7d6",
+      "question_text": [
+        "Water of mass 150g at 60\\(^o\\)c is added to 300g of water at 20\\(^o\\)c and the mixture is well stirred. Calculate the temperature of the mixture.(neglect heat losses to the surroundings)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "Water 1 => M = 150g = 0.15kg,θ\\(_2\\) = 60\\(^o\\)C; θ\\(_1\\) = θQ\\(_1\\) = MC (θ\\(_2\\) – θ\\(_1\\))= 0.15C (60 - θ)Water 2 => M = 300g = 0.3kgθ1 = 20\\(^o\\)C, θ\\(_2\\) = θQ2 = MC (θ\\(_2\\) – θ\\(_1\\))= 0.3C (θ – 20)Combining Q1 and Q20.15C (60 - θ) = 0.3C (θ – 20)9 – 0.15θ = 0.3θ – 60.3θ + 0.15θ = 9 + 60.45 θ = 15θ = 33.33\\(^o\\)C",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "33\\(^o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "40\\(^o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9d44a1a-4dfe-419d-933e-b10bc529d6f5",
+      "question_text": [
+        "Which of the following phenomena is the practical evidence for the existence of the continual motion of molecules."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "Brownian motion, also called Brownian movement, any of various physical phenomena in which some quantity is constantly undergoing small, random fluctuations.If a number of particles subject to Brownian motion are present in a given medium and there is no preferred direction for the random oscillations, then over a period of time the particles will tend to be spread evenly throughout the medium.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Transitional Motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Rotational Motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Brownian Motion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Oscillatory Motion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "97685014-d3c5-4622-8750-37cfa4fdf517",
+      "question_text": [
+        "The process by which protons are converted into helium atoms with a tremendous release of energy is called?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "Thermionic emission: thermally induced flow of chargeNuclear fission: nuclear reaction or a radioactive decay processPhotoelectric emission: emission of electrons or other free carriers when light shines on a material",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "thermionic emission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "nuclear fission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "thermonuclear fusion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "photoelectric emission",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c2a6a52-3bf1-4ac9-80a2-f9ed73cdda1c",
+      "question_text": [
+        "Which of the following is not a product of nuclear fusion?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "Y – Ray is a penetrating electro-magnetic radiation.α – particle is produced in the process of alpha decay.Neutron is a sub-atomic particle.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "X – ray",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Y –ray",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "α – particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "neutron",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "02cf8f88-cae2-4c6c-a625-3822eb67b097",
+      "question_text": [
+        "A room is heated by means of a charcoal fire, an occupants of the room standing away from the fire is warmed mainly by"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "explanation": "Radiation refers to the transmission of energy as electromagnetic radiation from its emission at a heated surface to its absorption on another surface, a process requiring no medium to convey the energy.Conduction is the transferring of heat by direct contact.Convection is transferring heat through the motions of fluids (gases and liquids).",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Convection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Radiation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Conduction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Reflection",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c878607c-1e0c-4d73-aead-26638ea76461",
+      "question_text": [
+        "For what values of F and θ will the forces shown in the diagram below be in equilibrium."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/phy_9.jpeg",
+      "explanation": "Resolve vertically, 40cosθ = 20, θ = 60\\(^o\\)Resolve horizontally, f = 40sinθ = 40sin60\\(^o\\)= 40(\\(\\frac{\\sqrt{3}}{2}\\))= 20√3 N",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60N and 60\\(^o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "60N and 30\\(^o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b34a6cfb-1c50-4801-a986-22a21b382ed1",
+      "question_text": [
+        "Which of the following phenomena cannot be explained by the molecular theory of matter?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "Conduction: the flow of internal energy from a region of higher temperature to lower temperatureConvection: heat transfer due to bulk movement of molecules within fluidsExpansion: the action of becoming larger or more extensive",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Conduction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Convection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Expansion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Radiation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "98b40707-0527-4873-9ec0-fe6b12508870",
+      "question_text": [
+        "The friction which exist between two layers of liquid in relative motion is called."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "Viscosity, resistance of a fluid (liquid or gas) to a change in shape, or movement of neighboring portions relative to one another. Viscosity denotes opposition to flow. The reciprocal of the viscosity is called the fluidity, a measure of the ease of flow. Molasses, for example, has a greater viscosity than water. Because part of a fluid that is forced to move carries along to some extent adjacent parts, viscosity may be thought of as internal friction between the molecules; such friction opposes the development of velocity differences within a fluid. Viscosity is a major factor in determining the forces that must be overcome when fluids are used in lubrication and transported in pipelines. It controls the liquid flow in such processes as spraying, injection molding, and surface coating.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Capillary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Surface",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Viscosity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Cohesion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b736c0f1-23a5-4b72-9b4c-eadd78e94c31",
+      "question_text": [
+        "A particle of mass M initially at rest splits into two. If one of the particles of mass M1 moves with velocity V1 , the second particle moves with velocity"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{M1V1}{M-M1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{M1V1}{M1-M}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27fd46fa-58f7-4b2e-ad7e-9858bc69e84b",
+      "question_text": [
+        "To keep a vehicle moving at a constant speed V requires power P from the engine. The force provided by the engine is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "P = F × \\(\\frac{S}{1}\\)P = F x VF = \\(\\frac{P}{V}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{P}{v}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f28920b7-1e98-4709-8c7e-676d47a1e637",
+      "question_text": [
+        "Which of the following is the dimension of pressure"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "Pressure = \\(\\frac{Force}{Area}\\)Pressure = m × \\(\\frac{a}{t}\\)= \\(\\frac{MLT^{−2}}{L × L}\\)= ML\\(^{−1}\\)T\\(^{−2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ML\\(^{−1}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "T\\(^{−2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "MLT\\(^{−2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27e3dfbb-3cb3-45cf-9201-89cc83883215",
+      "question_text": [
+        "Palm oil from a bottle flows out more easily after it has been heated because the"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "Molecules cannot be given energy during the heating and the molecules of oil cannot force each other out",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Molecules are given energy during the heating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Friction between oil layers is reduced",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Oil molecules force each other out",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Adhesion between the oil molecules and those of the bottle is increased",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0fba74f6-2d7e-4eb6-8904-8ba4558f28a9",
+      "question_text": [
+        "A ball of mass 5.0kg hits a smooth vertical wall normally with a speed of 2ms\\(^{-1}\\). Determine the magnitude of the resulting impulse"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "Impulse = Change in momentumm (v - u)5 (2.0)= 5 x 2 = 10.0kgm\\(^{-1}\\)= 10.0kgms\\(^{-1}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20.0kgms\\(^{-1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10.0kgms\\(^{-1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35a8c3c6-0f6d-439e-94dc-d16952e80ba3",
+      "question_text": [
+        "The efficiency of energy conversion on the energy flow through a hydroelectric power is?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "Efficiency = \\(\\frac{\\text{useful energy output from machine}}{\\text{energy input into machine}}\\)= \\(\\frac{E3}{E2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{E1}{E2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{E3}{E2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb376d9c-a0f8-423d-aa23-7c687e0cdc07",
+      "question_text": [
+        "An object weighs 30N in air and 21N in water. The weight of the object when completely immersed in a liquid of relative density 1.4 is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "Weight of water displaced = upthrust = 30 - 21 = 9NMass of water displaced = \\(\\frac{9}{10}\\) = 0.9kgVolume of object = 9 × 10\\(^{-4}\\)m\\(^3\\)= (9 × 10\\(^{-4}\\)) (1.4 ×103) = 1.26kg = 12N30 - 12.6 = 17.4N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25.2N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "17.4N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.6N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.0N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25387d5e-e143-43b4-85f4-052460bbde7d",
+      "question_text": [
+        "Which of the following instruments is most suitable for measuring the outside diameter of a narrow pipe in a few millimeters in diameter?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pair of calipers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Meter rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Micrometer screw gauge",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Tape rule",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2ce73e6b-296a-4e60-86ed-1cf8886a95eb",
+      "question_text": [
+        "Electrical power is transmitted at a high voltage rather than a low voltage because the amount of energy loss is due to"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "The primary reason that power is transmitted at high voltages is to increase efficiency. As electricity is transmitted over long distances, there are inherent energy losses along the way. High voltage transmission minimizes the amount of power lost as electricity flows from one location to the next. How? The higher the voltage, the lower the current. The lower the current, the lower the resistance losses in the conductors. And when resistance losses are low, energy losses are low also. Electrical engineers consider factors such as the power being transmitted and the distance required for transmission when determining the optimal transmission voltage",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Heat dissipation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Production of eddy currents",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Excessive current discharge",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Excessive voltage discharge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2aa02844-5430-4a66-a004-0d9e1f7b5eab",
+      "question_text": [
+        "If the focal length of a camera is 20cm, the distance from the film at which the lens must be set to produce a sharp image of 100cm away is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "F = 20cmV = 100cmU = ?\\(\\frac{1}{U}\\) + \\(\\frac{1}{V}\\) = \\(\\frac{1}{F}\\)\\(\\frac{1}{20}\\) + \\(\\frac{1}{100}\\) = \\(\\frac{1}{F}\\)\\(\\frac{5 + 1}{100}\\) = \\(\\frac{1}{F}\\)F = \\(\\frac{100}{6}\\)= 16.7cm= 17cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "25cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "100cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b76532af-5ecb-43e0-a535-e59e96a07068",
+      "question_text": [
+        "A lens of focal length 15cm forms on erect image which is three times the size of the object. The distance between the object and the image is ___."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "F= 15cmM = 3M = \\(\\frac{v}{u}\\)V =3u\\(\\frac{1}{f}\\) = \\(\\frac{1}{u}\\) + \\(\\frac{1}{v}\\)\\(\\frac{1}{15}\\) = \\(\\frac{1}{u}\\) - \\(\\frac{1}{3u}\\)\\(\\frac{1}{15}\\) =   \\(\\frac{2}{3u}\\)U =10cmD = u + v= 10 +30 = 40cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "61778fdc-a3ef-48db-bcee-b18b07043f7f",
+      "question_text": [
+        "The photo cell works on the principle of the"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Voltaic cell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Emission of electron by incident radiation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Emission of protons by incident radiation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Photographic plate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f645db34-133d-4c14-ab5c-a7f424b21ce9",
+      "question_text": [
+        "When a known standard resistor of 2.0 is connected to the 0.0cm end of a metre bridge, the balance point is found to be at 55.0cm"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{V_1}{V_2}\\) = \\(\\frac{L_1}{(V_2 − L_1)}\\)\\(\\frac{R_1}{R_2}\\) = \\(\\frac{ L_1}{(V_2 − L_1)}\\)\\(\\frac{2}{R_2}\\) = \\(\\frac{55}{45}\\)R\\(_2\\) = 2 × \\(\\frac{45}{55}\\)= 1.64Ω",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.10Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.64Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.44Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "27.50Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b0224ea6-ac19-4a3a-8b93-d6d5d35a328f",
+      "question_text": [
+        "A resistor connected to a 12V battery draws a current of 2A. The energy dispatched in the resistor in 5 minutes is ___."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "Power drawn by the resistor = IV = (2)(3) = 24W = 24J/sEnergy dissipated = power × time = (24)(5)(60) = 7200J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3,600J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6,000J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7,200J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "14,400J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16f20d29-81e5-4b39-9b22-61721bce1ecd",
+      "question_text": [
+        "A solid weighs 45N and 15N respectively in air and water. Determine the relative density of the solid"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "Weight in Air = 45NWeight in Water = 15NR.D = \\(\\frac{\\text{Weight in Air}}{\\text{Weight in water}}\\)R.D = \\(\\frac{45}{15}\\) = 3.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.33",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a3f21aa6-3827-4e93-8a5c-26be37a6eeea",
+      "question_text": [
+        "A boy receives the echo of his clap reflected by a nearby hill 0.8s later. If the speed of sound in air is 3.40ms\\(^-1\\), how far is he from the hill?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "Distance = speed × time= (3400) × (0.812)= 136m",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "66m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "136m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "264m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "528m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f27d99c-09e1-471e-ab32-036c18239418",
+      "question_text": [
+        "The critical angle for light travelling from a transparent medium to air s measured as 340. The refractive index of the medium is"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "physics",
+      "pageNum": "9",
+      "explanation": "N = \\(\\frac{1}{sinθ}\\)= \\(\\frac{1}{sin34}\\)= 1.79",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.56",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.79",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.02",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

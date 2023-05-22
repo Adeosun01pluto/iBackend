@@ -1,0 +1,3780 @@
+
+[
+    {
+      "id": "04944149-8a2c-4abd-9438-aaaed4f25df9",
+      "question_text": [
+        "The radioisotope \\( ^{235}_{92}U \\) decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Alpha, Beta, and Gamma ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "215 and 88",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "91 and 227",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "227 and 91",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "92 and 238",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e9735c15-7169-4d4e-b012-6691d47b6303",
+      "question_text": [
+        "An object is weighted at different locations on the earth. What will be the right observation?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The weight of a body is the resultant of earth's gravitational pull on it. The earth is not a perfect sphere, it is more flattened at the poles and bulges at the equator. Hence an object at the pole is closer to the earth's center than the one at the equator. The weight of a body at the poles should be more than that of when weighed at the equator.Thus weight varies from place to place while the mass of a body being the quantity of matter it contains remains the same at different points on the earth.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Both the mass and weight are constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Both the mass and weight vary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the mass is constant while the weight varies",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "the weight is constant while the mass varies",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc7873c4-2629-4efb-812d-c31069edf1a2",
+      "question_text": [
+        "Rationalize \\( \\frac{2\\sqrt{3}} + \\sqrt{5} \\sqrt{5} - \\sqrt{3} \\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Hearing ",
+        " Sound and the Physics of Hearing"
+      ],
+      "explanation": "\\(\\frac{2\\sqrt{3}} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}\\) = \\(\\frac{\\sqrt{5}} + 2\\sqrt{3}}{\\sqrt{5} - \\sqrt{3}\\) x \\(\\frac{\\sqrt{5}} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}\\)\\(\\frac{5 + \\sqrt{15} + 2\\sqrt{15} + 2 \\times 3}{(\\sqrt{5} - \\sqrt{3})^2\\)= \\(\\frac{5 + 3\\sqrt{15} +6} {5 - 3)\\)= \\(\\frac{11 + 3\\sqrt{15}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3√15 - 11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3\\sqrt {15} - 11}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3√15 + 11D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8f587752-ef89-4c56-a0a0-5118c1857c93",
+      "question_text": [
+        "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of theirLength is 3: 4 respectively, the ratio of the increase in lengths of P to Q is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P: \\(\\frac{\\alpha h \\theta}{\\alpha h \\theta}\\)\\(\\frac{2 \\times 3 \\times \\theta}{3 \\times 4 \\times \\theta}\\)\\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8:9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9:8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5427ed53-6228-4851-84ba-b76bea35db98",
+      "question_text": [
+        "In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Magnets ",
+        " Magnetism"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy195.jpg",
+      "explanation": "IN magnetisation  by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "south and north",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "north and south",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "north and north",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "south and south",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3c841591-d70d-40c3-87cf-002219c28024",
+      "question_text": [
+        "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Describing Projectile Motion ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "In Faradays law of electrolysis M = It = QWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the energy released",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the electrochemical equivalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the current flowing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the charge released",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2510ce9-26ad-4fdb-ba27-cfe0fba9f84d",
+      "question_text": [
+        "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Capacitors in Parallel ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "C = C1 + C2 + C3= 2 + 4 + 8 = 14μFV = 6VEnergy = 1/2CV21/2 x 14 x 10-6 x 62= 2.52 x 10-4 J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.52 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.90 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.52 x 10-4J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.90 x 10-4J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf4c2b85-2911-4742-8b71-699aac751999",
+      "question_text": [
+        "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Resistance and Simple Circuits ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "I = E/(R+r)= 12/6 = 2A",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 A",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fdadbd41-7547-41bb-8cdc-39cb6777f492",
+      "question_text": [
+        "The diagram above shows a balanced metre bridge, the value of x is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Common Physical Quantities ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy192.jpg",
+      "explanation": "1/R = 1/8 + 1/8 = 2/8∴ R = 4Ωl/l1 = R/R1(x)/(100-x) = 4/84(100-x) = 8x400-4x = 8x400 = 8x + 4x = 12xx = 400/12 = 33.3cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "66.7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33.3 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "687cb709-2258-425e-a825-f0d92e3e83a9",
+      "question_text": [
+        "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Electric Circuits"
+      ],
+      "explanation": "1/R = 1/4 + 1/4 + 1/4 = 3/4R = 4/3I = V/R =164/3 =16 x 3_4= 12 A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52612d6e-266a-4434-8157-c12a3239b233",
+      "question_text": [
+        "In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at ₦40, the cost of keeping the bulb lighted for a day is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy191.jpg",
+      "explanation": "Energy consumed = power x time = 200W x 24hr = 4800wh= 4.8 kwhBut 1 kwh cost N40∴ 4.8kwh costs 4.8 x 40= N192",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦1,920.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦192.00",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦19.20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦1.92",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "43aef095-3902-4095-ac1d-e5aafb6e07d6",
+      "question_text": [
+        "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Describing Projectile Motion ",
+        " One-Dimensional Motion"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy190.jpg",
+      "explanation": "Above are the V-t graphs forI Uniform accelerationII uniform retardationIII Uniform velocityThus the car has no acceleration between point F and G since that portion of the graph represents uniform velocity",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "has no acceleration between point F and G",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "decelerates between F and H",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "has a constant soeed between points E and F",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Accelerates between points F and G",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8ce15f6-91f0-4500-a20e-662c4e8676e7",
+      "question_text": [
+        "The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Stability ",
+        " Statics and Torque"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy189.jpg",
+      "explanation": "A bod y is said to be in stable equilibrium if after a slight displacement, the body returns to its former position. Thus, position III, VI and XI represents position of stable equilibrium",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "III, IV and VIII",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II, V and VIII",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "III, VI and IX",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, IV and VII",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b05896c1-9779-4113-ba77-bf4a3d1dc512",
+      "question_text": [
+        "A bob of weight 0.1 N hangs from a massless string of length 50 cm. A variable horizontal force which increase from zero is applied to pull the bob until the string makes an angle of 60o with the vertical. The work done is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Sound Waves ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Length of the string L = y + x = 0.5m∴ x = L - y= distance moved in the direction of force (which is the weight) when the body is released But cos 60o = y/0.5∴ y = 0.5cos60 = 0.5 x 1/2 = 0.25∴ x = l - y = 0.5 - 0.25 = 0.25mWork done = force x distance moved in the direction of force.= 0.1 x 0.25 = 0.0252J",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.500 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.250 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.050 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.025 J",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "67a7a24d-706b-4edf-8b37-1d8b610cfe3c",
+      "question_text": [
+        "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Metals P, Qoriginal length lP, lQ Increase in length ΔlP, ΔlQLinear expansivities αP, αQ∴ αP/αQ = 2/3 ; and lP/lQ = 3/4But increase in length, Δl = αlΔθ∴ΔlP = αPlPΔθΔlQ = αQlQΔθ∴ΔlP =αPlPΔθ =2 x3 =1ΔlQαQlQΔθ342∴ Ratio of increase in length of P to Q = 1:2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7:5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5:7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1:2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2:1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d5fc0c98-4f5a-476c-9ff1-32da407539a5",
+      "question_text": [
+        "THe velocity of sound in air at 16oC is 340ms-1. What will it be when the pressure is doubled and its temperature raised to 127oC?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "The velocity of sound in air, V∝√T, where T is absolute temperature Thus V = K√T or K = V/TV is independent of pressure and density at a fixed temperature.∴ V1/√T1 = V2/√T2T1 = 16 + 273 = 289K, V1 = 340ms-1T2 = 127 + 273 = 400K, V2 = ?340 =V2√289√400∴ V2 =340√400_√289= 400m/s",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "400 ms-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4,000 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8,000 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "160,000 ms-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "176908bf-db67-45b1-9477-657418815499",
+      "question_text": [
+        "In a discharge tube, most of the gas is pumped out so that electricity is conducted at"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Gauge Pressure and Absolute Pressure ",
+        " Fluid Statics"
+      ],
+      "explanation": "pumping out of the gas in the discharge tube reduces the pressure inside the tube, therefore, electricity is conducted at low pressure",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "low voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "steady voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "low pressure",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dc5a0744-0a1a-4161-9581-3a1f689935f6",
+      "question_text": [
+        "The ground stated energy for the hydrogen atom is 5.44 x 10-19J . If an electron drops from zero energy to ground state, calculate the frequency of the emitted radiation. [h = 6.6 x 10-34 Js]"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Bohr’s Solution For Hydrogen ",
+        " Atomic Physics"
+      ],
+      "explanation": "∆E = hf f = (∆E)/h = (5.44 x 10-19)/6.6 x 10-34 = 8.24 x 1014",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.0 x 1016 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0 x 1016 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.0 x 1015 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.0 x 1015 HzE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f12439e0-5758-4f8e-88ef-2757eb6b63dc",
+      "question_text": [
+        "Transistors are used for the"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Nerve Conduction ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "transistor serve the same purpose as triode valve, which is amplification of signals.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rectification of signals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "conversion of a.c to d.c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "amplification of signals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "conversion of d.c to a.c",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc9c94f3-bee8-4c44-84a0-6e069c1f2b41",
+      "question_text": [
+        "Which of the following is a pure semiconductor?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Superposition and Interference ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "A semiconductor is a material whose conductivity is between good conductor and insulator. Example of pure semi conductors are silicon and germanium",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "silicon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "transistor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "phosphorus",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "179fac8d-250d-4bb6-b1e4-6383ced67346",
+      "question_text": [
+        "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Charging by Contact ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "Since the charged rod is not in contact with the electroscope, the leaves divergence will be induced",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "be induced",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "converge",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diverge",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "remain constant",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c7bf9bf-9463-415d-aabf-5b5e0d671f87",
+      "question_text": [
+        "Power supply is transmitted at a very high voltage and low current in order to"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Power in Electric Circuits ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "H eat generated in a wire carrying current, H = 12 Rt. so, when voltage is high and current is low heat generated in the wire will be minimal. Therefore, high voltage and low current prevent overheating of the coil.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "make pass through the trasformers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the power supply",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make it travel fast",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "prevent overheating of the coil",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e89a5d65-193f-4e06-8096-27e1ca48ac78",
+      "question_text": [
+        "A galvanometer with full-scale deflection of 10 mA is to be converted to a voltmeter with full-scale deflection of 5v. the resistance of the galvanometer is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Analog Meters: Galvanometers ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "R = (Vg)/lg = G, where lg = current through galvanometerR = resistance of the  multiplierG = resistance of the galvanometer∴ G = (vg-R)/lg 5(1000/10) - 490 = 500 -490 = 10Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a1ec37d0-f32e-4110-bb54-b6384f472ce4",
+      "question_text": [
+        "Two inductors of inductances 5 mll and 15 mll are connected in series and a current of 5A flows through them. the total energy stored in the inductor is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Energy Stored in an Inductor ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Total inductance,L = L1 + L2 = m15 + 5 = 20mH = (20)H/10001 = 5AEnergy of inductor, (1)/2 L I2= (1)/2 X (20)/1000 X 5-2= 0.25 J",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "500.0J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "250.0J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "62.5J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50.0JE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78c54fe1-fb0b-4d7a-930f-b030158031f2",
+      "question_text": [
+        "In alternating current circuit at resonance, the angel of lead or lag is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Alternating Current ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "π°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "/2°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf517663-2294-4be6-9fed-94f56121cfe4",
+      "question_text": [
+        "Which of the following is used for the correction of short sightedness?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "Concave lens diverges parallel rays of light. A short sighted person has the image formed before the retina,and the rays have to be diverged so that they intersect to form image onto the retina",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "convex lens",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "concave lens",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "convex mirror",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "concave mirror",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6425395d-27cd-4e3f-b8df-f2f576f9c661",
+      "question_text": [
+        "Dispersion occurs when white light passes through a glass prism because of the"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Dispersion: The Rainbow and Prisms ",
+        " Geometric Optics"
+      ],
+      "explanation": "Dispersion is the splitting of white light into its spectral component colours and is caused by different speed of the colours in the prisma",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "different hidden colours in the glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "different speeds of the colour in the glass",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "defects in the glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "high density of the glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a1ee5e1a-81d7-4b0e-91f8-7092becab166",
+      "question_text": [
+        "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Refractive Index ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "Refraction index, n = (real depth)/apparent depth1.5 = (10)/X X = (10)/1.5 = 6.67 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.50 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.67 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "7.50 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.63 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78779335-05d6-4644-be69-446050201125",
+      "question_text": [
+        "The wavelength of a wave traveling with a velocity of 420 ms-1 is 42 m. what is its period?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Period and Frequency ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "V = fλ f = (v)/λ = (420)/42 = 10 HZPeriod, T = (1)/F = (1)/10 = 0.1 secs",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.2 s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0 s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.5 s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.1 s",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5daa54a2-e2e0-4d5c-bf13-22be828add45",
+      "question_text": [
+        "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Speed of Sound ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Sound wave requires a material medium for its propagation. so when air is being pumped out the density of the medium is being reduced and the sound dies down. when all the air has been pumped out of the glass, no sound will be heard, as sound sound cannot travel through vacuum",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the wavelength of sound becomes greater in the bottle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sound cannot pass through the bottle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sound needs a material medium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sound can pass through a vacuum",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d680e7db-abd7-4d42-8c03-604ebaf9b6f7",
+      "question_text": [
+        "During a thunderstorm, the sound is heard over a long time. this phenomenon is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Time ",
+        " One-Dimensional Kinematics"
+      ],
+      "explanation": "The lengthening effect of sound is known as reverberation.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diffraction of sound",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "refraction of sound",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "superposition",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "reveraberation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ce83ac3c-e7e6-4513-87e1-1aa3462d138e",
+      "question_text": [
+        "In comparing the camera and the human eye, the film of the camera function as the"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Hot Air Balloon ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "The retina is light sensitive layer living the inner wall of the eye where image is formed. in the camera, image is formed on a light sensitive film.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "retina",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "iris",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cornea",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "pupil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "97466ec5-979b-41b4-8e29-a42d9d8fdac0",
+      "question_text": [
+        "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Due to anomalous expansion of water at temperature range (0 - 4)°c, when a given mass of water turns into ice, its volume will increase, while the mass remains constant. Thus, when a given volum of ice melts, the volume of water formed will be less than the volume of ice. Hence, the level of water in the container will drop.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the level of water goes up",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the water in the glass outflows",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the level of water remains unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the level of water drops",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9849baec-377f-4eef-a2c4-0eb61651c883",
+      "question_text": [
+        "The small droplet of water that forms on the grass in the early hours of the morning is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Friction and Tension ",
+        " Newton's Laws"
+      ],
+      "explanation": "Dew point is the temperature at which the water vapour present in air is just sufficient to saturate it. Dew is formed when air is cooled below its dew point",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hail",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dew",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "fog",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "mist",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dda84667-0cd8-40da-9c8a-4bc1007b420e",
+      "question_text": [
+        "A vapour is said to be saturated when"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "The First Condition for Equilibrium ",
+        " Statics and Torque"
+      ],
+      "explanation": "A saturated vapour is one which is in dynamic equilibrium with its own liquid; that is as many go from the liquid to the vapour state every second return back to liquid.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a dynamic equilibrium exists between liquid molecules and the vapour molecules",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a dynamic aquilibrium exists such that more molecules return to the liquid than are living it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the temperature of the vapour varies",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the vapour pressure is atmospheric",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3f71284-0cde-4daa-bde3-49de1172ed26",
+      "question_text": [
+        "The pressure of one mole of an ideal gas of volume 10-2 m3 at a temperature of 27°c is  [molar gas constant = 8.3 J mol-1 k-1]"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing the Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "T = 27 + 273 = 300 K, volume, V = 10-2 m3 molar gass constant, R = 8.3 Jmol- 1k - 1 number of mole, n = 1 PV = NRT i.e P = (NRT)/V = (1 x 8.3 x 300)/10-2= 2.49 x 105 Nm-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.49 x 104 Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.24 x 104 Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.49 x 105 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.24 x 105 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1e2ae74-a1ac-4b10-8b4f-556d363f64a5",
+      "question_text": [
+        "Which of the following has no effect on radiation?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Density and Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "Radiation depends on nature of the surface area and temperature. It is independent of density.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nature of surface",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "density",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "surface area",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a87f7bc-1e0e-4475-ad8a-7e7173e4b701",
+      "question_text": [
+        "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Density and Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "Since relative density = mass of substance  mass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a density bottle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "an eureka can",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a pipette",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a burette",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c39e3d80-e06b-4fbc-84c4-b64f121ddb2f",
+      "question_text": [
+        "A hydrometer is an instrument used in measuring"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Density and Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "The instrument used in measuring relative density is hydrometer",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "vapour pressure of a fluid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "density of liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "relative humidity of a liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "relative density of a liquid",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f87a2311-d039-4896-8504-ed850e09e751",
+      "question_text": [
+        "One special advantage of alcohol over mercury as a thermometric liquid is its"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "The low freezing point of alcohol, -115°c enable low temperatures to be measured. mercury freezes at 39°c, and cannot be used in countries like Russia where winter temperatures of -40°c are common",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low freezing point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "high specific",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "low boiling point",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "005ee1df-099c-4e6a-aa49-67a5ca981391",
+      "question_text": [
+        "The density of a certain oil on frying becomes0.4 kgm-3 with the volume of 20m3. what will be its initial volume when its initial density is 0.8 kgm-3 assuming no loss of oil due to spillage?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Density and Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "Density, p = (mass)/volume (m)/(v)0.4 = (m)/20∴ m = 20 x 0.4 = 8 kgV = (m)/p = (8)/0.8 = 10 m3N:B the units for the options are wrong",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 kgm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10 kgm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "8 kgm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 kgm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a17bc18a-d2df-4018-84a1-03198c7436c6",
+      "question_text": [
+        "Heat is radiated by hot objects in the form"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Infrared Radiation ",
+        " Electromagnetic Waves"
+      ],
+      "explanation": "Inform falling on the skin causes the skin causes the sensation of warmth. since the objects are hot, the correct option is informed.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x-rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "light energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "infrared rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "solar energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7052c65-8fd7-44c1-91ef-3ab1e7f718ce",
+      "question_text": [
+        "A car moves with an initial velocity of 25 ms-1 and reaches a velocity of 45 ms-1 in 10s. what is the acceleration of the car?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Acceleration ",
+        " One-Dimensional Kinematics"
+      ],
+      "explanation": "Acceleration = (increase in velocity)/time taken = (45 - 25)/10 = (20)/10 = 2ms-2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 ms-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 ms-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 ms-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25 ms-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "278c8966-c4b7-4257-9cf1-0f09b9144538",
+      "question_text": [
+        "The surfaces of conveyor belts are made rough so as to"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Newton’s First Law in Action ",
+        " Newton's Laws"
+      ],
+      "explanation": "Rough surface promotes friction. Therefore, roughness of conveyor belt prevents the load from slipping",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "protect them while carrying loads",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "prevent the loads from slipping",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "enable them to carry more load",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "make them stronger",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98da3eb1-e56d-45ea-a16c-17ef1ee6a6bc",
+      "question_text": [
+        "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through I m. Find the efficiency of the machine"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Simple Machines ",
+        " Statics and Torque"
+      ],
+      "explanation": "Efficiency = (MA)/V.R x 100% = (load)/Effort x (1)/V.R = (800)/400 x (1)/6 x 100% = 33.3%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "55. 6 %",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33.3%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22.2%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2c3929d-8d8e-4db9-ba78-65f142b50345",
+      "question_text": [
+        "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Magnetic Field Created by a Long Straight Current-Carrying Wire ",
+        " Magnetism"
+      ],
+      "explanation": "Energy stored in a stretched wire (strain energy)= average force x extension= (1)/2 Fe= (1)/2 x 300 N (30.5 - 30.0) x 10-2 m= (300)/2 x 0.5 x 10-2 = 0.75J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75 J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.50 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "75.00 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "750.00 J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e5037e32-2b91-40d5-9ae9-5e8067359c55",
+      "question_text": [
+        "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m2?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Relationship Between Forces in a Hydraulic System ",
+        " Fluid Statics"
+      ],
+      "explanation": "Thrust = pressure x area = 100 pa x 3 m2 = 300 N",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "300 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "200 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "150 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "100 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "831e4968-0537-47b6-9def-5a20b7aa2555",
+      "question_text": [
+        "Two cars moving in the same direction have speeds of 100 kmh-1 and 130 kmh-1 what is the velocity of the faster car as measured by an observer in the slower car?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Newton’s First Law in Action ",
+        " Newton's Laws"
+      ],
+      "explanation": "Since the cars are moving in the same direction, the velocity of a body A, Va,relative to another body B, Vb is given by V  = Va - Vb∴ the velocity of faster car is measured by the observer in the slower car is V = 130kmh-1 - 100 kmh-1 = 30 kmh-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30 kmh-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "130 kmh-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "200 kmh",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "230 kmh-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aca90191-4230-42d9-a601-b4f958fa353e",
+      "question_text": [
+        "A stone and a feather are dropped from the same height above the earth surface. ignoring air resistance, which of the following is correct?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Gravity and Falling Objects ",
+        " One-Dimensional Kinematics"
+      ],
+      "explanation": "The acceleration of free fall due to gravity is independent of mass of the body. Therefore, ignoring air resistance, which affects feather more than the stone, the stone and the feather will both reach the ground at the same time",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the feather will be brown away by the wind while stone will drop steadily",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the stone and the feather will both reach the ground a the same time",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the feather will reach the ground first",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the stone will reach the ground first",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51880f5e-2c0c-42f3-b0b0-4f1b0a5b9ccc",
+      "question_text": [
+        "The radioisotope \\( ^{235}_{92}U \\) decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Alpha, Beta, and Gamma ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "215 and 88",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "91 and 227",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "227 and 91",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "92 and 238",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "483da493-00b8-416d-96a8-3c320b063c98",
+      "question_text": [
+        "An object is weighted at different locations on the earth. What will be the right observation?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The weight of a body is the resultant of earth's gravitational pull on it. The earth is not a perfect sphere, it is more flattened at the poles and bulges at the equator. Hence an object at the pole is closer to the earth's center than the one at the equator. The weight of a body at the poles should be more than that of when weighed at the equator.Thus weight varies from place to place while the mass of a body being the quantity of matter it contains remains the same at different points on the earth.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Both the mass and weight are constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Both the mass and weight vary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the mass is constant while the weight varies",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "the weight is constant while the mass varies",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "db3c7254-7040-4b4e-b673-02a8959508e5",
+      "question_text": [
+        "Rationalize \\( \\frac{2\\sqrt{3}} + \\sqrt{5} \\sqrt{5} - \\sqrt{3} \\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Hearing ",
+        " Sound and the Physics of Hearing"
+      ],
+      "explanation": "\\(\\frac{2\\sqrt{3}} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}\\) = \\(\\frac{\\sqrt{5}} + 2\\sqrt{3}}{\\sqrt{5} - \\sqrt{3}\\) x \\(\\frac{\\sqrt{5}} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}\\)\\(\\frac{5 + \\sqrt{15} + 2\\sqrt{15} + 2 \\times 3}{(\\sqrt{5} - \\sqrt{3})^2\\)= \\(\\frac{5 + 3\\sqrt{15} +6} {5 - 3)\\)= \\(\\frac{11 + 3\\sqrt{15}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3√15 - 11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3\\sqrt {15} - 11}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3√15 + 11D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f241b167-ff06-46ba-acea-6bfb02dae6fe",
+      "question_text": [
+        "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of theirLength is 3: 4 respectively, the ratio of the increase in lengths of P to Q is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P: \\(\\frac{\\alpha h \\theta}{\\alpha h \\theta}\\)\\(\\frac{2 \\times 3 \\times \\theta}{3 \\times 4 \\times \\theta}\\)\\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8:9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9:8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "56e68a1c-0933-4b87-bb4d-5351716c7fc1",
+      "question_text": [
+        "In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Magnets ",
+        " Magnetism"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy195.jpg",
+      "explanation": "IN magnetisation  by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "south and north",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "north and south",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "north and north",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "south and south",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e6bac67e-e676-4b17-b91d-82697a1ff95d",
+      "question_text": [
+        "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Describing Projectile Motion ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "In Faradays law of electrolysis M = It = QWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the energy released",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the electrochemical equivalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the current flowing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the charge released",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ffd1934-634c-444a-b602-dfb7e9bd30de",
+      "question_text": [
+        "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Capacitors in Parallel ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "C = C1 + C2 + C3= 2 + 4 + 8 = 14μFV = 6VEnergy = 1/2CV21/2 x 14 x 10-6 x 62= 2.52 x 10-4 J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.52 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.90 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.52 x 10-4J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.90 x 10-4J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6d2803f-f8e9-4b65-8a71-7d343d209c95",
+      "question_text": [
+        "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Resistance and Simple Circuits ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "I = E/(R+r)= 12/6 = 2A",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 A",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3c315e75-4765-422d-9489-b744a170eef3",
+      "question_text": [
+        "The diagram above shows a balanced metre bridge, the value of x is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Common Physical Quantities ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy192.jpg",
+      "explanation": "1/R = 1/8 + 1/8 = 2/8∴ R = 4Ωl/l1 = R/R1(x)/(100-x) = 4/84(100-x) = 8x400-4x = 8x400 = 8x + 4x = 12xx = 400/12 = 33.3cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "66.7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33.3 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23298c90-1128-4275-a5c9-c072b9cb3ddb",
+      "question_text": [
+        "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Electric Circuits"
+      ],
+      "explanation": "1/R = 1/4 + 1/4 + 1/4 = 3/4R = 4/3I = V/R =164/3 =16 x 3_4= 12 A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79958e11-0d6c-4648-8f4b-8605f7492f1e",
+      "question_text": [
+        "The radioisotope \\( ^{235}_{92}U \\) decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Alpha, Beta, and Gamma ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "215 and 88",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "91 and 227",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "227 and 91",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "92 and 238",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "637a645f-5ac0-46e7-9771-9dbcce8f5d59",
+      "question_text": [
+        "An object is weighted at different locations on the earth. What will be the right observation?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The weight of a body is the resultant of earth's gravitational pull on it. The earth is not a perfect sphere, it is more flattened at the poles and bulges at the equator. Hence an object at the pole is closer to the earth's center than the one at the equator. The weight of a body at the poles should be more than that of when weighed at the equator.Thus weight varies from place to place while the mass of a body being the quantity of matter it contains remains the same at different points on the earth.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Both the mass and weight are constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Both the mass and weight vary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the mass is constant while the weight varies",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "the weight is constant while the mass varies",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f458e7e9-0b8a-4265-a903-b8264d0660ef",
+      "question_text": [
+        "Rationalize \\( \\frac{2\\sqrt{3}} + \\sqrt{5} \\sqrt{5} - \\sqrt{3} \\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Hearing ",
+        " Sound and the Physics of Hearing"
+      ],
+      "explanation": "\\(\\frac{2\\sqrt{3}} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}\\) = \\(\\frac{\\sqrt{5}} + 2\\sqrt{3}}{\\sqrt{5} - \\sqrt{3}\\) x \\(\\frac{\\sqrt{5}} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}\\)\\(\\frac{5 + \\sqrt{15} + 2\\sqrt{15} + 2 \\times 3}{(\\sqrt{5} - \\sqrt{3})^2\\)= \\(\\frac{5 + 3\\sqrt{15} +6} {5 - 3)\\)= \\(\\frac{11 + 3\\sqrt{15}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3√15 - 11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3\\sqrt {15} - 11}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3√15 + 11D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1a635ca5-e45f-49a7-b960-d08323794614",
+      "question_text": [
+        "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of theirLength is 3: 4 respectively, the ratio of the increase in lengths of P to Q is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P: \\(\\frac{\\alpha h \\theta}{\\alpha h \\theta}\\)\\(\\frac{2 \\times 3 \\times \\theta}{3 \\times 4 \\times \\theta}\\)\\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8:9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9:8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3af6f6f9-8a2b-48af-a88d-d1804195eb41",
+      "question_text": [
+        "In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Magnets ",
+        " Magnetism"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy195.jpg",
+      "explanation": "IN magnetisation  by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "south and north",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "north and south",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "north and north",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "south and south",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a3428cba-20e2-4553-a07d-d9b3902b5e0c",
+      "question_text": [
+        "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Describing Projectile Motion ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "In Faradays law of electrolysis M = It = QWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the energy released",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the electrochemical equivalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the current flowing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the charge released",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2791fb92-15ed-4eb7-98da-5fcd9bb055d0",
+      "question_text": [
+        "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Capacitors in Parallel ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "C = C1 + C2 + C3= 2 + 4 + 8 = 14μFV = 6VEnergy = 1/2CV21/2 x 14 x 10-6 x 62= 2.52 x 10-4 J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.52 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.90 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.52 x 10-4J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.90 x 10-4J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29b2da83-c3a3-4c59-bb2d-33032a662e82",
+      "question_text": [
+        "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Resistance and Simple Circuits ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "I = E/(R+r)= 12/6 = 2A",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 A",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0a7bcd00-1f24-4649-9d45-e3350fdae772",
+      "question_text": [
+        "The diagram above shows a balanced metre bridge, the value of x is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Common Physical Quantities ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy192.jpg",
+      "explanation": "1/R = 1/8 + 1/8 = 2/8∴ R = 4Ωl/l1 = R/R1(x)/(100-x) = 4/84(100-x) = 8x400-4x = 8x400 = 8x + 4x = 12xx = 400/12 = 33.3cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "66.7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33.3 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b325eb9-df56-4ae2-be4b-43a4fcc07ef4",
+      "question_text": [
+        "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Electric Circuits"
+      ],
+      "explanation": "1/R = 1/4 + 1/4 + 1/4 = 3/4R = 4/3I = V/R =164/3 =16 x 3_4= 12 A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "77f770cc-541c-4a50-a02a-fd8c4aa94b64",
+      "question_text": [
+        "The radioisotope \\( ^{235}_{92}U \\) decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Alpha, Beta, and Gamma ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "215 and 88",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "91 and 227",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "227 and 91",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "92 and 238",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d713879-404f-49d6-9a1c-13a344cb1b53",
+      "question_text": [
+        "An object is weighted at different locations on the earth. What will be the right observation?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The weight of a body is the resultant of earth's gravitational pull on it. The earth is not a perfect sphere, it is more flattened at the poles and bulges at the equator. Hence an object at the pole is closer to the earth's center than the one at the equator. The weight of a body at the poles should be more than that of when weighed at the equator.Thus weight varies from place to place while the mass of a body being the quantity of matter it contains remains the same at different points on the earth.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Both the mass and weight are constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Both the mass and weight vary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the mass is constant while the weight varies",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "the weight is constant while the mass varies",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "54e92764-e239-4a2b-a742-112887a6a2f0",
+      "question_text": [
+        "Rationalize \\( \\frac{2\\sqrt{3}} + \\sqrt{5} \\sqrt{5} - \\sqrt{3} \\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Hearing ",
+        " Sound and the Physics of Hearing"
+      ],
+      "explanation": "\\(\\frac{2\\sqrt{3}} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}\\) = \\(\\frac{\\sqrt{5}} + 2\\sqrt{3}}{\\sqrt{5} - \\sqrt{3}\\) x \\(\\frac{\\sqrt{5}} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}\\)\\(\\frac{5 + \\sqrt{15} + 2\\sqrt{15} + 2 \\times 3}{(\\sqrt{5} - \\sqrt{3})^2\\)= \\(\\frac{5 + 3\\sqrt{15} +6} {5 - 3)\\)= \\(\\frac{11 + 3\\sqrt{15}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3√15 - 11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3\\sqrt {15} - 11}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3√15 + 11D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0a355a14-cd96-4557-aff2-2d3aac9330ff",
+      "question_text": [
+        "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of theirLength is 3: 4 respectively, the ratio of the increase in lengths of P to Q is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P: \\(\\frac{\\alpha h \\theta}{\\alpha h \\theta}\\)\\(\\frac{2 \\times 3 \\times \\theta}{3 \\times 4 \\times \\theta}\\)\\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8:9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9:8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e64900f-d232-4e55-8fb3-651e425a6f1c",
+      "question_text": [
+        "In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Magnets ",
+        " Magnetism"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy195.jpg",
+      "explanation": "IN magnetisation  by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "south and north",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "north and south",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "north and north",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "south and south",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "32aed6f7-d7fb-48e4-93c2-fb0a10438bf5",
+      "question_text": [
+        "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Describing Projectile Motion ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "In Faradays law of electrolysis M = It = QWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the energy released",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the electrochemical equivalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the current flowing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the charge released",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b007d5a-6391-4e62-8bc7-ff57c575a425",
+      "question_text": [
+        "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Capacitors in Parallel ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "C = C1 + C2 + C3= 2 + 4 + 8 = 14μFV = 6VEnergy = 1/2CV21/2 x 14 x 10-6 x 62= 2.52 x 10-4 J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.52 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.90 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.52 x 10-4J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.90 x 10-4J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "881fb7ac-8f89-45cc-a7f4-e9caee251c64",
+      "question_text": [
+        "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Resistance and Simple Circuits ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "I = E/(R+r)= 12/6 = 2A",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 A",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "aab33d5c-4d5a-492c-be0b-5f317649ff51",
+      "question_text": [
+        "The diagram above shows a balanced metre bridge, the value of x is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Common Physical Quantities ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy192.jpg",
+      "explanation": "1/R = 1/8 + 1/8 = 2/8∴ R = 4Ωl/l1 = R/R1(x)/(100-x) = 4/84(100-x) = 8x400-4x = 8x400 = 8x + 4x = 12xx = 400/12 = 33.3cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "66.7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33.3 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c122bbd4-cd2f-4000-9626-6adf530e9df5",
+      "question_text": [
+        "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Electric Circuits"
+      ],
+      "explanation": "1/R = 1/4 + 1/4 + 1/4 = 3/4R = 4/3I = V/R =164/3 =16 x 3_4= 12 A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "307f1bc3-dda4-4192-abde-1c8483b516e9",
+      "question_text": [
+        "The radioisotope \\( ^{235}_{92}U \\) decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Alpha, Beta, and Gamma ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "215 and 88",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "91 and 227",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "227 and 91",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "92 and 238",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4eb33d2c-4959-47de-aa33-1627e6d623a5",
+      "question_text": [
+        "An object is weighted at different locations on the earth. What will be the right observation?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The weight of a body is the resultant of earth's gravitational pull on it. The earth is not a perfect sphere, it is more flattened at the poles and bulges at the equator. Hence an object at the pole is closer to the earth's center than the one at the equator. The weight of a body at the poles should be more than that of when weighed at the equator.Thus weight varies from place to place while the mass of a body being the quantity of matter it contains remains the same at different points on the earth.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Both the mass and weight are constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Both the mass and weight vary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the mass is constant while the weight varies",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "the weight is constant while the mass varies",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f40e37e0-1f9e-468a-804a-53ff1084118d",
+      "question_text": [
+        "Rationalize \\( \\frac{2\\sqrt{3}} + \\sqrt{5} \\sqrt{5} - \\sqrt{3} \\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Hearing ",
+        " Sound and the Physics of Hearing"
+      ],
+      "explanation": "\\(\\frac{2\\sqrt{3}} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}\\) = \\(\\frac{\\sqrt{5}} + 2\\sqrt{3}}{\\sqrt{5} - \\sqrt{3}\\) x \\(\\frac{\\sqrt{5}} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}\\)\\(\\frac{5 + \\sqrt{15} + 2\\sqrt{15} + 2 \\times 3}{(\\sqrt{5} - \\sqrt{3})^2\\)= \\(\\frac{5 + 3\\sqrt{15} +6} {5 - 3)\\)= \\(\\frac{11 + 3\\sqrt{15}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3√15 - 11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3\\sqrt {15} - 11}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3√15 + 11D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d0f76801-556f-4b28-b9b9-1c706842705c",
+      "question_text": [
+        "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of theirLength is 3: 4 respectively, the ratio of the increase in lengths of P to Q is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P: \\(\\frac{\\alpha h \\theta}{\\alpha h \\theta}\\)\\(\\frac{2 \\times 3 \\times \\theta}{3 \\times 4 \\times \\theta}\\)\\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8:9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9:8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a96fc1bd-dfd9-4435-8a8b-bbab27562e04",
+      "question_text": [
+        "In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Magnets ",
+        " Magnetism"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy195.jpg",
+      "explanation": "IN magnetisation  by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "south and north",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "north and south",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "north and north",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "south and south",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e9548b3-cbb3-433d-abbb-113e3b55870d",
+      "question_text": [
+        "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Describing Projectile Motion ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "In Faradays law of electrolysis M = It = QWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the energy released",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the electrochemical equivalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the current flowing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the charge released",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f25afb36-d4de-4935-b2c7-eeca0c2c6ecc",
+      "question_text": [
+        "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Capacitors in Parallel ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "C = C1 + C2 + C3= 2 + 4 + 8 = 14μFV = 6VEnergy = 1/2CV21/2 x 14 x 10-6 x 62= 2.52 x 10-4 J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.52 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.90 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.52 x 10-4J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.90 x 10-4J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3db2ce6a-8e04-4db9-bc4a-5575e46011da",
+      "question_text": [
+        "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Resistance and Simple Circuits ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "I = E/(R+r)= 12/6 = 2A",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 A",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0a0d75a1-9666-4eeb-9f52-d410b23165bd",
+      "question_text": [
+        "The diagram above shows a balanced metre bridge, the value of x is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Common Physical Quantities ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy192.jpg",
+      "explanation": "1/R = 1/8 + 1/8 = 2/8∴ R = 4Ωl/l1 = R/R1(x)/(100-x) = 4/84(100-x) = 8x400-4x = 8x400 = 8x + 4x = 12xx = 400/12 = 33.3cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "66.7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33.3 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc57f1af-a9d8-457a-80d4-dc53399e94ff",
+      "question_text": [
+        "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Electric Circuits"
+      ],
+      "explanation": "1/R = 1/4 + 1/4 + 1/4 = 3/4R = 4/3I = V/R =164/3 =16 x 3_4= 12 A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2ac41167-decf-429c-a121-c9139f8f46d1",
+      "question_text": [
+        "The radioisotope \\( ^{235}_{92}U \\) decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Alpha, Beta, and Gamma ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "215 and 88",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "91 and 227",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "227 and 91",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "92 and 238",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f4bc005-091b-4835-b834-65be37621f3f",
+      "question_text": [
+        "An object is weighted at different locations on the earth. What will be the right observation?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The weight of a body is the resultant of earth's gravitational pull on it. The earth is not a perfect sphere, it is more flattened at the poles and bulges at the equator. Hence an object at the pole is closer to the earth's center than the one at the equator. The weight of a body at the poles should be more than that of when weighed at the equator.Thus weight varies from place to place while the mass of a body being the quantity of matter it contains remains the same at different points on the earth.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Both the mass and weight are constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Both the mass and weight vary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the mass is constant while the weight varies",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "the weight is constant while the mass varies",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f0fc72cf-98ab-40a0-8c29-fc26f3add598",
+      "question_text": [
+        "Rationalize \\( \\frac{2\\sqrt{3}} + \\sqrt{5} \\sqrt{5} - \\sqrt{3} \\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Hearing ",
+        " Sound and the Physics of Hearing"
+      ],
+      "explanation": "\\(\\frac{2\\sqrt{3}} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}\\) = \\(\\frac{\\sqrt{5}} + 2\\sqrt{3}}{\\sqrt{5} - \\sqrt{3}\\) x \\(\\frac{\\sqrt{5}} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}\\)\\(\\frac{5 + \\sqrt{15} + 2\\sqrt{15} + 2 \\times 3}{(\\sqrt{5} - \\sqrt{3})^2\\)= \\(\\frac{5 + 3\\sqrt{15} +6} {5 - 3)\\)= \\(\\frac{11 + 3\\sqrt{15}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3√15 - 11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3\\sqrt {15} - 11}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3√15 + 11D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f248ea86-fa57-40cb-a814-0c0d0b408899",
+      "question_text": [
+        "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of theirLength is 3: 4 respectively, the ratio of the increase in lengths of P to Q is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P: \\(\\frac{\\alpha h \\theta}{\\alpha h \\theta}\\)\\(\\frac{2 \\times 3 \\times \\theta}{3 \\times 4 \\times \\theta}\\)\\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8:9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9:8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cdc4ccc5-fef0-4712-bc2a-748de1b036d5",
+      "question_text": [
+        "In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Magnets ",
+        " Magnetism"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy195.jpg",
+      "explanation": "IN magnetisation  by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "south and north",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "north and south",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "north and north",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "south and south",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "904c92ad-f270-4ce6-b0ad-17b96d2570e0",
+      "question_text": [
+        "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Describing Projectile Motion ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "In Faradays law of electrolysis M = It = QWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the energy released",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the electrochemical equivalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the current flowing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the charge released",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4fbe750d-c933-4cdb-aa50-531cc0c00135",
+      "question_text": [
+        "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Capacitors in Parallel ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "C = C1 + C2 + C3= 2 + 4 + 8 = 14μFV = 6VEnergy = 1/2CV21/2 x 14 x 10-6 x 62= 2.52 x 10-4 J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.52 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.90 x 10-6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.52 x 10-4J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.90 x 10-4J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a955435d-c6ae-41c9-9ca1-4b1b4bb8d3e0",
+      "question_text": [
+        "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Resistance and Simple Circuits ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "I = E/(R+r)= 12/6 = 2A",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 A",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f20bf305-36d9-42ce-8072-ae127f3e8845",
+      "question_text": [
+        "The diagram above shows a balanced metre bridge, the value of x is"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Common Physical Quantities ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy192.jpg",
+      "explanation": "1/R = 1/8 + 1/8 = 2/8∴ R = 4Ωl/l1 = R/R1(x)/(100-x) = 4/84(100-x) = 8x400-4x = 8x400 = 8x + 4x = 12xx = 400/12 = 33.3cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "66.7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33.3 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "add29bdf-f46f-4cd5-953c-432f52f8d418",
+      "question_text": [
+        "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Electric Circuits"
+      ],
+      "explanation": "1/R = 1/4 + 1/4 + 1/4 = 3/4R = 4/3I = V/R =164/3 =16 x 3_4= 12 A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 A",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

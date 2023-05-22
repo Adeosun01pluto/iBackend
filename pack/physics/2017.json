@@ -1,0 +1,1706 @@
+
+[
+    {
+      "id": "4312dcb9-364d-4235-ae30-0c1a2dbb0317",
+      "question_text": [
+        "Calculate the time taken for a mango fruit that fall from the tree 20 m to the ground [g = 10 ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "u = , H = 20, g = 10From equation of motion under gravityH = ut ± \\(\\frac{1}{2}\\)gt2, It is falling so g is +veH = 0 + \\(\\frac{1}{2}\\)gt2H = \\(\\frac{1}{2}\\)gt22H = gt2\\(\\frac{2H}{g}\\) = t2t = \\(\\frac{\\sqrt{2H}}{g}\\) = \\(\\frac{\\sqrt {2 \\times 20}}{10}\\)= √4= 2s",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2s",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c10ec489-0d13-482d-8e67-d9a634929451",
+      "question_text": [
+        "Which of the following is not a mechanical wave?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Mechanical waves require material medium for their propagation only radio waves among the options docs require a material medium",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "wave in closed pipe",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "radio waves",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "water waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sound waves",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8f232bd2-2e20-4d67-951f-9d9b649cf876",
+      "question_text": [
+        "The velocity ratio of an inclined plane where angle of inclination in θ is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Consider an inclined plane shown below, as the effort moves along OB, the load moves is lifted up through a vertical height ABV.R = \\(\\frac{\\text{distance moved by effort}}{\\text{distance moved by load}}\\)  =  \\(\\frac{OB}{AB}\\)But Sinθ = \\(\\frac{opp}{hyp}\\) = \\(\\frac{AB}{OB}\\)therefore; = \\(\\frac{OB}{AB}\\) = \\(\\frac{1}{\\sin \\theta}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sinθ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cosθ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Tanθ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{1}{\\sin \\theta}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d9fd0706-571d-4628-9799-0372926b188a",
+      "question_text": [
+        "The volume of a fixed mass of gas is 10cm3 when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Using boyle's lawP1V1 = P2V2V2 = \\(\\frac{P_1 V_1}{200}\\) = \\(\\frac{400 \\times 10}{200}\\)= 20cm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2349df58-c040-4e3d-acb9-1f2576870d60",
+      "question_text": [
+        "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "An atom can be represented thus,\\(^{Z}_{A}X\\)  where Z = mass numberA = atomic numberA = number of proton = number of electrons in a free state = 28Z = number of protons + number of neutrons = 28 + 30 = 58\\(^{58}_{28}X\\)is the representation",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(^{58}_{28}X",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(^{30}_{28}X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c9481b73-6837-4dc3-9223-52bdde43fbf2",
+      "question_text": [
+        "When two mirrors are placed at an angle of 900 to each other, how many images will be formed when an object is placed in front of the mirrors"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "When two mirror are inclined at an angle θ, the number of images formed, n = \\(\\frac{360}{\\theta}\\) − 1∴ since \\(\\theta\\) = 90o∴ \\(\\frac{360}{\\theta}\\) − 1= 4 − 1= 3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af9229c6-8a1a-4baa-a465-52e9798c547e",
+      "question_text": [
+        "If silicon is doped with phosphorus, what type of semiconductor material will be formed?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "When silicon is doped with a trivalent atom. A p-type semi-conductor will be formed when silicon is doped with a pentavalent atom such as arsenic, a n-type semi-conductor will be formedPhosphorous is a pentavalent element, so it will produce a o -type semi-conductor",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Zener material",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "P-n junction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "n-type",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "p-type",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "190a2cd8-0dd9-46a4-a8ca-c105b89359b3",
+      "question_text": [
+        "Calculate the angle of minimum deviation of a 60o prism of a refractive index [sin-10.75 = 49o]"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "For a refractive index () = \\(\\frac{\\sin\\frac{1}{2} (A + D)}{\\sin\\frac{1}{2}A}\\)D = angle of minimum deviationA  = refractive angle of  the prism1.5 =  \\(\\frac{\\sin\\frac{1}{2} (60 + D)}{\\sin\\frac{1}{2} \\times 60}\\)1.5 =   \\(\\frac{\\sin\\frac{1}{2} (60 + D)}{\\sin 30}\\)Sin \\(\\frac{1}{2}\\) (60 + D) = 1.5 * Sin 30Sin \\(\\frac{1}{2}\\) (60 + D) = 0.75\\(\\frac{1}{2}\\)  (60 + D) = Sin-1 (0.75)but Sin-1 (0.75) = 49o\\(\\frac{1}{2}\\) (60 + D) = 4960 + D = 2 * 49 = 98oD = 98o - 60oD = 38o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "38.00o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "19.47o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16.25o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "49o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3556f870-818d-4089-b960-e4c6cf4d02e9",
+      "question_text": [
+        "What is the cost of running seven 40 W lamps and five 80 W la mps for 12 hours of the electrical energy cost N7.00kWk?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Seven 40W lamps = 7 × 40 = 280WFive 80W lamps = 5 × 80 = 400WTotal power = 280W + 400W= 680W= \\(\\frac{680KW}{1000}\\) = 0.68KWThe kilowatt hour = 0.68 KW × 12 hrs= 8.16 KWhCost is N 7 per KWhSo the cost of running them = 8.16KWh × N 7/KWh= 57.12",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N80.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N45.36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N65.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N57.12",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cb44e3bc-2ce6-4605-899f-503e297c7fa3",
+      "question_text": [
+        "From the diagram above, calculate the total current in the circuit"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy330.jpg",
+      "explanation": "V = IR from ohms lawI = \\(\\frac{V}{R}\\)Since the resistance are in parallel\\(\\frac{1}{Reff}\\) = \\(\\frac{1}{8}\\) + \\(\\frac{1}{12}\\) + \\(\\frac{1}{6}\\)= \\(\\frac{2 + 3 + 6}{36}\\)   = \\(\\frac{11}{36}\\)Reff = \\(\\frac{36}{11}\\) = 3.27I = I1 + I2 + I3= \\(\\frac{V}{Reff}\\)= \\(\\frac{12}{3.27}\\)= 3.669AI = 3.7A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.7A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.5A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.0A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2d288fb5-4d62-4529-85ea-3a9a7e32973b",
+      "question_text": [
+        "Which of the following surfaces will absorbs radiant heat energy heat?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "A black solution is a better radiator of heat and allow a better absorber of heat.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "white",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "black",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "blue",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18a47f24-35cf-401c-95f0-c92c392f6154",
+      "question_text": [
+        "It is known that a neutron exists in a light atomic nucleusWhich of the following also exists in the nucleus?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Nucleus of atom is made up of neutron and proton",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "An electron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A β - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "β - particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "proton",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ef8a5cba-7906-461b-970d-cb8260750f60",
+      "question_text": [
+        "The instrument to measure the relative density of light is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Thermometer is used to measure temperatureHydrometer is used to measure relative density of liquid.Spring balance is used to measure the weight of an object Beaker is used to measure or take volume of a liquid",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrometer",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "spring balance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "beaker",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d0c2265-5797-432e-a060-22aea9a317d3",
+      "question_text": [
+        "What is the speed of a body vibrating at 50 cyclic per second"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "1 cycle = 3600 = 2π rad∴ 50 cycle = 2 π rad × 50 = 100 πrad∴ = angular speed = 50 cycles per seconds = 100 π rads\\(_{−1}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 πrads\\(^{−1}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "200 πrads\\(^{−1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "967d1310-3c62-4c94-b9e2-7e59153714bc",
+      "question_text": [
+        "The action of blotting paper on ink is due to"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Capillarity is the tendency of a liquid to rise or fall in a narrow tube and it explains why a blotting paper absorbs ink",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "osmosis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "capillarity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "surface tension",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f25eddc-a28c-4c84-9ffc-16cfb000c35f",
+      "question_text": [
+        "A constant force of %n acts for a % seconds on a mass of 5kg initially at rest. Calculate the final momentum"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Impulse = momentumImpulse = Force (f) × time (t)Momentum = mass (m) × velocity (v)∴ Ft = Final momentum - initial momentumFT = mv - muSince it is initially at rest u = 0∴ 5 × 5 = mv − m(0)25 = mv∴ Final momentum = 25kgms\\(^{-1}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125kgms−1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25kgms−1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "15kgms−1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0kgms−1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7a03042-4ec2-425a-919b-45c7f19dc55e",
+      "question_text": [
+        "I. Refraction II. Interference III. Diffraction Which of the above properties are common to all waves?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Refraction, Interference and diffraction are all properties of waves",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I, II and III",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I and III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84365051-be61-42bd-9702-d4a0abe51f81",
+      "question_text": [
+        "I. Refraction II. Interference III. DiffractionWhich of the above properties are common to all waves?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Refraction, Interference and diffraction are all properties of waves",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I, II and III",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I and III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4704207d-76d6-46bd-8f82-02b3f26bce0d",
+      "question_text": [
+        "Which of the following is correct about an electric cell?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "About electric cellPrimary cells are used up gradually often the cells are use and it can't be rechargedSecondary cells or accumulated can be recharged and used for a long period of time and their main advantage is that they have low internal resistance",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Primary cell produces a large current for a long time",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Secondary cell has a very high internal resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Primary cell has a very low internal resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Secondary cell has a very low internal resistance",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e489d779-ae77-4f48-bfe0-13b4541ef9a1",
+      "question_text": [
+        "Which of the following is a semiconductor"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Semi-conductor have an elecctric conductivity intermediate in value between that of a pure metal and a good insulator. Silicon is an example",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "copper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "silicon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "plastic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Iron",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ad437f05-fb43-4d28-bef9-b3dbf5da28e4",
+      "question_text": [
+        "Which of the following is a scalar quantity?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "Scalar quantity is a quantity with only magnitude, it has no directionTension, weight, impulse are vector quantities because they have direction. Mass is the only scalar quantity there",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Tension",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Weight",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Impulse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mass",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3d5621f2-1f80-4429-89ca-475ecf59abe6",
+      "question_text": [
+        "Determine the focal length of a thin converging lens if the power is 5.0 dioptres"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "Power of a lens = \\(\\frac{1}{f}\\)f = focal lengthf = \\(\\frac{1}{p}\\)= \\(\\frac{1}{5}\\) = 0.2m",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.1 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.2 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f1fddc2-e173-4522-8324-2a225e207c65",
+      "question_text": [
+        "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms\\(^{-2}\\)]"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "From Hoke's Law, F = ke, K = Constant of ForceFor he first case, Force = mg,= 0.8 × 10 = 8N∴ 8 = k × 0.04k = \\(\\frac{8}{0.04}\\)= \\(\\frac{200N}{m}\\)Since K is constantFor the second case, F = keF = 200 × e∴ e = \\(\\frac{F}{200}\\)= \\(\\frac{16}{200}\\)= 0.08m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.04m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.12m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.01m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.08m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d749d078-64f7-43d2-8269-9c5b8196554f",
+      "question_text": [
+        "How can energy loss be minimized through Eddy-current?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "Eddy currents are produced by the varying flux cathode, the iron core of an equipment thus reducing efficiency due to power consumption. It can be reduced by laminating the core by breaking up the path of eddy current or by increasing the resistance of the coreUsage of insulated soft iron wire is to reduce hysteresis lossUsage of low resistance wire (thick wire) is to reduce I2R lossUsage of thick wire is to reduce leakage heat loss due to leakage of magnetic fluxThus the correct answer is to use high resistance wire or thin wire",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "By using high resistance wire",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "By using insulated soft iron wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "By using low resistance wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Bu using turns of wires",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4eb469fd-e1b7-4e67-b83e-838f13f987ec",
+      "question_text": [
+        "From the diagram above, calculate the energy stored in the capacitor"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy329.jpg",
+      "explanation": "c = 8µF, v = 10vEnergy stored = \\(\\frac{1}{2}\\) cv2= \\(\\frac{1}{2}\\) × (8 × 10− 6) × 102= 4 × 10\\(^{-4}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 x 10\\(^{-2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 x 10\\(^{-4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "JC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b70d6d6-b2d5-4dd1-86b6-3131a8f2a7fc",
+      "question_text": [
+        "Which of the following operations can be used to convert an alternative current dynamo into a direct current dynamo"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "A d.c generator is one in which its current is allowed to flow in one direction even through it may vary in value an a.c generator can only be made to produce a d.c by replacing the two slip rings with a single split ring or commutator.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "number of turns in the coil is increased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "strength of the field magnet is increased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "slip rings are replaced with split ring cummutator",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "coil is wound on a soft iron armature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4cfb66dc-bdca-4558-ae3b-1e1716495052",
+      "question_text": [
+        "The net capacitance in the circuit above is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy328.jpg",
+      "explanation": "For capacitance i n parallel, 2µF and 2µF are in parallel, their equivalence is 2µF and 2µF = 4µFThe 4µF generated is now in series with the remaining 4µF.The net  capacitance for series connection is\\(\\frac{1}{C}\\) = \\(\\frac{1}{4}\\) + \\(\\frac{1}{4}\\) = 1 + \\(\\frac{1}{4}\\) = \\(\\frac{2}{4}\\)C = \\(\\frac{4}{2}\\) = 2µF",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "80µF",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0µF",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0µF",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.0µF",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f5654381-0bfe-4f91-b838-74468b38a6dd",
+      "question_text": [
+        "The instrument used to measure the pressure of a gas is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "Barometer is used to measure atmosphere pressureThermometer is used to measure temperatureHygrometer is used to measure relative density of a liquidManometer is used to measure the pressure of a gas",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "barometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hygrometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "manometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1d1240d6-78bc-429b-ae03-9c2530a256fe",
+      "question_text": [
+        "A man of mass 50kg ascends a flight of stains 5m high in 5 seconds. If acceleration due to gravity is 10ms\\(^{-2}\\) the power expended is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "Power is the time rate of doing worki.e power = \\(\\frac{\\text{energy}}{\\text{time}}\\)Since energy = mgH∴ power = \\(\\frac{mgH}{t}\\)= \\(\\frac{50 \\times 10 \\times 5}{t}\\)= 500W",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100w",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "200w",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "400w",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "500w",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b2589b4c-a17c-440b-aa12-e79466bad157",
+      "question_text": [
+        "A radio station broadcast at a frequency of 600KHZ. If the speed of light in air is 3 × 108ms\\(^{−1}\\). Calculate the wavelength of the radio wave"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "V = fλλ = \\(\\frac{v}{f}\\)= \\(\\frac{3 \\times 10^8}{600 \\times 10^3}\\) = 500m= 5 × 102mN.B 600KHz Frequency = 600 × 103Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.20 × 10\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.0 × 10\\(^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "mC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30185c83-e73d-44aa-90a0-ec3fb5b8848d",
+      "question_text": [
+        "The S.I unit of moment of a force is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "Moment of a force is the product of a force and the perpendicular distance from the line of action of the force Moment = force × distance= N × m= Nm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "kgm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "µm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Jm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "µm\\(^{-1}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3f1462c-2171-4230-8ede-1368da7f95c0",
+      "question_text": [
+        "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "80.0%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "76.6%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "66.7%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60.7%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ab03016-16b8-4034-a887-736636e8c923",
+      "question_text": [
+        "Calculate the light of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "Magnification = \\(\\frac{\\text{Length of camera}}{\\text{distance of object from pin hole}}\\)m = \\(\\frac{12}{60}\\)= 0.2Also magnification m = \\(\\frac{\\text{Height of image}}{\\text{Height of object}}\\)∴ Height of image = m × height of object= 0.2 × 70= 14cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f6983dea-4e9e-4bbb-a3d4-2b3dffdce34a",
+      "question_text": [
+        "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that of Q. The mass of P is half that of Q. The ratio of the specific heat capacity pf P to Q is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "H = mcθHP = HQ, θP = 2θ,mP = \\(\\frac{1}{2}\\)mQ∴ HP = mQCPθP, also HQ = mQCQθQSince HP = HQ∴ mPcPθP = mQcPθqPutting in the conditions\\(\\frac{1}{2}\\)mQ × cP × 2θQ = mQ × θQ × cQ∴ cP = cQ\\(\\frac{C_p}{C_Q}\\)= \\(\\frac{1}{1}\\)= 1:1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1:1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2:1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e9dc9cd-46ed-4746-9874-56886a477ad3",
+      "question_text": [
+        "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "The relationship between the peak value and r.m.s value of electricity supply is given asV\\(_{r.m.s}\\) = \\(\\frac{V_o}{\\sqrt{2}}\\)where Vo = peak voltage∴ Vo = V\\(_{r.m.s}\\) × √2= 240 × √2= 339.5v= 340v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "240v",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "340v",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "480v",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "57600v",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27ac8e79-4498-4c55-b27e-128c858b17de",
+      "question_text": [
+        "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "Efficiency = \\(\\frac{ma}{V.R}\\) x \\(\\frac{100}{1}\\)V.R = number of pulleys = 6ma = \\(\\frac{\\text{Load}}{\\text{Effort}}\\)   =  \\(\\frac{200}{50}\\)  =  4Effiecieny = \\(\\frac{4}{6}\\) ×  100  =  66.67%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "80.0%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "76.6%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "66.7%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60.7%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eaf20d0e-9bd1-4e67-a0ec-59c5fc8fbb03",
+      "question_text": [
+        "Three 3ω resistance are connected in parallel what is the equivalent resistance?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "Resistor connected in a parallel have an equivalence given by\\(\\frac{1}{\\text{Reff}}\\) = \\(\\frac{1}{3}\\) + \\(\\frac{1}{3}\\) + \\(\\frac{1}{3}\\)= \\(\\frac{1 + 1 + 1}{3}\\) = \\(\\frac{3}{3}\\) =  1Reff = 1ω",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "9ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.33ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "06e73a5a-6335-47ea-b358-745b21b9a5d8",
+      "question_text": [
+        "Which of the following instruments helps to maintain the correct humidity and temperature of a building?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "Compressor is an instrument to supply air or other gas at increased pressureRefrigerator is an appliance to keep things coldAir blower is used to release airAir conditioner is used to remove heat and maintain a stable temperature in an occupied space",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A compressor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A refrigerator",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Air blower",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Air conditioner",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "92b1e7b6-700a-4576-a02e-4abdb0afcddc",
+      "question_text": [
+        "An element and its isotope only differ in the number of"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "Isotopy is due to difference in mass number, what causes the difference is the difference in the number of neutrons present",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "protons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "neutrons",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "95f7342f-5a1e-4f3d-bef0-d3e6d29a662a",
+      "question_text": [
+        "The thermal expansion of a solid is an advantage in"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "Thermal expansion of a solid is majorly advantageous in the use of bimetallic strip in the balance of a watch so as not to lose time",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Balance wheel of a watch",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Construction of steel rail lines",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Construction of large steel bridges",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Fitting of tyres on wheels",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "86e38d60-007c-4b49-918e-8624d58164da",
+      "question_text": [
+        "Under what conditions are cathode rays produced in a discharge tube?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Cathode rays are produced in a discharge tube under Low pressure and high voltage",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "High pressure and low voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "High pressure and high voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Low pressure and low voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Low pressure and high volatge",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4059d5fb-cbb8-41d5-8f33-0ae49337f9f9",
+      "question_text": [
+        "Under which of the following conditions is work done?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Work Is only done when an object is moved to a distance. The ans is C because the man pushed the table to a distance. The rest no work is done. Ans C",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A man supports a heavy food above his head with his hands",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A boy climbs onto a table",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "A man pushes unto a table",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "A woman holds a pot of water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9816fb6c-e7cc-4cbb-93bb-5bf4f9e8ede3",
+      "question_text": [
+        "Calculate the specific latent heat of vaporization of steam of 1.13 x 106J pf heat energy is required to convert 15kg of it to water."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Latent Energy = mass(m) × specific latent heat (L)ε = mLL = ε/m\\(\\frac{E}{m}\\)= \\(\\frac{1.13 \\times 106}{15}\\)= 7.53 × 104Jkg\\(^{-1}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7.53 x 105 Jkg\\(^{-1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7.53 x 10-2Jkg\\(^{-1}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9017d316-cda5-43c9-a419-ea1c75d94f33",
+      "question_text": [
+        "A cell of internal resistance 2 π supplies current to a 6 π resistor. The efficiency of the cell is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Internal resistance determine the maximum current that can be suppliedEfficiency = \\(\\frac{r}{R}\\) × 100= \\(\\frca{2}{6}\\) × 100= 33.3%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12.0%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25.0%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33.3%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "75.0%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c65992e5-fcbd-41a1-9e83-700f4338f931",
+      "question_text": [
+        "Which of the following statements is NOT correct?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Molecules of matter are in constant motion and liquid is matter, so liquid is not stationary",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Molecules of a liquid are stationary",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Brownian motion is an evidence of particle nature of matter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Matter is made up of molecules",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The molecules of matter are in constant motion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ee839b7-698b-4d99-8da5-495db143bdc3",
+      "question_text": [
+        "Which is the incorrect formula for a body accelerating uniformly?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "s =  \\(\\frac{1}{2}\\)ut + at2 is a wrong equation, it should be s =  ut + \\(\\frac{1}{2}\\)at2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a = v2 − u\\(\\frac{2}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "v2 = u2 + 2as",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "s = \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd20f89d-c2b4-4a78-99a9-ddc3bc10bafa",
+      "question_text": [
+        "Which of the following is not an electromagnetic radiation?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Electromagnetic waves do not require any material medium, but sound waves is a mechanical wave that require a material medium",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x - ray",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Radio waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sunlight",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sound waves",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0c3ac664-d1c8-4099-8c7d-e44a375b6f73",
+      "question_text": [
+        "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Electric Field Intensity (E) = \\(\\frac{v}{d}\\)= \\(\\frac{\\text{potential difference}}{\\text{distance}}\\)= \\(\\frac{6.5v}{35cm}\\)= \\(\\frac{6.5}{35 \\times 10^{- 2}}\\)= 18.57NC\\(^{-1}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "18.57NC\\(^{-1}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "53.06NC\\(^{-1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "642531ab-0ebf-4930-8fe7-7f727f2548e8",
+      "question_text": [
+        "Why do soldiers march disorderly while crossing a bridge?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Soldiers march disorderly while crossing a bridge to prevent resonance because when soldiers march in orderly manner across a bridge, they generate a rhythmic oscillation of wave out. The bridge and at a certain point, would start oscillation to the same rhym as that of the marching steps. This oscillation would reach a maximum peak when the bridge can no longer sustain its own strength and hence collapses. So for this reasons, soldier are ordered to march disorderly while crossing a bridge",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "To prevent resonance on the bridge",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "To set the bridge into resonance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "To make the b ridge collapse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "To spread their weight evenly on the bridge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8ef5f4a-360c-43b7-ba43-6128c8439fdf",
+      "question_text": [
+        "Calculate the upthrust on an object of volume 50cm3 which is immersed in liquid of density 103kgm-3 [g = 10ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "Upthrust = change in weightdensity = \\(\\frac{\\text{mass}}{\\text{volume}}\\)Mass of liquid displaced = Density of Liquid × Volume;= 103 × 50 × 10− 6m3= 0.05kg(Note that the volume of 50cm3 was converted to m3 by multiplying by 106) i.e 50cm3 = 50 × 10−6m3)Since mass displaced = 0.05kgUpthrust = mg = 0.05 × 10= 0.5N",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.8N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.5N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.0N",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,3476 @@
+
+[
+    {
+      "id": "f1c08223-2ae7-4c29-b127-b08ee4415dc0",
+      "question_text": [
+        "Simplify \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\) \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{16}{9})^{\\frac{1}{2}}\\) \\((\\frac{2^4}{3^4})^{\\frac{1}{4}} \\div (\\frac{4^2}{3^2})^{\\frac{1}{2}}\\) \\(\\frac{2^{4 \\times \\frac{1}{4}}}{3^{4 \\times \\frac{1}{4}}} \\div \\frac{4^{2 \\times \\frac{1}{2}}}{3^{2 \\times \\frac{1}{2}}}\\) \\(\\frac{2}{3} \\div \\frac{4}{3}\\) \\(\\frac{2}{3} \\times \\frac{3}{4}\\) \\(\\frac{2}{4}\\) \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d950b565-6d58-4a0a-a961-b0a5213549c3",
+      "question_text": [
+        "Solve the inequality -6(x + 3) \\(\\leq\\) 4(x - 2)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "-6(x + 3) \\(\\leq\\) 4(x - 2) -6(x +3) \\(\\leq\\) 4(x - 2) -6x -18 \\(\\leq\\) 4x - 8  -18 + 8 \\(\\leq\\) 4x +6x  -10x \\(\\leq\\) 10x  10x \\(\\leq\\) -10  x \\(\\leq\\) 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " -1C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b03ea04-25a3-41d9-8a3e-e30e75768f26",
+      "question_text": [
+        "Find r, if 6r78 = 5119"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "6r78 = 5119 6 x 82 + r x 81 + 7 x 8o = 5 x 92 + 1 x 91 + 1 x 9o 6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1 384 + 8r + 7 = 405 + 9 + 1  391 + 8r = 24 r = \\(\\frac{24}{8}\\) = 3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2fb49fcc-b6da-4a09-a9fd-4900890aedbf",
+      "question_text": [
+        "Simplify (\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "(\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\) Applying the rule of BODMAS, we have:  (\\(\\frac{3}{4}\\) x \\(\\frac{4}{9}\\) \\(\\div\\)\\(\\frac{24}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{3}{9}\\) \\(\\div\\) \\(\\frac{19}{2}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) = (\\(\\frac{3}{9}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) \\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\) x \\(\\frac{19}{24}\\) = \\(\\frac{1}{36}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b02cec78-6312-418f-bc78-f516ce65b0a2",
+      "question_text": [
+        "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Actual length of rope = 1.25mMeasured length of rope = 1.26merror = (1.26 - 1.25)m - 0.01mPercentage error = \\(\\frac{error}{\\text{actual length}}\\) x 100%= \\(\\frac{0.01}{1.25}\\) x 100% = 0.08%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.80%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "20cdd30e-d957-4947-9f39-19e299a40a3b",
+      "question_text": [
+        "At what rate will the interest on ₦400 increases to ₦24 in 3 years reckoning in simple interest?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Using simple interest = \\(\\frac{P \\times T \\times R}{100}\\),  where: P denoted principal = ₦400 T denotes time = 3 years  R denotes interest rate = ? 24 = \\(\\frac{400 \\times 3 \\times R}{100}\\) 24 x 100 = 400 x 3 x R  R = \\(\\frac{24 \\times 100}{400 \\times3}\\)  = 2%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e13b725a-5f1b-4448-a74c-f391685622d6",
+      "question_text": [
+        "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\) and q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), find p : q : r"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\), then the sum S1 of ratio = \\(\\frac{2}{3}\\) + \\(\\frac{5}{6}\\) = \\(\\frac{9}{6}\\) If q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), then the sum S2 of ratio = \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{5}{4}\\) Let p + q = T1, then  q = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))T1 = \\(\\frac{5}{9}\\)T1 Again, let q + r = T2, then  q = (\\(\\frac{3}{4} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{3}{4} \\times \\frac{4}{5}\\))T2 = \\(\\frac{3}{5}\\)T2 Using q = q \\(\\frac{5}{9}\\)T1 = \\(\\frac{3}{5}\\)T2 5 x 5T1 = 9 x 3T2 \\(\\frac{T_1}{T_2}\\) = \\(\\frac{9 \\times 3}{5 x 5}\\) = \\(\\frac{27}{5}\\)  Giving that, T1 = 27 and T2 = 25 P = (\\(\\frac{2}{3} \\div S_1\\))T1 = (\\(\\frac{2}{3} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{2}{3} \\times \\frac{6}{9}\\))27 = 12 q = (\\(\\frac{5}{6} \\div S_1\\))T1 = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))27 = 15  and r = (\\(\\frac{1}{2} \\div S_2\\))T2 = (\\(\\frac{1}{2} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{1}{2} \\times \\frac{4}{5}\\))25 = 10 Hence p : q : r = 12: 15 : 10",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 : 15 : 10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 : 15 : 16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 : 15 : 24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 : 10 : 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7359a951-8cec-4d40-91ab-50397dd9e6b7",
+      "question_text": [
+        "Given that log 2 = 0.3010, log 7 = 0.8451. Evaluate log 112."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "log 112 = log(16 x 7) = log 16 + log7  = log 24 + log7 = 4log2 + log7 = 4(0.3010) + 0.8451 = 1.204 + 0.8451 = 2.0491",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0491",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5441",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc02030e-e8b9-46b3-8b8c-253ea464f874",
+      "question_text": [
+        "If x \\(\\ast\\) y = x + y2, find the value of (2 \\(\\ast\\) 3)\\(\\ast\\)5"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Given that, X \\(\\ast\\) y = X + y2 (2 \\(\\ast\\) 3) \\(\\ast\\) 5 = (2 + 32)\\(\\ast\\)5 = (2 + 9)\\(\\ast\\)5 = 11 \\(\\ast\\)5  Hence 11 \\(\\ast\\) 5 = 11 + 52 = 11 + 25 = 36",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "55",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5a96b9b1-3a28-4f6f-9069-f63bf9995505",
+      "question_text": [
+        "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "3rd term : a + 2d = -9 .......(1) 7th term : a + 6d = -29 ......(2) (2) - (1): 4d = -20 :. d = -20/4 = -5 From (1) : a + 2(-5) = -9 a - 10 = -9 :. a = -9 + 10 = 1 :. 10th term of A.P is a + 9d = 1 + 9 (-5) = 1 - 45 = -44",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-44",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "44",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6e0ce79-3185-4c91-ad66-fc14a1b0e124",
+      "question_text": [
+        "Find \\(\\int\\)(sin x + 2) dx."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\int\\)(Sin x + 2)dx = -cos x + 2x + k",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-cosx + 2x + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "cosx + 2x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-cosx + x2 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cosx + x2 + k",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "027e6aec-906e-4874-a7ad-f19696b2ccfd",
+      "question_text": [
+        "At what value of X does the function y = -3 - 2x + X2 attain a minimum value?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Given that y = -3 - 2x + X2 then, \\(\\frac{dy}{dx}\\) = -2 + 2x At maximum value, \\(\\frac{dy}{dx}\\) = O therefore, -2 + 2x 2x = 2 x = 2/2 = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7eb9c4f9-7e61-44c0-aa5e-3f290815bb0e",
+      "question_text": [
+        "Find the equation of a line parallel to y = -4x + 2 passing through (2,3)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "By comparing y = mx + c with y = -4x + 2, the gradient of y = -4x + 2 is m1 = -4 Let the gradient of the line parallel to the given line be m2, then, m2 = m1 = -4 (condition for parallelism)  Using: y - y1 = m2(x - x1) Hence the equation of the parallel line is  y - 3 = -4(x-2) y - 3 = -4 x + 8 y + 4x = 8 + 3 y + 4x = 11 y + 4x - 11 = 0",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y + 4x + 11 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y - 4x - 11 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y + 4x - 11 = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "y - 4x + 11 = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a5f4690-7bb2-47cc-92a0-75c6f4333797",
+      "question_text": [
+        "Make Q the subject of formula if p = \\(\\frac{M}{5}\\)(X + Q) + 1"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "p = \\(\\frac{M}{5}\\)(X + Q) + 1 P - 1 = \\(\\frac{M}{5}\\)(X + Q) \\(\\frac{5}{M}\\)(p - 1) = X + Q \\(\\frac{5}{M}\\)(p - 1)- x = Q Q = \\(\\frac{5(p -1) - Mx}{M}\\) = \\(\\frac{5p - 5 - Mx}{M}\\) = \\(\\frac{5p - Mx - 5}{M}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{5P - MX + 5}{M}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5P - MX - 5}{M}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ba63631-4142-483a-83c6-7e563a95e486",
+      "question_text": [
+        "If 9x2 + 6xy + 4y2 is a factor of 27x3 - 8y3, find the other factor."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "27x3 - 8y3 = (3x - 2y)3 But 9x2 + 6xy + 4y2 = (3x +2y)2 So, 27x3 - 8y3 = (3x - 2y)(3x - 2y)2 Hence the other factor is 3x - 2y",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2y + 3x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2y - 3x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3x + 2y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3x - 2y",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e161479e-4601-4700-8eb9-114c80b9c713",
+      "question_text": [
+        "Factorize completely \\(\\frac{x^3 + 3x^2 - 10x}{2x^2 - 8}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\frac{x^3 + 3x^2 - 10x}{2x^2 - 8}\\) = \\(\\frac {x(x^2 + 3x - 10)}{2(x^2 - 4)}\\) = \\(\\frac {x(x^2 + 5x - 2x - 10)}{2(x + 2)(x - 2)}\\) = \\(\\frac {x(x - 2)(x + 5)}{2(x + 2)(x - 2)}\\) = \\(\\frac {x(x + 5)}{2(x + 2)}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x(x - ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "}{2(x + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7cc92e3c-784b-4a3e-ae48-e066a2c32bd5",
+      "question_text": [
+        "Solve for x and y if x - y = 2 and x2 - y2 = 8"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "x - y = 2 ...........(1) x2 - y2 = 8 ........... (2) x - 2 = y ............ (3) Put y = x -2 in (2) x2 - (x - 2)2 = 8 x2 - (x2 - 4x + 4) = 8 x2 - x2 + 4x - 4 = 8 4x = 8 + 4 = 12 x = \\(\\frac{12}{4}\\) = 3 from (3), y = 3 - 2 = 1  therefore, x = 3, y = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-1, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(3, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "805e1d48-1033-4fc3-afec-9713cff72fdd",
+      "question_text": [
+        "If x is inversely proportional to y and x = 2\\(\\frac{1}{2}\\) when y = 2, find x if y = 4"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "x \\(\\alpha\\) \\(\\frac{1}{y}\\) .........(1) x = k x \\(\\frac{1}{y}\\) .........(2) When x = 2\\(\\frac{1}{2}\\)  = \\(\\frac{5}{2}\\), y = 2 (2) becomes \\(\\frac{5}{2}\\) = k x \\(\\frac{1}{2}\\) giving k = 5 from (2), x = \\(\\frac{5}{y}\\) so when y =4, x = \\(\\frac{5}{y}\\) = 1\\(\\frac{1}{4}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9922a762-edb1-49db-89cc-96d82036fd42",
+      "question_text": [
+        "For what range of values of x is \\(\\frac{1}{2}\\)x + \\(\\frac{1}{4}\\) > \\(\\frac{1}{3}\\)x + \\(\\frac{1}{2}\\)?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\frac{1}{2}\\)x + \\(\\frac{1}{4}\\) > \\(\\frac{1}{3}\\)x + \\(\\frac{1}{2}\\) Multiply through by through by the LCM of 2, 3 and 4  12 x \\(\\frac{1}{2}\\)x + 12 x \\(\\frac{1}{4}\\) > 12 x \\(\\frac{1}{3}\\)x + 12 x \\(\\frac{1}{2}\\) 6x + 3 > 4x + 6 6x - 4x > 6 - 3  2x > 3 \\(\\frac{2x}{2}\\) > \\(\\frac{3}{2}\\) x > \\(\\frac{3}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x < \\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x > \\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6aca938e-3d4f-4c98-94ef-daaf35f18de1",
+      "question_text": [
+        "Solve the inequalities -6 \\(\\leq\\) 4 - 2x < 5 - x."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "-6 \\(\\leq\\) 4 - 2x < 5 - x  split inequalities into two and solve each part as follows:  -6 \\(\\leq\\) 4 - 2x = -6 - 4 \\(\\leq\\) -2x -10 \\(\\leq\\) -2x \\(\\frac{-10}{-2}\\) \\(\\geq\\) \\(\\frac{-2x}{-2}\\) giving 5 \\(\\geq\\) x or x \\(\\leq\\) 5 4 - 2x < 5 - x  -2x + x < 5 - 4 -x < 1 \\(\\frac{-x}{-1}\\) > \\(\\frac{1}{-1}\\) giving x > -1 or -1 < x Combining the two results, gives -1 < x \\(\\leq\\) 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1 < x < 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1 < x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1 \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eab03612-8c0d-4db3-bb92-2c94691424b5",
+      "question_text": [
+        "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + ....."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Using S\\(\\infty\\) = \\(\\frac{a}{1 - r}\\) r = \\(\\frac{0.05}{0.5}\\) = \\(\\frac{1}{10}\\) S\\(\\infty\\) = \\(\\frac{0.5}{{\\frac{1}{10}}}\\) = \\(\\frac{0.5}{({\\frac{9}{10}})}\\) = \\(\\frac{0.5 \\times 10}{9}\\) = \\(\\frac{5}{9}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{5}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "33766695-2a35-425f-a6bd-0c031af24543",
+      "question_text": [
+        "If \\(\\begin{vmatrix} x & 3 \\\\ 2 & 7 \\end{vmatrix}\\) = 15, find the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "If \\(\\begin{vmatrix} x & 3 \\\\ 2 & 7 \\end{vmatrix}\\) = 15  7x - 2 x 3 = 15 7x - 6 = 15 7x = 15 + 6 = 21 therefore x = \\(\\frac{21}{7}\\) = 3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fde06cd5-8875-4c3f-9f15-c4de63e920d7",
+      "question_text": [
+        "Evaluate \\(\\begin{vmatrix} 2 & 0 & 5 \\\\ 4 & 6 & 3 \\\\ 8 & 9 & 1 \\end{vmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\begin{vmatrix} 2 & 0 & 5 \\\\ 4 & 6 & 3 \\\\ 8 & 9 & 1 \\end{vmatrix}\\) = 2(6 - 27) - 0(4 - 24) + 5(36 - 48) = 2(-21) - 0 + 5(-12) = -42 + 5(-12) = -42 - 60 = -102",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5y - 2x -18 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "102",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-102",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-42",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b96c2ef-ae57-4070-bf7d-e6c01f8e381c",
+      "question_text": [
+        "If P = \\(\\begin{pmatrix} 2 & -3 \\\\ 1 & 1 \\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "P = \\(\\begin{pmatrix} 2 & -3 \\\\ 1 & 1 \\end{pmatrix}\\) |P| = 2 - 1 x -3 = 5  P-1 = \\(\\frac{1}{5}\\)\\(\\begin{pmatrix} 1 & 3 \\\\ -1 & 2 \\end{pmatrix}\\) = \\(\\begin{pmatrix} {\\frac{1}{5}} & {\\frac{3}{5}} \\\\ -{\\frac{1}{5}} & {\\frac{2}{5}} \\end{pmatrix}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{pmatrix} -{\\frac{1}{5}} & -{\\frac{3}{5}} \\\\ -{\\frac{1}{5}} & -{\\frac{2}{5}} \\end{pmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{pmatrix} {\\frac{1}{5}} & {\\frac{3}{5}} \\\\ {\\frac{1}{5}} & {\\frac{2}{5}} \\end{pmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6c2c3497-f8fd-452e-93de-c00a5bde984c",
+      "question_text": [
+        "The interior angles of a quadrilateral are (x + 15)o, (2x - 45)o and (x + 10)o. Find the value of the least interior angle."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "(x + 15)o + (2x - 45)o + (x + 10)o = (2n - 4)90o when n = 4 x + 15o + 2x - 45o + x - 30o + x + 10o = (2 x 4 - 4) 90o 5x - 50o = (8 - 4)90o 5x - 50o = 4 x 90o = 360o 5x = 360o + 50o 5x = 410o x = \\(\\frac{410^o}{5}\\) = 82o Hence, the value of the least interior angle is (x - 30o) = (82 - 30)o = 52o",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "112o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "102o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "82o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "52o",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6610498b-4116-4407-b650-fdf6a86c67a5",
+      "question_text": [
+        "A cylindrical pipe 50cm long with radius 7m has one end open. What is the total surface area of the pipe?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Total surface area of the cylindrical pipe = area of circular base + curved surface area  = \\(\\pi\\)r2 + 2\\(\\pi\\)rh = \\(\\pi\\) x 72 + 2\\(\\pi\\) x 7 x 50 = 49\\(\\pi\\) x 700\\(\\pi\\) = 749\\(\\pi\\)m2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "749\\(\\pi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "m2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "700\\(\\pi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "m2C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "74cb7619-1848-4c22-bd05-492dda6b0fd9",
+      "question_text": [
+        "Find the distance between the points (\\(\\frac{1}{2}\\), -\\(\\frac{1}{2}\\))."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Let D denote the distance between (\\(\\frac{1}{2}\\), -\\(\\frac{1}{2}\\)) then using  D = \\(\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\\) = \\(\\sqrt{(-{\\frac{1}{2} - \\frac{1}{2}})^2 + (-{\\frac{1}{2} - \\frac{1}{2}})^2}\\) = \\(\\sqrt{(-1)^2 + (-1)^2}\\)  = \\(\\sqrt{1 + 1}\\) = √2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "√3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "√2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d694487e-10a1-4116-a65b-f693f18b6aa4",
+      "question_text": [
+        "If cot\\(\\theta\\) = \\(\\frac{8}{15}\\), where \\(\\theta\\) is acute, find sin\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "cot\\(\\theta\\) = \\(\\frac{1}{\\cos \\theta}\\) = \\(\\frac{8}{15}\\)(given) tan\\(\\theta\\) = \\(\\frac{15}{18}\\) By Pythagoras theorem,  x2 = 152 + 82 x2 = 225 + 64 = 289 x = \\(\\sqrt{289}\\)  = 17  Hence sin\\(\\theta\\) = \\(\\frac{15}{x}\\) = \\(\\frac{15}{17}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{17}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{15}{17}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e5cfefc2-23b9-4b1c-b271-93a720d7fe1f",
+      "question_text": [
+        "If y = (2x + 1)3, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "If y = (2x + 1)3, then  Let u = 2x + 1 so that, y = u3 \\(\\frac{dy}{du}\\) = 3u2 and \\(\\frac{dy}{dx}\\) = 2  Hence by the chain rule,  \\(\\frac{dy}{dx}\\) = \\(\\frac{dy}{du}\\) x \\(\\frac{du}{dx}\\) = 3u2 x 2  = 6u2 = 6(2x + 1)2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6(2x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3(2x + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78d1534c-0664-470e-812c-928074275f7e",
+      "question_text": [
+        "If y = x sinx, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "If y = x sinx, then  Let u = x and v = sinx  \\(\\frac{du}{dx}\\) = 1 and \\(\\frac{dv}{dx}\\) = cosx Hence by the product rule,  \\(\\frac{dy}{dx}\\) = v \\(\\frac{du}{dx}\\) + u\\(\\frac{dv}{dx}\\) = (sin x) x 1 + x cosx = sinx + x cosx",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sin x - x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sinx + x cosx",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "sinx - cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sinx + cosx",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4f7b9bd-91f9-4cdc-9f8e-fc78183f048d",
+      "question_text": [
+        "Evaluate \\(\\int^{2}_{0}(x^3 + x^2)\\)dx."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\int^{2}_{0}(x^3 + x^2)\\)dx = \\(\\int^{2}_{0}\\)(\\(\\frac{x^4}{4} + {\\frac {x^3}{3}}\\)) = (\\(\\frac{2^4}{4} + {\\frac {2^3}{3}}\\)) - (\\(\\frac{0^4}{4} + {\\frac {0^3}{3}}\\)) = (\\(\\frac{16}{4} + {\\frac {8}{3}}\\)) - 0 = \\(\\frac{80}{12}\\) = \\(\\frac {20}{3}\\) or \\(6\\frac{2}{3}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4\\(\\frac{5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9af8a0fa-9854-4bea-a668-d54ebde1b15b",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Marks} & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline \\text{No. of students} & 3 & 1 & 5 & 2 & 4 & 2 & 3\\end{array}\\)From the table above, if the pass mark is 5, how many students failed the test?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "From the table, the number of students who failed the test is given as: 3 + 1 + 5 = 9",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3faa5390-246a-4c7c-92af-6e19ad354c07",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Marks} & 1 & 2 & 3 & 4 & 5\\\\ \\hline \\text{Frequency} & 2 & 2 & 8 & 4 & 4\\end{array}\\)The table above shows the marks obtained in a given test. How many students took the test?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "from the table, the number of students who took the test is 2 + 2 + 8 + 4 + 4 = 20",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75479b70-dca5-446c-91fb-b9d01a79144b",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Marks} & 1 & 2 & 3 & 4 & 5\\\\ \\hline \\text{Frequency} & 2 & 2 & 8 & 4 & 4\\end{array}\\)The table above shows the marks obtained in a given test. Find the mean mark."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\begin{array} & Marks(x) & freq.(f) & fx \\\\1 & 2 & 2 \\\\ 2 & 2 & 4 \\\\ 3 & 8 & 24 \\\\ 4 & 4 & 16\\\\ 5 & 4 & 20 \\\\ \\hline & \\sum f = 20 & \\sum fx = 66\\end{array}\\) ___________________________________ Mean mark ,\\(\\bar{x}\\) = \\(\\frac{\\sum fx}{\\sum f}\\) = \\(\\frac{66}{20}\\) \\(\\bar{x}\\) = 3.3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a76f74a9-abeb-42bd-8f9c-2abc16ae79e8",
+      "question_text": [
+        "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "A committee of 2 women and 3 men can be chosen from 6 men and 5 women, in \\(^{5}C_{2}\\) x \\(^{6}C_{3}\\) ways  = \\(\\frac{5!}{(5 - 2)!2!} \\times {\\frac{6!}{(6 - 3)!3!}}\\) = \\(\\frac{5!}{3!2!} \\times {\\frac{6!}{3 \\times 3!}}\\) = \\(\\frac{5 \\times 4 \\times 3!}{3! \\times 2!} \\times {\\frac{6 \\times 5 \\times 4 \\times 3!}{3! \\times 3!}}\\) = \\(\\frac{5 \\times 4}{1 \\times 2} \\times {\\frac{6 \\times 5 \\times 4}{1 \\times 2 \\times 3}}\\) = 10 x \\(\\frac{6 \\times 20}{6}\\) = 200",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2760c895-521e-4ebf-8daa-c1ca31d5a8d4",
+      "question_text": [
+        "If three unbiased coins are tossed, find the probability that they are all heads"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "P(H) = \\(\\frac{1}{2}\\) and P(T) = \\(\\frac{1}{2}\\) Using the binomial prob. distribution,  (H + T)3 = H3 + 3H2T1 + 3HT2 + T3 Hence the probability that three heads show in a toss of the three coins is H3 = (\\(\\frac{1}{2}\\))3 = \\(\\frac{1}{8}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "49112e88-4b54-4338-b232-604ba72168ee",
+      "question_text": [
+        "Find the standard deviation of 2, 3, 5 and 6"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\begin{array}& x & x - \\bar{x} & (x - \\bar{x})^2 \\\\2 & -2 & 4 \\\\ 3 & -1 & 1 \\\\ 5 & 1 & 1 \\\\ 6 & 2 & 4\\\\ \\hline \\sum x = 16 & & \\sum (x - \\bar{x}^2) = 0 \\end{array}\\) ___________________________________ \\(\\bar{x}\\) = \\(\\frac{\\sum x }{N}\\) = \\(\\frac{16}{4}\\) = 4 S = \\(\\sqrt{\\frac {(x - \\bar{x})^2}{N}}\\) = \\(\\sqrt{\\frac {(10)}{4}}\\) = \\(\\sqrt{\\frac {(5)}{2}}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "√6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "√10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "√\\(\\frac{2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2e472f18-cd06-4f3a-b5c8-476e65b3eda0",
+      "question_text": [
+        "W is directly proportional to U. If W = 5 when U = 3, find U when W = \\(\\frac{2}{7}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "W \\(\\alpha\\) U W = ku u = \\(\\frac{w}{k}\\); \\(\\frac{2}{7}\\) x \\(\\frac{3}{5}\\) = \\(\\frac{6}{35}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{6}{35}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{10}{21}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "59cdecf1-547b-484f-9ed8-73d87613b10f",
+      "question_text": [
+        "Find the gradient of the line passing through the points (-2, 0) and (0, -4)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Given (-2, 0) and (0, -4) Gradient = \\(\\frac{-4 - 0}{0 - (-2)}\\) = \\(\\frac{-4}{2}\\) = -2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5477d3e8-f04f-4ae0-8923-841e1246ee62",
+      "question_text": [
+        "If the area of \\(\\bigtriangleup\\)PQR above is 12\\(\\sqrt{3}\\)cm2, find the value of q?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math87.jpg",
+      "explanation": "Let A denote the area of \\(\\bigtriangleup\\)PQR, then A = \\(\\frac{1}{2} bh\\)Using Sin 60\\(^{\\circ}\\) = \\(\\frac{h}{q}\\)h = q sin 60\\(^{\\circ}\\)So A = \\(\\frac{1}{2}b(q \\sin 60^o)\\)12\\(\\sqrt{3} = \\frac{1}{2} \\times 8 \\times q \\times \\frac{\\sqrt{3}}{3}\\)12\\(\\sqrt{3}\\) - 2q\\(\\sqrt{3}\\)q = \\(\\frac{12}{2} = 6\\)cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3dcafa18-4e35-4d4a-aedb-4633c3877499",
+      "question_text": [
+        "Evaluate \\(\\left(\\frac{81}{16}\\right)^{\\frac{-1}{4}}\\times 2^{-1}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(\\left(\\frac{81}{16}\\right)^{\\frac{-1}{4}}\\times 2^{-1}=\\frac{1}{\\left(\\frac{81}{16}\\right)^{\\frac{1}{4}}}\\times \\frac{1}{2}\\\\=\\left(\\frac{16}{81}\\right)^{\\frac{1}{4}}\\times \\frac{1}{2}\\\\=\\left(\\frac{2}{3}\\right)^{4\\times \\frac{1}{4}}\\\\=\\frac{2}{3}\\times \\frac{1}{2}\\\\=\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0a6d1076-9710-46fa-86e0-df878dc17a20",
+      "question_text": [
+        "Rationalise2√3+√5√5-√3"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "2√3+√5√5-√3=2√+√5x√5+√3√5+√3√5-√3=2√3(√5+√3)+ √5(√5+√3)____(√5)2-(√3)2=2√15+2(3) +5+√15_____5 - 3=2√15+6+5+√15______2=11+3√15___2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(3 √ 15 +1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " / 2 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 √ 15 -11 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(3 √ 15 -11",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e3fa618d-5150-40af-a55f-9049b2ff9485",
+      "question_text": [
+        "Express the product of 0.21 and 0.34 in standard form"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "0.21 x 0.34 = 0.0714= 7.14 x 10-2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7.14 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.14 x 10-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "7.14 x 10-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.14 x 10-4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd80a73e-e29e-4350-a54d-9ccf15fde7bc",
+      "question_text": [
+        "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Let C n G = Xn C only = 40 - xn G only = 30 - x40 - X + 30 - X = 5070 - X = 50X = 70 - 50X = 20",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fb62d2c9-af98-4a92-a11f-f463426041f1",
+      "question_text": [
+        "If y varies directly as the square root of x and y = 3 when x = 16. Calculate y when x = 64"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "y ∝ √xy = K√xK = y/√x = 3/√16= 3/4y = 3/4√x= 3/4√64 when x = 64= 3/4 x 8/1= 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cae90ddd-d032-4446-8795-3b6385b22731",
+      "question_text": [
+        "If x * y = x + y2, find then value of (2*3)*5"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "x * y = x + y22 * 3 = 2 + 32= 2 + 9= 11(2 * 3) * 5 = 11 + 52= 11 + 25 = 36",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "55",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a0ac4ee1-caa3-40ef-9804-1794fcce85f7",
+      "question_text": [
+        "If p and q are two non zero numbers and 18(p+q) = 918+p)q, which of the following must be true?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Using substitution If 18(p+18) = (18 + p)qlet q = 18imply 18(p+18) = (18+p)18i.e 18p + 18 x 18 = 18 x 18 + 18pSince the left hand side = the right hand sideimply that q = 18",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "q = 18",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "p <1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p = 18",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "q < 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39e8ae0d-f8a6-4116-8e51-175467f22daf",
+      "question_text": [
+        "If \\(\\left[\\begin{array}{cc} x & 3 \\\\ 2 & 7\\end{array}\\right]\\)= 15, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(\\left[\\begin{array}{cc}x & 3\\\\2 & 7\\end{array}\\right]\\)= 15x x 7 - 2 x 3 = 157x - 6 = 157x = 15+67x = 21x = 21/7x = 3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bcb7dfa9-ec62-466d-9392-55e5540a535a",
+      "question_text": [
+        "From the diagram above, find x"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math25.jpg",
+      "explanation": "∠RTS = 90\\(^{\\circ}\\) (∠ in semi circle)∠UTS = 25\\(^{\\circ}\\) (∠ in alternate segment)X + 90 + 25 = 180(sum of ∠s on a str line)X + 115 = 180 X = 180 - 115X = 65\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "65\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cd472e8-5865-4fa1-9c6c-11d168b3a2e7",
+      "question_text": [
+        "From the cyclic quadrilateral TUVW above, find the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math24.jpg",
+      "explanation": "TUVW is a cyclic quad3χ + 20 + 88 = 180 (opp ∠ s of a cyclic quad are supplementary)3χ + 108 = 1803χ = 180 - 1083χ = 72χ = 72/3χ = 24\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "26\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a58b5c79-e967-4010-887d-1f842a367686",
+      "question_text": [
+        "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Area of a triangle = 1/2 base x height= 1/2 x 4 x 5= 10 cm2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6  cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "24  cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8  cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "728038bb-f663-4eb8-9103-27417d01b090",
+      "question_text": [
+        "An arc subtends an angle of 50\\(^{\\circ}\\) at the center of circle of radius 6cm. Calculate the area of the sector formed"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Area of a sector = θ x πr2360= 50/360 x 22/7 x 36/1= 110/7",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100/7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "80/7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "110/7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "90/7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1755c2f-5378-4628-97c2-8ac79ba1346d",
+      "question_text": [
+        "What is the locus of point that is equidistant from points P(1,3) and Q(3,5)?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Locus of a point equidistant from two fixed points is the perpendicular bisector of the straight line joining the points Gradients of PQ = (5-3 / 3-1) = 2/2 = 1Gradient bisector = -1Equation of perpendicular bisector y - y1 = m(χ - χ1y - 4 = -χ + 2y = -χ + 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = -χ + 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = -χ - 6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = χ + 6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = χ - 6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1122e4b5-17fe-49a4-b992-11686c175370",
+      "question_text": [
+        "If the area of ΔPQR above is 12√3 cm2, find the value of q?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math23.jpg",
+      "explanation": "Area of a triangle = 1/2 ab Sinθ12√3 = 1/2 x 8 x q sin 6012√3 = 4 x q x √3/212√3 = 2q√3q =12√32√3q = 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a1d8fbb-ee75-42aa-b47f-9eb405483d9c",
+      "question_text": [
+        "If  y = (2x + 1)3 find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "y = (2x + 1)3dy/dx = 3(2x + 1)3-1 x 2= 3(2x + 1)2 x 2= 6(2x + 1)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "88013b26-3c13-4a6c-a4ee-c37f891af436",
+      "question_text": [
+        "Find ∫(sin x + 2)dx"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "∫(sin χ + 2)dχ = (∫sin χ + ∫2)dx= -cos χ + 2χ + K",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos x + x2 + K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cos x 2x + K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-cos x + x2 + K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-cos x + 2x + K",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6a096f35-bd9c-491e-9718-1ebe2f7651fa",
+      "question_text": [
+        "Marks2345678No. of students3152423From the table above, if the pass mark is 5, how many students failed the test?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "MarksNumber of students233145Total9",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "981acace-1ff4-43e1-8d4f-6aa194a11130",
+      "question_text": [
+        "Marks12345Frequency22844The table above show the marks obtained in a given test.How many student too the test"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "∑f = 2 + 2 + 8 + 4 + 4= 20",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2411769-55eb-4c36-8857-188e12df1756",
+      "question_text": [
+        "Marks12345Frequency22844The table above show the marks obtained in a given test.Find the mean mark"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "86500bdb-945d-4742-8e60-a9d70cd4102a",
+      "question_text": [
+        "At what value of x does the function y= -3 – 2x +x2 attain a minimum value?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-4E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f866ca8e-24bf-47ef-9dcf-1a304f83c73d",
+      "question_text": [
+        "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope is 1.25m, what was the percentage error in the measurement?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.40%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.9%E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2867da6e-16c7-4349-8163-fc7bce77bfd0",
+      "question_text": [
+        "In the diagram, the tangent MN makes an angle of 55o with the chord PS. IF O is the centre of the circle, find "
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/09/maths262.jpg",
+      "explanation": "Join SR< PRS = 90\\(^{\\circ}\\)(Angle in a semicircle)< PRS = 55\\(^{\\circ}\\) (Angle between a chord and a tangent = Angle in the alternate segment)< PSR + < PRS + < RSP = 180\\(^{\\circ}\\)90v + 55\\(^{\\circ}\\) + < RSP = 180\\(^{\\circ}\\)< RSP = 180\\(^{\\circ}\\) - 145\\(^{\\circ}\\)= 35\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "55o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "35o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb2418ae-cc58-4aea-a45e-2f28ca808bf9",
+      "question_text": [
+        "Simplify \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\) \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{16}{9})^{\\frac{1}{2}}\\) \\((\\frac{2^4}{3^4})^{\\frac{1}{4}} \\div (\\frac{4^2}{3^2})^{\\frac{1}{2}}\\) \\(\\frac{2^{4 \\times \\frac{1}{4}}}{3^{4 \\times \\frac{1}{4}}} \\div \\frac{4^{2 \\times \\frac{1}{2}}}{3^{2 \\times \\frac{1}{2}}}\\) \\(\\frac{2}{3} \\div \\frac{4}{3}\\) \\(\\frac{2}{3} \\times \\frac{3}{4}\\) \\(\\frac{2}{4}\\) \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b5315a68-1db2-4320-8935-f2802be6a119",
+      "question_text": [
+        "Solve the inequality -6(x + 3) \\(\\leq\\) 4(x - 2)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "-6(x + 3) \\(\\leq\\) 4(x - 2) -6(x +3) \\(\\leq\\) 4(x - 2) -6x -18 \\(\\leq\\) 4x - 8  -18 + 8 \\(\\leq\\) 4x +6x  -10x \\(\\leq\\) 10x  10x \\(\\leq\\) -10  x \\(\\leq\\) 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " -1C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e60808e8-1c38-4002-b8cf-200f7e77f6e9",
+      "question_text": [
+        "Find r, if 6r78 = 5119"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "6r78 = 5119 6 x 82 + r x 81 + 7 x 8o = 5 x 92 + 1 x 91 + 1 x 9o 6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1 384 + 8r + 7 = 405 + 9 + 1  391 + 8r = 24 r = \\(\\frac{24}{8}\\) = 3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f742337a-1507-4505-9842-63df9ac4c2e2",
+      "question_text": [
+        "Simplify (\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "(\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\) Applying the rule of BODMAS, we have:  (\\(\\frac{3}{4}\\) x \\(\\frac{4}{9}\\) \\(\\div\\)\\(\\frac{24}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{3}{9}\\) \\(\\div\\) \\(\\frac{19}{2}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) = (\\(\\frac{3}{9}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) \\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\) x \\(\\frac{19}{24}\\) = \\(\\frac{1}{36}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf38a640-a5bd-46d9-ac18-4068c565ff91",
+      "question_text": [
+        "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Actual length of rope = 1.25mMeasured length of rope = 1.26merror = (1.26 - 1.25)m - 0.01mPercentage error = \\(\\frac{error}{\\text{actual length}}\\) x 100%= \\(\\frac{0.01}{1.25}\\) x 100% = 0.08%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.80%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "599c33d6-a581-43d6-8008-091ffd83d771",
+      "question_text": [
+        "At what rate will the interest on ₦400 increases to ₦24 in 3 years reckoning in simple interest?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Using simple interest = \\(\\frac{P \\times T \\times R}{100}\\),  where: P denoted principal = ₦400 T denotes time = 3 years  R denotes interest rate = ? 24 = \\(\\frac{400 \\times 3 \\times R}{100}\\) 24 x 100 = 400 x 3 x R  R = \\(\\frac{24 \\times 100}{400 \\times3}\\)  = 2%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8cc23df5-f36e-42d8-a947-955dd3cd3b37",
+      "question_text": [
+        "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\) and q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), find p : q : r"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\), then the sum S1 of ratio = \\(\\frac{2}{3}\\) + \\(\\frac{5}{6}\\) = \\(\\frac{9}{6}\\) If q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), then the sum S2 of ratio = \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{5}{4}\\) Let p + q = T1, then  q = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))T1 = \\(\\frac{5}{9}\\)T1 Again, let q + r = T2, then  q = (\\(\\frac{3}{4} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{3}{4} \\times \\frac{4}{5}\\))T2 = \\(\\frac{3}{5}\\)T2 Using q = q \\(\\frac{5}{9}\\)T1 = \\(\\frac{3}{5}\\)T2 5 x 5T1 = 9 x 3T2 \\(\\frac{T_1}{T_2}\\) = \\(\\frac{9 \\times 3}{5 x 5}\\) = \\(\\frac{27}{5}\\)  Giving that, T1 = 27 and T2 = 25 P = (\\(\\frac{2}{3} \\div S_1\\))T1 = (\\(\\frac{2}{3} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{2}{3} \\times \\frac{6}{9}\\))27 = 12 q = (\\(\\frac{5}{6} \\div S_1\\))T1 = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))27 = 15  and r = (\\(\\frac{1}{2} \\div S_2\\))T2 = (\\(\\frac{1}{2} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{1}{2} \\times \\frac{4}{5}\\))25 = 10 Hence p : q : r = 12: 15 : 10",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 : 15 : 10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 : 15 : 16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 : 15 : 24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 : 10 : 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b35fad67-45e4-4af3-9412-6fbcd75dafaf",
+      "question_text": [
+        "Given that log 2 = 0.3010, log 7 = 0.8451. Evaluate log 112."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "log 112 = log(16 x 7) = log 16 + log7  = log 24 + log7 = 4log2 + log7 = 4(0.3010) + 0.8451 = 1.204 + 0.8451 = 2.0491",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0491",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5441",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ebd334bd-29a7-4d9f-a40c-0243cce73656",
+      "question_text": [
+        "If x \\(\\ast\\) y = x + y2, find the value of (2 \\(\\ast\\) 3)\\(\\ast\\)5"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Given that, X \\(\\ast\\) y = X + y2 (2 \\(\\ast\\) 3) \\(\\ast\\) 5 = (2 + 32)\\(\\ast\\)5 = (2 + 9)\\(\\ast\\)5 = 11 \\(\\ast\\)5  Hence 11 \\(\\ast\\) 5 = 11 + 52 = 11 + 25 = 36",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "55",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "13fb8a92-bd48-4157-bcfb-a9460e9f8690",
+      "question_text": [
+        "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "3rd term : a + 2d = -9 .......(1) 7th term : a + 6d = -29 ......(2) (2) - (1): 4d = -20 :. d = -20/4 = -5 From (1) : a + 2(-5) = -9 a - 10 = -9 :. a = -9 + 10 = 1 :. 10th term of A.P is a + 9d = 1 + 9 (-5) = 1 - 45 = -44",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-44",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "44",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e49e719-d68e-4261-a004-95392ffe13e8",
+      "question_text": [
+        "Simplify \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\) \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{16}{9})^{\\frac{1}{2}}\\) \\((\\frac{2^4}{3^4})^{\\frac{1}{4}} \\div (\\frac{4^2}{3^2})^{\\frac{1}{2}}\\) \\(\\frac{2^{4 \\times \\frac{1}{4}}}{3^{4 \\times \\frac{1}{4}}} \\div \\frac{4^{2 \\times \\frac{1}{2}}}{3^{2 \\times \\frac{1}{2}}}\\) \\(\\frac{2}{3} \\div \\frac{4}{3}\\) \\(\\frac{2}{3} \\times \\frac{3}{4}\\) \\(\\frac{2}{4}\\) \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18343c00-5b15-49bc-83ee-5658fc222757",
+      "question_text": [
+        "Solve the inequality -6(x + 3) \\(\\leq\\) 4(x - 2)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "-6(x + 3) \\(\\leq\\) 4(x - 2) -6(x +3) \\(\\leq\\) 4(x - 2) -6x -18 \\(\\leq\\) 4x - 8  -18 + 8 \\(\\leq\\) 4x +6x  -10x \\(\\leq\\) 10x  10x \\(\\leq\\) -10  x \\(\\leq\\) 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " -1C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9871bcf3-746d-4509-a90f-da4d937a16e0",
+      "question_text": [
+        "Find r, if 6r78 = 5119"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "6r78 = 5119 6 x 82 + r x 81 + 7 x 8o = 5 x 92 + 1 x 91 + 1 x 9o 6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1 384 + 8r + 7 = 405 + 9 + 1  391 + 8r = 24 r = \\(\\frac{24}{8}\\) = 3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a3e4de8-0355-4f2d-af7b-2bef0f4b1b1f",
+      "question_text": [
+        "Simplify (\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "(\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\) Applying the rule of BODMAS, we have:  (\\(\\frac{3}{4}\\) x \\(\\frac{4}{9}\\) \\(\\div\\)\\(\\frac{24}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{3}{9}\\) \\(\\div\\) \\(\\frac{19}{2}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) = (\\(\\frac{3}{9}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) \\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\) x \\(\\frac{19}{24}\\) = \\(\\frac{1}{36}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d941a583-c973-4471-b7cc-d5777e7bfb51",
+      "question_text": [
+        "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Actual length of rope = 1.25mMeasured length of rope = 1.26merror = (1.26 - 1.25)m - 0.01mPercentage error = \\(\\frac{error}{\\text{actual length}}\\) x 100%= \\(\\frac{0.01}{1.25}\\) x 100% = 0.08%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.80%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e5eff23-5336-42c2-8139-a1a002a65ea1",
+      "question_text": [
+        "At what rate will the interest on ₦400 increases to ₦24 in 3 years reckoning in simple interest?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Using simple interest = \\(\\frac{P \\times T \\times R}{100}\\),  where: P denoted principal = ₦400 T denotes time = 3 years  R denotes interest rate = ? 24 = \\(\\frac{400 \\times 3 \\times R}{100}\\) 24 x 100 = 400 x 3 x R  R = \\(\\frac{24 \\times 100}{400 \\times3}\\)  = 2%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "20ab6493-0050-45c7-a198-88ba674dda56",
+      "question_text": [
+        "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\) and q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), find p : q : r"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\), then the sum S1 of ratio = \\(\\frac{2}{3}\\) + \\(\\frac{5}{6}\\) = \\(\\frac{9}{6}\\) If q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), then the sum S2 of ratio = \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{5}{4}\\) Let p + q = T1, then  q = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))T1 = \\(\\frac{5}{9}\\)T1 Again, let q + r = T2, then  q = (\\(\\frac{3}{4} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{3}{4} \\times \\frac{4}{5}\\))T2 = \\(\\frac{3}{5}\\)T2 Using q = q \\(\\frac{5}{9}\\)T1 = \\(\\frac{3}{5}\\)T2 5 x 5T1 = 9 x 3T2 \\(\\frac{T_1}{T_2}\\) = \\(\\frac{9 \\times 3}{5 x 5}\\) = \\(\\frac{27}{5}\\)  Giving that, T1 = 27 and T2 = 25 P = (\\(\\frac{2}{3} \\div S_1\\))T1 = (\\(\\frac{2}{3} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{2}{3} \\times \\frac{6}{9}\\))27 = 12 q = (\\(\\frac{5}{6} \\div S_1\\))T1 = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))27 = 15  and r = (\\(\\frac{1}{2} \\div S_2\\))T2 = (\\(\\frac{1}{2} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{1}{2} \\times \\frac{4}{5}\\))25 = 10 Hence p : q : r = 12: 15 : 10",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 : 15 : 10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 : 15 : 16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 : 15 : 24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 : 10 : 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5939dd8a-f31a-4b84-a51e-444f1dad8019",
+      "question_text": [
+        "Given that log 2 = 0.3010, log 7 = 0.8451. Evaluate log 112."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "log 112 = log(16 x 7) = log 16 + log7  = log 24 + log7 = 4log2 + log7 = 4(0.3010) + 0.8451 = 1.204 + 0.8451 = 2.0491",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0491",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5441",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "073feed2-9d21-49d9-97d6-28d4a7e47033",
+      "question_text": [
+        "If x \\(\\ast\\) y = x + y2, find the value of (2 \\(\\ast\\) 3)\\(\\ast\\)5"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Given that, X \\(\\ast\\) y = X + y2 (2 \\(\\ast\\) 3) \\(\\ast\\) 5 = (2 + 32)\\(\\ast\\)5 = (2 + 9)\\(\\ast\\)5 = 11 \\(\\ast\\)5  Hence 11 \\(\\ast\\) 5 = 11 + 52 = 11 + 25 = 36",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "55",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b29da7cb-37de-4ac5-800b-00cca71384ad",
+      "question_text": [
+        "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "3rd term : a + 2d = -9 .......(1) 7th term : a + 6d = -29 ......(2) (2) - (1): 4d = -20 :. d = -20/4 = -5 From (1) : a + 2(-5) = -9 a - 10 = -9 :. a = -9 + 10 = 1 :. 10th term of A.P is a + 9d = 1 + 9 (-5) = 1 - 45 = -44",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-44",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "44",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "007bc6b1-3d62-4ed1-9bb0-37c344a5e59d",
+      "question_text": [
+        "Simplify \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\) \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{16}{9})^{\\frac{1}{2}}\\) \\((\\frac{2^4}{3^4})^{\\frac{1}{4}} \\div (\\frac{4^2}{3^2})^{\\frac{1}{2}}\\) \\(\\frac{2^{4 \\times \\frac{1}{4}}}{3^{4 \\times \\frac{1}{4}}} \\div \\frac{4^{2 \\times \\frac{1}{2}}}{3^{2 \\times \\frac{1}{2}}}\\) \\(\\frac{2}{3} \\div \\frac{4}{3}\\) \\(\\frac{2}{3} \\times \\frac{3}{4}\\) \\(\\frac{2}{4}\\) \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a594c68a-ffef-44d7-8e4f-ce4fced86813",
+      "question_text": [
+        "Solve the inequality -6(x + 3) \\(\\leq\\) 4(x - 2)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "-6(x + 3) \\(\\leq\\) 4(x - 2) -6(x +3) \\(\\leq\\) 4(x - 2) -6x -18 \\(\\leq\\) 4x - 8  -18 + 8 \\(\\leq\\) 4x +6x  -10x \\(\\leq\\) 10x  10x \\(\\leq\\) -10  x \\(\\leq\\) 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " -1C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "10c19f0d-bc2e-416b-a62c-b79bb9795075",
+      "question_text": [
+        "Find r, if 6r78 = 5119"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "6r78 = 5119 6 x 82 + r x 81 + 7 x 8o = 5 x 92 + 1 x 91 + 1 x 9o 6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1 384 + 8r + 7 = 405 + 9 + 1  391 + 8r = 24 r = \\(\\frac{24}{8}\\) = 3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "857892e5-8b9a-4408-888a-8436a9c9cabe",
+      "question_text": [
+        "Simplify (\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "(\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\) Applying the rule of BODMAS, we have:  (\\(\\frac{3}{4}\\) x \\(\\frac{4}{9}\\) \\(\\div\\)\\(\\frac{24}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{3}{9}\\) \\(\\div\\) \\(\\frac{19}{2}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) = (\\(\\frac{3}{9}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) \\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\) x \\(\\frac{19}{24}\\) = \\(\\frac{1}{36}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52e8f933-0c3c-44a3-9bfe-9b45dfbdde9a",
+      "question_text": [
+        "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Actual length of rope = 1.25mMeasured length of rope = 1.26merror = (1.26 - 1.25)m - 0.01mPercentage error = \\(\\frac{error}{\\text{actual length}}\\) x 100%= \\(\\frac{0.01}{1.25}\\) x 100% = 0.08%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.80%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "974cddeb-d8d2-4d00-88d0-fef2fdc498c7",
+      "question_text": [
+        "At what rate will the interest on ₦400 increases to ₦24 in 3 years reckoning in simple interest?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Using simple interest = \\(\\frac{P \\times T \\times R}{100}\\),  where: P denoted principal = ₦400 T denotes time = 3 years  R denotes interest rate = ? 24 = \\(\\frac{400 \\times 3 \\times R}{100}\\) 24 x 100 = 400 x 3 x R  R = \\(\\frac{24 \\times 100}{400 \\times3}\\)  = 2%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3daa7004-f68f-424f-83f8-caac7dfa6bc7",
+      "question_text": [
+        "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\) and q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), find p : q : r"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\), then the sum S1 of ratio = \\(\\frac{2}{3}\\) + \\(\\frac{5}{6}\\) = \\(\\frac{9}{6}\\) If q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), then the sum S2 of ratio = \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{5}{4}\\) Let p + q = T1, then  q = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))T1 = \\(\\frac{5}{9}\\)T1 Again, let q + r = T2, then  q = (\\(\\frac{3}{4} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{3}{4} \\times \\frac{4}{5}\\))T2 = \\(\\frac{3}{5}\\)T2 Using q = q \\(\\frac{5}{9}\\)T1 = \\(\\frac{3}{5}\\)T2 5 x 5T1 = 9 x 3T2 \\(\\frac{T_1}{T_2}\\) = \\(\\frac{9 \\times 3}{5 x 5}\\) = \\(\\frac{27}{5}\\)  Giving that, T1 = 27 and T2 = 25 P = (\\(\\frac{2}{3} \\div S_1\\))T1 = (\\(\\frac{2}{3} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{2}{3} \\times \\frac{6}{9}\\))27 = 12 q = (\\(\\frac{5}{6} \\div S_1\\))T1 = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))27 = 15  and r = (\\(\\frac{1}{2} \\div S_2\\))T2 = (\\(\\frac{1}{2} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{1}{2} \\times \\frac{4}{5}\\))25 = 10 Hence p : q : r = 12: 15 : 10",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 : 15 : 10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 : 15 : 16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 : 15 : 24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 : 10 : 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f82b8bf5-3774-4a4c-8f6d-04206ec64fbd",
+      "question_text": [
+        "Given that log 2 = 0.3010, log 7 = 0.8451. Evaluate log 112."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "log 112 = log(16 x 7) = log 16 + log7  = log 24 + log7 = 4log2 + log7 = 4(0.3010) + 0.8451 = 1.204 + 0.8451 = 2.0491",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0491",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5441",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2bae2ccc-f3f0-42b7-a5f9-f3e78421237f",
+      "question_text": [
+        "If x \\(\\ast\\) y = x + y2, find the value of (2 \\(\\ast\\) 3)\\(\\ast\\)5"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Given that, X \\(\\ast\\) y = X + y2 (2 \\(\\ast\\) 3) \\(\\ast\\) 5 = (2 + 32)\\(\\ast\\)5 = (2 + 9)\\(\\ast\\)5 = 11 \\(\\ast\\)5  Hence 11 \\(\\ast\\) 5 = 11 + 52 = 11 + 25 = 36",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "55",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4ff6ba41-8d54-44e1-9b1d-6eea8331f084",
+      "question_text": [
+        "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "3rd term : a + 2d = -9 .......(1) 7th term : a + 6d = -29 ......(2) (2) - (1): 4d = -20 :. d = -20/4 = -5 From (1) : a + 2(-5) = -9 a - 10 = -9 :. a = -9 + 10 = 1 :. 10th term of A.P is a + 9d = 1 + 9 (-5) = 1 - 45 = -44",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-44",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "44",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d92041c2-16c7-46ca-a16f-dda200320922",
+      "question_text": [
+        "Simplify \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{9}{16})^{-\\frac{1}{2}}\\) \\((\\frac{16}{81})^{\\frac{1}{4}} \\div (\\frac{16}{9})^{\\frac{1}{2}}\\) \\((\\frac{2^4}{3^4})^{\\frac{1}{4}} \\div (\\frac{4^2}{3^2})^{\\frac{1}{2}}\\) \\(\\frac{2^{4 \\times \\frac{1}{4}}}{3^{4 \\times \\frac{1}{4}}} \\div \\frac{4^{2 \\times \\frac{1}{2}}}{3^{2 \\times \\frac{1}{2}}}\\) \\(\\frac{2}{3} \\div \\frac{4}{3}\\) \\(\\frac{2}{3} \\times \\frac{3}{4}\\) \\(\\frac{2}{4}\\) \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96529ca9-103d-40cc-b143-af1e73b21fc3",
+      "question_text": [
+        "Solve the inequality -6(x + 3) \\(\\leq\\) 4(x - 2)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "-6(x + 3) \\(\\leq\\) 4(x - 2) -6(x +3) \\(\\leq\\) 4(x - 2) -6x -18 \\(\\leq\\) 4x - 8  -18 + 8 \\(\\leq\\) 4x +6x  -10x \\(\\leq\\) 10x  10x \\(\\leq\\) -10  x \\(\\leq\\) 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " -1C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "97de0fe4-ee34-4e59-8ff1-a44e0cae306c",
+      "question_text": [
+        "Find r, if 6r78 = 5119"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "6r78 = 5119 6 x 82 + r x 81 + 7 x 8o = 5 x 92 + 1 x 91 + 1 x 9o 6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1 384 + 8r + 7 = 405 + 9 + 1  391 + 8r = 24 r = \\(\\frac{24}{8}\\) = 3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4adad124-c4b1-4be8-82c1-f7c20a18bbe5",
+      "question_text": [
+        "Simplify (\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "(\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\) Applying the rule of BODMAS, we have:  (\\(\\frac{3}{4}\\) x \\(\\frac{4}{9}\\) \\(\\div\\)\\(\\frac{24}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{3}{9}\\) \\(\\div\\) \\(\\frac{19}{2}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) = (\\(\\frac{3}{9}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) (\\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) \\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\) x \\(\\frac{19}{24}\\) = \\(\\frac{1}{36}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "99e1a7bf-35ef-4c67-b82a-b718a3f583e0",
+      "question_text": [
+        "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Actual length of rope = 1.25mMeasured length of rope = 1.26merror = (1.26 - 1.25)m - 0.01mPercentage error = \\(\\frac{error}{\\text{actual length}}\\) x 100%= \\(\\frac{0.01}{1.25}\\) x 100% = 0.08%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.80%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fbb5c0f8-63ea-4385-a820-165d59ab2fa2",
+      "question_text": [
+        "At what rate will the interest on ₦400 increases to ₦24 in 3 years reckoning in simple interest?"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Using simple interest = \\(\\frac{P \\times T \\times R}{100}\\),  where: P denoted principal = ₦400 T denotes time = 3 years  R denotes interest rate = ? 24 = \\(\\frac{400 \\times 3 \\times R}{100}\\) 24 x 100 = 400 x 3 x R  R = \\(\\frac{24 \\times 100}{400 \\times3}\\)  = 2%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1cef8f4-7620-446a-a838-d4beb6da9bd6",
+      "question_text": [
+        "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\) and q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), find p : q : r"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\), then the sum S1 of ratio = \\(\\frac{2}{3}\\) + \\(\\frac{5}{6}\\) = \\(\\frac{9}{6}\\) If q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), then the sum S2 of ratio = \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{5}{4}\\) Let p + q = T1, then  q = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))T1 = \\(\\frac{5}{9}\\)T1 Again, let q + r = T2, then  q = (\\(\\frac{3}{4} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{3}{4} \\times \\frac{4}{5}\\))T2 = \\(\\frac{3}{5}\\)T2 Using q = q \\(\\frac{5}{9}\\)T1 = \\(\\frac{3}{5}\\)T2 5 x 5T1 = 9 x 3T2 \\(\\frac{T_1}{T_2}\\) = \\(\\frac{9 \\times 3}{5 x 5}\\) = \\(\\frac{27}{5}\\)  Giving that, T1 = 27 and T2 = 25 P = (\\(\\frac{2}{3} \\div S_1\\))T1 = (\\(\\frac{2}{3} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{2}{3} \\times \\frac{6}{9}\\))27 = 12 q = (\\(\\frac{5}{6} \\div S_1\\))T1 = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T1 = (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))27 = 15  and r = (\\(\\frac{1}{2} \\div S_2\\))T2 = (\\(\\frac{1}{2} \\div \\frac{5}{4}\\))T2 = (\\(\\frac{1}{2} \\times \\frac{4}{5}\\))25 = 10 Hence p : q : r = 12: 15 : 10",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 : 15 : 10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 : 15 : 16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 : 15 : 24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 : 10 : 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8715b579-024a-4dc1-8d00-83fb65b715ca",
+      "question_text": [
+        "Given that log 2 = 0.3010, log 7 = 0.8451. Evaluate log 112."
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "log 112 = log(16 x 7) = log 16 + log7  = log 24 + log7 = 4log2 + log7 = 4(0.3010) + 0.8451 = 1.204 + 0.8451 = 2.0491",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0491",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.1461",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5441",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19f39f25-aaeb-47d8-a6be-2dbe9d700215",
+      "question_text": [
+        "If x \\(\\ast\\) y = x + y2, find the value of (2 \\(\\ast\\) 3)\\(\\ast\\)5"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Given that, X \\(\\ast\\) y = X + y2 (2 \\(\\ast\\) 3) \\(\\ast\\) 5 = (2 + 32)\\(\\ast\\)5 = (2 + 9)\\(\\ast\\)5 = 11 \\(\\ast\\)5  Hence 11 \\(\\ast\\) 5 = 11 + 52 = 11 + 25 = 36",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "55",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b6e6ae63-0d33-4d12-8838-8691f251db4b",
+      "question_text": [
+        "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression"
+      ],
+      "examType": "jamb",
+      "year": "2010",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "3rd term : a + 2d = -9 .......(1) 7th term : a + 6d = -29 ......(2) (2) - (1): 4d = -20 :. d = -20/4 = -5 From (1) : a + 2(-5) = -9 a - 10 = -9 :. a = -9 + 10 = 1 :. 10th term of A.P is a + 9d = 1 + 9 (-5) = 1 - 45 = -44",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-44",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "165",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "44",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

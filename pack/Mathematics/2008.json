@@ -1,0 +1,4974 @@
+
+[
+    {
+      "id": "5163072e-31e3-4b5b-bf9a-3e5509a9e417",
+      "question_text": [
+        "A binary operation defines \\(\\ast\\) on the set of positive integers is such that x \\(\\ast\\) y = 2x - 3y + 2 for all positive integers x and y. The binary operation is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "a \\(\\ast\\) b = b \\(\\ast\\) a x \\(\\ast\\) y = y \\(\\ast\\) x 2x - 3y + 2 \\(\\neq\\) 2y - 3y - 3x + 2 2 \\(\\ast\\) 3 = 2(2) -3(3) + 2  = 4 - 9 + 2 = -3 1 \\(\\ast\\) 2 = 2(1) - 3(2) + 2 = 2 - 6 + 2 = 2 - 6 + 2 = -2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "commutative and closed on the set of positive integers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neither commutative nor closed on the set of positive integers",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "commutative but not closed on the set of positive integers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "not commutative but closed on the set of positive integers",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "536a0f46-2f4b-44e3-be59-cc5d6078a6a4",
+      "question_text": [
+        "A binary operation on the set of real numbers excluding -1 is such that sor all m, n \\(\\varepsilon\\) R, m \\(\\Delta\\) n = m + n + mn. Find the identity element of the operation."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "m \\(\\Delta\\) n = m + n + mn m \\(\\Delta\\) e = e \\(\\Delta\\) m = m  m \\(\\Delta\\) e = m  m + e + me = m  e + me = m - m  e + me = 0  e(1 + m) = 0  e = \\(\\frac{0}{1 + m}\\) = 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5fffb034-4956-4349-afe1-8a6dc21ffb44",
+      "question_text": [
+        "Find the values of x and y respectively if  \\(\\begin{pmatrix} 1 & 0 \\\\ -1 & -1\\\\ 2 & 2 \\end{pmatrix}\\) + \\(\\begin{pmatrix} x & 1 \\\\ -1 & 0\\\\ y & -2 \\end{pmatrix}\\) = \\(\\begin{pmatrix} -2 & 1 \\\\ -2 & -1\\\\ -30 & 0 \\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\begin{pmatrix} 1 & 0 \\\\ -1 & -1\\\\ 2 & 2 \\end{pmatrix}\\) + \\(\\begin{pmatrix} x & 1 \\\\ -1 & 0\\\\ y & -2 \\end{pmatrix}\\) = \\(\\begin{pmatrix} -2 & 1 \\\\ -2 & -1\\\\ -30 & 0 \\end{pmatrix}\\) therefore, (x, y) = (-3, -5) respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-5, -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2, -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3, -5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0fa9b999-c1e9-4c8c-a0fd-fb5e12b3a7fd",
+      "question_text": [
+        "\\(\\begin{pmatrix} -2 & 1 \\\\ 2 & 3 \\end{pmatrix}\\) + \\(\\begin{pmatrix}p & q \\\\ r & s\\end{pmatrix}\\) = \\(\\begin{pmatrix} 1 & 0 \\\\0 & 1 \\end{pmatrix}\\). What is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "-2p + r = 1.......(i) 2p + 3r = 0.......(ii) r - 1 + 2p ........(iii) 2p + 3(1 + 2p) = 0 2p + 3(1 + 2p) = 0 2p + 3 + 6p = 0 3 - 8p = 0 \\(\\to\\) 8p = 3 p = \\(\\frac{3}{8}\\)  6 = 1 - 2 \\(\\frac{3}{8}\\) = 1 - \\(\\frac{6}{8}\\) \\(\\frac{8 - 6}{8}\\) = \\(\\frac{2}{8}\\) = \\(\\frac{1}{4}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{1}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b217d8e1-ce50-4209-b483-c6428aedfe9d",
+      "question_text": [
+        "Find the angle subtended at the centre of a circle by a chord which is equal in length to the radius of the circle"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Equilateral are equal in sides and angle 180o = 60o + 60o + 60o \\(\\theta\\) = 60o",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "60o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "90o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95f978be-b6c2-4535-ab43-589b2477664e",
+      "question_text": [
+        "Find the capacity in litres of a cylindrical well of radius 1 meter and depth 14 metres."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "r = 1 h = 14 \\(\\pi\\) = \\(\\frac{22}{7}\\)  A = \\(\\pi\\)r2h A = \\(\\frac{22}{7}\\) x 12 x 14 A = 44m2 A = 44 x 10 litres A = 440 litres",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "44 000 litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4400 litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "440 litres",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "44 litres",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "965f3b80-66a2-401e-9e9a-4b09ee131bf1",
+      "question_text": [
+        "The locus of a point equidistant from two points P(6,2) and R(4,2) is a perpendicular bisector of PR passing through"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "let (6, 2) be represented as (x1, y1) and (4, 2) be (x2, y2) p(6, 2) R(4, 2) m.p = (\\(\\frac{x_1 + x_2}{2}\\)) (\\(\\frac{y_1 + y_2}{2}\\)) = (\\(\\frac{6 + 4}{2}\\) , \\(\\frac{2 + 2}{2}\\)) = (\\(\\frac{10}{2}\\),\\(\\frac{4}{2}\\)) = (5, 2)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(5, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eec810d4-d741-4993-bb10-4eef6e1a6108",
+      "question_text": [
+        "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "3x + 2y + 1 = 0  y = mx + c 2y = -3x - 1 y = -\\(\\frac{3}{2}\\) x -\\(\\frac{1}{2}\\) m = -\\(\\frac{3}{2}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{2}{3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a5ca407-e521-49a6-8116-5e362c73f04e",
+      "question_text": [
+        "Calculate the distance between points L(-1, -6) and M(-3, -5)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "L\\(\\begin{pmatrix} x_1 & y_1 \\\\ -1 & -6 \\end{pmatrix}\\) m L\\(\\begin{pmatrix} x_2 & y_2 \\\\ -3 & -5 \\end{pmatrix}\\) D = \\(\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\\) D = \\(\\sqrt{(-3 - (-1)^2 + (-5 -(-6)^2}\\) D = \\(\\sqrt{(-3 + 1)^2 + (-5 + 6)^2}\\) D = \\(\\sqrt{(-2)^2 + 1^2}\\) D = \\(\\sqrt{4 + 1}\\) D = \\(\\sqrt{5}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "√5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2√3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "√20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "√50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69d0fbbe-020f-47d0-a4d1-584b1b58f1e9",
+      "question_text": [
+        "If sin \\(\\theta\\) = \\(\\frac{3}{5}\\), find tan \\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "sin \\(\\theta\\) = \\(\\frac{3}{5}\\), find tan \\(\\theta\\) sin \\(\\theta\\) = \\(\\frac{opp}{hyp}\\) = \\(\\frac{3}{5}\\) 52 = x2 + 32 25 = x2 + 9 x2 = 16 x = \\(\\sqrt{16}\\) x = 4  tan = \\(\\frac{3}{4}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bdddc193-4ffd-4eda-a288-0f3bdadd2cb4",
+      "question_text": [
+        "A student sitting on a tower 68 metres high observes his principal's car at the angle of depression of 20o. How far is the car from the bottom of the tower to the nearest metre?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Tan 20o = \\(\\frac{68m}{x}\\) x tan 20o = 68  x = \\(\\frac{68}{tan 20}\\) = \\(\\frac{68}{0.364}\\)  x = 186.8  = 187m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "184m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "185m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "186m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "187m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "80ae2efc-5a45-4c92-961d-26893fb51605",
+      "question_text": [
+        "Evaluate \\(\\int ^{2}_{1}\\)(6x2 - 2x)dx"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\int ^{2}_{1}\\)(6x2 - 2x)dx = [\\(\\frac{6x^3}{3} - \\frac{2x^2}{2}\\)]2 = [2x3 - x2]2 = (2(2)3 - 4 - 2 + 1 = 16 - 4 - 2 + 1 = 17 - 6  = 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "249d0449-8da1-4072-bece-ec789a204e5d",
+      "question_text": [
+        "\\(\\int ^{\\frac{\\pi}{2}}_{-\\frac{\\pi}{2}}\\)cosx dx"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\int ^{\\frac{\\pi}{2}}_{-\\frac{\\pi}{2}}\\)cosx  \\([sin x]^{\\frac{\\pi}{2}}_{\\frac{\\pi}{2}}\\) = sin\\(\\frac{\\pi}{2}\\)- (-sin \\(\\frac{\\pi}{2}\\)) = sin \\(\\frac{\\pi}{2}\\) + sin \\(\\frac{\\pi}{2}\\) = 2 sin \\(\\frac{\\pi}{2}\\) = 2 sin 1.5714 = 2(0.2704)  = 0.5  = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6bb17b36-626a-4541-baf5-c0581f6fbaff",
+      "question_text": [
+        "On a pie chart, there are six sectors of which four angles are 30o, 45o, 60o, 90o and the remaining two angles are in the ratio 2 : 1. Find the smaller angles of the remaining two angles"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "780013b0-46f6-4c75-a51c-1b48864e752b",
+      "question_text": [
+        "What is the mean of the data t, 2t - 1, t - 2, 2t - 1, 4t and 2t + 2?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\frac{t + 2t - 1 + t - 2 + 2t - 1 + 4t + 2t + 2}{6}\\) = \\(\\frac{12t - 2}{6}\\) = \\(\\frac {12t}{6}\\) - \\(\\frac{2}{6}\\) = 2t - \\(\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2t",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2t - 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "t + 1D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a742ed0a-9e71-4ec7-bdb0-1220695bf9ea",
+      "question_text": [
+        "If x > 0, find the range of the numbers x - 3, 3x + 2, x - 1, 4x, 2x - 1, x - 2, 2x - 2, 3x and 3x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Range = H - L  = 4x - (x - 1) = 4x - x + 1 = 3x + 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3x + 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3x + 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x + 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "943a064c-7cfe-4725-859c-60d79c72d67a",
+      "question_text": [
+        "In how many ways can the letters of the word ACCEPTANCE be arranged?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Acceptance  \\(\\frac{10!}{3!2!2!}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{10!}{2!2!3!}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{10!}{2!3!}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "60d3bf93-7524-4e22-ae30-423613360637",
+      "question_text": [
+        "The probability of picking a letter T from the word OBSTRUCTION is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Obstruction  if a T is picked  p = \\(\\frac{2}{11}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{11}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{11}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f4761871-9a49-42f1-80a7-57ec220eabbe",
+      "question_text": [
+        "The result of rolling a fair die 150 times is as summarized in the table given.\\(\\begin{array}{c|c} \\text{Number} & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline \\text{Frequency} & 12 & 18 & x & 30 & 2x & 45\\end{array}\\)What is the probability of obtaining a 5?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\begin{array}{c|c}Number & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline Frequency & 12 & 18 & x & 30 & 2x & 45\\end{array}\\) 12 + 18 + x + 30 + 2x + 45 = 150 3x + 105 = 150 3x = 150 - 105 3x = 45  x = \\(\\frac{45}{3}\\) x = 15 probability of 5 = \\(\\frac{30}{150}\\)  = \\(\\frac{1}{5}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "61e21194-8a98-49e1-a515-08ecd5f5f3cf",
+      "question_text": [
+        "In the diagram < OPQ is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math97.jpg",
+      "explanation": "74 + x + x = 1802x = 180 - 742x = 103x = 53",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "90\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "53\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "72efeffa-95e1-4d98-ae19-eabe95442db9",
+      "question_text": [
+        "Find the area of the figure given"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math96.jpg",
+      "explanation": "Area of semicircle + Area of rectangleA = \\(\\frac{1}{2} \\pi r^2\\) + LBA = \\(\\frac{1}{2} \\times \\frac{22}{77} \\times (\\frac{5}{2})^2 + (15 \\times 5)\\)= \\(\\frac{1}{2}\\times \\frac{22}{7} \\times \\frac{25}{4} + 75\\)A = \\(\\frac{275}{28} + \\frac{75}{1}\\)\\(\\frac{275 + 2100}{28} = \\frac{2375}{28}\\)A = 84.8cm2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12.5cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "75.0cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "78.5cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "84.8cm2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "13c527e4-a959-482f-b1ec-8e5c20e52464",
+      "question_text": [
+        "The bar chart shows the number of times the word a, and, in, it, he, to appear in a paragraph in a book. What is the ratio of the least frequent word?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math95.jpg",
+      "explanation": "\\(\\frac{\\text{least}}{\\text{most}} = \\frac{3}{12} = \\frac{1}{4}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51cb584f-5cda-4f1a-b171-cf5af7a65301",
+      "question_text": [
+        "Add 11012,101112 and 1112"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "11012 + 101112 + 1112 = 101011",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1110112",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1101102",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1010112",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1010102",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a2b5fc8-6e93-44f0-8567-487f5a4bafc3",
+      "question_text": [
+        "If 125x = 2010 find x"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "125x = 201xX2 + 2xX1 + 5xX0 = 20X2 + 2X + 5 = 20X2 + 2X - 15 = 0(X + 5)( X - 3) = 0X + 5 implies X = -5X - 3 implies X = 3But X cannot be negative ∴X = 3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f74e0a4-17ed-4046-8b01-52ee191feaf6",
+      "question_text": [
+        "Evaluate  \\(\\frac{\\left(\\frac{3}{8}\\div\\frac{1}{2}+\\frac{1}{2}\\right)}{\\left(\\frac{1}{8}\\times\\frac{2}{3}+\\frac{1}{3}\\right)}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{\\left(\\frac{3}{8}\\div\\frac{1}{2}+\\frac{1}{2}\\right)}{\\left(\\frac{1}{8}\\times\\frac{2}{3}+\\frac{1}{3}\\right)}\\\\=\\frac{\\left(\\frac{3}{8}\\times\\frac{2}{1}+\\frac{1}{2}\\right)}{\\left(\\frac{1}{8}\\times\\frac{2}{3}+\\frac{1}{3}\\right)}\\\\=\\frac{\\left(\\frac{3}{4}-\\frac{1}{3}\\right)}{\\left(\\frac{1}{12}+\\frac{1}{3}\\right)}\\\\=\\left(\\frac{9-4}{12}\\right)\\div\\left(\\frac{1+4}{12}\\right)\\\\=\\left(\\frac{5}{12}\\right)\\div\\left(\\frac{5}{12}\\right)\\\\=\\frac{5}{12}\\times\\frac{12}{5}\\\\=1\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c463e602-12e6-44e7-88d7-9b2e86c080b1",
+      "question_text": [
+        "Express 1223456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0ff40c50-857c-4806-a3ab-b7cad700e3e5",
+      "question_text": [
+        "calculate the simple interest on N6,500 for 8 years at 5% per annum."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(I = \\frac{P \\times T \\times R}{100}\\\\=\\frac{7500 \\times 8 \\times 5}{100}\\\\=N3000\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N3,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N150",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fb1cecae-cd36-4654-be5f-315bb94e2604",
+      "question_text": [
+        "The cost of kerosine per liter increase from N60 to N85. What is the percentage rate of increase?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "N85 - N60 = N25 increase∴ percentage increase = \\(\\frac{25}{60}\\times \\frac{100}{1} = \\frac{125}{3} =41.67\\%\\\\=42\\%\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "42%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "41%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "40%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36fcd120-f997-4644-8d4e-a0d537775f71",
+      "question_text": [
+        "simplify \\(16^{\\frac{-1}{2}}\\times 4^{\\frac{-1}{2}} \\times 27^{\\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(16^{\\frac{-1}{2}}\\times 4^{\\frac{-1}{2}} \\times 27^{\\frac{1}{3}}\\\\=\\frac{1}{16^{\\frac{1}{2}}}\\times \\frac{1}{4^{\\frac{1}{2}}}\\times 27^{\\frac{1}{3}}\\\\=\\frac{1}{\\sqrt{16}} \\times \\frac{1}{\\sqrt{4}} \\times sqrt[3]{27}\\\\=\\frac{1}{4} \\times \\frac{1}{2} \\times \\frac{3}{1}\\\\= \\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0dc85747-59bf-4f4e-aaa0-e96db729c89f",
+      "question_text": [
+        "If logx1/264 = 3, find the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "If logx1/264 = 3(X 1/2)3 = 64(X 1/2)3 = 4 3X 1/2 = 4X = 42X = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8cfebb84-c183-46c9-938a-6f28c7a866a7",
+      "question_text": [
+        "If \\(\\frac{1+\\sqrt{2}}{1-\\sqrt{2}}\\) is expressed in the form of x+y√2 find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(\\frac{1+\\sqrt{2}}{1-\\sqrt{2}} \\times \\frac{1+\\sqrt{2}}{1+\\sqrt{2}}\\\\=\\frac{1+(1+\\sqrt{2})+\\sqrt{2}(1+\\sqrt{2})}{1^2 - (\\sqrt{2})^2}\\\\=\\frac{(1+\\sqrt{2}+\\sqrt{2}+2)}{1-2}\\\\=\\frac{3+2\\sqrt{2}}{-1}\\\\=-3-2\\sqrt{2}\\\\∴X and Y = -3 and -2\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9611dc28-7e82-43cb-a28d-51340bd4d114",
+      "question_text": [
+        "If X = {n2 + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X∩Y."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "X = {1,5,10}Y = {3,4,6}X∩Y = ∅",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1,3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "∅",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{4,6}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0345d12d-76c1-43d6-9489-2e3017f0d53a",
+      "question_text": [
+        "A book seller sells Mathematics and English books. If 30 customers buy Mathematics books, 20 customers buy English books and 10 customers buy the two books, How many customers has he altogether."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "n(M) only = 30-10 = 20n(E) only = 20-10 = 10n(M∩E) = 10∴M∪E = 20+10+10= 40",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a82ea0cc-3665-4cdb-ad9f-0771fcaf8244",
+      "question_text": [
+        "Make Q the subject of formula when \\(L=\\frac{4}{3}M\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(L=\\frac{4}{3}M\\sqrt{PQ}\\\\=\\frac{3}{4M} \\times L = \\sqrt{PQ}\\\\=\\left(\\frac{3L}{4M}\\right)^2=(\\sqrt{PQ})^2\\\\=\\frac{9L^2}{16M^2}=PQ\\\\=Q=\\frac{9L^2}{16M^2 P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16M^2}P",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4M\\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f5f95d1-0ddc-4ffb-841e-baf462298ded",
+      "question_text": [
+        "If 2x2 - kx - 12 is divisible by x-4, Find the value of k."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "2x2 - kx - 12 is divisible by  x-4 implies x is a factor ∴ x = 4f(4) implies 2(4)2 - k(4) - 12 = 032 - 4k - 12 = 0-4k + 20 = 0-4k = -20k = 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "239510f6-70a9-475a-b6f1-742daaa856a3",
+      "question_text": [
+        "Factorize complete;y (4x+3y)2 - (3x-2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "(4x+3y)2 - (3x-2y)2(4x+3y+3x-2y)(4x+3y-(3x-2y))(4x+3y+3x-2y)(4x+3y-3x+2y)(x+5y)(7x+y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x+5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x+5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69f287dd-4950-4220-863e-c820dbe81fb0",
+      "question_text": [
+        "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "(x – 3) ∝ y2X-3 = Ky2K = X-3 / y2= 5-2/22= 2/4= 1/2∴X-3 = 1/2y2X-3 = 1/2(6)2X-3 = 1/2 x 30/1X-3 = 18X = 21",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cf44762c-06a6-4d52-b3ef-a0276ae444b1",
+      "question_text": [
+        "If p = varies inversely as the square of q and p=8 when q=4, find when p=32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "P ∝ 1/qP = k/qK = q2P= 428∴P = 128/q32 = 128/qq2 = 128/32q2 = 4q = √4 = +/-2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+/-16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "+/-8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+/-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "+/-2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "23015cbf-a299-4d07-b123-3ff9c63583a1",
+      "question_text": [
+        "Solve the quadratic inequalities x2 - 5x + 6 ≥0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "x2 - 5x + 6 = 0(X-2)(X-3) = 0X-2 = 0 implies X = 2X-3 = 0 implies X = 3∴ x ≤ 2, x ≥ 3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x ≤ 2, x ≥ 3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x ≤ 3, x ≥ 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x ≤ -2, x ≥ -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x ≤-3, x ≥ 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "467fd225-d1bb-4f82-997a-97286f96dc6e",
+      "question_text": [
+        "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "U5 = 24, n = 5 and U11 = 96, n = 11Un = a + (n-1)d24 = a + (5-1)d imply 24 = a+4d .....eqn196 = a + (11-1)d imply 96 = a+10d ...eqn2eqn1 - eqn2 -72 = -6dd = 72/6 = 12but 24 = a+4d24 = a + 4(12)24 = a + 48a = 24-48a = -24",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-24",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c685cb5a-b4d0-49ec-b6f1-13e3cdef61a1",
+      "question_text": [
+        "A binary operation * is defined on the  set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "X * Y = 2X - 3Y + 22*3 = 2(2) - 3(3) + 2=4-9+2= -3But -3 does not belong to positive integer",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "commutative and close on the set of positive integers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neither commutative nor closed on the set of ppositive integers",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "commutative but not closed on the set of positive integers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "not cummutative but closed on the set of positive integers",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e44e3753-ffdb-4e5a-acf2-e94ca570bab2",
+      "question_text": [
+        "A binary operation on the real set of numbers excluding -1 is such that for all m, n ∈ R, mΔn = m+n+mn. Find the identity element of the operation."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "mΔn = m+n+mnLet e be the identity element∴mΔe =  eΔm = mm+e+me = me+me = m-me+me = 0e(1+m) = 0e = 0 / (1+m)e = 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f2b803a-b370-49a6-a494-00074d06a465",
+      "question_text": [
+        "In the diagram above, PQ//Rs. The size of the angle marked x is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Exterior angle = sum of two interior opposite anglesy = 50\\(^{\\circ}\\) (vert. opp ∠s are equal)X = y + 30X = 50 + 30X = 80\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "80\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e86b044-e7c2-408c-afcf-2c103a5a1c7e",
+      "question_text": [
+        "Find the exterior angle of a 12 sided regular polygon"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Exterior angle = 360 / n= 360 / 12= 30\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "24\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7b783793-cfde-4edb-9732-bb7e8c676fed",
+      "question_text": [
+        "In the diagram above ∠OPQ is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math32.jpg",
+      "explanation": "a = a(base ∠s of Iss Δ)∴ a+a+74 = 1802a + 74 = 1802a = 180-742a = 106a = 53∴∠OPQ = 53\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "90\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "53\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b878b95-483e-44e0-8b66-bbca2f5e2ed3",
+      "question_text": [
+        "Find the area of the figure above [π = 22/7]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math30.jpg",
+      "explanation": "Area of the figure = Area of rect + area of semi circle \\(=L \\times h + \\frac{1}{2}\\pi r^2\\\\5 \\times 15 + \\frac{1}{2} \\times \\frac{22}{7} \\times \\left(\\frac{5}{2}\\right)^2\\\\=75+\\frac{(22\\times 25)}{2\\times7}\\\\=75 + 9\\frac{23}{28}\\\\=84.8cm\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12.5 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "75.0 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "78.5 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "84.8 cm2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a8102c71-920c-42d1-afed-f995b4f81476",
+      "question_text": [
+        "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "If a length of a chord is equal to the length of a radius in the same circle, the triangle formed y the chord and the radii is an equilateral triangle ∴each angle = 60\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1b0dab1-cde6-4da4-81c0-79f3c3971542",
+      "question_text": [
+        "Find the capacity in liters of a cylindrical well of radius 1 meter and depth 14 meters[π = 22/7]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "V = πr2h1m = 100cm14cm = 1400cm\\(∴V = \\frac{22}{7} \\times \\frac{100x100x1400}{1000}\\\\= 44, 000 liters\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "44,000 liters",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4,400 liters",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "440 liters",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "44 liters",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "513b820b-7eeb-4cdb-955e-57e97c3fd889",
+      "question_text": [
+        "The locus of a point equidistant from two points p(6,2) and R(4,2) is a perpendicular bisector of PR passing through"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(X = \\frac{6+2}{2}=\\frac{10}{2}=5\\\\Y = \\frac{2+2}{2}=\\frac{4}{2}=2\\\\∴X,Y = (5,2)\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2,",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(5,",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "08161225-7a26-4c54-94f9-6649b04b49be",
+      "question_text": [
+        "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "3X + 2Y + 1 = 0 2Y = -3X - 1\\(\\frac{-3}{2}X - \\frac{1}{2}\\)Gradient of 3X + 2Y +1 = 0 is -3/2Gradient of a line perpendicular to 3X + 2Y + 1 = 0\\(=-1 \\div \\frac{3}{2}\\\\=-1 \\times \\frac{-2}{3}=\\frac{2}{3}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53f7f0e0-2fff-43f2-bb1f-9914d68fbd58",
+      "question_text": [
+        "If sinθ = 3/5. Find Tanθ"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "sinθ = 3/5x2 = 52 - 32",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "239318a6-4955-4a4b-bdd8-3c889a8591bf",
+      "question_text": [
+        "Find the derivative of \\(y=\\frac{x^7 - x^5}{x^4}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(y=\\frac{x^7 - x^5}{x^4}\\\\y = \\frac{x^7}{x^4} \\div \\frac{x^5}{x^4}\\\\y = x^3 - x \\\\\\frac{dy}{dx} = 3x^2 - 1\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x(x2-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3x(x2-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0fc9977-508c-4aee-9cc9-b298d25fa912",
+      "question_text": [
+        "Differentiate sin x - x cos x"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "sin x - x cos xdy/dx = cos x - [1.cos x + x -sin x]= co x - [cos x - x sin x]= cos x - cos x + x sin x= x sin x",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x cos x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x sin x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-x cos x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-x sin x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "01bbbbbe-cf81-4484-8cb9-ead9b8f74340",
+      "question_text": [
+        "Find the minimum value of the function y = x(1+x)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "y = x(1+x)= x + x2dy/dx = 1 + 2xAs dy/dy → 01 + 2x = 02x = -1X = -1/2Y = x(1+x)= -1/2(1 - 1/2) at x = -1/2= -1/2(1/2)= -1/4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0f6b2ff-d877-4470-a655-8e326734010e",
+      "question_text": [
+        "Evaluate \\(\\int_1 ^2(6x^2-2x)dx\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\int_1 ^2(6x^2-2x)dx=[\\frac{6x^3}{3}-\\frac{2x^2}{2}]_1 ^2\\\\= [2x^3 - x^2]_1^2\\)= [2(2)3 - (2)2] – [2(1)3 - (1)2]= [16-4] – [2-1]= 12 – 1= 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bb2a46e0-ff0a-45e1-bbdb-72161ee1625d",
+      "question_text": [
+        "Evaluate \\(\\int^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}} cos x dx\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\int^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}} cos x dx = [sinx]^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}}\\\\=sin\\frac{\\pi}{2} - sin\\frac{-\\pi}{2}\\)= sin90 – sin-90= sin90 – sin270= 1 – (-1)= 1+1= 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0bd9bd07-6c91-4211-9637-d42da0f33608",
+      "question_text": [
+        "The bar chart above shows the number of times the word a, and , in, it, the , to appear in a paragraph in a book. What is the ratio of the least frequent word?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math31.jpg",
+      "explanation": "Ratio of least to most = 3:12= 3/12= 1/4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7ca4cc8-c7f8-4410-8c45-a4158c5ffa36",
+      "question_text": [
+        "What is the mean of the data t, 2t-1, t-2, 2t-1, 4t and 2t+2?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(Mean = \\frac{t+2t-1+t-2+2t-14t+2t+2}{6}\\\\Mean = \\frac{12t-2}{6}\\\\=\\frac{2(6t-1)}{6}\\\\=\\frac{6t-1}{3}\\\\=\\frac{6t}{3}- \\frac{1}{3}\\\\=2t-\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2t",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2t-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/3t+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2t-1/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5fb45eb6-9a2e-43ae-bc71-85de64e344d4",
+      "question_text": [
+        "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "4, 4, 1, 0, 4, 4, 2, 0Arrange in ascending order:0, 0, 1, 1, 2, 4, 4, 4, 4Position of median = N+1 / 2 = 9+1 / 2 = 5thMedian = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3810b028-5ef5-4239-ab6d-2b6dfcbb1f6a",
+      "question_text": [
+        "If x > 0, find the range of number  x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x and 3x+1"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x, 3x+1Range = 3x+2 - (x-3)= 3x+2 - x - 3= 2x + 5",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3x+3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3x+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x+5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x+1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a2cea00-ed9b-46e7-b0ee-6f0d7eef1421",
+      "question_text": [
+        "Find the mean deviation of 2, 4, 5, and 9"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "X = 20/4= 5 mean deviation = 8/4 = 2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff667e37-8fb6-47c1-a1f5-2bac336d3df9",
+      "question_text": [
+        "In how many ways can the letters of the word ACCEPTANCE be arranged?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "ACCEPTANCE = 10 LettersA = 2 lettersC = 3 lettersE = 2 lettersCan be arranged in 10! / (2!3!2!) ways",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10! / (2!2!3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10! / ( 2!3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c228fdf-4dd9-4309-814f-fd04cf1af7b2",
+      "question_text": [
+        "Find the number of ways of selecting 6 out of 10 subjects for an examination"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(^{10}C_6 = \\frac{10!}{(10-6)!6!}\\\\=\\frac{10!}{4!6!}\\\\=\\frac{10\\times 9\\times 8 \\times 7 \\times 6!}{4\\times 3\\times 2\\times 1 \\times 6!}\\\\=210\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "128",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "216",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "215",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "210",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a552c469-9ae2-4f1f-bb70-e6c31c524049",
+      "question_text": [
+        "The probability of picking a letter T fr4om the word OBSTRUCTION is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "OBSTRUCTIONTotal possible outcome = 11Number of chance of getting T = 2P(picking T) = 2/11",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2/11",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/11",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "baef6ade-943f-4263-8db0-38bca810a06e",
+      "question_text": [
+        "The result of rolling a fair die 150 times is ass summarized in the table above. What is the probability of obtaining a 5"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math29.jpg",
+      "explanation": "Total possible outcome 12+18+x+30+2x+45 = 105+3x∴105+3x = 1503x = 150-1053x = 45x = 15P(obtaining 5) = \\(\\frac{2x}{(105+3x)}But x= 15\\\\=\\frac{2(15)}{(105+3(15))}\\\\=\\frac{30}{(105+45)}\\\\=\\frac{30}{150}\\\\=\\frac{1}{5}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1af8787e-9040-434e-9242-04642c7f7298",
+      "question_text": [
+        "In the diagram, find the size of the angle marked ao"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "2 x s = 280o(Angle at centre = 2 x < at circum)S = \\(\\frac{280^o}{2}\\)= 140< O = 360 - 280 = 80o60 + 80 + 140 + a = 360o(< in a quad); 280 = a = 360a = 360 - 280a = 80o",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "80o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "120o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "160o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a6270a54-7800-4793-84ec-3b0455ce51a1",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{3}{8} \\times \\frac {2}{1} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{6}{8} - \\frac{1}{3}}{\\frac{2}{24} + \\frac{1}{3}}\\) = \\(\\frac{\\frac {18 - 8}{24}}{\\frac{2 + 8}{24}}\\) = \\(\\frac{\\frac{10}{24}}{\\frac{10}{24}}\\) = \\(\\frac{10}{24}\\) \\(\\div\\) \\(\\frac{10}{24}\\)  = \\(\\frac{10}{24}\\) x \\(\\frac{24}{10}\\) = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "952e6d58-ef63-4b2c-a7df-38cc92a0b122",
+      "question_text": [
+        "Express 123456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Express 123456 to 3 significant figures  = 123 000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123 000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4ca0be27-c4e4-416b-b7f2-fe2b4b3c9abf",
+      "question_text": [
+        "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = \\(\\frac{1}{\\sqrt{16}^1} \\times \\frac{1}{\\sqrt{4}^1}\\) x (3\\(\\sqrt{27}\\))1 = \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\) x \\(\\frac{3}{1}\\) = \\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d3f8b44-a0b1-4863-98b5-9d4b88ebd5ec",
+      "question_text": [
+        "If \\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of X recall that X = 10p log10X = P 64 = \\(X^{\\frac{1}{2}}\\) 43 = \\(X^{\\frac{1}{2}}\\) \\(4^{3 \\times \\frac{1}{2}}\\) = \\(X^{\\frac{1}{2} \\times \\frac{1}{3}}\\) 4 = \\(X^{\\frac{1}{2}}\\) (4)2 = \\(X^{\\frac{1}{2} \\times 2}\\) x = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fbf6e1fd-dd88-45ac-a646-30b7fe0d9317",
+      "question_text": [
+        "If \\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) is expressed in the form x + y\\(\\sqrt{2}\\). Find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) x \\(\\frac{1 + \\sqrt{2}}{1 + \\sqrt{2}}\\) = \\(\\frac{(1 + \\sqrt{2}) (1 + \\sqrt{2})}{(1 - \\sqrt{2})(1 + \\sqrt{2})}\\) = \\(\\frac{1 + \\sqrt{2} + \\sqrt{2} + (\\sqrt{2})^2}{1 + \\sqrt{2} - \\sqrt{2} - (\\sqrt{2})^2}\\) = \\(\\frac{1 + 2\\sqrt{2} + \\sqrt{2}}{1^2 - 2}\\)  = \\(\\frac{3 + 2\\sqrt{2}}{-1}\\) -3 - 2\\(\\sqrt{2}\\) = x + y\\(\\sqrt{2}\\) x = -3, y = -2 = (-3, -2)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "948c989f-9322-4009-93cd-0a9e5d46b919",
+      "question_text": [
+        "if X = {n2 + 1 : n = 0, 2, 3} and y = {n + 1 : n = 2, 3, 4, 5}, find x ∩ y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "X = {n2 + 1 : n = 0, 2, 3} y = {n + 1 : n = 2, 3, 4, 5} find x ∩ y x = (n2 + 1)(22 + 1)(32 + 1) y = (2 + 1) (3 + 1)(5 + 1) x = {1, 5, 10} y = {3, 4, 6} x ∩ y = \\(\\Phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\Phi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3c6338d-5040-4609-a7d5-0cd1dbc0f850",
+      "question_text": [
+        "Make Q the subject of the formula when L = \\(\\frac{4}{3}\\) m\\(\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "L = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) make Q the subject \\(\\frac {L}{1}\\) = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) 3L = 4m \\(\\sqrt{PQ}\\) Taking the square of both sides  (3L)2 = (4m \\(\\sqrt{PQ}\\)) \\(\\frac {9L^2}{16m^2P}\\) = \\(\\frac {16m^2PQ}{16m^2P}\\) Q = \\(\\frac {9L^2}{16m^2P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16m^2P}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4m \\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "61882914-0566-490b-91e9-e0a44babfd1e",
+      "question_text": [
+        "Factorize completely (4x + 3y)2 - (3x - 2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "(4x + 3y)2 - (3x - 2y)2 = 16x2 + 24xy + 9y - (9x2 - 12xy + 4y2) = 7x2 + 36xy + 5y = 7x2 + xy + 35xy + 5y2 = (7x2 + xy) + (35xy + 5y2) = x(7x + y) + 5y(7x + y) = (7x + y)(x + 5y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "700b6e93-c138-4902-8425-4eade64c4587",
+      "question_text": [
+        "If p varies inverse as the square of q and p = 8 when q =4, find q when p = 32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "P \\(\\alpha\\) \\(\\frac{1}{q^2}\\) p = \\(\\frac{k}{q^2}\\) k = pq2 k = 8 x 42 k = 8 x 16 = 128 find k = pq2 q2 = \\(\\frac{k}{p}\\) q = \\(\\frac{k}{p}\\) q = \\(\\frac{128}{32}\\) q = √4 q = \\(\\pm\\)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "43ba260d-ae66-4b92-be76-34ac3decbc74",
+      "question_text": [
+        "Solve the quadratic inequality x2 - 5x + 6 \\(\\geq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "x2 - 5x + 6 \\(\\geq\\) 0  x2 - 2x - 3x + 6 \\(\\geq\\) 0 x(x - 2) - 3(x - 2) \\(\\geq\\) 0 (x - 2) (x - 3) \\(\\geq\\) 0 x \\(\\geq\\) 2 or \\(\\geq\\) 3 x \\(\\leq\\) 2 \\(\\geq\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2e074574-c306-48f9-a725-ebf24edac3d4",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{3}{8} \\times \\frac {2}{1} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{6}{8} - \\frac{1}{3}}{\\frac{2}{24} + \\frac{1}{3}}\\) = \\(\\frac{\\frac {18 - 8}{24}}{\\frac{2 + 8}{24}}\\) = \\(\\frac{\\frac{10}{24}}{\\frac{10}{24}}\\) = \\(\\frac{10}{24}\\) \\(\\div\\) \\(\\frac{10}{24}\\)  = \\(\\frac{10}{24}\\) x \\(\\frac{24}{10}\\) = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5c61f6bc-d618-4bcb-9a5f-3ba09183f04c",
+      "question_text": [
+        "Express 123456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Express 123456 to 3 significant figures  = 123 000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123 000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "696ec178-6dba-4d9e-a113-380941df789f",
+      "question_text": [
+        "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = \\(\\frac{1}{\\sqrt{16}^1} \\times \\frac{1}{\\sqrt{4}^1}\\) x (3\\(\\sqrt{27}\\))1 = \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\) x \\(\\frac{3}{1}\\) = \\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e29e507-8daa-4b0d-81c3-391f8e7f5fd7",
+      "question_text": [
+        "If \\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of X recall that X = 10p log10X = P 64 = \\(X^{\\frac{1}{2}}\\) 43 = \\(X^{\\frac{1}{2}}\\) \\(4^{3 \\times \\frac{1}{2}}\\) = \\(X^{\\frac{1}{2} \\times \\frac{1}{3}}\\) 4 = \\(X^{\\frac{1}{2}}\\) (4)2 = \\(X^{\\frac{1}{2} \\times 2}\\) x = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "817bdd83-bc96-4546-9c54-cee0669243d6",
+      "question_text": [
+        "If \\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) is expressed in the form x + y\\(\\sqrt{2}\\). Find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) x \\(\\frac{1 + \\sqrt{2}}{1 + \\sqrt{2}}\\) = \\(\\frac{(1 + \\sqrt{2}) (1 + \\sqrt{2})}{(1 - \\sqrt{2})(1 + \\sqrt{2})}\\) = \\(\\frac{1 + \\sqrt{2} + \\sqrt{2} + (\\sqrt{2})^2}{1 + \\sqrt{2} - \\sqrt{2} - (\\sqrt{2})^2}\\) = \\(\\frac{1 + 2\\sqrt{2} + \\sqrt{2}}{1^2 - 2}\\)  = \\(\\frac{3 + 2\\sqrt{2}}{-1}\\) -3 - 2\\(\\sqrt{2}\\) = x + y\\(\\sqrt{2}\\) x = -3, y = -2 = (-3, -2)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5f411dd-5335-40cf-9e26-25aac3234087",
+      "question_text": [
+        "if X = {n2 + 1 : n = 0, 2, 3} and y = {n + 1 : n = 2, 3, 4, 5}, find x ∩ y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "X = {n2 + 1 : n = 0, 2, 3} y = {n + 1 : n = 2, 3, 4, 5} find x ∩ y x = (n2 + 1)(22 + 1)(32 + 1) y = (2 + 1) (3 + 1)(5 + 1) x = {1, 5, 10} y = {3, 4, 6} x ∩ y = \\(\\Phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\Phi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1160b885-691c-449d-b95d-e2e047c0026e",
+      "question_text": [
+        "Make Q the subject of the formula when L = \\(\\frac{4}{3}\\) m\\(\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "L = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) make Q the subject \\(\\frac {L}{1}\\) = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) 3L = 4m \\(\\sqrt{PQ}\\) Taking the square of both sides  (3L)2 = (4m \\(\\sqrt{PQ}\\)) \\(\\frac {9L^2}{16m^2P}\\) = \\(\\frac {16m^2PQ}{16m^2P}\\) Q = \\(\\frac {9L^2}{16m^2P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16m^2P}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4m \\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e5853c86-3092-4c3c-adeb-933d9865fed7",
+      "question_text": [
+        "Factorize completely (4x + 3y)2 - (3x - 2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "(4x + 3y)2 - (3x - 2y)2 = 16x2 + 24xy + 9y - (9x2 - 12xy + 4y2) = 7x2 + 36xy + 5y = 7x2 + xy + 35xy + 5y2 = (7x2 + xy) + (35xy + 5y2) = x(7x + y) + 5y(7x + y) = (7x + y)(x + 5y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6907c1b2-edb7-4cf6-a4ba-8775b7345b3d",
+      "question_text": [
+        "If p varies inverse as the square of q and p = 8 when q =4, find q when p = 32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "P \\(\\alpha\\) \\(\\frac{1}{q^2}\\) p = \\(\\frac{k}{q^2}\\) k = pq2 k = 8 x 42 k = 8 x 16 = 128 find k = pq2 q2 = \\(\\frac{k}{p}\\) q = \\(\\frac{k}{p}\\) q = \\(\\frac{128}{32}\\) q = √4 q = \\(\\pm\\)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b312a85f-e652-4650-a808-985914b42ae3",
+      "question_text": [
+        "Solve the quadratic inequality x2 - 5x + 6 \\(\\geq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "x2 - 5x + 6 \\(\\geq\\) 0  x2 - 2x - 3x + 6 \\(\\geq\\) 0 x(x - 2) - 3(x - 2) \\(\\geq\\) 0 (x - 2) (x - 3) \\(\\geq\\) 0 x \\(\\geq\\) 2 or \\(\\geq\\) 3 x \\(\\leq\\) 2 \\(\\geq\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cfe71024-7851-4203-ade6-391e19d199f4",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{3}{8} \\times \\frac {2}{1} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{6}{8} - \\frac{1}{3}}{\\frac{2}{24} + \\frac{1}{3}}\\) = \\(\\frac{\\frac {18 - 8}{24}}{\\frac{2 + 8}{24}}\\) = \\(\\frac{\\frac{10}{24}}{\\frac{10}{24}}\\) = \\(\\frac{10}{24}\\) \\(\\div\\) \\(\\frac{10}{24}\\)  = \\(\\frac{10}{24}\\) x \\(\\frac{24}{10}\\) = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ba76c83b-0aaa-42b8-987e-4ddfeaaa3185",
+      "question_text": [
+        "Express 123456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Express 123456 to 3 significant figures  = 123 000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123 000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e39d9afd-312c-4c77-abe7-4b3118460e87",
+      "question_text": [
+        "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = \\(\\frac{1}{\\sqrt{16}^1} \\times \\frac{1}{\\sqrt{4}^1}\\) x (3\\(\\sqrt{27}\\))1 = \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\) x \\(\\frac{3}{1}\\) = \\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "485384ec-56ee-4894-ac9f-14dc65ada730",
+      "question_text": [
+        "If \\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of X recall that X = 10p log10X = P 64 = \\(X^{\\frac{1}{2}}\\) 43 = \\(X^{\\frac{1}{2}}\\) \\(4^{3 \\times \\frac{1}{2}}\\) = \\(X^{\\frac{1}{2} \\times \\frac{1}{3}}\\) 4 = \\(X^{\\frac{1}{2}}\\) (4)2 = \\(X^{\\frac{1}{2} \\times 2}\\) x = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9bc9c8cc-aa6c-4bdc-89b6-f61ca96eabc9",
+      "question_text": [
+        "If \\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) is expressed in the form x + y\\(\\sqrt{2}\\). Find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) x \\(\\frac{1 + \\sqrt{2}}{1 + \\sqrt{2}}\\) = \\(\\frac{(1 + \\sqrt{2}) (1 + \\sqrt{2})}{(1 - \\sqrt{2})(1 + \\sqrt{2})}\\) = \\(\\frac{1 + \\sqrt{2} + \\sqrt{2} + (\\sqrt{2})^2}{1 + \\sqrt{2} - \\sqrt{2} - (\\sqrt{2})^2}\\) = \\(\\frac{1 + 2\\sqrt{2} + \\sqrt{2}}{1^2 - 2}\\)  = \\(\\frac{3 + 2\\sqrt{2}}{-1}\\) -3 - 2\\(\\sqrt{2}\\) = x + y\\(\\sqrt{2}\\) x = -3, y = -2 = (-3, -2)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e004ff45-df15-4ceb-a5d1-609dff6d7617",
+      "question_text": [
+        "if X = {n2 + 1 : n = 0, 2, 3} and y = {n + 1 : n = 2, 3, 4, 5}, find x ∩ y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "X = {n2 + 1 : n = 0, 2, 3} y = {n + 1 : n = 2, 3, 4, 5} find x ∩ y x = (n2 + 1)(22 + 1)(32 + 1) y = (2 + 1) (3 + 1)(5 + 1) x = {1, 5, 10} y = {3, 4, 6} x ∩ y = \\(\\Phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\Phi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "31c835e2-d324-4692-8149-3911b49b9078",
+      "question_text": [
+        "Make Q the subject of the formula when L = \\(\\frac{4}{3}\\) m\\(\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "L = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) make Q the subject \\(\\frac {L}{1}\\) = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) 3L = 4m \\(\\sqrt{PQ}\\) Taking the square of both sides  (3L)2 = (4m \\(\\sqrt{PQ}\\)) \\(\\frac {9L^2}{16m^2P}\\) = \\(\\frac {16m^2PQ}{16m^2P}\\) Q = \\(\\frac {9L^2}{16m^2P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16m^2P}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4m \\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64f8526f-bd8a-4333-872c-a1947dc305d3",
+      "question_text": [
+        "Factorize completely (4x + 3y)2 - (3x - 2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "(4x + 3y)2 - (3x - 2y)2 = 16x2 + 24xy + 9y - (9x2 - 12xy + 4y2) = 7x2 + 36xy + 5y = 7x2 + xy + 35xy + 5y2 = (7x2 + xy) + (35xy + 5y2) = x(7x + y) + 5y(7x + y) = (7x + y)(x + 5y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ec2fdae4-0374-4437-815d-c93bc5aa1697",
+      "question_text": [
+        "If p varies inverse as the square of q and p = 8 when q =4, find q when p = 32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "P \\(\\alpha\\) \\(\\frac{1}{q^2}\\) p = \\(\\frac{k}{q^2}\\) k = pq2 k = 8 x 42 k = 8 x 16 = 128 find k = pq2 q2 = \\(\\frac{k}{p}\\) q = \\(\\frac{k}{p}\\) q = \\(\\frac{128}{32}\\) q = √4 q = \\(\\pm\\)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8d53f899-5602-40aa-93cd-0668962f7db8",
+      "question_text": [
+        "Solve the quadratic inequality x2 - 5x + 6 \\(\\geq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "x2 - 5x + 6 \\(\\geq\\) 0  x2 - 2x - 3x + 6 \\(\\geq\\) 0 x(x - 2) - 3(x - 2) \\(\\geq\\) 0 (x - 2) (x - 3) \\(\\geq\\) 0 x \\(\\geq\\) 2 or \\(\\geq\\) 3 x \\(\\leq\\) 2 \\(\\geq\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d3c43a5-7ed4-4dcd-89a9-ad92c1e9c60a",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{3}{8} \\times \\frac {2}{1} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{6}{8} - \\frac{1}{3}}{\\frac{2}{24} + \\frac{1}{3}}\\) = \\(\\frac{\\frac {18 - 8}{24}}{\\frac{2 + 8}{24}}\\) = \\(\\frac{\\frac{10}{24}}{\\frac{10}{24}}\\) = \\(\\frac{10}{24}\\) \\(\\div\\) \\(\\frac{10}{24}\\)  = \\(\\frac{10}{24}\\) x \\(\\frac{24}{10}\\) = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4a74e446-f43a-4220-a88c-4fb8e8fbe8f2",
+      "question_text": [
+        "Express 123456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Express 123456 to 3 significant figures  = 123 000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123 000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69c80068-d241-4d92-a55c-1ca6a504e0bf",
+      "question_text": [
+        "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = \\(\\frac{1}{\\sqrt{16}^1} \\times \\frac{1}{\\sqrt{4}^1}\\) x (3\\(\\sqrt{27}\\))1 = \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\) x \\(\\frac{3}{1}\\) = \\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95bfb820-7e44-486f-a0fa-aa9210b0bce6",
+      "question_text": [
+        "If \\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of X recall that X = 10p log10X = P 64 = \\(X^{\\frac{1}{2}}\\) 43 = \\(X^{\\frac{1}{2}}\\) \\(4^{3 \\times \\frac{1}{2}}\\) = \\(X^{\\frac{1}{2} \\times \\frac{1}{3}}\\) 4 = \\(X^{\\frac{1}{2}}\\) (4)2 = \\(X^{\\frac{1}{2} \\times 2}\\) x = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "787b7e42-80a1-4f87-a159-ff6ed6397222",
+      "question_text": [
+        "If \\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) is expressed in the form x + y\\(\\sqrt{2}\\). Find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) x \\(\\frac{1 + \\sqrt{2}}{1 + \\sqrt{2}}\\) = \\(\\frac{(1 + \\sqrt{2}) (1 + \\sqrt{2})}{(1 - \\sqrt{2})(1 + \\sqrt{2})}\\) = \\(\\frac{1 + \\sqrt{2} + \\sqrt{2} + (\\sqrt{2})^2}{1 + \\sqrt{2} - \\sqrt{2} - (\\sqrt{2})^2}\\) = \\(\\frac{1 + 2\\sqrt{2} + \\sqrt{2}}{1^2 - 2}\\)  = \\(\\frac{3 + 2\\sqrt{2}}{-1}\\) -3 - 2\\(\\sqrt{2}\\) = x + y\\(\\sqrt{2}\\) x = -3, y = -2 = (-3, -2)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a53880a-e8b9-4e90-a65b-835d0987c1d5",
+      "question_text": [
+        "if X = {n2 + 1 : n = 0, 2, 3} and y = {n + 1 : n = 2, 3, 4, 5}, find x ∩ y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "X = {n2 + 1 : n = 0, 2, 3} y = {n + 1 : n = 2, 3, 4, 5} find x ∩ y x = (n2 + 1)(22 + 1)(32 + 1) y = (2 + 1) (3 + 1)(5 + 1) x = {1, 5, 10} y = {3, 4, 6} x ∩ y = \\(\\Phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\Phi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "292626c4-8cd1-4941-a52f-c62709c67ea7",
+      "question_text": [
+        "Make Q the subject of the formula when L = \\(\\frac{4}{3}\\) m\\(\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "L = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) make Q the subject \\(\\frac {L}{1}\\) = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) 3L = 4m \\(\\sqrt{PQ}\\) Taking the square of both sides  (3L)2 = (4m \\(\\sqrt{PQ}\\)) \\(\\frac {9L^2}{16m^2P}\\) = \\(\\frac {16m^2PQ}{16m^2P}\\) Q = \\(\\frac {9L^2}{16m^2P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16m^2P}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4m \\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9fdf9985-e8ba-4810-a0f6-abda5387894f",
+      "question_text": [
+        "Factorize completely (4x + 3y)2 - (3x - 2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "(4x + 3y)2 - (3x - 2y)2 = 16x2 + 24xy + 9y - (9x2 - 12xy + 4y2) = 7x2 + 36xy + 5y = 7x2 + xy + 35xy + 5y2 = (7x2 + xy) + (35xy + 5y2) = x(7x + y) + 5y(7x + y) = (7x + y)(x + 5y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "360f1174-ec3d-4694-a860-5af16a4eff59",
+      "question_text": [
+        "If p varies inverse as the square of q and p = 8 when q =4, find q when p = 32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "P \\(\\alpha\\) \\(\\frac{1}{q^2}\\) p = \\(\\frac{k}{q^2}\\) k = pq2 k = 8 x 42 k = 8 x 16 = 128 find k = pq2 q2 = \\(\\frac{k}{p}\\) q = \\(\\frac{k}{p}\\) q = \\(\\frac{128}{32}\\) q = √4 q = \\(\\pm\\)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "008da19c-3e2b-407b-98e8-675b37b50b1b",
+      "question_text": [
+        "Solve the quadratic inequality x2 - 5x + 6 \\(\\geq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "x2 - 5x + 6 \\(\\geq\\) 0  x2 - 2x - 3x + 6 \\(\\geq\\) 0 x(x - 2) - 3(x - 2) \\(\\geq\\) 0 (x - 2) (x - 3) \\(\\geq\\) 0 x \\(\\geq\\) 2 or \\(\\geq\\) 3 x \\(\\leq\\) 2 \\(\\geq\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ddaa3b9b-582d-4bb1-812a-aaa29ada0230",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{3}{8} \\times \\frac {2}{1} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{6}{8} - \\frac{1}{3}}{\\frac{2}{24} + \\frac{1}{3}}\\) = \\(\\frac{\\frac {18 - 8}{24}}{\\frac{2 + 8}{24}}\\) = \\(\\frac{\\frac{10}{24}}{\\frac{10}{24}}\\) = \\(\\frac{10}{24}\\) \\(\\div\\) \\(\\frac{10}{24}\\)  = \\(\\frac{10}{24}\\) x \\(\\frac{24}{10}\\) = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "76a6f45b-e636-4dce-802b-21c7ad797dd4",
+      "question_text": [
+        "Express 123456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Express 123456 to 3 significant figures  = 123 000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123 000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25b1eb15-b0c6-4791-bcb2-afc56bac79d7",
+      "question_text": [
+        "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = \\(\\frac{1}{\\sqrt{16}^1} \\times \\frac{1}{\\sqrt{4}^1}\\) x (3\\(\\sqrt{27}\\))1 = \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\) x \\(\\frac{3}{1}\\) = \\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d569fbde-e2e3-46d3-b799-56961861b6a1",
+      "question_text": [
+        "If \\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of X recall that X = 10p log10X = P 64 = \\(X^{\\frac{1}{2}}\\) 43 = \\(X^{\\frac{1}{2}}\\) \\(4^{3 \\times \\frac{1}{2}}\\) = \\(X^{\\frac{1}{2} \\times \\frac{1}{3}}\\) 4 = \\(X^{\\frac{1}{2}}\\) (4)2 = \\(X^{\\frac{1}{2} \\times 2}\\) x = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34619fde-416e-471e-bf5c-94f66ead6f9a",
+      "question_text": [
+        "If \\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) is expressed in the form x + y\\(\\sqrt{2}\\). Find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) x \\(\\frac{1 + \\sqrt{2}}{1 + \\sqrt{2}}\\) = \\(\\frac{(1 + \\sqrt{2}) (1 + \\sqrt{2})}{(1 - \\sqrt{2})(1 + \\sqrt{2})}\\) = \\(\\frac{1 + \\sqrt{2} + \\sqrt{2} + (\\sqrt{2})^2}{1 + \\sqrt{2} - \\sqrt{2} - (\\sqrt{2})^2}\\) = \\(\\frac{1 + 2\\sqrt{2} + \\sqrt{2}}{1^2 - 2}\\)  = \\(\\frac{3 + 2\\sqrt{2}}{-1}\\) -3 - 2\\(\\sqrt{2}\\) = x + y\\(\\sqrt{2}\\) x = -3, y = -2 = (-3, -2)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1a152d19-61e0-45c4-9dda-2e44d3d7423a",
+      "question_text": [
+        "if X = {n2 + 1 : n = 0, 2, 3} and y = {n + 1 : n = 2, 3, 4, 5}, find x ∩ y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "X = {n2 + 1 : n = 0, 2, 3} y = {n + 1 : n = 2, 3, 4, 5} find x ∩ y x = (n2 + 1)(22 + 1)(32 + 1) y = (2 + 1) (3 + 1)(5 + 1) x = {1, 5, 10} y = {3, 4, 6} x ∩ y = \\(\\Phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\Phi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a109e042-17c9-4485-989e-c0bad0acde4b",
+      "question_text": [
+        "Make Q the subject of the formula when L = \\(\\frac{4}{3}\\) m\\(\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "L = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) make Q the subject \\(\\frac {L}{1}\\) = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) 3L = 4m \\(\\sqrt{PQ}\\) Taking the square of both sides  (3L)2 = (4m \\(\\sqrt{PQ}\\)) \\(\\frac {9L^2}{16m^2P}\\) = \\(\\frac {16m^2PQ}{16m^2P}\\) Q = \\(\\frac {9L^2}{16m^2P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16m^2P}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4m \\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f0ca4ac6-94ba-459b-9ffb-57634a5225d3",
+      "question_text": [
+        "Factorize completely (4x + 3y)2 - (3x - 2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "(4x + 3y)2 - (3x - 2y)2 = 16x2 + 24xy + 9y - (9x2 - 12xy + 4y2) = 7x2 + 36xy + 5y = 7x2 + xy + 35xy + 5y2 = (7x2 + xy) + (35xy + 5y2) = x(7x + y) + 5y(7x + y) = (7x + y)(x + 5y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1ec22f0f-f852-4366-be5e-637ed4dc7dde",
+      "question_text": [
+        "If p varies inverse as the square of q and p = 8 when q =4, find q when p = 32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "P \\(\\alpha\\) \\(\\frac{1}{q^2}\\) p = \\(\\frac{k}{q^2}\\) k = pq2 k = 8 x 42 k = 8 x 16 = 128 find k = pq2 q2 = \\(\\frac{k}{p}\\) q = \\(\\frac{k}{p}\\) q = \\(\\frac{128}{32}\\) q = √4 q = \\(\\pm\\)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "aad51a3b-b549-4c26-b435-c2cc2430ed34",
+      "question_text": [
+        "Solve the quadratic inequality x2 - 5x + 6 \\(\\geq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "x2 - 5x + 6 \\(\\geq\\) 0  x2 - 2x - 3x + 6 \\(\\geq\\) 0 x(x - 2) - 3(x - 2) \\(\\geq\\) 0 (x - 2) (x - 3) \\(\\geq\\) 0 x \\(\\geq\\) 2 or \\(\\geq\\) 3 x \\(\\leq\\) 2 \\(\\geq\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8d1a1d37-ffef-44f8-a3b2-ad5022d2f9a2",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "\\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{3}{8} \\times \\frac {2}{1} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{6}{8} - \\frac{1}{3}}{\\frac{2}{24} + \\frac{1}{3}}\\) = \\(\\frac{\\frac {18 - 8}{24}}{\\frac{2 + 8}{24}}\\) = \\(\\frac{\\frac{10}{24}}{\\frac{10}{24}}\\) = \\(\\frac{10}{24}\\) \\(\\div\\) \\(\\frac{10}{24}\\)  = \\(\\frac{10}{24}\\) x \\(\\frac{24}{10}\\) = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "68c726e7-b08d-448f-8c95-0ed565af5826",
+      "question_text": [
+        "Express 123456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Express 123456 to 3 significant figures  = 123 000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123 000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6322ca2-0d91-4a67-91ff-ab9d8ba0126a",
+      "question_text": [
+        "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = \\(\\frac{1}{\\sqrt{16}^1} \\times \\frac{1}{\\sqrt{4}^1}\\) x (3\\(\\sqrt{27}\\))1 = \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\) x \\(\\frac{3}{1}\\) = \\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3071b022-8d42-481d-8910-b4969f8a1e88",
+      "question_text": [
+        "If \\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "\\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of X recall that X = 10p log10X = P 64 = \\(X^{\\frac{1}{2}}\\) 43 = \\(X^{\\frac{1}{2}}\\) \\(4^{3 \\times \\frac{1}{2}}\\) = \\(X^{\\frac{1}{2} \\times \\frac{1}{3}}\\) 4 = \\(X^{\\frac{1}{2}}\\) (4)2 = \\(X^{\\frac{1}{2} \\times 2}\\) x = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "99afd53c-1ed0-4a38-b731-8432206feef7",
+      "question_text": [
+        "If \\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) is expressed in the form x + y\\(\\sqrt{2}\\). Find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "\\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) x \\(\\frac{1 + \\sqrt{2}}{1 + \\sqrt{2}}\\) = \\(\\frac{(1 + \\sqrt{2}) (1 + \\sqrt{2})}{(1 - \\sqrt{2})(1 + \\sqrt{2})}\\) = \\(\\frac{1 + \\sqrt{2} + \\sqrt{2} + (\\sqrt{2})^2}{1 + \\sqrt{2} - \\sqrt{2} - (\\sqrt{2})^2}\\) = \\(\\frac{1 + 2\\sqrt{2} + \\sqrt{2}}{1^2 - 2}\\)  = \\(\\frac{3 + 2\\sqrt{2}}{-1}\\) -3 - 2\\(\\sqrt{2}\\) = x + y\\(\\sqrt{2}\\) x = -3, y = -2 = (-3, -2)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "519038a3-d9ad-434f-9e47-7d4ea27d40f9",
+      "question_text": [
+        "if X = {n2 + 1 : n = 0, 2, 3} and y = {n + 1 : n = 2, 3, 4, 5}, find x ∩ y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "X = {n2 + 1 : n = 0, 2, 3} y = {n + 1 : n = 2, 3, 4, 5} find x ∩ y x = (n2 + 1)(22 + 1)(32 + 1) y = (2 + 1) (3 + 1)(5 + 1) x = {1, 5, 10} y = {3, 4, 6} x ∩ y = \\(\\Phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\Phi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c113fee-8e03-41c5-b7b3-6cb678f693db",
+      "question_text": [
+        "Make Q the subject of the formula when L = \\(\\frac{4}{3}\\) m\\(\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "L = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) make Q the subject \\(\\frac {L}{1}\\) = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) 3L = 4m \\(\\sqrt{PQ}\\) Taking the square of both sides  (3L)2 = (4m \\(\\sqrt{PQ}\\)) \\(\\frac {9L^2}{16m^2P}\\) = \\(\\frac {16m^2PQ}{16m^2P}\\) Q = \\(\\frac {9L^2}{16m^2P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16m^2P}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4m \\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ffab666a-2d35-4a25-a9eb-d2ad3b508d43",
+      "question_text": [
+        "Factorize completely (4x + 3y)2 - (3x - 2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "(4x + 3y)2 - (3x - 2y)2 = 16x2 + 24xy + 9y - (9x2 - 12xy + 4y2) = 7x2 + 36xy + 5y = 7x2 + xy + 35xy + 5y2 = (7x2 + xy) + (35xy + 5y2) = x(7x + y) + 5y(7x + y) = (7x + y)(x + 5y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e3020f98-34a1-4674-b9be-ccfa540b234f",
+      "question_text": [
+        "If p varies inverse as the square of q and p = 8 when q =4, find q when p = 32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "P \\(\\alpha\\) \\(\\frac{1}{q^2}\\) p = \\(\\frac{k}{q^2}\\) k = pq2 k = 8 x 42 k = 8 x 16 = 128 find k = pq2 q2 = \\(\\frac{k}{p}\\) q = \\(\\frac{k}{p}\\) q = \\(\\frac{128}{32}\\) q = √4 q = \\(\\pm\\)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8594d60d-f3e9-491e-ad24-104aa0a33ef3",
+      "question_text": [
+        "Solve the quadratic inequality x2 - 5x + 6 \\(\\geq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "x2 - 5x + 6 \\(\\geq\\) 0  x2 - 2x - 3x + 6 \\(\\geq\\) 0 x(x - 2) - 3(x - 2) \\(\\geq\\) 0 (x - 2) (x - 3) \\(\\geq\\) 0 x \\(\\geq\\) 2 or \\(\\geq\\) 3 x \\(\\leq\\) 2 \\(\\geq\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecc2bb8a-4bdb-4b9d-bcd8-63342e1dce22",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "\\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{3}{8} \\times \\frac {2}{1} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{6}{8} - \\frac{1}{3}}{\\frac{2}{24} + \\frac{1}{3}}\\) = \\(\\frac{\\frac {18 - 8}{24}}{\\frac{2 + 8}{24}}\\) = \\(\\frac{\\frac{10}{24}}{\\frac{10}{24}}\\) = \\(\\frac{10}{24}\\) \\(\\div\\) \\(\\frac{10}{24}\\)  = \\(\\frac{10}{24}\\) x \\(\\frac{24}{10}\\) = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "94c86d22-4feb-4fbf-b9fb-6d860892ccb6",
+      "question_text": [
+        "Express 123456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "Express 123456 to 3 significant figures  = 123 000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123 000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6f30c02-f22f-42dd-9857-1df535213ccc",
+      "question_text": [
+        "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = \\(\\frac{1}{\\sqrt{16}^1} \\times \\frac{1}{\\sqrt{4}^1}\\) x (3\\(\\sqrt{27}\\))1 = \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\) x \\(\\frac{3}{1}\\) = \\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8095448e-4b54-47e9-aca2-77ca6d0b5a10",
+      "question_text": [
+        "If \\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "\\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of X recall that X = 10p log10X = P 64 = \\(X^{\\frac{1}{2}}\\) 43 = \\(X^{\\frac{1}{2}}\\) \\(4^{3 \\times \\frac{1}{2}}\\) = \\(X^{\\frac{1}{2} \\times \\frac{1}{3}}\\) 4 = \\(X^{\\frac{1}{2}}\\) (4)2 = \\(X^{\\frac{1}{2} \\times 2}\\) x = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "57f83d8b-3fe2-4d0c-86e7-6a1556509765",
+      "question_text": [
+        "If \\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) is expressed in the form x + y\\(\\sqrt{2}\\). Find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "\\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) x \\(\\frac{1 + \\sqrt{2}}{1 + \\sqrt{2}}\\) = \\(\\frac{(1 + \\sqrt{2}) (1 + \\sqrt{2})}{(1 - \\sqrt{2})(1 + \\sqrt{2})}\\) = \\(\\frac{1 + \\sqrt{2} + \\sqrt{2} + (\\sqrt{2})^2}{1 + \\sqrt{2} - \\sqrt{2} - (\\sqrt{2})^2}\\) = \\(\\frac{1 + 2\\sqrt{2} + \\sqrt{2}}{1^2 - 2}\\)  = \\(\\frac{3 + 2\\sqrt{2}}{-1}\\) -3 - 2\\(\\sqrt{2}\\) = x + y\\(\\sqrt{2}\\) x = -3, y = -2 = (-3, -2)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc11f665-f833-4b47-849b-2eac4f33e680",
+      "question_text": [
+        "if X = {n2 + 1 : n = 0, 2, 3} and y = {n + 1 : n = 2, 3, 4, 5}, find x ∩ y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "X = {n2 + 1 : n = 0, 2, 3} y = {n + 1 : n = 2, 3, 4, 5} find x ∩ y x = (n2 + 1)(22 + 1)(32 + 1) y = (2 + 1) (3 + 1)(5 + 1) x = {1, 5, 10} y = {3, 4, 6} x ∩ y = \\(\\Phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\Phi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "341e6941-f77e-4645-ba66-21ea3240e0ba",
+      "question_text": [
+        "Make Q the subject of the formula when L = \\(\\frac{4}{3}\\) m\\(\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "L = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) make Q the subject \\(\\frac {L}{1}\\) = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) 3L = 4m \\(\\sqrt{PQ}\\) Taking the square of both sides  (3L)2 = (4m \\(\\sqrt{PQ}\\)) \\(\\frac {9L^2}{16m^2P}\\) = \\(\\frac {16m^2PQ}{16m^2P}\\) Q = \\(\\frac {9L^2}{16m^2P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16m^2P}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4m \\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e298e82-69b8-45cc-a9b5-eb99af0a37cd",
+      "question_text": [
+        "Factorize completely (4x + 3y)2 - (3x - 2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "(4x + 3y)2 - (3x - 2y)2 = 16x2 + 24xy + 9y - (9x2 - 12xy + 4y2) = 7x2 + 36xy + 5y = 7x2 + xy + 35xy + 5y2 = (7x2 + xy) + (35xy + 5y2) = x(7x + y) + 5y(7x + y) = (7x + y)(x + 5y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c10043e9-8063-445b-9d70-520fc40097a3",
+      "question_text": [
+        "If p varies inverse as the square of q and p = 8 when q =4, find q when p = 32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "P \\(\\alpha\\) \\(\\frac{1}{q^2}\\) p = \\(\\frac{k}{q^2}\\) k = pq2 k = 8 x 42 k = 8 x 16 = 128 find k = pq2 q2 = \\(\\frac{k}{p}\\) q = \\(\\frac{k}{p}\\) q = \\(\\frac{128}{32}\\) q = √4 q = \\(\\pm\\)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e79adeea-c0fa-4d14-9c6e-7933855a34cb",
+      "question_text": [
+        "Solve the quadratic inequality x2 - 5x + 6 \\(\\geq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "x2 - 5x + 6 \\(\\geq\\) 0  x2 - 2x - 3x + 6 \\(\\geq\\) 0 x(x - 2) - 3(x - 2) \\(\\geq\\) 0 (x - 2) (x - 3) \\(\\geq\\) 0 x \\(\\geq\\) 2 or \\(\\geq\\) 3 x \\(\\leq\\) 2 \\(\\geq\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d8f2af46-b4b2-409d-91fe-e6873456aa25",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "\\(\\frac{\\frac{3}{8} \\div \\frac {1}{2} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{3}{8} \\times \\frac {2}{1} - \\frac{1}{3}}{\\frac{1}{8} \\times \\frac {2}{3} + \\frac{1}{3}}\\) = \\(\\frac{\\frac{6}{8} - \\frac{1}{3}}{\\frac{2}{24} + \\frac{1}{3}}\\) = \\(\\frac{\\frac {18 - 8}{24}}{\\frac{2 + 8}{24}}\\) = \\(\\frac{\\frac{10}{24}}{\\frac{10}{24}}\\) = \\(\\frac{10}{24}\\) \\(\\div\\) \\(\\frac{10}{24}\\)  = \\(\\frac{10}{24}\\) x \\(\\frac{24}{10}\\) = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b1e963b3-7a93-4025-bfcf-eb612a232603",
+      "question_text": [
+        "Express 123456 to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "Express 123456 to 3 significant figures  = 123 000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123 000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "124 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "126 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "052e6789-9bd2-406d-8cd4-13666c90d566",
+      "question_text": [
+        "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "Simplify 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = 16\\(\\frac{1}{2}\\) x 4\\(\\frac{1}{2}\\) x 27\\(\\frac{1}{3}\\) = \\(\\frac{1}{\\sqrt{16}^1} \\times \\frac{1}{\\sqrt{4}^1}\\) x (3\\(\\sqrt{27}\\))1 = \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\) x \\(\\frac{3}{1}\\) = \\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0176dec8-cee4-48c9-904e-a9828eca93c2",
+      "question_text": [
+        "If \\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "\\(logX^{\\frac{1}{2}}\\) 64 = 3, find the value of X recall that X = 10p log10X = P 64 = \\(X^{\\frac{1}{2}}\\) 43 = \\(X^{\\frac{1}{2}}\\) \\(4^{3 \\times \\frac{1}{2}}\\) = \\(X^{\\frac{1}{2} \\times \\frac{1}{3}}\\) 4 = \\(X^{\\frac{1}{2}}\\) (4)2 = \\(X^{\\frac{1}{2} \\times 2}\\) x = 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c7982b67-e633-4f82-b91a-af7bd68d55df",
+      "question_text": [
+        "If \\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) is expressed in the form x + y\\(\\sqrt{2}\\). Find the values of x and y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "\\(\\frac{1 + \\sqrt{2}}{1 - \\sqrt{2}}\\) x \\(\\frac{1 + \\sqrt{2}}{1 + \\sqrt{2}}\\) = \\(\\frac{(1 + \\sqrt{2}) (1 + \\sqrt{2})}{(1 - \\sqrt{2})(1 + \\sqrt{2})}\\) = \\(\\frac{1 + \\sqrt{2} + \\sqrt{2} + (\\sqrt{2})^2}{1 + \\sqrt{2} - \\sqrt{2} - (\\sqrt{2})^2}\\) = \\(\\frac{1 + 2\\sqrt{2} + \\sqrt{2}}{1^2 - 2}\\)  = \\(\\frac{3 + 2\\sqrt{2}}{-1}\\) -3 - 2\\(\\sqrt{2}\\) = x + y\\(\\sqrt{2}\\) x = -3, y = -2 = (-3, -2)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1efdfa97-f060-49b7-8ed0-90493d0827a6",
+      "question_text": [
+        "if X = {n2 + 1 : n = 0, 2, 3} and y = {n + 1 : n = 2, 3, 4, 5}, find x ∩ y"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "X = {n2 + 1 : n = 0, 2, 3} y = {n + 1 : n = 2, 3, 4, 5} find x ∩ y x = (n2 + 1)(22 + 1)(32 + 1) y = (2 + 1) (3 + 1)(5 + 1) x = {1, 5, 10} y = {3, 4, 6} x ∩ y = \\(\\Phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\Phi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b794b8d2-7c4b-4463-8b40-abc1561bb5a2",
+      "question_text": [
+        "Make Q the subject of the formula when L = \\(\\frac{4}{3}\\) m\\(\\sqrt{PQ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "L = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) make Q the subject \\(\\frac {L}{1}\\) = \\(\\frac {4}{3}\\) m \\(\\sqrt{PQ}\\) 3L = 4m \\(\\sqrt{PQ}\\) Taking the square of both sides  (3L)2 = (4m \\(\\sqrt{PQ}\\)) \\(\\frac {9L^2}{16m^2P}\\) = \\(\\frac {16m^2PQ}{16m^2P}\\) Q = \\(\\frac {9L^2}{16m^2P}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9L^2}{16m^2P}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3L}{4m \\sqrt{P}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4de21f64-f16e-4183-aaa9-6c6d01175d8f",
+      "question_text": [
+        "Factorize completely (4x + 3y)2 - (3x - 2y)2"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "(4x + 3y)2 - (3x - 2y)2 = 16x2 + 24xy + 9y - (9x2 - 12xy + 4y2) = 7x2 + 36xy + 5y = 7x2 + xy + 35xy + 5y2 = (7x2 + xy) + (35xy + 5y2) = x(7x + y) + 5y(7x + y) = (7x + y)(x + 5y)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(7x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 5y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94cf9e6c-0ad6-40ab-8a79-67ba0c437b30",
+      "question_text": [
+        "If p varies inverse as the square of q and p = 8 when q =4, find q when p = 32"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "P \\(\\alpha\\) \\(\\frac{1}{q^2}\\) p = \\(\\frac{k}{q^2}\\) k = pq2 k = 8 x 42 k = 8 x 16 = 128 find k = pq2 q2 = \\(\\frac{k}{p}\\) q = \\(\\frac{k}{p}\\) q = \\(\\frac{128}{32}\\) q = √4 q = \\(\\pm\\)2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\pm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dd26b32c-383d-4431-a715-8b47c5c37720",
+      "question_text": [
+        "Solve the quadratic inequality x2 - 5x + 6 \\(\\geq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "mathematics",
+      "pageNum": "16",
+      "explanation": "x2 - 5x + 6 \\(\\geq\\) 0  x2 - 2x - 3x + 6 \\(\\geq\\) 0 x(x - 2) - 3(x - 2) \\(\\geq\\) 0 (x - 2) (x - 3) \\(\\geq\\) 0 x \\(\\geq\\) 2 or \\(\\geq\\) 3 x \\(\\leq\\) 2 \\(\\geq\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

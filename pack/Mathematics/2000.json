@@ -1,0 +1,3307 @@
+
+[
+    {
+      "id": "70adcd81-31c1-4e2f-95f7-8b1029fd757f",
+      "question_text": [
+        "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}.Determine (P-Q) ∩ R"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "P = {1,2,u,v,w,x} Q = {2,3,u,v,w,5,6,y} R = {2,3,4,v,x,y} P - Q = {1,x} (P - Q) ∩ R = {1,x} ∩ {2,3,4,v,x,y} = {x}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, x}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{x y}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{x}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ɸ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e98fb5f-6659-4b88-837a-b34e26c7f3ba",
+      "question_text": [
+        "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "1st year, Population = 240,000 x (2/100) = 4800. Being the 2nd year population = 240,000 x 4800 = 244800. Increase in Pop. in 2nd year = 244800 x (2/100) = 4896 Jan 2000, Pop. = 244800 + 4896 = 249,696",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "480,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "249,696",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "249,600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "244,800",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "759f1ff7-e958-4895-a268-284378c04539",
+      "question_text": [
+        "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2, 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ", 1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d55c749-5897-492d-a72f-8843cd5bb935",
+      "question_text": [
+        "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Use a venn diagram: 60-3x+3x+50-3x = 94-x. 110-3x+x = 94 -2x = 94-110 =>-2x = -16, this x = -8. Members that like only one game:  = 60 - 3x + 50 - 3x = 60 - 3x8 + 50 - 3x8 = 60 - 24 + 50 - 24 = 36 + 26 = 62",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "62",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "86",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df08948f-8c47-4dbd-a9b0-6ed8597f51dc",
+      "question_text": [
+        "Evaluate (2.813 x 10-3 x 1.063)  (5.637 x 10-2) "
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.055",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.054",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.54",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dcbcb71e-84e9-4fb1-8ed1-3df782891b96",
+      "question_text": [
+        "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for ₦150,000. How much does he need to deposit?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Amount A = P(1+r)n; A = ₦150,000, r = 25%, n = 3. 150,000 = P(1+0.25)3 = P(1.25)3 P = 150,000/1.253 =₦76,800.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦112,000.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦96,000.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦85,714.28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦76,800.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0f739433-8f7e-420f-9d3a-226f552b2b76",
+      "question_text": [
+        "If 31410 - 2567 = 340x, find x."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "31410 - 2567 = 340x, Convert 2567 and 340x to base 10, such that: 314 - 139 = 3x2 + 4x => 3x2 + 4x - 175 = 0 (quadratic) Factorising, (x - 7) (3x + 25) = 0, either x = 7 or x = -25/3 ( but x cannot be negative) Therefore, x = 7.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8e8857a-d7d1-49e7-a30b-473e2ff27e58",
+      "question_text": [
+        "Simplify 3(2n+1) - 4(2n-1)  2n+1 - 2n"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Start by expanding 3(2n+1) - 4(2n-1)  2n+1 - 2n: 3 x 2n x 21 - 22 x 2n x 2-1 2n x 2 -2n Solving the equation above gives; 2n x 21 x 2  2n = 2 x 2 = 4 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2n+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2n-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8545014f-4fb1-41f1-8a7c-0d894734e8b5",
+      "question_text": [
+        "If P3446 - 23P26 = 2PP26, find the value of the digit P."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Covert everything to base 10 and collect like terms, such that: 210P - 42P = 434 + 406 168P = 840 P = 840/168 = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b5489a0c-7968-4b33-8554-a734f09cac91",
+      "question_text": [
+        "A binary operation * is defined by a*b = ab. If a*2 = 2-a, find the possible values of a."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "a * b = ab a * 2 = a2 = 2 - a a2 + 2a - a - 2 = 0 a(a+2) - 1(a+2) = 0 (a-1)(a+2) = 0 a = 1, -2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, -2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "70a974f4-e8ed-4482-9b12-97c4cbd50b8a",
+      "question_text": [
+        "The 3rd term of an A.P is 4x - 2y and the 9th term is 10x - 8y. Find the common difference."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "n = 3, U3 = 4x - 2y, Un = a + (n+1)d, 4x - 2y = a + 2d (1) U9 = 10x - 8y, 10x - 8y = a + 8d (2) Solving (1) and (2), d = 6(x-y)/6 d = x-y.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "19x - 17y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8x - 4y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x - y",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8eeff841-fd9a-40e2-9acb-79403da925de",
+      "question_text": [
+        "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "If P-1 is the inverse of P and O is the identity, Then P-1 * P = P * P-1 = 0 i.e. P-1 + P - P-1.P = 0 P-1 - P-1.P = -P P-1(1 - P) = -P P-1 = -P/(P-1) = P/(P-1) ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p/(p-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4fa45fe3-47fe-41e8-a597-9ef9e8bdbe71",
+      "question_text": [
+        "Evaluate (1/2 - 1/4 - 1/8 - 1/16 + ...) - 1"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "S = a/(1+r), where a = 1/2, r = 1/2. S = 1/2  3/2 = 1/2 x 3/2 = 1/3. 1/3 - 1 = -2/3 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96c7b888-b2a0-4da8-9a25-5fab4f826d3e",
+      "question_text": [
+        "if (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax3 + bx2 + cx - 1, find a, b, c in that order."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "This is a polynomial of the 3rd order, thus x should have three answers. Use the factors given to get values of x as 1, -1 and -2. Form three equations, and carry out elimination and subsequent substitution to get a = -1/2, b = 1, and c = 1/2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1/2, 1., 1/2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/2, 1, 1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/2, 1, -1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/2, -1, 1/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a5b2735-4a66-48f5-b8b0-38d9bb9141b6",
+      "question_text": [
+        "A trader realizes 10x - x2 naira profit from the sale of x bags on corn. How many bags will give him the desired profit?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "y = 10x - x2 dy/dx = 10 -x As dy/dx = 0,  10 - 2x = 0 2x = 10 x = 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5dd23417-c7ae-4467-9e3e-3db2b101eb9b",
+      "question_text": [
+        "Solve the inequality 2 - x > x2."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "2 - x > x2 2 - x - x2 > 0 (x+2)(x-1) < 0",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x < -2 or x > 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > 2 or x< -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1 < x < 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2 < x < 1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bba8cffc-b843-44f4-8f62-b3f8924ba05c",
+      "question_text": [
+        "If α and β are the roots of the equation 3x2 + 5x - 2 = 0, find the value of 1/α + 1/β"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "1/α + 1/β = β+α/αβ 3x2 + 5x - 2 = 0 x2 + 5x/3 - 2/3 = 0 αβ = -2/3 β+α = -5/3 Thus; β+α/αβ = -2/3  -2/3 = -5/2 ",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "832fd34a-cfd8-44af-9c3c-59b191186769",
+      "question_text": [
+        "A frustrum of pyramid with square base has its upper and lower sections as squares of sizes 2m and 5m respectively and the distance between them 6m. Find the height of the pyramid from which the frustrum was obtained."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.0 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.4 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.0 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10.0 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2f40c57d-12b2-441b-bb89-45a6ef067c6f",
+      "question_text": [
+        "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 60°, find angle UST."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Make a good sketch of the question, and follow this steps. Since ST is parallel to UV => angle USR = 50°(alternate to VUS. Angle UST = 180° - 50° = 130° (angle on a straight line)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "310°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "130°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "80°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3244d25c-0716-46a5-9127-5547c151f19a",
+      "question_text": [
+        "A ship sails a distance of 50km in the direction S50°E and then sails a distance of 50km in the direction ₦40°E. FInd the bearing of the ship from the original position."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "S90°E",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40°E",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "S95°E",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦85°E",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cc461943-5a6d-4b5e-994e-fba41d57c297",
+      "question_text": [
+        "An equilateral triangle of side √3cm is inscribed in a circle. Find the radius of the circle."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2/3 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d612fd49-e3e4-4a44-a844-7dea51db2e5b",
+      "question_text": [
+        "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Grad of 3y = 4x - 1 y = 4x/3 - 1/3 Grad = 4/3 Grad of Ky = x + 3 y = x/k + 3/4 Grad = 1/k Since two lines are perpendicular, 1/k = -3/4 -3k = 4 k = -4/3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2dc585e-4509-4cca-85cd-c06474c66411",
+      "question_text": [
+        "if P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A straight line",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a circle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the bisector of angle PXQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f4d0b53c-fadb-4975-9f9f-69621677198c",
+      "question_text": [
+        "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "2x + x = 180°, => 3x = 180°, and thus x = 60° Each exterior angle = 60° but size of ext. angle = 360°/n Therefore 60° = 360°/n n = 360°/60° = 6 sides",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22f19956-e153-42d8-aa7f-1206744983c0",
+      "question_text": [
+        "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 \\(\\leq\\) x \\(\\leq\\) 2, at which point(s) will they meet?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "x2 + y2 = (√2)2 x2 + y2 = 2 but y = x Thus; x2 + x2 = 2 2x2 = 2 x2 = + or - 1 But x2 + y2 = 2 12 + y2 = 2 1 + y2 = 2 y2 = 2 - 1 y2 = 1 y = + or - 1 Thus point (x,y) = (1,1) only.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1,",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1,",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " and (1,2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "241bc8b4-f6e1-48ab-8e1e-9c825bb56c5d",
+      "question_text": [
+        "Find the value of \\(\\int^{\\pi}_{0}\\frac{cos^{2}\\theta-1}{sin^{2}\\theta}d\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\int^{\\pi}_{0}\\frac{cos^{2}\\theta-1}{sin^{2}\\theta}d\\theta = \\int^{\\pi}_{0}\\frac{-sin^{2}\\theta}{sin^{2}\\theta}\\\\ = \\int^{\\pi}_{0}d\\theta = -\\pi\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "π/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-π/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-π",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2d546355-94e3-4281-925b-6ab92afaa7d7",
+      "question_text": [
+        "If y = 2x - sin2x, find dy/dx when x = π/4"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y = 2x cos2x - sin2x dy/dx = 2 cos2x +(-2x sin2x) - 2 cos2x = 2 cos2x - 2x sin2x - cos2x = -2x sin2x = -2 x (π/4) sin2 x (π/4) = -(π/2) x 1 = -(π/2)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-π/2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b08d51eb-04d8-42dd-ad9e-42d3cc29765b",
+      "question_text": [
+        "A bowl is designed by revolving completely the area enclosed by y = x2 - 1, y = 3 and x ≥ 0 around the axis. What is the volume of this bowl?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "∫30 π(y+1) dy = π[y2 + y30 = π(9/2 + 3) = 15π/2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7π cubic units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15π/2 cubic units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "8π cubic units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "17π/2 cubic units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d5a95cf-6d79-4ecd-b1b3-3e781ff8d4f6",
+      "question_text": [
+        "If the volume of a hemisphere is increasing at a steady rate of 18π m/s, at what rate is its radius changing when its is 6m?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.30m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.00 m/s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.25 m/s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.20 m/s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e066ef1-a41e-4286-8921-51f984d77eed",
+      "question_text": [
+        "X and Y are two events. The probability of X or Y is 0.7 and that of X is 0.4. If X and Y are independent, find the probability of Y."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "P (X or Y) = P(X) + P(Y), when they are independent as given. 0.7 = 0.4 + P(Y) P(Y) = 0.7 - 0.4 = 0.30",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.57",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.80",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a9cc47d-aa48-4861-b374-e7911a6b4411",
+      "question_text": [
+        "If the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Mean = {0 + (x+2) + (3x+6) + (4x+8)}/4 = 4 => 0 + (x+2) + (3x+6) + (4x+8) = 16 8x + 16 = 16 x = 0 Now prepare a table showing the deviation of each of 0, (x+2), (3x+6) and (4x+8), adding the deviations will give 12.  Thus M.D = 12/4 = 3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e1033b25-611c-495d-95ed-7e18f7198ae2",
+      "question_text": [
+        "In how many ways can the word MATHEMATICS be arranged?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Number of letter in MATHEMATICS = 11 Number of letter M = 2 Number of letter E = 2 Number of letter A = 2 Arrangement = 11!/(2! 2! 2!) ways",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11!/(9! 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11!/(9! 2! 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b97fbf0e-e38a-49d9-9964-1587afe51f4d",
+      "question_text": [
+        "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f).If a pie chart is used to depict the data, the angle corresponding to 4 is?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Angle corresponding to 4 is 40/240 x 360/1 = 60° Note that total angle in a circle is 360°. Note also that sum of the frequencies given is 240.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "40°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60°",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4b0300fd-aecf-447a-802e-bfd7f768b150",
+      "question_text": [
+        "If U = {x : x is an integer and 1 \\(\\leq\\) x \\(\\leq\\) 20 E1 = {x : x is a multiple of 3} E2 = {x : x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "U = {1, 2, 3, 4, 5,..., 20} E1 = {3, 6, 9, 12, 15, 18} E2 = {4, 8, 12, 16, 20} P(E1) = 5/20 P(not E1) = 1 - (5/20) = 15/20 = 3/4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3/10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/20",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "de5c9cea-9258-4221-8765-b2e8ae73cac0",
+      "question_text": [
+        "The variance of x, 2x, 3x, 4x and 5x is"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Hint: prepare a three-columned table, one for (x), another for the (deviation), and the last for the (squared-deviation). Sum of (x) = 15x, algebraic sum of (deviation) = zero (0) Sum of (squared-deviation) = 10x2 Variance = ∑(squared-deviation)/n = 10x2/5 = 2x2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x√2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2x2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cd516be-5167-431a-bc42-56c0b1dea282",
+      "question_text": [
+        "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Range = Highest - lowest number => 10-4 = 6 Mode is the number with highest occurrence => Mode = 10 Sum = 6 + 10 = 16",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "134ffa47-d95c-4411-a591-d8615962aa0c",
+      "question_text": [
+        "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Hints: 1. Integrate the given first derivative of f(x) at the boundaries, (0,0) Then solve accordingly to get f(x) = y = (3x2/)2 + 2x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = (3x2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 + 2x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = (3x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "/2 + xC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d9e9159-4c8c-4eb2-b86e-8f35af4a5745",
+      "question_text": [
+        "The expression ax2 + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "At x = 1, substituting x = 1 in the equation: ax2 + bx + c = 5; f(1) => a + b + c = 5 .....(1) Taking the first derivative of f(x) in the original equation gives dy/dx = 2ax + b = 2x + 1 (given)....(2) From (2),=> b = 1, and 2ax = 2x, => a = 1. substituting into (1) 1 + 1 + c = 5, => c = 5 - 2 = 3 Thus a = 1, b = 1 and c = 3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, 3, 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2, 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, 1, 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, 3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b7276d48-1dfc-4eeb-8155-3b773e75eb89",
+      "question_text": [
+        "Simplify \\(\\frac{1}{1 + \\sqrt{5}}\\) - \\(\\frac{1}{1 - \\sqrt{5}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{1}{1 + \\sqrt{5}}\\) - \\(\\frac{1}{1 - \\sqrt{5}}\\) = \\(\\frac{3 - \\sqrt{5} - 3 - \\sqrt{5}}{(3 + \\sqrt{5}) (3 - \\sqrt{5}}\\) = \\(\\frac{-2\\sqrt{5}}{9 - 5}\\)  = \\(\\frac{-2\\sqrt{5}}{4}\\) = - \\(\\frac{1}{2}\\sqrt{5}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "- \\(\\frac{1}{2}\\sqrt{5}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{2}\\sqrt{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "adb9c17b-ee24-4c07-a624-088d37aa39b3",
+      "question_text": [
+        "In the diagram, EFGH is a circle centre O. FH is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math141.jpg",
+      "explanation": "\\(\\bigtriangleup\\)OEN = \\(\\bigtriangleup\\)OGNOE = OG = r(radii)(r - 8)2 + 122 = r2r2 - 16r + 64 + 144 = r216r = 64 + 144 = r216r = 64 + 144 = 208\\(\\frac{208}{16}\\) = 13cmFH = 2FO = 2OH = 2R= 2 x 13cm= 26cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "32cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "26cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cae95028-755e-49e3-8c26-e6965e4a125e",
+      "question_text": [
+        "If the diagram is the graph of y = x2, the shaded area is"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math140.jpg",
+      "explanation": "A = \\(\\int^{x = 4}_{x = 0}\\) ydx = \\(\\int^{4}_{0}\\) x2dx = [\\(\\frac{x^3}{3} + c]^{4}_{0}\\)= \\(\\frac{64}{3}\\) square units",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "64 square units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{126}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " square units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "32 square unitsD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f38bb520-9083-4709-a45c-56ced846e54a",
+      "question_text": [
+        "The cumulative frequency curve represents the ages of ages of students in a school. What age group do 70% of the students belongs?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17.5 - 20.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "16.5 - 19.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15.5 - 19.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15.5 - 18.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b999539e-250c-4e75-882d-6a9dbfde0aaa",
+      "question_text": [
+        "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "45",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0039a498-bd30-4d3b-ad33-e7999af9a6e3",
+      "question_text": [
+        "Evaluate 5-3log52 x 22log23"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "5-3log52 x 22log23i Let -3log52 = p => log52-3 = p∴2-3 = 5p∴5-3log52 = 5log52-3 = 5pii 22log23 = q => log532 = q∴32 = 2q∴222log23 = 2q= 32 = 9i x ii = 2-3 x 9 = 1/23 x 9= 1/8 x 9= 9/8 = 11/8",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11/8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6bd18ae0-9c8a-4876-80a4-a7a0b18c09a3",
+      "question_text": [
+        "In the diagram above, EFGH is a circle center O. Fh is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math21.jpg",
+      "explanation": "The locus of X is the perpendicular bisector of PQ",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "26 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "32 cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "87f8f4b3-c562-4acd-beed-433c2fd15901",
+      "question_text": [
+        "In the diagram, PQRS is a circle center O. PQR is a diameter and ∠PRQ = 40o. Calculate ∠QSR."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/09/maths152.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50o",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "33c4c0d9-5c21-438f-82c9-955a39813bc4",
+      "question_text": [
+        "In the diagram, POS and ROT are straight lines, OPQR is a parallelogram. |OS| = |OT| and ∠OST = 50o. Calculate ∠OPQ."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/09/maths151.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "160o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "140o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "100o",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d06f966b-bed6-4af8-8cbf-a8624ec94ce7",
+      "question_text": [
+        "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}.Determine (P-Q) ∩ R"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "P = {1,2,u,v,w,x} Q = {2,3,u,v,w,5,6,y} R = {2,3,4,v,x,y} P - Q = {1,x} (P - Q) ∩ R = {1,x} ∩ {2,3,4,v,x,y} = {x}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, x}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{x y}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{x}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ɸ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bae2a7b5-6132-4d49-8766-600542425604",
+      "question_text": [
+        "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "1st year, Population = 240,000 x (2/100) = 4800. Being the 2nd year population = 240,000 x 4800 = 244800. Increase in Pop. in 2nd year = 244800 x (2/100) = 4896 Jan 2000, Pop. = 244800 + 4896 = 249,696",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "480,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "249,696",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "249,600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "244,800",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0f77577-a829-4a54-aaba-34c07164a3de",
+      "question_text": [
+        "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2, 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ", 1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0368f283-e9e3-49cb-bc29-a2ce12a480a3",
+      "question_text": [
+        "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Use a venn diagram: 60-3x+3x+50-3x = 94-x. 110-3x+x = 94 -2x = 94-110 =>-2x = -16, this x = -8. Members that like only one game:  = 60 - 3x + 50 - 3x = 60 - 3x8 + 50 - 3x8 = 60 - 24 + 50 - 24 = 36 + 26 = 62",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "62",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "86",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "436ec11d-b1d8-4b1b-80d0-e78f8aee6b24",
+      "question_text": [
+        "Evaluate (2.813 x 10-3 x 1.063)  (5.637 x 10-2) "
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.055",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.054",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.54",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "50187125-b579-43b0-a88e-31168786c2a9",
+      "question_text": [
+        "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for ₦150,000. How much does he need to deposit?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Amount A = P(1+r)n; A = ₦150,000, r = 25%, n = 3. 150,000 = P(1+0.25)3 = P(1.25)3 P = 150,000/1.253 =₦76,800.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦112,000.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦96,000.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦85,714.28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦76,800.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7bf0ef24-1d0f-4691-9077-e6cf2398ed5d",
+      "question_text": [
+        "If 31410 - 2567 = 340x, find x."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "31410 - 2567 = 340x, Convert 2567 and 340x to base 10, such that: 314 - 139 = 3x2 + 4x => 3x2 + 4x - 175 = 0 (quadratic) Factorising, (x - 7) (3x + 25) = 0, either x = 7 or x = -25/3 ( but x cannot be negative) Therefore, x = 7.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa1540b8-01c8-475e-a97d-533f5da1d29b",
+      "question_text": [
+        "Simplify 3(2n+1) - 4(2n-1)  2n+1 - 2n"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Start by expanding 3(2n+1) - 4(2n-1)  2n+1 - 2n: 3 x 2n x 21 - 22 x 2n x 2-1 2n x 2 -2n Solving the equation above gives; 2n x 21 x 2  2n = 2 x 2 = 4 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2n+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2n-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2fad7b1b-1046-4420-a4bf-a88d8385c979",
+      "question_text": [
+        "If P3446 - 23P26 = 2PP26, find the value of the digit P."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Covert everything to base 10 and collect like terms, such that: 210P - 42P = 434 + 406 168P = 840 P = 840/168 = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e5c786af-449b-4d07-9fa0-23751770d796",
+      "question_text": [
+        "A binary operation * is defined by a*b = ab. If a*2 = 2-a, find the possible values of a."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "a * b = ab a * 2 = a2 = 2 - a a2 + 2a - a - 2 = 0 a(a+2) - 1(a+2) = 0 (a-1)(a+2) = 0 a = 1, -2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, -2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "148da607-9abb-428d-ba5b-05ca5c68aa4a",
+      "question_text": [
+        "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}.Determine (P-Q) ∩ R"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "P = {1,2,u,v,w,x} Q = {2,3,u,v,w,5,6,y} R = {2,3,4,v,x,y} P - Q = {1,x} (P - Q) ∩ R = {1,x} ∩ {2,3,4,v,x,y} = {x}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, x}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{x y}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{x}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ɸ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "86d8ab75-e36b-4cd0-811b-1f084dbdc6f7",
+      "question_text": [
+        "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "1st year, Population = 240,000 x (2/100) = 4800. Being the 2nd year population = 240,000 x 4800 = 244800. Increase in Pop. in 2nd year = 244800 x (2/100) = 4896 Jan 2000, Pop. = 244800 + 4896 = 249,696",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "480,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "249,696",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "249,600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "244,800",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b7560ed1-7c38-4163-82f5-121f05c3312d",
+      "question_text": [
+        "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2, 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ", 1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ab0b7fe-19e2-45d1-b773-3a51dee2d653",
+      "question_text": [
+        "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Use a venn diagram: 60-3x+3x+50-3x = 94-x. 110-3x+x = 94 -2x = 94-110 =>-2x = -16, this x = -8. Members that like only one game:  = 60 - 3x + 50 - 3x = 60 - 3x8 + 50 - 3x8 = 60 - 24 + 50 - 24 = 36 + 26 = 62",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "62",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "86",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b48f325-98f6-4cfd-8613-5c066f11e873",
+      "question_text": [
+        "Evaluate (2.813 x 10-3 x 1.063)  (5.637 x 10-2) "
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.055",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.054",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.54",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "48aed3cf-5f27-409f-8001-2c0a8885a8e1",
+      "question_text": [
+        "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for ₦150,000. How much does he need to deposit?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Amount A = P(1+r)n; A = ₦150,000, r = 25%, n = 3. 150,000 = P(1+0.25)3 = P(1.25)3 P = 150,000/1.253 =₦76,800.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦112,000.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦96,000.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦85,714.28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦76,800.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "93439cc2-3852-4398-a4fb-cc9c03500862",
+      "question_text": [
+        "If 31410 - 2567 = 340x, find x."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "31410 - 2567 = 340x, Convert 2567 and 340x to base 10, such that: 314 - 139 = 3x2 + 4x => 3x2 + 4x - 175 = 0 (quadratic) Factorising, (x - 7) (3x + 25) = 0, either x = 7 or x = -25/3 ( but x cannot be negative) Therefore, x = 7.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9064ad0a-5c4f-49a8-a500-f49462cc868d",
+      "question_text": [
+        "Simplify 3(2n+1) - 4(2n-1)  2n+1 - 2n"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Start by expanding 3(2n+1) - 4(2n-1)  2n+1 - 2n: 3 x 2n x 21 - 22 x 2n x 2-1 2n x 2 -2n Solving the equation above gives; 2n x 21 x 2  2n = 2 x 2 = 4 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2n+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2n-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2dc3ec43-d275-4a98-aba7-bae52635e77e",
+      "question_text": [
+        "If P3446 - 23P26 = 2PP26, find the value of the digit P."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Covert everything to base 10 and collect like terms, such that: 210P - 42P = 434 + 406 168P = 840 P = 840/168 = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "91dc212e-f77f-4859-bfe3-ff088e730225",
+      "question_text": [
+        "A binary operation * is defined by a*b = ab. If a*2 = 2-a, find the possible values of a."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "a * b = ab a * 2 = a2 = 2 - a a2 + 2a - a - 2 = 0 a(a+2) - 1(a+2) = 0 (a-1)(a+2) = 0 a = 1, -2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, -2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e70d04e-fcd5-4808-b066-304a80531999",
+      "question_text": [
+        "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}.Determine (P-Q) ∩ R"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "P = {1,2,u,v,w,x} Q = {2,3,u,v,w,5,6,y} R = {2,3,4,v,x,y} P - Q = {1,x} (P - Q) ∩ R = {1,x} ∩ {2,3,4,v,x,y} = {x}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, x}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{x y}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{x}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ɸ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a03861ab-8c27-427c-852a-c02b9edfdb06",
+      "question_text": [
+        "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "1st year, Population = 240,000 x (2/100) = 4800. Being the 2nd year population = 240,000 x 4800 = 244800. Increase in Pop. in 2nd year = 244800 x (2/100) = 4896 Jan 2000, Pop. = 244800 + 4896 = 249,696",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "480,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "249,696",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "249,600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "244,800",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d5a56b74-a52c-4b02-ad71-2c92034bd41e",
+      "question_text": [
+        "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2, 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ", 1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3fe36e85-4d92-4051-9d4f-66250a2fda0c",
+      "question_text": [
+        "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Use a venn diagram: 60-3x+3x+50-3x = 94-x. 110-3x+x = 94 -2x = 94-110 =>-2x = -16, this x = -8. Members that like only one game:  = 60 - 3x + 50 - 3x = 60 - 3x8 + 50 - 3x8 = 60 - 24 + 50 - 24 = 36 + 26 = 62",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "62",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "86",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d40d69f9-1216-4ddc-8349-14ec08f3e24b",
+      "question_text": [
+        "Evaluate (2.813 x 10-3 x 1.063)  (5.637 x 10-2) "
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.055",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.054",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.54",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "faf30c0f-d0ac-4e3f-87ab-276c10ef734d",
+      "question_text": [
+        "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for ₦150,000. How much does he need to deposit?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Amount A = P(1+r)n; A = ₦150,000, r = 25%, n = 3. 150,000 = P(1+0.25)3 = P(1.25)3 P = 150,000/1.253 =₦76,800.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦112,000.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦96,000.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦85,714.28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦76,800.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1100b087-4b0a-4f33-9f05-8b7b1df9fe58",
+      "question_text": [
+        "If 31410 - 2567 = 340x, find x."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "31410 - 2567 = 340x, Convert 2567 and 340x to base 10, such that: 314 - 139 = 3x2 + 4x => 3x2 + 4x - 175 = 0 (quadratic) Factorising, (x - 7) (3x + 25) = 0, either x = 7 or x = -25/3 ( but x cannot be negative) Therefore, x = 7.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c02626e5-3ded-4052-9072-6ee4cdb5eb12",
+      "question_text": [
+        "Simplify 3(2n+1) - 4(2n-1)  2n+1 - 2n"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Start by expanding 3(2n+1) - 4(2n-1)  2n+1 - 2n: 3 x 2n x 21 - 22 x 2n x 2-1 2n x 2 -2n Solving the equation above gives; 2n x 21 x 2  2n = 2 x 2 = 4 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2n+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2n-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d70f429-865f-4ab7-9f29-285ff6a19a8b",
+      "question_text": [
+        "If P3446 - 23P26 = 2PP26, find the value of the digit P."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Covert everything to base 10 and collect like terms, such that: 210P - 42P = 434 + 406 168P = 840 P = 840/168 = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5fd4ae2d-4ca8-400b-8640-d921b4b60491",
+      "question_text": [
+        "A binary operation * is defined by a*b = ab. If a*2 = 2-a, find the possible values of a."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "a * b = ab a * 2 = a2 = 2 - a a2 + 2a - a - 2 = 0 a(a+2) - 1(a+2) = 0 (a-1)(a+2) = 0 a = 1, -2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, -2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "35b6943b-a78d-467b-bb7b-c03a472f4750",
+      "question_text": [
+        "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}.Determine (P-Q) ∩ R"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "P = {1,2,u,v,w,x} Q = {2,3,u,v,w,5,6,y} R = {2,3,4,v,x,y} P - Q = {1,x} (P - Q) ∩ R = {1,x} ∩ {2,3,4,v,x,y} = {x}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, x}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{x y}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{x}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ɸ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69c254d2-bc99-4368-818e-0fc9737da684",
+      "question_text": [
+        "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "1st year, Population = 240,000 x (2/100) = 4800. Being the 2nd year population = 240,000 x 4800 = 244800. Increase in Pop. in 2nd year = 244800 x (2/100) = 4896 Jan 2000, Pop. = 244800 + 4896 = 249,696",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "480,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "249,696",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "249,600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "244,800",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95ff72ef-f252-4bf8-a2ff-153b8c6e6f4f",
+      "question_text": [
+        "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2, 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ", 1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a550512-e1a4-48ab-a27b-22db459a5757",
+      "question_text": [
+        "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Use a venn diagram: 60-3x+3x+50-3x = 94-x. 110-3x+x = 94 -2x = 94-110 =>-2x = -16, this x = -8. Members that like only one game:  = 60 - 3x + 50 - 3x = 60 - 3x8 + 50 - 3x8 = 60 - 24 + 50 - 24 = 36 + 26 = 62",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "62",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "86",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "248e9324-8b56-408d-b60c-0d20a1ca8c47",
+      "question_text": [
+        "Evaluate (2.813 x 10-3 x 1.063)  (5.637 x 10-2) "
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.055",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.054",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.54",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "214cb012-90d8-44c6-9eae-f34f957711e9",
+      "question_text": [
+        "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for ₦150,000. How much does he need to deposit?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Amount A = P(1+r)n; A = ₦150,000, r = 25%, n = 3. 150,000 = P(1+0.25)3 = P(1.25)3 P = 150,000/1.253 =₦76,800.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦112,000.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦96,000.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦85,714.28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦76,800.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9bdd4515-dd35-4cb0-8ceb-5039af17c7c0",
+      "question_text": [
+        "If 31410 - 2567 = 340x, find x."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "31410 - 2567 = 340x, Convert 2567 and 340x to base 10, such that: 314 - 139 = 3x2 + 4x => 3x2 + 4x - 175 = 0 (quadratic) Factorising, (x - 7) (3x + 25) = 0, either x = 7 or x = -25/3 ( but x cannot be negative) Therefore, x = 7.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0eee58f9-7112-4165-998c-0312b6d67380",
+      "question_text": [
+        "Simplify 3(2n+1) - 4(2n-1)  2n+1 - 2n"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Start by expanding 3(2n+1) - 4(2n-1)  2n+1 - 2n: 3 x 2n x 21 - 22 x 2n x 2-1 2n x 2 -2n Solving the equation above gives; 2n x 21 x 2  2n = 2 x 2 = 4 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2n+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2n-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "030c8c72-b89e-4d27-aa83-e13804683664",
+      "question_text": [
+        "If P3446 - 23P26 = 2PP26, find the value of the digit P."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Covert everything to base 10 and collect like terms, such that: 210P - 42P = 434 + 406 168P = 840 P = 840/168 = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8d0ed6bc-0625-4e7e-bed0-65c270aacfb8",
+      "question_text": [
+        "A binary operation * is defined by a*b = ab. If a*2 = 2-a, find the possible values of a."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "a * b = ab a * 2 = a2 = 2 - a a2 + 2a - a - 2 = 0 a(a+2) - 1(a+2) = 0 (a-1)(a+2) = 0 a = 1, -2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, -2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6928bf53-60d8-478f-abac-54e66db3d79e",
+      "question_text": [
+        "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}.Determine (P-Q) ∩ R"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "P = {1,2,u,v,w,x} Q = {2,3,u,v,w,5,6,y} R = {2,3,4,v,x,y} P - Q = {1,x} (P - Q) ∩ R = {1,x} ∩ {2,3,4,v,x,y} = {x}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, x}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{x y}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{x}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ɸ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d31b7eb-5aeb-49a4-9630-e5e59af0f024",
+      "question_text": [
+        "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "1st year, Population = 240,000 x (2/100) = 4800. Being the 2nd year population = 240,000 x 4800 = 244800. Increase in Pop. in 2nd year = 244800 x (2/100) = 4896 Jan 2000, Pop. = 244800 + 4896 = 249,696",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "480,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "249,696",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "249,600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "244,800",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b87b7ad8-f271-4d4d-b369-c9f716ca618f",
+      "question_text": [
+        "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2, 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ", 1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0bc51aa-40bb-4c0f-8b2a-83c97bd86bda",
+      "question_text": [
+        "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Use a venn diagram: 60-3x+3x+50-3x = 94-x. 110-3x+x = 94 -2x = 94-110 =>-2x = -16, this x = -8. Members that like only one game:  = 60 - 3x + 50 - 3x = 60 - 3x8 + 50 - 3x8 = 60 - 24 + 50 - 24 = 36 + 26 = 62",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "62",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "86",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53f91e38-563e-4861-8e62-23d649f4267c",
+      "question_text": [
+        "Evaluate (2.813 x 10-3 x 1.063)  (5.637 x 10-2) "
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.055",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.054",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.54",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2e53cde6-a8f4-400b-8dd2-85b9f16204ab",
+      "question_text": [
+        "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for ₦150,000. How much does he need to deposit?"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Amount A = P(1+r)n; A = ₦150,000, r = 25%, n = 3. 150,000 = P(1+0.25)3 = P(1.25)3 P = 150,000/1.253 =₦76,800.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦112,000.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦96,000.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦85,714.28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦76,800.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "36c62cfa-64a0-4546-bed0-285a8c59b301",
+      "question_text": [
+        "If 31410 - 2567 = 340x, find x."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "31410 - 2567 = 340x, Convert 2567 and 340x to base 10, such that: 314 - 139 = 3x2 + 4x => 3x2 + 4x - 175 = 0 (quadratic) Factorising, (x - 7) (3x + 25) = 0, either x = 7 or x = -25/3 ( but x cannot be negative) Therefore, x = 7.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c336e9c7-6270-4cf0-b54d-bde05d02211e",
+      "question_text": [
+        "Simplify 3(2n+1) - 4(2n-1)  2n+1 - 2n"
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Start by expanding 3(2n+1) - 4(2n-1)  2n+1 - 2n: 3 x 2n x 21 - 22 x 2n x 2-1 2n x 2 -2n Solving the equation above gives; 2n x 21 x 2  2n = 2 x 2 = 4 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2n+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2n-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a4fb2093-41c5-4748-a0e4-18ce5d8cfceb",
+      "question_text": [
+        "If P3446 - 23P26 = 2PP26, find the value of the digit P."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Covert everything to base 10 and collect like terms, such that: 210P - 42P = 434 + 406 168P = 840 P = 840/168 = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1eea8d82-8341-4e8e-b4d4-510fe32e8714",
+      "question_text": [
+        "A binary operation * is defined by a*b = ab. If a*2 = 2-a, find the possible values of a."
+      ],
+      "examType": "jamb",
+      "year": "2000",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "a * b = ab a * 2 = a2 = 2 - a a2 + 2a - a - 2 = 0 a(a+2) - 1(a+2) = 0 (a-1)(a+2) = 0 a = 1, -2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, -2",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]

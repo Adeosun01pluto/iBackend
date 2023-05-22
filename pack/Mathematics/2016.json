@@ -1,0 +1,3136 @@
+
+[
+    {
+      "id": "c93d08b3-470e-40df-afee-327f7a91a1ff",
+      "question_text": [
+        "Integrate \\(\\frac{2x^3 + 2x}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\int\\) \\(\\frac{2x^3 + 2x}{x}\\) = \\(\\int\\) \\(\\frac{2x^3}{x}\\) + \\(\\frac{2x}{x}\\) = \\(\\int\\) (2x2 + 2) dx \\(\\frac{2x^2+1}{2 + 1}\\) + 2x + k = \\(\\frac{2x^3}{3}\\)+ 2x + k",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2x^3}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " - 2x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x3 + 2x + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2x^3}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "632f8fc6-dbf5-442a-b220-2bd8f761aef5",
+      "question_text": [
+        "If the mean of 4, y, 8 and 10 is 7. Find y?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{4 + y + 8 + 10}{4}\\) = 7 22 + y = 4 x 7 22 + y = 28 y = 28 - 22 = 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "322ba90b-b07b-42ff-9167-ba5b8f374c7a",
+      "question_text": [
+        "Find the derivative of y = ( \\(\\frac{1}{3}\\)x + 6)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Y = ( \\(\\frac{1}{3}\\)x + 6)2 \\(\\frac{dy}{dx}\\) = 2(\\(\\frac{1}{3}\\)x + 6) \\(\\frac{1}{3}\\) = \\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)x + 6)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2( \\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x + 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " ( \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "877363c1-ba88-4892-8ea0-cdfaf50ac282",
+      "question_text": [
+        "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "80 - x + x + 60 - x + 20 = 150 160 - x = 150 x = 160 - 150 = 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71866ec4-4300-45b4-aa70-21df90e8344f",
+      "question_text": [
+        "If the 2nd term of a G.P is \\(\\frac{8}{9}\\) and the 6th term is 4\\(\\frac{1}{2}\\). Find the common ratio."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "T2 = \\(\\frac{8}{9}\\), T6 = 4\\(\\frac{1}{2}\\) ar = \\(\\frac{8}{9}\\) ar5 = \\(\\frac{9}{2}\\) \\(\\frac{ar}{ar^5}\\) = \\(\\frac{8}{9}\\) x \\(\\frac{2}{9}\\) \\(\\frac{1}{r^4}\\) = \\(\\frac{16}{81}\\) r = \\(\\sqrt[4]{\\cfrac{81}{16}}\\) = \\(\\frac{3}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d351b4a9-80d6-4e83-ae7b-b63e4977ceeb",
+      "question_text": [
+        "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{(n - 2) 180}{180}\\) = \\(\\frac{1080}{180}\\) (n - 2) = 6 n = 6 + 2 = 8",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b5a62080-ee1f-4503-8613-eaef07d99118",
+      "question_text": [
+        "In the diagram above, l1 is parallel to l2, Find the value of < PMT"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "< MPT = \\(180^{\\circ}\\) - \\(118^{\\circ}\\) = \\(62^{\\circ}\\)< PML = \\(62^{\\circ}\\) (Alternating angles) y + 2y + \\(10^{\\circ}\\) + \\(62^{\\circ}\\) = \\(180^{\\circ}\\) (Angles on a straight line) 3y = 180 - 72 \\(\\cfrac{3y}{3}\\) = \\(\\cfrac{108}{3}\\) y = \\(36^{\\circ}\\)< PMT = 2y + 10 = 2(36) + 10 = \\(82^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "82o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "36o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "72o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "118o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "709eaf06-4370-4cc8-bb0b-b63b13b8535e",
+      "question_text": [
+        "From the diagram above, Find the value of < ROP"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "< ROP = \\(95^{\\circ}\\) (Exterior angle of cyclic quadrilateral)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "110o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "95o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "85o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6afc3793-2881-4ccc-abf6-6e3d1f4b744a",
+      "question_text": [
+        "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "P = 5x + 3, P = wx + 5 M1 = 5, M2 = w M1 = M2 (parallel lines) w = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b191d32f-2be3-4f62-ad24-ad3febadbe96",
+      "question_text": [
+        "Evaluate \\(\\int\\)(cos4x + sin3x)dx"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sin4x - cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sin4x + cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sin4x - \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4e5d5414-8efd-473b-9c0e-e4bd27c3912b",
+      "question_text": [
+        "If x10 = 235. Find x"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "x10 = 235 x10 = 2 x 51 + 3 x 50 = 10 + 3 = x10 = 13",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ebfdbab8-c284-4456-9420-22639ab1d265",
+      "question_text": [
+        "The pie chart above shows the distribution of subjects offered by students in SSS III level. If 80 students enrolled in the class. What is the size of the angle of the sector in economics?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "xo + 36o + 54o + 28o + 90o + 120o = 360o x + 328o = 360o x = 360o - 328o x = 32o",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "24o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "39o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cf3ae6cb-41f0-4af6-bed4-d4791a3baf26",
+      "question_text": [
+        "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Range = 32- (-6) = 34 + 6 = 40",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ffc5b3d9-fdd5-4da7-b6ce-222c83d492ca",
+      "question_text": [
+        "The bar chart above shows the number of visitors received in a week. How many visitors were received on Friday, Tuesday and Sunday?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/05/math309.jpg",
+      "explanation": "No of visitors = 10 + 5 + 1 = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "22",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8e74dedb-44bb-44fa-85ad-5e859c7e20c7",
+      "question_text": [
+        "Factorize k2 - 2kp + p2."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "k2 - 2kp + p2 = (k - p)2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(k +",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(k - ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "162e3332-7e3a-4ac0-bb0d-f60e7efa5283",
+      "question_text": [
+        "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60o."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Perimeter = 2r + \\(\\frac{0}{360}\\) x 2\\(\\pi\\)r = 2(12) + \\(\\frac{60}{360}\\) x 2 x \\(\\pi\\) x 12 = (24 + 4\\(\\pi\\))cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(12 + 4\\(\\pi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(24 + 4\\(\\pi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "225b449a-a72c-49c0-83c0-83dac6f78c03",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Marks} & 2 & 3 & 4 \\\\ \\hline \\text{Frequency} & 4 & 4 & y \\end{array}\\)The table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "(2 x 4) + (3 x 4) + (4 x y) = 48 8 + 12 + 4y = 48 4y = 48 - 20 \\(\\frac{4y}{4}\\) = \\(\\frac{28}{4}\\) y = 7",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80d30122-f8f8-49f2-bff8-9c0627c2c77a",
+      "question_text": [
+        "Given U = {x is a positive integer less than 15} and P = {x is even number from 1 to 14}. Find the compliment."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "u = {1, 2, 3, 4, 5......14} p = {2, 4, 6, 8, 10, 12, 14} p1 = {1, 3, 5, 7, 9, 11,13}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3, 5, 7, 9, 11, 13, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2, 3, 5, 7, 9, 11, 13}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{1, 3, 5, 7, 9, 11, 13}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{2, 3, 5, 7, 11, 15}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd703e3e-7cb1-4d71-882b-7e587e54c2e9",
+      "question_text": [
+        "Simplify \\(\\cfrac{0.026 \\times 0.36}{0.69}\\). Leave your answer in standard form."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\cfrac{0.026 \\times 0.36}{0.69}\\) = \\(\\cfrac{26 \\times 10^-3 \\times 36 \\times 10^-2}{69 \\times 10^-2}\\) = 0.01356 = 1.36 x 10-2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.36 x 10-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.36 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.36 x 10-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.36 x 10-2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cb82c1eb-70e0-4d23-8a8a-ad27fec8accb",
+      "question_text": [
+        "Calculate the perimeter of a sector of a circle of radius 9cm and angle 36o."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Perimeter = 2r + \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r 2(9) + \\(\\frac{36}{360}\\) x 2 x \\(\\pi\\) x 9 = 18 + \\(\\frac{9\\pi}{5}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "18cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(18 + \\(\\frac{9\\pi}{5}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cmC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e8272b7-2b0d-41d7-8f66-642700cec50b",
+      "question_text": [
+        "Evaluate \\(\\cfrac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\frac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\) \\(\\frac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\) = \\(\\frac{3\\sqrt{27} - 3\\sqrt{8}^2}{\\sqrt{16} \\times 2}\\) \\(\\frac{3 - 4}{4 \\times 2}\\)  = \\(\\frac{-1}{8}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{23}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{23}{5}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef8d8849-72bf-4b9f-91d4-b38287d22bf0",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Scores} & 3 & 6 & 5 & 2 \\\\ \\hline \\text{Frequency} & 2 & 3 & 4 & 6 \\end{array}\\)From the table above, find the median."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Mean = \\(\\frac{(2 \\times 3) + (3 \\times 6) + (4 \\times 5) + (2 \\times 6)}{2 + 3 + 4 + 6}\\) = \\(\\frac{6 + 18 + 20 + 12}{15}\\) = \\(\\frac{56}{15}\\)  = 3.73 Median: Arrange numbers in ascending order from smallest to biggest to get: 2, 2, 2, 2, 2, 2, 3, 3, 5, 5, 5, 5, 6, 6, 6. The middle number is the 8th number which is 3.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9f0e8b00-501f-4984-9c4b-1a73e343534f",
+      "question_text": [
+        "Find \\(\\frac{dy}{dx}\\), if y = \\(\\frac{2}{3}\\) X3 - \\(\\frac{4}{x}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y = \\(\\frac{2}{3}\\)x3 - \\(\\frac{4}{x}\\) \\(\\frac{dy}{dx}\\) = 2x2 - Lx-2 = 2x2 + \\(\\frac{4}{x^2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3x2 - \\(\\frac{4}{x}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x2 +\\(\\frac{4}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6dce858-5587-44cf-8679-db90e99bc573",
+      "question_text": [
+        "Evaluate \\(\\cfrac{0.8 \\times 0.43 \\times 0.031}{0.05 \\times 0.72 \\times 0.021}\\) correct to four significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\cfrac{0.8 \\times 0.43 \\times 0.031}{0.05 \\times 0.72 \\times 0.021}\\) x \\(\\cfrac{10}{10}\\) = 14.11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.09",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "14.12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14.11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7a7d48e7-d73c-47ca-baee-fb7961940790",
+      "question_text": [
+        "An arc subtends an angle of 30o at the centre of a circle radius 12cm. Calculate the length of the arc."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Length or arc = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r = \\(\\frac{30}{360}\\) x 2 x \\(\\frac{22}{7}\\) x 12 = \\(\\frac{1}{12}\\) x 2 x \\(\\pi\\) x 2 = 2\\(\\pi\\)cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6\\(\\pi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2\\(\\pi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cmC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8bd52b11-b3d6-4ae5-8f85-9320a0300414",
+      "question_text": [
+        "Evaluate \\(\\int\\limits_0^\\frac{\\pi}{2}\\) sin xdx"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\int\\limits_0^\\frac{\\pi}{2}\\) sin xdx = -cosx|\\(\\frac{\\pi}{2}\\) = -(cos\\(\\frac{\\pi}{2}\\) - cos0) = -(0-1) = 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "256c84f8-26bc-476e-991e-805142408e5d",
+      "question_text": [
+        "An arc of the length 16\\(\\pi\\)cm subtends an angle of 80o at the centre of the circle. Find the radius of the circle."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "L = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r 16\\(\\pi\\) = \\(\\frac{80}{360}\\) x 2\\(\\pi\\)r \\(\\frac{16\\pi \\times 360}{80 \\times 2\\pi}\\) = r r = 36cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "24cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "32cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c731ef2c-14d5-4488-81df-3313a94a6e9d",
+      "question_text": [
+        "The mean of 2-t, 4+t, 3-2t, 2+t and t-1 is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Mean = \\(\\frac{2 - t + 4 + t + 3 - 2t + 2 + t + t - 1}{5}\\) = \\(\\frac{10}{5}\\) = 2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "t",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-t",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28b9d2ed-a3f4-4041-87ff-44c938044a27",
+      "question_text": [
+        "Evaluate \\(\\cfrac{12.02 \\times 20.06}{26.04 \\times 60.06}\\), correct to three significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\cfrac{12.02 \\times 20.06}{26.04 \\times 60.06}\\) = \\(\\cfrac{241.1212}{15698.96}\\) = 0.154",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.157",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.154",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.155",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.158",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "466a628e-df7e-4568-9294-5f5ea0495993",
+      "question_text": [
+        "If y = 2x3 + 6x2 + 6x + 1, Find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y = 2x3 + 6x2 + 6x + 1 \\(\\frac{dy}{dx}\\) = 6x2 + 12x + 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6x2 + 12x + 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6x2 + 6x + 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6x2 + 6x + 6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6x2 + 12x + 6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "721c8bcd-3278-41e6-ad78-1abf81ecdcdd",
+      "question_text": [
+        "The nth term of the sequence 3, 9, 27, 81.... is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "3,9,27,81,..... r = \\(\\frac{9}{8}\\) = 3 Tn = arn-1 Tn = 3(3)n-1 = \\(\\frac{3(3^2)}{3}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3 x 3n-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 x 3n-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 x 3n+2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3 x 3n+1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8594b5b5-d41e-4389-bc86-633d8adaa11d",
+      "question_text": [
+        "Simplify 1 - (\\(\\frac{1}{7}\\) x 3 \\(\\frac{1}{2}\\)) \\(\\div\\) \\(\\frac{3}{4}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "1 - (\\(\\frac{1}{7}\\) x 3 \\(\\frac{1}{2}\\)) \\(\\div\\) \\(\\frac{3}{4}\\) 1 - (\\(\\frac{1}{7}\\) x \\(\\frac{7}{2}\\)) x \\(\\frac{4}{3}\\) 1 - \\(\\frac{1}{2}\\) x \\(\\frac{4}{3}\\) 1 - \\(\\frac{2}{3}\\) = \\(\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca1acdab-5dcd-4c63-8476-526c37111e51",
+      "question_text": [
+        "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "120km \\(\\to\\) 45litres 1km \\(\\to\\) \\(\\frac{45}{120}\\)litres 600km \\(\\to\\) \\(\\frac{45}{120}\\) x 600 = 225litres",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "720 litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "160 litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "225 litres",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "960 litres",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4612656d-550e-4fa4-b1d0-4f6d7ed6dc88",
+      "question_text": [
+        "Find \\(\\frac{dy}{dx}\\). If y = 3x3 + 2x2 + 3x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "y = 3x3 + 2x2 + 3x + 1  \\(\\frac{dy}{dx}\\) = 9x2 + 4x + 3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9x2 + 4x + 3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "9x2 - 4x - 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9x2 + 4x - 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9x2 - 4x + 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a0723a19-0335-47d3-ab80-7b781ae1ae00",
+      "question_text": [
+        "Evaluate \\(\\int\\)(sinx - 5x2)dx"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\int\\)(sin x - 5x2) = -cosx - \\(\\frac{5x^3}{3}\\) + k",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-cosx - 10x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cosx - \\(\\frac{5x^3}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-cosx - \\(\\frac{5x^3}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1fb7e303-7314-45de-ab2c-121ad8accc26",
+      "question_text": [
+        "If N = \\(\\cfrac{p}{2}\\)\\((\\cfrac{T_1 - T_2}{T_1})\\). Find P when N = 12, T1 = 27 and T2 = 24."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "N = \\(\\cfrac{p}{2}\\)\\((\\cfrac{T_1 - T_2}{T_1})\\) 12 = \\(\\cfrac{p}{2}\\)\\((\\cfrac{27 - 24}{27})\\) 24 = P\\((\\cfrac{3}{27})\\) P = 24 x 9 = 216",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "48",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "108",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "54",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "216",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5ebfad8c-7eb2-4fc4-bdb4-38a150c3d932",
+      "question_text": [
+        "Solve for x and y respectively  3x - 5y = 9  6x - 4y = 12"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "3x - 5y = 9 ------x2 6x - 4y = 12 -----x1 6x - 10y = 18 -6x - 4y = 12 ____________ \\(\\frac{6y}{-6}\\) = \\(\\frac{6}{6}\\) y = -1 in eq (1) 3x - 5y = 9 3x - 5(-1) = 9 3x + 5 = 9 3x = 4 x = \\(\\frac{4}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": ", 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ", 1C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f15b7980-97fc-48ac-a8b7-f067ba07a675",
+      "question_text": [
+        "If Q is a factor of 18 and T is prime numbers between 2 and 18. What is Q\\(\\cap\\)T?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Q = {1,2,3,6,9,18}, T = {2,3,5,7,11,13,17} Q\\(\\cap\\)T = {2,3}",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2,",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2,3,1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f5fd995-4747-47cb-ac91-f9ea52f72b7a",
+      "question_text": [
+        "From the cyclic quadrilateral above, find < TVS"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/05/math308.jpg",
+      "explanation": "< TVS = \\(180^{\\circ} - (80 + 20)\\) = \\(180 - 100 = 80^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "80o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "70o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3ae297a-237c-4f44-9de5-7f27eda02326",
+      "question_text": [
+        "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\cfrac{10 + 8 + 5 + 11 + 12 + 9 + 6 + 3 + 15 + 23}{10}\\) = \\(\\cfrac{102}{10}\\) = 10.2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10.2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11.3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ebeeb7a-2c89-4442-ac38-c22fbb88c41a",
+      "question_text": [
+        "In the cyclic quadrilateral above . Find < PRO"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/05/math307.jpg",
+      "explanation": "< PRO = \\(180^{\\circ} - (100 + 50)\\) = \\(180 - 150 = 30^{\\circ}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "70o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30o",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9c5cbeed-ca0f-442c-be20-eba61d34216f",
+      "question_text": [
+        "OGIVE is constructed using"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Third quartile range",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Semi-quartile range",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cummulative frequency table",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Inter-quartile table",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e874506-f9dd-436d-885a-d2fa6a6e1f32",
+      "question_text": [
+        "Rationalize \\(\\frac{\\sqrt{6} - \\sqrt{4}}{\\sqrt{6} + \\sqrt{4}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(\\frac{\\sqrt{6} - \\sqrt{4}}{\\sqrt{6} + \\sqrt{4}}\\) = \\(\\frac{6-2\\sqrt{6} - 2\\sqrt{6} + 4}{6 - 4}\\) \\(\\frac{10 - 4\\sqrt{6}}{2}\\) = 5 - 2\\(\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 + 2 \\(\\sqrt{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 - 4 \\(\\sqrt{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "58eaa61e-9166-4a41-b2f1-969f09179f0e",
+      "question_text": [
+        "The bar chart above shows the marks obtained by students in a mathematics test.How many students in all took the test?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/05/math306.jpg",
+      "explanation": "3 + 2 + 5 + 5 + + 5 + 10 + 4 + 3 + 1 + 2 = 40",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "41289adc-b466-4643-9553-2f48908487ea",
+      "question_text": [
+        "Determine the mean score of the student that took the mathematics test?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "(3 x 0) + (1 x 2) + (5 x 2) + (5 x 3) + (5 x 4) + (10 x 5) + (4 x 6) + (3 x 7) + (1 x 8) + (2 x 9) \\(\\div\\) 40 = \\(\\frac{168}{40}\\) = 4.2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "01747a11-26fa-498c-a006-b4e6b402f85b",
+      "question_text": [
+        "From the diagram above. Find the fraction of the shaded position?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(\\theta\\) = 180o -(90 + 60) \\(\\theta\\) = 180o - 150o = 30o Fraction of shaded position = \\(\\frac{30}{360}\\) + \\(\\frac{30}{360}\\) = \\(\\frac{1}{12}\\) + \\(\\frac{1}{12}\\) = \\(\\frac{1}{6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4d835879-9ea5-410d-8e9b-b154675afdff",
+      "question_text": [
+        "From the diagram above, find the required roots/region of x."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "The required roots/region of x is -1\\(\\leq\\)x\\(\\leq\\)4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x\\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1, x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x\\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9769e9c6-76e1-4e6c-b409-003ed6fa4bf1",
+      "question_text": [
+        "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base π = \\(\\frac{22}{7}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Curved surface area of cylinder = 2πrh 110 = 2 × \\(\\frac{22}{7}\\) × r × 5 r = \\(\\frac{110 \\times 7}{44 \\times 5}\\) = 3.5cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.6cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.5cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.6cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ab78a20-26f8-4eac-b2f4-4c4238c530e5",
+      "question_text": [
+        "Make S the subject of the relation p = s + \\(\\frac{sm^2}{nr}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "p = s + \\(\\frac{sm^2}{nr}\\) p = s + ( 1 + \\(\\frac{m^2}{nr}\\)) p = s (1 + \\(\\frac{nr + m^2}{nr}\\)) nr × p = s (nr + m2) s = \\(\\frac{nrp}{nr + m^2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "s = \\(\\frac{nrp}{nr + m^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "s = nr + \\(\\frac{m^2}{mrp}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e2e5df02-73e3-4cb7-bf8d-52aadd250aa2",
+      "question_text": [
+        "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio of 2 : 3 : 5 respectively. If Bisi got 5, how many were share out?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Let x r3epresent total number of pencils shared B : S : T = 2 + 3 + 5 = 10 2 : 3 : 5 = \\(\\frac{2}{10}\\) x y  = 5 2y =5 2y = 50 ∴ y = \\(\\frac{50}{2}\\)  = 25",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a604747-e036-4b13-b458-5f609865bb02",
+      "question_text": [
+        "The scores of 16 students in a Mathematics test are 65, 65, 55, 60, 60, 65, 60, 70, 75, 70, 65, 70, 60, 65, 65, 70. What is the sum of the median and modal scores?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\begin{array}{c|c} Scores & Frequency \\\\\\hline 55 & 1\\\\ 60 & 4\\\\ 65 & 6\\\\ 70 & 4\\\\ 75 & 1 \\end{array}\\) Median = 65(middle number) Mode = 65(most common) Median + Mode = 65 + 65 = 130",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "130",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "140",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "150E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "530b13e4-d62f-47ae-a9f5-1904e49a49a9",
+      "question_text": [
+        "In the diagram MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140o, find, correct to the nearest cm, the length of the chord MN."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/09/maths313.jpg",
+      "explanation": "From the diagramsin 70o = \\(\\frac{x}{10}\\)x = 10sin 70o= 9.3969Hence, length of chord MN = 2x= 2 x 9.3969= 18.7938= 19cm (nearest cm)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "19cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "18cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "17cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f982caeb-da7f-4b53-923f-a475e8c8e377",
+      "question_text": [
+        "Integrate \\(\\frac{2x^3 + 2x}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\int\\) \\(\\frac{2x^3 + 2x}{x}\\) = \\(\\int\\) \\(\\frac{2x^3}{x}\\) + \\(\\frac{2x}{x}\\) = \\(\\int\\) (2x2 + 2) dx \\(\\frac{2x^2+1}{2 + 1}\\) + 2x + k = \\(\\frac{2x^3}{3}\\)+ 2x + k",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2x^3}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " - 2x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x3 + 2x + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2x^3}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "020b7861-b46a-407b-a79d-7861967a9085",
+      "question_text": [
+        "If the mean of 4, y, 8 and 10 is 7. Find y?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\frac{4 + y + 8 + 10}{4}\\) = 7 22 + y = 4 x 7 22 + y = 28 y = 28 - 22 = 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "420d1a79-a733-4818-ad74-b880aa31fb4a",
+      "question_text": [
+        "Find the derivative of y = ( \\(\\frac{1}{3}\\)x + 6)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Y = ( \\(\\frac{1}{3}\\)x + 6)2 \\(\\frac{dy}{dx}\\) = 2(\\(\\frac{1}{3}\\)x + 6) \\(\\frac{1}{3}\\) = \\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)x + 6)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2( \\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x + 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " ( \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29910e5b-612a-448f-b8e3-6c67b8a2245b",
+      "question_text": [
+        "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "80 - x + x + 60 - x + 20 = 150 160 - x = 150 x = 160 - 150 = 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "77563f0c-0001-4e45-91a0-1afbe50c56d0",
+      "question_text": [
+        "If the 2nd term of a G.P is \\(\\frac{8}{9}\\) and the 6th term is 4\\(\\frac{1}{2}\\). Find the common ratio."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "T2 = \\(\\frac{8}{9}\\), T6 = 4\\(\\frac{1}{2}\\) ar = \\(\\frac{8}{9}\\) ar5 = \\(\\frac{9}{2}\\) \\(\\frac{ar}{ar^5}\\) = \\(\\frac{8}{9}\\) x \\(\\frac{2}{9}\\) \\(\\frac{1}{r^4}\\) = \\(\\frac{16}{81}\\) r = \\(\\sqrt[4]{\\cfrac{81}{16}}\\) = \\(\\frac{3}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53336d62-ae54-448f-8d45-2cf5fcc3dc0d",
+      "question_text": [
+        "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\frac{(n - 2) 180}{180}\\) = \\(\\frac{1080}{180}\\) (n - 2) = 6 n = 6 + 2 = 8",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fbb22d99-fbcc-4d75-8807-134cd69b8bd1",
+      "question_text": [
+        "In the diagram above, l1 is parallel to l2, Find the value of < PMT"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "< MPT = \\(180^{\\circ}\\) - \\(118^{\\circ}\\) = \\(62^{\\circ}\\)< PML = \\(62^{\\circ}\\) (Alternating angles) y + 2y + \\(10^{\\circ}\\) + \\(62^{\\circ}\\) = \\(180^{\\circ}\\) (Angles on a straight line) 3y = 180 - 72 \\(\\cfrac{3y}{3}\\) = \\(\\cfrac{108}{3}\\) y = \\(36^{\\circ}\\)< PMT = 2y + 10 = 2(36) + 10 = \\(82^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "82o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "36o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "72o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "118o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3da2f667-003a-4b5b-b5bd-49490253f17b",
+      "question_text": [
+        "From the diagram above, Find the value of < ROP"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "< ROP = \\(95^{\\circ}\\) (Exterior angle of cyclic quadrilateral)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "110o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "95o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "85o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4953933-bf1d-43c5-b991-7f45dfa499f6",
+      "question_text": [
+        "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "P = 5x + 3, P = wx + 5 M1 = 5, M2 = w M1 = M2 (parallel lines) w = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f6e4d808-06d1-427b-bfb0-0e6f1fffec52",
+      "question_text": [
+        "Evaluate \\(\\int\\)(cos4x + sin3x)dx"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sin4x - cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sin4x + cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sin4x - \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22a76e1c-b59d-43e4-887c-930314ec3c88",
+      "question_text": [
+        "Integrate \\(\\frac{2x^3 + 2x}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\int\\) \\(\\frac{2x^3 + 2x}{x}\\) = \\(\\int\\) \\(\\frac{2x^3}{x}\\) + \\(\\frac{2x}{x}\\) = \\(\\int\\) (2x2 + 2) dx \\(\\frac{2x^2+1}{2 + 1}\\) + 2x + k = \\(\\frac{2x^3}{3}\\)+ 2x + k",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2x^3}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " - 2x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x3 + 2x + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2x^3}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a7ed1ee-55ac-48b5-9327-aedce19bdc6a",
+      "question_text": [
+        "If the mean of 4, y, 8 and 10 is 7. Find y?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{4 + y + 8 + 10}{4}\\) = 7 22 + y = 4 x 7 22 + y = 28 y = 28 - 22 = 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "968321ec-19ac-45db-a051-f78996e8d58a",
+      "question_text": [
+        "Find the derivative of y = ( \\(\\frac{1}{3}\\)x + 6)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Y = ( \\(\\frac{1}{3}\\)x + 6)2 \\(\\frac{dy}{dx}\\) = 2(\\(\\frac{1}{3}\\)x + 6) \\(\\frac{1}{3}\\) = \\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)x + 6)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2( \\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x + 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " ( \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39affcbb-79c5-4ad3-ad83-8d8987c3398c",
+      "question_text": [
+        "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "80 - x + x + 60 - x + 20 = 150 160 - x = 150 x = 160 - 150 = 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab929522-2f44-4789-ab8a-5a8aebc8cb17",
+      "question_text": [
+        "If the 2nd term of a G.P is \\(\\frac{8}{9}\\) and the 6th term is 4\\(\\frac{1}{2}\\). Find the common ratio."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "T2 = \\(\\frac{8}{9}\\), T6 = 4\\(\\frac{1}{2}\\) ar = \\(\\frac{8}{9}\\) ar5 = \\(\\frac{9}{2}\\) \\(\\frac{ar}{ar^5}\\) = \\(\\frac{8}{9}\\) x \\(\\frac{2}{9}\\) \\(\\frac{1}{r^4}\\) = \\(\\frac{16}{81}\\) r = \\(\\sqrt[4]{\\cfrac{81}{16}}\\) = \\(\\frac{3}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8074e252-9a9f-47d5-a22f-ec114a6d61eb",
+      "question_text": [
+        "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{(n - 2) 180}{180}\\) = \\(\\frac{1080}{180}\\) (n - 2) = 6 n = 6 + 2 = 8",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b59b4c53-a7b6-42c9-ab9e-7c7fb76e8a46",
+      "question_text": [
+        "In the diagram above, l1 is parallel to l2, Find the value of < PMT"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "< MPT = \\(180^{\\circ}\\) - \\(118^{\\circ}\\) = \\(62^{\\circ}\\)< PML = \\(62^{\\circ}\\) (Alternating angles) y + 2y + \\(10^{\\circ}\\) + \\(62^{\\circ}\\) = \\(180^{\\circ}\\) (Angles on a straight line) 3y = 180 - 72 \\(\\cfrac{3y}{3}\\) = \\(\\cfrac{108}{3}\\) y = \\(36^{\\circ}\\)< PMT = 2y + 10 = 2(36) + 10 = \\(82^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "82o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "36o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "72o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "118o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24e5a17f-478f-43ee-94cc-6c7bff54b26d",
+      "question_text": [
+        "From the diagram above, Find the value of < ROP"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "< ROP = \\(95^{\\circ}\\) (Exterior angle of cyclic quadrilateral)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "110o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "95o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "85o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "100ed67c-8a84-48b0-81d5-caa2aceb5d30",
+      "question_text": [
+        "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "P = 5x + 3, P = wx + 5 M1 = 5, M2 = w M1 = M2 (parallel lines) w = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "35323def-583c-45c3-8724-2830224c83be",
+      "question_text": [
+        "Evaluate \\(\\int\\)(cos4x + sin3x)dx"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sin4x - cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sin4x + cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sin4x - \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9d066fa-a982-48ef-9756-75bed4f3924b",
+      "question_text": [
+        "Integrate \\(\\frac{2x^3 + 2x}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\int\\) \\(\\frac{2x^3 + 2x}{x}\\) = \\(\\int\\) \\(\\frac{2x^3}{x}\\) + \\(\\frac{2x}{x}\\) = \\(\\int\\) (2x2 + 2) dx \\(\\frac{2x^2+1}{2 + 1}\\) + 2x + k = \\(\\frac{2x^3}{3}\\)+ 2x + k",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2x^3}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " - 2x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x3 + 2x + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2x^3}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0d5548c-73fa-44fd-9b1f-9fc0a0151645",
+      "question_text": [
+        "If the mean of 4, y, 8 and 10 is 7. Find y?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{4 + y + 8 + 10}{4}\\) = 7 22 + y = 4 x 7 22 + y = 28 y = 28 - 22 = 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2506cde6-17e1-4c87-97df-fea057f057d2",
+      "question_text": [
+        "Find the derivative of y = ( \\(\\frac{1}{3}\\)x + 6)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Y = ( \\(\\frac{1}{3}\\)x + 6)2 \\(\\frac{dy}{dx}\\) = 2(\\(\\frac{1}{3}\\)x + 6) \\(\\frac{1}{3}\\) = \\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)x + 6)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2( \\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x + 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " ( \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "edb1c3d2-c27d-46ba-841f-cca926dd8bf8",
+      "question_text": [
+        "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "80 - x + x + 60 - x + 20 = 150 160 - x = 150 x = 160 - 150 = 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a9c569d-eef1-4f93-9521-e395172014ba",
+      "question_text": [
+        "If the 2nd term of a G.P is \\(\\frac{8}{9}\\) and the 6th term is 4\\(\\frac{1}{2}\\). Find the common ratio."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "T2 = \\(\\frac{8}{9}\\), T6 = 4\\(\\frac{1}{2}\\) ar = \\(\\frac{8}{9}\\) ar5 = \\(\\frac{9}{2}\\) \\(\\frac{ar}{ar^5}\\) = \\(\\frac{8}{9}\\) x \\(\\frac{2}{9}\\) \\(\\frac{1}{r^4}\\) = \\(\\frac{16}{81}\\) r = \\(\\sqrt[4]{\\cfrac{81}{16}}\\) = \\(\\frac{3}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f60a2c1b-6097-4a14-93f8-66240c57c287",
+      "question_text": [
+        "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{(n - 2) 180}{180}\\) = \\(\\frac{1080}{180}\\) (n - 2) = 6 n = 6 + 2 = 8",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d10e05c3-a147-4b24-90cf-f299c5bcdf79",
+      "question_text": [
+        "In the diagram above, l1 is parallel to l2, Find the value of < PMT"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "< MPT = \\(180^{\\circ}\\) - \\(118^{\\circ}\\) = \\(62^{\\circ}\\)< PML = \\(62^{\\circ}\\) (Alternating angles) y + 2y + \\(10^{\\circ}\\) + \\(62^{\\circ}\\) = \\(180^{\\circ}\\) (Angles on a straight line) 3y = 180 - 72 \\(\\cfrac{3y}{3}\\) = \\(\\cfrac{108}{3}\\) y = \\(36^{\\circ}\\)< PMT = 2y + 10 = 2(36) + 10 = \\(82^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "82o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "36o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "72o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "118o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f2f7c716-eec8-4b96-b951-3d1d79e9e484",
+      "question_text": [
+        "From the diagram above, Find the value of < ROP"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "< ROP = \\(95^{\\circ}\\) (Exterior angle of cyclic quadrilateral)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "110o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "95o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "85o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "369e71da-2c6a-4ac5-8459-3f27c5271746",
+      "question_text": [
+        "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "P = 5x + 3, P = wx + 5 M1 = 5, M2 = w M1 = M2 (parallel lines) w = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "67f0863b-48e9-4b6c-b53c-f9f7d55a4e88",
+      "question_text": [
+        "Evaluate \\(\\int\\)(cos4x + sin3x)dx"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sin4x - cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sin4x + cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sin4x - \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc2e7c09-b187-4528-a43c-32b41759e89b",
+      "question_text": [
+        "Integrate \\(\\frac{2x^3 + 2x}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\int\\) \\(\\frac{2x^3 + 2x}{x}\\) = \\(\\int\\) \\(\\frac{2x^3}{x}\\) + \\(\\frac{2x}{x}\\) = \\(\\int\\) (2x2 + 2) dx \\(\\frac{2x^2+1}{2 + 1}\\) + 2x + k = \\(\\frac{2x^3}{3}\\)+ 2x + k",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2x^3}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " - 2x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x3 + 2x + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2x^3}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84f5f6dc-9b5b-4660-8a6d-591d1a22924a",
+      "question_text": [
+        "If the mean of 4, y, 8 and 10 is 7. Find y?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{4 + y + 8 + 10}{4}\\) = 7 22 + y = 4 x 7 22 + y = 28 y = 28 - 22 = 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5923eb55-8f2e-4949-95c7-0b88f930532e",
+      "question_text": [
+        "Find the derivative of y = ( \\(\\frac{1}{3}\\)x + 6)"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Y = ( \\(\\frac{1}{3}\\)x + 6)2 \\(\\frac{dy}{dx}\\) = 2(\\(\\frac{1}{3}\\)x + 6) \\(\\frac{1}{3}\\) = \\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)x + 6)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2( \\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x + 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " ( \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "54caf7d4-3e89-41bf-acb4-d9262758ed4b",
+      "question_text": [
+        "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "80 - x + x + 60 - x + 20 = 150 160 - x = 150 x = 160 - 150 = 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f721118-c8f1-47fd-a6f7-9a775fa73bf8",
+      "question_text": [
+        "If the 2nd term of a G.P is \\(\\frac{8}{9}\\) and the 6th term is 4\\(\\frac{1}{2}\\). Find the common ratio."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "T2 = \\(\\frac{8}{9}\\), T6 = 4\\(\\frac{1}{2}\\) ar = \\(\\frac{8}{9}\\) ar5 = \\(\\frac{9}{2}\\) \\(\\frac{ar}{ar^5}\\) = \\(\\frac{8}{9}\\) x \\(\\frac{2}{9}\\) \\(\\frac{1}{r^4}\\) = \\(\\frac{16}{81}\\) r = \\(\\sqrt[4]{\\cfrac{81}{16}}\\) = \\(\\frac{3}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{3}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{2}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75fef397-fc0b-487d-963d-9c41b8e401a7",
+      "question_text": [
+        "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{(n - 2) 180}{180}\\) = \\(\\frac{1080}{180}\\) (n - 2) = 6 n = 6 + 2 = 8",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a69b141b-661a-45f9-a228-89dd54b09298",
+      "question_text": [
+        "In the diagram above, l1 is parallel to l2, Find the value of < PMT"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "< MPT = \\(180^{\\circ}\\) - \\(118^{\\circ}\\) = \\(62^{\\circ}\\)< PML = \\(62^{\\circ}\\) (Alternating angles) y + 2y + \\(10^{\\circ}\\) + \\(62^{\\circ}\\) = \\(180^{\\circ}\\) (Angles on a straight line) 3y = 180 - 72 \\(\\cfrac{3y}{3}\\) = \\(\\cfrac{108}{3}\\) y = \\(36^{\\circ}\\)< PMT = 2y + 10 = 2(36) + 10 = \\(82^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "82o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "36o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "72o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "118o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f85ee4f5-8e3f-4a38-a66c-9c93f4bed511",
+      "question_text": [
+        "From the diagram above, Find the value of < ROP"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "< ROP = \\(95^{\\circ}\\) (Exterior angle of cyclic quadrilateral)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "110o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "95o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "85o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc4ca45c-6ca2-4aad-87d6-3b94f0963190",
+      "question_text": [
+        "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w."
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "P = 5x + 3, P = wx + 5 M1 = 5, M2 = w M1 = M2 (parallel lines) w = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1d47496a-0464-44a6-8603-00dbc6473eec",
+      "question_text": [
+        "Evaluate \\(\\int\\)(cos4x + sin3x)dx"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sin4x - cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sin4x + cos3x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sin4x - \\(\\frac{1}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

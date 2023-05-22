@@ -1,0 +1,3157 @@
+
+[
+    {
+      "id": "49c41217-85fe-48a9-bfe9-12f16b653dc8",
+      "question_text": [
+        "An example of oxidation - reduction enzyme is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Glucose-6-Phosphate Dehydrogenase Deficiency ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "amylase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "protease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lipase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dehydrogenase",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cfe82511-e09e-4e91-9bff-56fa48a7de18",
+      "question_text": [
+        "Carbohydrates are large molecules with the molecular formula C x (H2O)y. In which of the following pairs is x not equal to y?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Determining Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "glucose and starch",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sucrose and fructose",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd499d79-a032-45d2-9d83-c19da1b17afc",
+      "question_text": [
+        "A compound contains 40.0% C, 6.7% H 53.3% O. If the molecular mass of the compound is 180, its molecular formula is [C =12, H =1,O]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6858883e-7f7a-4273-8791-eb57b7729728",
+      "question_text": [
+        "The saponification of an alkanoate to produce soap and alkanol involves"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dehydration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "esterification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrolysis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxidation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6547ff3-e1ec-4ad6-84de-1c6e59d4f6dd",
+      "question_text": [
+        "2 - methyl propan -2- ol is an example of a"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "quartenary alkanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "490d4c1a-1505-4f92-8842-d2092006c441",
+      "question_text": [
+        "Ethanol reacts with concentrated tetraoxosulphate (V) acid at a temperature above 170 oC to form"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethyne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b3054c6-ea48-4332-b9bb-2b58881fc3f7",
+      "question_text": [
+        "A common characteristic between zinc and the other transition elements is the ability to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Transition Metals and Their Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "have variable oxidation states",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "from complex ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "act as a catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "from coloured ions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd873838-2d2c-42ce-b68a-00c899fd7f80",
+      "question_text": [
+        "Which of the following metals is the least reactive?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Au",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bc857b4d-c9ce-4411-b0f0-5f68ef15ac1e",
+      "question_text": [
+        "Geometric isomerism can exist in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hex-3-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "prop-l-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3-methyl but -l-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1972ad1-ce59-45b4-85f5-2c67d43c8d81",
+      "question_text": [
+        "Alkanals can be distinguished from alkanones by the reaction with"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sudan lll stain",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "starch iodide paper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lithium tetrahydrido aluminate (ll",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7b96e561-1323-4bb6-a776-cb1ea51d283f",
+      "question_text": [
+        "The isomers of C3H8O ARE"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 - propanol and 2 - propanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1 - propanol and 1 - propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 - propanol and 2 - propanone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 - propanol and 1 - propanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2e15be77-bdce-4669-96e0-cc8654431364",
+      "question_text": [
+        "Which of the following gases has a characteristic pungent smell, turns red litmus paper blue and forms dense white fumes with hydrogen chloride gas?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CI2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NH3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6721e3e3-7cc2-4fde-8005-2255842e2d6a",
+      "question_text": [
+        "Commercial bleaching can be carried out using"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Atomic Mass and the Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sulphur (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide and ammonia",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogen sulphide and chlorine",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorine and sulphur (IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3bc9e27a-8257-4288-8c8d-417278f7f5c3",
+      "question_text": [
+        "Mineral acids are usually added to commercial hydrogen peroxide to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Chemical Changes in Matter ",
+        " Physical and Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxidize it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decompose it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "minimize its decomposition",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "reduce it to water and oxygen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4425f7d8-fe8d-4b00-a620-2d9a44b52de0",
+      "question_text": [
+        "Which of the following compounds will burn with a brick-red colour in a non-luminous Bunsen flame?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "LiCI",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NaCl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CaCl2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "MgCl2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "97384367-b26d-4fa5-83ce-e88afde89e28",
+      "question_text": [
+        "The purest from of iron which contains only about 0.1% carbon is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pig iron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "wrough iron",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cast iron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "iron pyrite",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "92e5cff9-4c88-4f0c-a8b4-e3a63f183a24",
+      "question_text": [
+        "A metal M displaces zinc from ZnCl, solution, solutionThis shows that"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Chemical Reduction ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electrons flow from zinc to M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M is more electropositive than zinc",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "M is more electonegative than zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "zinc is more electropositive than M",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0d419be-7987-46ab-867c-eed46edfadc6",
+      "question_text": [
+        "CO(g) + H2 O(g) → CO2(g) + H2(g)Calculate the standard heat change of the reaction above, if the standard enthalpies of formation of CO2(g), H2O(g) and CO(g) and CO(g) in KJ mol -1 are - 394 -242 and - 110 respectively."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Standard Enthalpy of Formation ",
+        " Thermochemistry"
+      ],
+      "explanation": "Standard heat change = Product - Reactant Product = -394 Reactant = CO + H2O = -242 + (-110) = -352 Heat change = -394 - (-352) = -42kj/mol Therefore the answer is D",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+ 262 KJ mol -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "- 262 KJ mol -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+ 42 KJ mol -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "- 42 KJ mol -1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1930956f-a34f-4c1f-b7a2-e5d747eeff74",
+      "question_text": [
+        "An increase in entropy can best be illustrated by"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "mixing of gases",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "freezing of water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the condensation of vapour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solidifying candle wax",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "db3a708c-0713-47dd-9fe8-a7b096b289ee",
+      "question_text": [
+        "The highest rate of production of carbon (lV) oxide can be achieved using"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Rate Laws ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05 mol -3HCI and 5g powdered CaCO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.05 mol -3HCI and 5g lump CaCO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.10 mol -3HCI and 5g powdered CaCO3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.025 mol -3HCI and 5g powdered CaCO3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f81f56d-ddb4-41e6-a0a9-b76118b78f2c",
+      "question_text": [
+        "A piece of filter paper moistened with lead (ll) ethanoate solution turns black when the paper is dropped into a gas likely to be"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Pure Substances ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sulphur (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sulphur (VI",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3624268e-6ee3-4091-9730-2874cbd14a8a",
+      "question_text": [
+        "During a titration experiment, 0.05 moles of carbon (lV) oxide is liberated. What is the volume of gas liberated?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Titration ",
+        " Chemical Reactions and Stoichiometry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "22.40 dm 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11.20 dm 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.24 dm 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.12 dm 3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a35f802e-c583-42ae-afed-78f8de21f54a",
+      "question_text": [
+        "The oxidation number of boron in NaBH 4 is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "+3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "eff3cfc7-14fd-48d5-924b-89d1486036bf",
+      "question_text": [
+        "2Na 2 O 2(s) + 2H 2 O 2(1) → 4 NaOH(s) +O2(s)The substance that is oxidized in the reaction above is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NaO2(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NaOH(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "617df9fd-99ff-42f7-8458-f08f53f6fa5b",
+      "question_text": [
+        "What number of moles of Cu 2+ will be deposited by 360 coulombs of electricity?[f = 96500 C mol -1]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Appendix: Solubility Products ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.36 x 10 -4 mole",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1. 87 x 10 10 -3  mole",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "9. 35 x 10 -4 mole",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3. 73 x 10 -3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "10cdfa24-99b3-4650-8a9b-d00a0a4ef7db",
+      "question_text": [
+        "The solubilites  of different solutes in a given solvent can be compared by"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "plotting their solubility curves on separete axes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "plotting their solubility curves on the same axes",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "plotting some of the solubility curves on the x-axis and others on the y-axis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "plotting their solubility curves on the x-axis only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84ea59ff-ee98-4622-8b84-b18a240791f6",
+      "question_text": [
+        "Potassium trioxochlorate (V)has a solubility of 1.5 mol dm -3 at 45 oC.On cooling this solution to a temperature of 20 oC, the solubility was found to be 0.5 mol dm -3. What mass of KCIO 3 was crystalized out?[K = 39, Cl = 35.5 O =16]."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Ksp and Solubility ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.00g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.00g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.25g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "122.50g",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "31e1cd2d-1c36-495e-8095-960278ff048d",
+      "question_text": [
+        "Which of the following pollutants is associated with brain damage?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Photochemical Smog ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "A Carbon(II)oxide fuses with the haemoglobin of red blood cells. This can lead to brain damage.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Carbon (l",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Radioactive fallout",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Biodegradable wasteD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7556d7e0-9dbf-42d1-85f4-d9a1d6938bbe",
+      "question_text": [
+        "Which of the following will produce a solution with pH less than 7 at equivalent point?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "pH Calculations ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO 3 +NaOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "H 2SO 4 + KOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HC +Mg (O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " 2D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "135d4d54-6fe8-4dec-841b-fd909d8ff312",
+      "question_text": [
+        "The number of hydroxonium ions produced by one molecule of an acid in aqueous solution is its"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Acid-Base Reactions ",
+        " Chemical Reactions and Stoichiometry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "basicity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "acid strength",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "pH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "concentration",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d6a31a2-8b8e-4c98-b195-33a30840d9e2",
+      "question_text": [
+        "Group VII elements are"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Group 15 ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "monoatmic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "good oxidizing agents",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "highly electropositive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electron donors",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21081c61-cb61-47ea-8ecb-4ff435e69f2d",
+      "question_text": [
+        "Which of the following is used to study the arrangement of particles in crystal lattices?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Properties of Metals ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alpha-particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Beta-particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Gamma-rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "X-rays",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5d1e0744-f0f7-49c0-92fe-cfa12b770b79",
+      "question_text": [
+        "I. It has a varied composition from one place to another.II. It constituents can be separated by physical means.III. It contains unreactive noble gasesWhich of the above shows that air is a mixture?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Physical and Chemical Properties ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "603d602c-fe4a-443d-a816-0d1349c256c3",
+      "question_text": [
+        "The chemicals used to soften hard water involves the addition of"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Electrolysis ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "insoluble sodium compounds which from soluble solutions of calcium and magesium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "solube soudium compounds which from soluble solutions of calcium and magnesium ions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "solube sodium compounds which from insoluble precipitates of calcium and magnesium ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "insoluble precipitates of calcium and magnesium ions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "73823d14-8c04-4115-9669-5ebf91831801",
+      "question_text": [
+        "Chlorination of water for town supply is carried out to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Role of Precipitation in Wastewater Treatment ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "make the water colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "remove germs from the water",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the water tastedful",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "remove odour from the water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab5e73f0-e9b7-42b7-9f53-773cc3a802cf",
+      "question_text": [
+        "2H2(g) + O2(g) → 2H2 O(g)In the reaction above, what volume of hydrogen would be left over when 300 cm3 of oxygen and 1000 cm3 of hydrogen are exploded in a sealed tube?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "200 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "400 cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "600 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "700 cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fba72e2b-cfc1-4e9b-9ccc-c8bed401b542",
+      "question_text": [
+        "L . Evaporation. ll. Sublimation. lll. Diffusion. IV. Brownian motion.Which of the above can correctly be listed as evidences for the particulate nature of matter?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing the Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and lll only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ll and lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "l, ll and lll only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "l, ll, lll and lV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "490804d8-0435-4d51-b638-5e77a44ecba6",
+      "question_text": [
+        "If the elements X and Y have atomic numbers 11 and 17 respectively, what type of bond can they form?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Classifying Elements ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Lonic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Metallic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0eb19dea-3aca-4fb5-b151-f19d8d18db1b",
+      "question_text": [
+        "The electronic configuration of Mg 2+ is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Mg = 12 2 + 2 + 6 + 2=12",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ls 22s 22P 63s23P2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Is22s22P6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ls22s22p63s2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ls22s22P4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c606c26f-79fb-431c-9d0d-7145eb59bdd5",
+      "question_text": [
+        "Which of the following methods can be used to obtain pure water from a mixture of sand, water and methanoic acid?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Mixtures ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "netralization with NaOHfoolowed by filtration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutralization with NaOH followed by distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fractional distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "filtration followed by distillation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e5368a00-b02c-476f-8e5b-7608a657695b",
+      "question_text": [
+        "How many atoms are present in 6.0g of magnesium?[Mg = 24, NA = 6.02 x 1023 mol-1]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.20 x 1022",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.41 x 1022",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.51 x 1023",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.02 x 1023",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "148452fa-b5fd-4ca1-ab55-947a74bfa0ac",
+      "question_text": [
+        "50 cm3 of gas was collected over water at 10oC and 765 mm Hg. Calculate the volume of the gas at s.t.p. if the saturated vapour pressure of water at 10 oC is 5mm Hg"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Gas Pressure ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "49.19 cm 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "48.87 cm 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "48.55 cm 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "48.23 cm 3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d56d477c-af61-4fe2-bc98-0f96b2cc473e",
+      "question_text": [
+        "An increase in the pressure exerted on gas at a constant temperature results in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Pressure and Temperature: Amontons’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a decrease in the number of effective collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a decrease in volume",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "an increase in the average intermolecular distance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an increase in volume",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ce797ac-3e31-4fc5-b6d8-81553bc9ef7a",
+      "question_text": [
+        "An example of oxidation - reduction enzyme is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Glucose-6-Phosphate Dehydrogenase Deficiency ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "amylase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "protease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lipase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dehydrogenase",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8899d1e9-45ed-4e15-b843-b9b16165fdc8",
+      "question_text": [
+        "Carbohydrates are large molecules with the molecular formula C x (H2O)y. In which of the following pairs is x not equal to y?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Determining Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "glucose and starch",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sucrose and fructose",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "765d9540-ab02-40fe-9463-b9727862d557",
+      "question_text": [
+        "A compound contains 40.0% C, 6.7% H 53.3% O. If the molecular mass of the compound is 180, its molecular formula is [C =12, H =1,O]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6a76fafb-07a5-4639-a9c4-fdcaa55742fb",
+      "question_text": [
+        "The saponification of an alkanoate to produce soap and alkanol involves"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dehydration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "esterification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrolysis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxidation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "764d2399-2776-4a94-bb55-75d15e85b906",
+      "question_text": [
+        "2 - methyl propan -2- ol is an example of a"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "quartenary alkanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cf16e8c-cae1-4138-9e22-02bb15e1cce1",
+      "question_text": [
+        "Ethanol reacts with concentrated tetraoxosulphate (V) acid at a temperature above 170 oC to form"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethyne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cfd60bde-5374-4277-872b-fc8089bbd3b5",
+      "question_text": [
+        "A common characteristic between zinc and the other transition elements is the ability to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Transition Metals and Their Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "have variable oxidation states",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "from complex ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "act as a catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "from coloured ions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "12c496df-40e3-49c4-b9c7-b77c2308384d",
+      "question_text": [
+        "Which of the following metals is the least reactive?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Au",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a455d2db-326e-4458-84b8-50551240e2fb",
+      "question_text": [
+        "Geometric isomerism can exist in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hex-3-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "prop-l-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3-methyl but -l-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4230b11-d863-4cba-9e07-3184c5a4f765",
+      "question_text": [
+        "Alkanals can be distinguished from alkanones by the reaction with"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sudan lll stain",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "starch iodide paper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lithium tetrahydrido aluminate (ll",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d07ca820-cacc-4668-8fb6-c5e039eacbe4",
+      "question_text": [
+        "An example of oxidation - reduction enzyme is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Glucose-6-Phosphate Dehydrogenase Deficiency ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "amylase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "protease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lipase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dehydrogenase",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8ddba797-0483-481e-92ff-fe96d0a2d444",
+      "question_text": [
+        "Carbohydrates are large molecules with the molecular formula C x (H2O)y. In which of the following pairs is x not equal to y?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Determining Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "glucose and starch",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sucrose and fructose",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a78d8b9f-2b50-45e9-92ae-852a0c5a2129",
+      "question_text": [
+        "A compound contains 40.0% C, 6.7% H 53.3% O. If the molecular mass of the compound is 180, its molecular formula is [C =12, H =1,O]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a4ad8833-e4bb-4e8b-bf7e-50333c8ffde3",
+      "question_text": [
+        "The saponification of an alkanoate to produce soap and alkanol involves"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dehydration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "esterification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrolysis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxidation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "04c0c1b0-38d9-4537-a3c5-77ed40994f0d",
+      "question_text": [
+        "2 - methyl propan -2- ol is an example of a"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "quartenary alkanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ebb50003-dddb-4edc-a410-3c2a37817998",
+      "question_text": [
+        "Ethanol reacts with concentrated tetraoxosulphate (V) acid at a temperature above 170 oC to form"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethyne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "15e2eca4-d716-40a9-9594-cf738e0d89d6",
+      "question_text": [
+        "A common characteristic between zinc and the other transition elements is the ability to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Transition Metals and Their Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "have variable oxidation states",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "from complex ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "act as a catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "from coloured ions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "061cb824-415b-4f33-a87d-fc64c65acaf4",
+      "question_text": [
+        "Which of the following metals is the least reactive?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Au",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "32f35c73-7a01-4e7c-8254-9e99109e2d7b",
+      "question_text": [
+        "Geometric isomerism can exist in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hex-3-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "prop-l-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3-methyl but -l-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff33f8d4-3211-4f13-b394-4462e378e226",
+      "question_text": [
+        "Alkanals can be distinguished from alkanones by the reaction with"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sudan lll stain",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "starch iodide paper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lithium tetrahydrido aluminate (ll",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bf1b28bb-b920-4b1d-a7d5-5c2ab68658fc",
+      "question_text": [
+        "An example of oxidation - reduction enzyme is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Glucose-6-Phosphate Dehydrogenase Deficiency ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "amylase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "protease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lipase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dehydrogenase",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3c39d92e-4e4e-4116-8818-a5b9dfed5012",
+      "question_text": [
+        "Carbohydrates are large molecules with the molecular formula C x (H2O)y. In which of the following pairs is x not equal to y?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Determining Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "glucose and starch",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sucrose and fructose",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecc4c386-6ba1-4f62-b053-31814c482b4f",
+      "question_text": [
+        "A compound contains 40.0% C, 6.7% H 53.3% O. If the molecular mass of the compound is 180, its molecular formula is [C =12, H =1,O]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "772414ca-2160-4640-a9e5-f043da64373c",
+      "question_text": [
+        "The saponification of an alkanoate to produce soap and alkanol involves"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dehydration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "esterification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrolysis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxidation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2fa48675-7d23-45fd-b791-6b03c98a90ba",
+      "question_text": [
+        "2 - methyl propan -2- ol is an example of a"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "quartenary alkanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c6e7d0b-2fdc-4a86-a611-647da4e1bfa1",
+      "question_text": [
+        "Ethanol reacts with concentrated tetraoxosulphate (V) acid at a temperature above 170 oC to form"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethyne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4375ae8-62e4-40d2-bab2-177f9cffbb60",
+      "question_text": [
+        "A common characteristic between zinc and the other transition elements is the ability to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Transition Metals and Their Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "have variable oxidation states",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "from complex ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "act as a catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "from coloured ions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df7f67a2-65f0-4a96-a245-849a0a43574c",
+      "question_text": [
+        "Which of the following metals is the least reactive?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Au",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6f1041af-fca1-4de8-8990-3a38c86e61ed",
+      "question_text": [
+        "Geometric isomerism can exist in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hex-3-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "prop-l-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3-methyl but -l-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4476fc5f-9ae9-4d4a-9d97-fe3d8e869e55",
+      "question_text": [
+        "Alkanals can be distinguished from alkanones by the reaction with"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sudan lll stain",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "starch iodide paper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lithium tetrahydrido aluminate (ll",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "463ec9b3-ab3e-4f1e-b17f-da870bf66410",
+      "question_text": [
+        "An example of oxidation - reduction enzyme is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Glucose-6-Phosphate Dehydrogenase Deficiency ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "amylase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "protease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lipase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dehydrogenase",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ea78e684-417e-4c0d-9cfe-600fed77967a",
+      "question_text": [
+        "Carbohydrates are large molecules with the molecular formula C x (H2O)y. In which of the following pairs is x not equal to y?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Determining Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "glucose and starch",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sucrose and fructose",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "maltose and starch",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4618e444-b2fa-4db9-8958-bfbfa3d78e2d",
+      "question_text": [
+        "A compound contains 40.0% C, 6.7% H 53.3% O. If the molecular mass of the compound is 180, its molecular formula is [C =12, H =1,O]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "af8d8bdb-606e-4950-a6b1-543ddfd0c9dc",
+      "question_text": [
+        "The saponification of an alkanoate to produce soap and alkanol involves"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dehydration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "esterification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrolysis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxidation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c62e9d65-2246-4de0-837c-3b02390e38b7",
+      "question_text": [
+        "2 - methyl propan -2- ol is an example of a"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "quartenary alkanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1a79f26d-a098-49ae-95b1-1fdd7d07f179",
+      "question_text": [
+        "Ethanol reacts with concentrated tetraoxosulphate (V) acid at a temperature above 170 oC to form"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethyne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71d5b80b-0b0a-4cc8-87d2-108060bb9f65",
+      "question_text": [
+        "A common characteristic between zinc and the other transition elements is the ability to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Transition Metals and Their Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "have variable oxidation states",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "from complex ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "act as a catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "from coloured ions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d31c2201-3309-4bbd-9420-42eb9a85a97c",
+      "question_text": [
+        "Which of the following metals is the least reactive?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Au",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "163cf0ef-99b0-4664-9c94-595bb7c6633e",
+      "question_text": [
+        "Geometric isomerism can exist in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hex-3-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "prop-l-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3-methyl but -l-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28955bde-90f3-4b0f-8121-878b4fda0cae",
+      "question_text": [
+        "Alkanals can be distinguished from alkanones by the reaction with"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sudan lll stain",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "starch iodide paper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lithium tetrahydrido aluminate (ll",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]

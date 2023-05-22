@@ -1,0 +1,4785 @@
+
+[
+    {
+      "id": "bffb1a95-c6fd-4657-a8ce-50e19421c74c",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "04d0bc83-6636-4549-a2db-019d47db6e0c",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d758ea4a-45b3-4d92-adb1-4c8cd1dc8fe6",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f87ac3e1-2bfc-49b3-b9f5-5f3d2e5e1709",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b4ba536-dc07-4db6-82c9-fd996e9a2eb9",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e3f1d2d-ae49-4f86-9a98-580d45f61281",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b78d04e9-df46-4484-8f83-f79c3c2511a8",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "02e86cdb-dcea-40ca-b23f-081bfe6a8968",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9981f22-1b93-41d2-81f4-9daf971d5ae4",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51240e3b-6d2c-4b23-a8b5-3f6f3382bb65",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c79d3eb-1a88-4774-9740-f2a2648ad237",
+      "question_text": [
+        "Find the value of x in the figure above"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math58.jpg",
+      "explanation": "\\(\\frac{X}{sin45}=\\frac{15}{sin60}\\\\X=\\frac{15sin45}{sin60}\\\\X=\\frac{15\\times(\\frac{1}{\\sqrt{2}})}{\\sqrt{\\frac{3}{2}}}\\\\X=\\frac{15}{\\sqrt{2}}\\times\\frac{2}{\\sqrt{3}}\\\\X=\\frac{30}{\\sqrt{6}}\\\\X=\\frac{30}{\\sqrt{6}}\\times\\frac{\\sqrt{6}}{\\sqrt{6}}=\\frac{30\\sqrt{6}}{6}=5\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15√6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20√6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3√6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5√6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e18ebb9-5766-4845-9e36-dc582ed57743",
+      "question_text": [
+        "P, R and S lie on a circle center as shown above while Q lies outside the circle. Find ∠PSO"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math57.png",
+      "explanation": "x\\(^{\\circ}\\) = 35 + 29 (Exterior angle = sum of two interior opposite angles)x = 55\\(^{\\circ}\\) (∠ at the center twice ∠ at circumference) y = 110\\(^{\\circ}\\)∠PSO = ∠SPO (base ∠S of 1sc Δ b/c PO = SO)∴ ∠PSO = (180 - 110)/2= 35\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "55\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "846a68e0-f8e4-472a-bfcd-7d7c8684d1ec",
+      "question_text": [
+        "The locus of a point which is 5 cm from the line LM is a"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "The locus of a point which is 5cn from the line LM is a pair of lines on opposite sides of LM and  parallel to it, each distance 5cm from LM",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "line distance 10 cm from LM and parallel to LM",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "pair of line on opposite sides of LM and parallel to it, each distance 5 cm from LM",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "line parallel to LM and 5 cm from LM",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "pair of parallel lines on one side  of LM and parallel to LM",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d43a3c2-a227-4915-89b2-990ec8f1c100",
+      "question_text": [
+        "If y = 3 cos(x/3), find dy/dx when x = (3π/2)"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "y = 3cos(x/3)dy/dx = 3x(1/3)x - sin (x/3)= - sin x/3But x = 3π/2 ∴ -sin(x/3) = -sin(3π/6)= -sin (3 * 180)/6= - sin 90= -1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1eb40a14-c463-48c6-8293-6c4507b0a1c6",
+      "question_text": [
+        "Find the derivatives of (2 + 3x)(1 - x) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "y = (2 + 3x)(i - x)y = 2 - 2x + 3x - 3x2y = 2 + x - 3x2dy/dxb = 1 - 6x",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 - 6x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6x - 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "31c75093-e14e-408e-bd1c-863056f61d0b",
+      "question_text": [
+        "Find the derivatives of the function y = 2x2(2x - 1) at the point x = -1"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "y = 2x2(2x - 1)y = 4x3 - 2x2dy/dx = 12x2 - 4x at x = -1dy/dx = 12(-1)2 - 4(-1)= 12 + 4= 16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "18",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6bcbcf4d-b630-4ea8-9942-63e9a04e315d",
+      "question_text": [
+        "Evaluate \\(\\int_{1}^{3}(X^2 - 1)dx\\)"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\int_{1}^{3}(x^2 - 1)dx=\\left[\\frac{1}{3}x^2 - x\\right] ^{3}_{1}\\\\=(9-3)-(\\frac{1}{3}-1)\\\\=6-\\left(-\\frac{2}{3}\\right)\\\\=6+\\frac{2}{3}=6\\frac{2}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(-\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "959c4cc7-5702-4085-ba1b-26e91afbd881",
+      "question_text": [
+        "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Number of white balls = xNumber of red balls = 12Number of black balls = 16Total number of balls = 28 + xP(white balls) = 3/7But P(white balls) \\(= \\frac{x}{28+x}\\\\= \\frac{3}{7} = \\frac{x}{28+x}\\\\3(28 + x) = 7x\\\\84 + 3x = 7x\\\\7x - 3x = 84\\\\4x = 84\\\\x = 21\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "32",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b128373-0670-41e7-9b6c-c981eed0f158",
+      "question_text": [
+        "find the mean deviation of 1, 2, 3 and 4"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "X = 1, 2, 3, 4; ∑X = 10x = ∑X/n = 10/4 = 2.5X - x = -1.5, -0.5, 0.5, 1.5lX - xl = 1.5, 0.5, 0.5, 1.5; ∑lX - xl = 4.0mean deviation = (∑lX - xl)/n= 4.0/4 = 1.0",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a7d8c77-4660-4edd-a7ed-9ba75980c54c",
+      "question_text": [
+        "An unbiased die is rolled 100 times and the outcome is tabulated above. What is the probability of obtaining a 5?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math56.jpg",
+      "explanation": "Number of times 5 was obtained = 20 P(obtaining 5) = 20/100= 1/5",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dec056b0-6fd9-4267-b6a0-044c1ed714a6",
+      "question_text": [
+        "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math55.jpg",
+      "explanation": "Sectorial angle of beans = 360 - (150 + 90 + 60)= 360 -300= 60\\(^{\\circ}\\)if 150\\(^{\\circ}\\) represents 3000 tonnes1\\(^{\\circ}\\) 3000/15060\\(^{\\circ}\\) will represents (3000/150) * (60/1)= 1200 tonnes",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1200 tonnes",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98eb9981-e291-4e21-a178-a2d1bd24a9a5",
+      "question_text": [
+        "In how many ways can2 students be selected from a group of 5 students in a debating competition?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(In\\hspace{1mm} ^{5}C_{2}\\hspace{1mm}ways\\hspace{1mm}=\\frac{5!}{(5-2)!2!}\\\\=\\frac{5!}{3!2!}\\\\=\\frac{5\\times4\\times3!}{3!\\times2\\times1}\\\\=10\\hspace{1mm}ways\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10 ways",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "15 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20 ways",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd163e07-df5e-46cb-bf45-cb39e3efac28",
+      "question_text": [
+        "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Let the number of students = xTotal age of the students = 15xTotal age including age of the teacher = 15x + 45Mean of their ages; (15x + 45)/(x + 1) = 18= 15x + 45 = 18(x + 1)= 15x + 45 = 18x + 18= 18x - 15x = 45 - 18= 3x = 27x = 9",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "42",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4bf29dd5-70d6-46de-88c1-8daeb87391be",
+      "question_text": [
+        "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Gold medals = 30silver medals = 22Bronze medals = 18/70P(Gold medals) = 30/70 = 3/7∴ P(not Gold medal) = 1 - 3/7= 4/7",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9/35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11/35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4/7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "77837de7-7336-4bf0-aca3-59ca750c7490",
+      "question_text": [
+        "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(^{3}C_{1} \\times ^{9}C_{5}=\\frac{3!}{(3-1)!1!}\\times \\frac{9!}{(9-5)!5!}\\\\=\\frac{3!}{2!1!}\\times \\frac{9!}{4!5!}\\\\=\\frac{3 \\times 2!}{2!\\times 1}\\times \\frac{9\\times8\\times7\\times6\\times5!}{4\\times3\\times2\\times1\\times5!}\\\\=3\\times9\\times2\\times7\\\\=378 \\hspace{1mm}ways\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "378 ways",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "462 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "840 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "924 ways",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e7bba40-06ec-4fad-9178-8862c6b7818e",
+      "question_text": [
+        "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Range = 18 - 15= 3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e2b5bc4b-a30b-4d4f-b285-062a042d72af",
+      "question_text": [
+        "I. Rectangular bars of equal widthII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.III. Rectangular bars have common sides with no gaps in betweenA histogram is described completely by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I, II and III",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and II",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I and III",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c841f90-1598-413b-9e4d-4acb2c1c3161",
+      "question_text": [
+        "y = is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y ∝ 1/xy = K/xK = xyK = (1/2) * 4 ( when y = 4 and x = 1/2)K = 2∴y = 2/x10 = 2/x (when y = 10)10x = 2x = 2/10x = 1/5",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8d5d453e-18f3-4927-9260-0e79940603db",
+      "question_text": [
+        "What is the integral value of x which satisfy the inequality -1 < 3 -2x \\(\\leq\\) 5?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "-1 < 3 -2x and 3 - 2x \\(\\leq\\) 52x < 3 + 1 and -2x \\(\\leq\\) 5 - 32x < 4 and -2x \\(\\leq\\) 2x < 2 and x \\(\\geq\\) 2/-2 = x \\(\\geq\\) -1If -1 \\(\\leq\\) x < 2it implies that x = -1, 0, 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1. 0, 1, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2, 1, 0 , -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0, 1, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1, 0, 1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e69f3c13-dc26-441b-8487-77ab9c902b3a",
+      "question_text": [
+        "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(a=6, U_4 = 162\\\\U_4 = ar^{4-1}\\\\U_4 = ar^3\\\\162 = 6(r)^3\\\\r^3 = 27\\\\r=\\sqrt[3]{27}\\\\r=3\\\\S_4 = \\frac{a(r^{n}-1)}{r-1}\\\\=\\frac{6(3^{3}-1)}{3-1}\\\\=\\frac{6(27-1)}{2}\\\\=3\\times26\\\\=78\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "78",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "48",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d03b39d-196c-48fb-8214-138e2d649cfe",
+      "question_text": [
+        "If the operation *  on the set of integers is defined by p * Q = \\(\\sqrt{pq}\\), find the value of 4 * ( 8 * 32)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(P\\times Q=\\sqrt{PQ}\\\\4\\times(8\\times32)=4\\times\\sqrt{8\\times32}\\\\=4\\times\\sqrt{256}\\\\=4\\times16\\\\=\\sqrt{4\\times16}\\\\=\\sqrt{64}\\\\=8\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0947d020-f1b1-4f0b-8488-0d846df134ec",
+      "question_text": [
+        "Find the remainder when 3x3 + 5x2 - 11x + 4 is divided by x + 3"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "x = -3 substitute x = -3 in 3x3 + 5x2 - 11x + 43(-3)3 + 5(-3)2 - 11(-3) + 4-81 + 45 + 33 + 4-81 + 82= 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c08398e9-fd72-483a-a5e4-b0b5830a2a47",
+      "question_text": [
+        "The nth term of two sequences are Qn = 3 . 2n - 2 and Um = 3 . 22m - 3. Find the product of Q2 and U2."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Qn = 3 * 2n - 2Um = 3 * 22m - 3Q2 * U2 = (3 * 22 - 2) * (3 * 22(2) - 3)= 3 * 20 * 3 * 21= 3 * 1 * 3 * 2= 18",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "18",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2e5f8d10-a124-4b31-9f3e-bfd8719480c5",
+      "question_text": [
+        "Factorize completely ac - 2bc - a + 4b2"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "ac - 2bc - a2 + 4b2ac - 2bc - (a2 - 4b2)ac - 2bc - (a2 -(2b)2)c(a - 2b) - {(a - 2b)(a + 2b)}(a - 2b)(c - (a + 2b))(a - 2b)(c - a - 2b)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(a - 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(c - a - 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(a - 2b",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a2164c1-81ec-4e6c-a671-8e911d29aaad",
+      "question_text": [
+        "Find the sum to infinity of the series 1/2 , 1/6, 1/18, ....."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(a=\\frac{1}{2}\\\\r=\\frac{\\frac{1}{6}}{\\frac{1}{2}}=\\frac{1}{6}\\times\\frac{2}{1}=\\frac{1}{3}\\\\S_n = \\frac{a}{1-r}\\\\S_n = \\frac{\\frac{1}{2}}{1-\\frac{1}{3}}\\\\=\\frac{\\frac{1}{2}}{\\frac{3}{2}}\\\\=\\frac{1}{2}\\times\\frac{3}{2}\\\\=\\frac{3}{4}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a3961e28-3c99-4ac5-bf83-a0b41db9327f",
+      "question_text": [
+        "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "L ∝ T2L = KT2K = L/T2 (when T = 4s, L = 64 cm)K = 64/42K = 64/16 = 4∴ ∠ = 4T2∠ = 4 * 92= 324 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "96 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "324 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "36 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "144 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "02cd94d5-671f-4812-8b40-8d5f095bda95",
+      "question_text": [
+        "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "First teacher received  \\(\\frac{2}{5}\\) ∴Remainder \\(= 1 - \\frac{2}{5} = \\frac{3}{5}\\)2nd teacher received; \\(\\frac{2}{15} of \\frac{3}{5} = \\frac{2}{15} \\times \\frac{3}{5} = \\frac{2}{25}\\)3rd teacher will receive; \\(1-\\frac{2}{5}-\\frac{2}{25}=\\frac{25-10-2}{15}\\\\=\\frac{13}{25}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11/25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12/25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13/25",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7ec8b920-26d3-4e2c-8493-3d8171be328a",
+      "question_text": [
+        "If 6logx2 - 3logx3 = 3log50.2, find x."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "6logx2 - 3logx3 = 3log50.2= logx26 - 3logx33 = log5(0.2)3= logx(64/27) = log5(1/5)3logx(64/27) = log5(1/125)let logx(64/27) = y∴xy = 64/27and log5(1/125) = y∴ 5y = 1/1255y = 125-15y = 5-3∴ y = -3substitute y = -3 in xy = 64/27implies x-3 = 64/271/x3 = 64/2764x3 = 27x3 = 27/64x3 = 3√27/64x = 3/4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36522a87-d3c6-461c-9ab6-17157af7aa4c",
+      "question_text": [
+        "Find P, if 4516 - P7 = 3056"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "4516 - P7 = 3056P7 = 4516 - 3056P7 = 1426convert 1426 = 1 * 62 + 4 * 61 + 2 * 60= 36 + 24 + 2= 62Convert 6210 to base 762/7 = 8 R 68/7 = 1 R 11/7 = 0 R 1∴P7 = 1167",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "627",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1167",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6117",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1427",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a900b73-7061-4c8e-b141-f3c34a7e8e28",
+      "question_text": [
+        "Given that 3√42x = 16, find the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "3√42x = 16this implies that (3√42x)3 = (16)342x = 42*342x = 46∴ 2x = 6x = 3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d6624ee-505c-460f-ba51-fd187b8ecdbe",
+      "question_text": [
+        "Evaluate \\(\\frac{\\frac{1}{10}\\times\\frac{2}{3}+\\frac{1}{4}}{\\frac{\\frac{1}{2}}{\\frac{3}{5}}-\\frac{1}{4}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(\\frac{\\frac{1}{10}\\times\\frac{2}{3}+\\frac{1}{4}}{\\frac{\\frac{1}{2}}{\\frac{3}{5}}-\\frac{1}{4}}\\\\Numerator \\hspace{1mm}\\frac{1}{10}\\times\\frac{2}{3}+\\frac{1}{4} = \\frac{1}{5}+\\frac{1}{4}\\\\=\\frac{4+15}{60}=\\frac{19}{60}\\\\denominator\\hspace{1mm}= \\frac{\\frac{1}{2}}{\\frac{3}{5}}-\\frac{1}{4}=\\frac{1}{2}\\times\\frac{5}{3}-\\frac{1}{4}\\\\=\\frac{5}{6}-\\frac{1}{4}\\\\=\\frac{10-3}{12}\\\\=\\frac{7}{12}\\\\\\frac{Numerator}{denominator}=\\frac{\\frac{19}{60}}{\\frac{7}{12}}\\\\=\\frac{19}{60}\\times\\frac{12}{7}=\\frac{19}{35}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{7}{12}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{19}{35}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4e2d118-07f7-407b-a1ed-0dfeed82af64",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math54.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pc ∪ (Q ∩ ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pc ∩ (Q ∪ ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6a99d234-313d-4f50-ae5d-4a4d9071451e",
+      "question_text": [
+        "Simplify \\(\\frac{1}{\\sqrt{3}+2}\\) in the form \\(a+b\\sqrt{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(\\frac{1}{\\sqrt{3}+2}=\\frac{1}{\\sqrt{3}+2}\\times \\frac{\\sqrt{3}-2}{\\sqrt{3}-2}\\\\=\\frac{\\sqrt{3}-2}{(\\sqrt{3})^{2} -2^{2}}\\\\=\\frac{\\sqrt{3}-2}{3-4}=\\frac{\\sqrt{3}-2}{1}\\\\=-\\sqrt{3}+2\\\\=2-\\sqrt{3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 -√3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2 - √3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 + √3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2 + √3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "66ef7215-78f3-42ec-99df-3d7bf60a760e",
+      "question_text": [
+        "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "5000 : 5000 * 5005000 : 25000005 : 25001 : 500",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 : 250 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1 : 25 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 : 500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1 : 5 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a1bd7a0-3267-45f8-bb3f-35b4e8b140ee",
+      "question_text": [
+        "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Tan θ = 5√3/5Tan θ = √3θ = 60\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "75\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "131ad77b-6973-4b02-85f8-aa4d9d9746a4",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math5.jpg",
+      "explanation": "Coordinates of the line are (x1 y1)(0,2) respectively and (x2 y2)(2,0) respectivelyGradient (m) of the line = (y2 - y1) / (x2 - x1) = (0-6) / (2-0) = -6/2= -3Equation of the line y-y1 = m(x-x1)y - 6 = -3(x - 0)y - 6 = -3xy + 3x = 6inequality; from the y axis, the shaded region is below the line ∴ y + 3x ∠ 6 and line is a broken line",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x,",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y - 3x < -6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x,",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < 6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ede07b1-a4a8-4714-a6ac-4443293dd922",
+      "question_text": [
+        "PQRSTV is a regular polygon of side 7 cm inscribed in a circle. Find the circumference of the circle PQRSTV."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Each interior Angle of the polygon =(n-2)180_n=(6-2)180_6= 4 x 30 = 120\\(^{\\circ}\\)i.e ∠PQR = 120\\(^{\\circ}\\) ∴ RQD = 120/2 = 60\\(^{\\circ}\\) also ∴ Δ QOR is equilateral Δ ∴ QO = 7cm∴ PO = QO = RO ...... = 7cm radius of the circumference of the circle = 2πr= 2 x 22/7 x 7/1= 44 cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "56 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "22 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "42 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "44 cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5a6c0010-b3ad-4db8-8908-a022ae3c2321",
+      "question_text": [
+        "Find the mean deviation of 1, 2, 3 and 4."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aaa3daa6-d4fa-4347-a42d-8a4cf160dc14",
+      "question_text": [
+        "In how many ways can 2 students be selected from a group of 5 students in a debating competition?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20 waysE",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "29b84f52-a5f7-41c6-b03f-6414b910c595",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "251116fb-6b09-4f1f-8941-3ff3a106c174",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "769de017-60d3-4d9b-b805-f8a3fd2fff04",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0df2bf56-8841-4ec8-a80d-199a1c57ad0f",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "06ccf336-54c2-418f-8571-f5078e12cf2c",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e4e0634-b144-46c1-98ae-e7bfa908e09e",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8c1d7295-6317-4b0d-8e9a-64b3b1bb3a74",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30bcea10-fb1a-4e53-87cb-21b601adc589",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "50837774-6dd4-43d5-88ad-2fe3c5b5a9fc",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3d33ead-0f93-4d65-90b0-acbd6c5ba05c",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "33234d6a-e730-449d-a859-8aef1641bf39",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "151e5239-ebac-4837-8469-45729744eb11",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "365443eb-c24d-4937-8047-d9edd5020eb7",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6da19090-dff8-48d9-a279-500d7dfb15fe",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9adef0bf-d15f-4d35-85ef-2c08a6d0601b",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9dca579e-87e5-4db0-9987-d4f6a1cc8eae",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9aa38a8c-0d6a-4c9d-8256-74d7e8adb239",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3dfab1c9-e33b-431f-8a38-a4a4b528bce2",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0122116e-e456-4034-99a7-12ae13671159",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef0aec47-be28-49d4-83cf-5a8a80fb5fc9",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8869dd4-d4d8-4d09-ba5a-e22ad4bc4961",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "68c88fe5-28a9-4643-9564-0396655c5987",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5011e303-05ce-473c-8ce4-d3717191189a",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5a1b121c-fe12-4b83-8e14-dec60196d2c2",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2240751-6db6-4b78-8986-f400342d25eb",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "88a665dc-406f-4ebf-b290-986790749be1",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e5c7ecb5-9a17-405f-be42-0e11b455f1a4",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8102771-283e-4579-8d3d-4158426d5560",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d2dec6b-1e1e-4eb2-a82d-5832d6fe29b4",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf71fe33-b883-484c-995e-524991edfec4",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bdb14ea5-0ba7-4c45-b08f-b428ce66a255",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba36f5ae-5a5b-429f-9112-b0ec81bf6674",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d7d342a-6a0e-42ad-bb13-401622be9a7d",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d834211f-4e0f-4206-a479-ad85d66234a4",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6cb03998-2b1a-4d29-89f4-c9e25eb8f6f1",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c199083-894e-4ce2-bd04-a5b3e244a7ae",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "639cbc80-58be-49d5-a167-45057da08c36",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cd3d5b7-3d56-4828-921d-44c8e5213551",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "63e8b89a-b7f2-45eb-b1c6-cfed28f30412",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d048f078-ad4e-4d29-bbe2-2d4827fbc27f",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5592a01d-e519-4d1b-ad88-2855489c8400",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f959f76-7753-497d-b039-c3f389d379c9",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "702a6e18-46a3-49eb-8242-cc81112c63c6",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7b3dca83-fbd1-4701-99ec-7176fa43a642",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4fa3fefd-54bb-445a-8ec7-9b1f0f6d6cc3",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "46f8fdce-8c10-403e-8c93-f876f46bb40c",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c0a64e14-32d3-4c15-bdb0-219bd2b926d8",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8510df07-8ea2-4416-843c-f7f2882d1964",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94e86d14-edc3-4da3-870d-1fd48335afc5",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d91fe19-75ed-411e-bc60-de495b155b9e",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "61a843dd-a49b-4638-a48a-c7eaa4f1c92f",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecd8923a-ce25-4d5b-92cf-9151d3549aca",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51c1f339-c80c-4591-9e90-aff1ca0bc075",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c7ef53f6-804d-4869-84ac-3ae1a0dddc47",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "293ce6d6-ca20-44db-9595-bd3705ed5e5f",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2900637-bfb7-406e-b4d1-9bcd3d6f0c65",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "edece1a5-3d26-43c8-9d7c-d7ad41b38d4f",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b8db265b-90f3-44a1-919e-61cfd1c9cecb",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f4c60bdc-db72-4a90-9b13-7e5cc92c3851",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1ca99847-3ceb-48e3-bf35-0c7df6622755",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "012493d4-f828-40e9-b3ec-69e0575ee713",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6e827822-28fe-48b4-be16-a7bb904e3091",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0de35f0f-3d85-4c5b-9a16-93796741c6ef",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e57c2b7-de2f-4d81-86d6-77f6bb79a33b",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a9724ae-ae47-43b0-97f2-d44be296d0e0",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca272f7b-5d72-45d6-a5fe-63ad52b54835",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "100d730e-4f11-44c4-a1d0-6e8e8b1def5a",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "915abcdf-57f2-49aa-88a4-c9bfc6902782",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fffb14fd-b5de-4db9-9057-d92508b0689d",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0618d483-1a3a-4123-bc9f-98d8d931a142",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "691c9bb2-eda9-4e41-926d-2ae8ffa2a267",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35b5cc56-a1aa-409b-9812-37b4c0f0a160",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "198cb4a5-695e-4aaa-872b-fc1bbb610a4d",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a45aedf4-e1b6-4b88-924a-b7413d76a11d",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "41b4fb2d-c863-4520-bb39-b56fae1111b2",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1bc8fd34-2175-4ea0-bff5-522b82ea82b8",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "01846afc-446f-45a8-8978-2b9d97476735",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4885e234-5ab9-4b49-89a9-17512f25f0bd",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "08edd44d-107c-4c34-8f89-c5f9877327d9",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aa004925-8c47-4cdf-8de4-81b036a6c7fe",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "796b11a9-827c-4926-a82a-84b14f9e1ddc",
+      "question_text": [
+        "The shaded region in the Venn diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(Q \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a07bf6ba-5ea0-48ff-98f1-270ff03a4ec0",
+      "question_text": [
+        "The shaded area in the diagram above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math122.jpg",
+      "explanation": "when x = 0, y = 0 \\(\\to\\) (0, 6)when y = 0, x = 2 \\(\\to\\) (2, 0)y + 3x < 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{(x, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " : y + 3x < 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{(x , ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " : y + 3x < -6}C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "237d09be-d5fc-4a56-8c41-fb3f0226e47b",
+      "question_text": [
+        "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math119.jpg",
+      "explanation": "beans angle = 360\\(^{\\circ}\\) - (60\\(^{\\circ}\\) + 90\\(^{\\circ}\\) + 150\\(^{\\circ}\\))360\\(^{\\circ}\\) - 300\\(^{\\circ}\\) = 60\\(^{\\circ}\\)150\\(^{\\circ}\\) - 3000 tonnes60\\(^{\\circ}\\) - \\(\\frac{60}{150} \\times 3000\\) tonnes= 1,200 tonnes",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6000 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500 tonnes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1200tonnes",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "415d5164-03ce-4d30-b30b-c50d2147d343",
+      "question_text": [
+        "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math118.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{class-marks(x)} & \\text{(freq. (f)} & \\text{cum. freq.}\\\\\\hline 9 &   &3.....3\\\\14 &  & 6....3 + 6 = 9\\\\ 19 &   & 9.....9 + 9 = 18\\\\ 24 &   & 3.....18 + 3 = 21\\\\ 29 &    & 2.....21 + 2 = 23\\\\ 34 &   & 2.....23 + 2 = 25\\\\   &    & 25\\end{array}\\)% of students scoring more than 20 marks= \\(\\frac{7}{25}\\) x 100% = 28%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "68%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac5b77e5-0eac-4249-8840-6e11b6787c78",
+      "question_text": [
+        "An arc of a circle of length 22 cm subtends an angle of 3x\\(^{\\circ}\\) at the center of the circle. Find the value of x if the diameter of the circle is 14 cm"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd085abc-28e3-4158-be2f-ef0c29367337",
+      "question_text": [
+        "Find the value of α2 + β2 if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\ 3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\9 = (α^{2} + β^{2} - 2)\\\\α^{2} + β^{2} = 9 + 2\\\\α^{2} + β^{2} = 11\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "93625d37-97cd-4a9d-8a47-afa10cc9f7b5",
+      "question_text": [
+        "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "6x + 6y = (n - 2) 1806x + 6y= (5 - 2) 180 6(x + y) = 3 * 180 x + y = (3 * 180)/6 x + y = 90\\(^{\\circ}\\)y = 90 - x",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 90 - x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 150 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 60 - x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 120 -x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb1d0b70-9caf-4c92-85a2-80bdbdbfd435",
+      "question_text": [
+        "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm2, find the area of the trapezium PQRU"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math59.jpg",
+      "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * hw = 32/4w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "48 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bae6585c-7051-460d-bdaa-9da01b314d60",
+      "question_text": [
+        "Find the midpoint of the line joining P(-3, 5) and Q(5, -3)."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\= \\frac{2}{2} ; \\frac{2}{2}\\\\= (1, 1)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "649e728c-b44d-4354-b2c3-02ac0f1bb941",
+      "question_text": [
+        "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "The diagonal QS bisects the angle formed by PQ and QR∴ [A]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The diagonal QS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The diagonal PR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "side SR",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

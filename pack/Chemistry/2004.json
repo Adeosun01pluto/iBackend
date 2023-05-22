@@ -1,0 +1,3705 @@
+
+
+[
+    {
+      "id": "1c0039e2-7b38-40e2-99c4-f4ed5b855f5e",
+      "question_text": [
+        "When stem is passed over red hot carbon the substances produced are"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Hydrogen and carbon (ii) oxide will be formed when red steam is passed ever red-hot carbon. Option A,B,D are not produced through this process",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen and trioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogen, oxygen and carbon (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d627988-dee9-42a9-a606-9ba454b51189",
+      "question_text": [
+        "In the electrolysis of brine the anode is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "In the industrial of brine carbon is the anode while mercury is the cathode. Options of A, B, C are not used in brine solution because they are alloy of mercury",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "platinum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "copper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "357e0d3f-9250-4f48-8fa1-55a441557b34",
+      "question_text": [
+        "N2O4(g)→ 2NO2(g)In the endothermic reaction above, more products formed will be favored by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "A decrease in pressure will result in the breaking or splitting of a larger molecule into a simpler ones. Options A, B, D are not in conformance to the reaction",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A constant values",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an increase in pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a decrease pressure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a decrease volume",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df356ca7-807c-47e3-8b7c-a5b3d2aaf9fa",
+      "question_text": [
+        "What volume of 0.5mldm3 H2SO4 will exactly neutralize 20cm3 of 0.1moldm3 NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Titration Curve ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2NaOH + H2SO4 → Na2SO4 + 2H2OCaVa) ÷ (CbVb) = ratio of acid / ratio of base0.5Va ÷ (0.1 × 20) = ½Va = 2.0cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "015c34d9-9bdb-4175-a297-84e7062ba899",
+      "question_text": [
+        "In the production of soap, concentrated sodium chloride solution is added to"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "Concentrated sodium chloride solution will the solubility of soap along the course of soap production. Options A,C,D are not appropriate",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the solubility of soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decrease the solubility of the soap",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "saponify the soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "emulsify the soap",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "41a4f1de-0c38-4e0b-a524-640907d18685",
+      "question_text": [
+        "Vulcanization involve the removal of"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Alkenes ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Vulcanizer is the removal of double bend in a chemical reaction. Option A,B,D can not be removed by vulcanizer",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "monometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a polymer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "831dfcbc-4e75-4fd9-8f0c-4f61b0ab52cb",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem140.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-bromo-3-chlorobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3-bromo-2-chlorobutanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3-chloro-2-bromobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-chloro-3-bromobutanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c56d50c3-7d8f-48f3-a3f0-f2ae5222a13d",
+      "question_text": [
+        "In the experiment above, X is a mixture of nitrogen, carbon (IV) oxide and"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Nitrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem124.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "impurities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "inert gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxygen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5bd3ec89-40f6-4704-8e1e-ceb59ada63e3",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-ethylpentane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3,4-dimethylhexane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2,3-dimethylhexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-ethylhexane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a1e8868-199b-4f4b-80f0-c72f5cce617f",
+      "question_text": [
+        "Which of the following acts as both a reducing and an oxidizing agent?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Structure and General Properties of the Nonmetals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "SO2 = i.eIn H2SO2 act as oxidizing agent H2S + SO2 → 3S + 2H2OWhereas in water SO2 acts as reducing agents H2O + SO2 H2SO23",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e4e86cce-d39a-4f3b-93d3-cdadba21f5c7",
+      "question_text": [
+        "Calculate the solubility in mol dm-3 of 40g of CuSO4 dissolved in 100g of water at 120oC.[Cu = 64, S = 32, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Ksp and Solubility ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9826b516-b56b-42bf-bfc6-73c02a0c93df",
+      "question_text": [
+        "C2H5OH(aq) → YIf the above reaction takes place in conc. H2SO4 at 180o, Y represents"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "What is a reaction rate? ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C2H5COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C2H4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH3OCH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aba6b60a-4610-4ecf-ab21-740f8db3abf3",
+      "question_text": [
+        "Alkanol + Alkanoic ↔ Ester + WaterThe reverse reaction above is known as"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Production of Esters ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hydrolysis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Saponification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hydration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Fermentation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "93dde614-541c-4511-bd87-481d783cf014",
+      "question_text": [
+        "In the production of soap, concentrated sodium chloride solution is added to"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increase the solubility of soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decrease the solubility of the soap",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Saponify the soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Emulsify the soap",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6bb6faf7-4336-4cd3-93e7-ce5731b580b0",
+      "question_text": [
+        "An isomer of C5H12 is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Coordination Chemistry of Transition Metals ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Butane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 – methylbutane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 – methylpropane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 – ethylbutane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df83e29f-5553-421b-b5ec-7345079e21d8",
+      "question_text": [
+        "A characteristic of the alkane family is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Addition, Elimination and Substitution Reactions ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Addition reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Elimination reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Substitution reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Neutralization reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8825d508-e3a6-4e3d-99e7-42a32542b370",
+      "question_text": [
+        "Which of these reagents can confirm the presence of a triple bond?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Bond Order ",
+        " Advanced Theories of Covalent Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Bromine water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Acidified KMnO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Copper (",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " chlorideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b876eb95-0144-4434-942d-823a738887ea",
+      "question_text": [
+        "Vulcanization involves the removal of"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Alkenes ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A monomer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "A polymer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0cdf7894-e3f0-4586-80a4-e8e01b587baf",
+      "question_text": [
+        "CH3COOH(g) → H4(g) + CO2(g)The reaction above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Carboxylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decarboxylation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Acidification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Esterification",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2fb5ded-d9ef-48e5-a5e5-03f488a6ac8a",
+      "question_text": [
+        "Alloys are best prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Electrolysis of Molten Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Electroplating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Arc-welding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reducing and mixture of their metallic oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Cooling a molten mixture of the metals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "91f57a40-c6d7-4ba5-8e8f-d810aeab0bfe",
+      "question_text": [
+        "Transition metals possess variable oxidation states because they have"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Transition Metal Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Electrons in the d orbitals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Electron in the s orbitals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "A variable number of electrons in the p orbitals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Partially filled p orbitals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "404c7403-0d8a-4793-8651-3d25b13a19b1",
+      "question_text": [
+        "Sodium metal is always kept under oil because it"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Redox Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Readily reacts with water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Is reduced by atmospheric nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reacts vigorously on exposure to air",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Reacts with oxygen and carbon (IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22e8c3ca-6d6c-4389-a424-460c87e2df5f",
+      "question_text": [
+        "Oxyacetylene flame is used for iron-welding because it"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Makes the iron metals solidify very quickly",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Combines with oxygen to give a pop sound",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Evolves a lot of heat when burnt",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dissociates to produce carbon (IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6a07f65b-fa8b-4a9a-adeb-f06220af7d8f",
+      "question_text": [
+        "The alkyl group can be represented by the general formula"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Alkyl Halides ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CnH2n+1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CnH2n",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CnH2n+2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CnH2n-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b616b6a-3dac-482d-830e-fe6d61bfdb88",
+      "question_text": [
+        "Which of the following gases can be collected by the method of downward delivery?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Volume Relationships in Gases ",
+        " Physical and Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Chlorine",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Oxygen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ammonia",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce7111bf-f082-40fa-ab12-ddef785813d8",
+      "question_text": [
+        "When steam is passed over red-hot carbon, the substances produced are"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hydrogen and trioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hydrogen, oxygen and carbon (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "02b62c4c-f06e-4d55-b46c-8819272349d8",
+      "question_text": [
+        "Sulphur (IV) oxide bleaches by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Atomic Mass and the Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Reduction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Oxidation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hydration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Adsorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d59c6fbd-be8d-4bf7-abd9-4682f3fd0353",
+      "question_text": [
+        "Carbon is tetravalent because"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The electrons in both the 2s and 2p orbitals are equivalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "The electrons in all the orbitals of carbon are equivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The 2s and 2p atomic orbitals hybridize",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "All the atomic orbitals of carbon hybridize",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f7ccaa93-f1b3-4d40-9485-4c286a2c4953",
+      "question_text": [
+        "Aluminium hydroxide is used in the dyeing industry as a"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Salt",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Dye",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Mordant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dispersant",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ec6dd09-2490-4207-85de-2615f184b1bd",
+      "question_text": [
+        "2CO(g) + O2(g) → 2CO2(g)Given that ΔH[CO]is -110.4 kJmol-1 and ΔH[CO2] is -393.0 kJmol-1, the energy change for the reaction above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Energy ",
+        " Thermochemistry"
+      ],
+      "explanation": "Energy change (ΔH) = 2ΔHCO2 - (2ΔHCO + ΔHO)= 7x - 393 - (7 * 110.4 + 0)= -393 + 110.4 = -282.6 kJ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-503.7 kJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-282.6 kJ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "+282.6 kJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "+503.7 kJ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6e3e005-155a-471d-84d4-4ecff7413ff7",
+      "question_text": [
+        "Which of the following hydrogen halides the highest entropy value?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HF",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HBr",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "HI",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6d337ad-c7a8-4574-b027-86559d3336a8",
+      "question_text": [
+        "N2O4(g) ↔ 2NO2(g)In the endothermic reaction above, more product formation will be favoured by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Exothermic and Endothermic Reactions ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a constant volume",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an increase in pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a decrease in pressure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a decrease in volume",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98d6e60c-bc93-4dea-93d7-e5878572d61c",
+      "question_text": [
+        "Which of the following shows little or no net reaction when the volume of the system is decreased?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Predicting Precipitation Reactions ",
+        " Chemical Reactions and Stoichiometry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H2(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " + I2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " ↔ 2HI(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7cafc4a5-73cc-4613-b141-686279d917de",
+      "question_text": [
+        "The allotropy of carbon used in the decolourization of sugar is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Special Properties of Carbon ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Graphite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Soot",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Charcoal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lampblack",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5f1e04d-7983-4c08-95f6-36007b3da308",
+      "question_text": [
+        "The oxidation state of chlorine in HClO4 is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "+7",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2ab100db-d45f-4c51-919d-6f936f95ce2c",
+      "question_text": [
+        "ZnO(s) + CO(g) → Zn(s) + CO2(g)In the reaction above, Zinc has been"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Oxidation and Reduction ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decomposed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "displaced",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxidized",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "reduced",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8d19e6b0-1b41-4810-96d4-28d6fb9a3acf",
+      "question_text": [
+        "In the electrolysis of brine, the anode is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "platinum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "copper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "62ff7375-29f5-4151-b5f7-b7e9cd0ff599",
+      "question_text": [
+        "The mass of silver deposited when a current of 10a is passed through a solution of silver salt for 4830s is[Ag = 108, F = 96500 c mol-1]"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Isolation of Silver ",
+        " Transition Metals"
+      ],
+      "explanation": "Ag + ie → Ag+If w 96500 C deposit 108g of silver∴ 10 * 4830 will deposit (10 * 4830 * 108)/96500= 5216400/96500 = 54.06g",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "108.0g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "54.0g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "27.0g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13.5gq",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5db81a42-7f89-4deb-8f24-30aa514378c2",
+      "question_text": [
+        "A carcinogenic substance is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "asbestos dust",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "sawdust",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d36b2f2b-fcec-44ae-a719-42a03d9695cf",
+      "question_text": [
+        "Calcium tetraoxosulphate (VI) dissolves in water only sparingly to form a"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "suspension",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "precipitate",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "colloid",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3acd903c-19ab-4350-823d-92aed92c341e",
+      "question_text": [
+        "Which of the following compound is a normal salt?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Acid-Base Reactions Continued ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NaHS",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NaHSO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NaHCO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Na2CO3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8cbdb004-12a9-412d-8217-a51c35c34a17",
+      "question_text": [
+        "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecules is its"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Nature of the Ionic Bond ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electrovalency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "electron affinity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "electropositivity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electronegativity",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "04b25aac-fa8a-4596-9dda-812bde4d0c23",
+      "question_text": [
+        "Chlorine consisting of two isotopes of mass number 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotopes of mass number 37"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Isotopes ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Let the relative abundance of oxygen with mass 37 be x%∴ The relative abundance of the isotope of mass 35 = (100 - x)%. Total mass of isotopes of mass 37 = 37x, while that of 35 = 35(100 - x)∴ Total mass of the 100 atoms = 37x + 35(100 - x) = 35.5= 37x + 3500 - 35x = 35.5∴ Mean mass of chlorine atom = (2x + 3500)/100 = 35.52x + 3500 = 3550; x = 50/2 = 25",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "75",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea7a58e3-165b-4509-b96f-89e05c1059d3",
+      "question_text": [
+        "Which of the following mixture of gases is likely to burn in flame"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "neon and hydrogen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "nitrogen and helium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "helium and neon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "neon and nitrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f5a6b39-77db-4957-8aa2-a1bc9bda2e30",
+      "question_text": [
+        "Hardness of water is caused by the presence of ions of"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "magnesium and silver",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cacium and magnesium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium and potassium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "calcium and sodium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "31a72959-8611-4be0-a0a5-63f10e951046",
+      "question_text": [
+        "Pollution of underground water by metal ions is very likely in the soil that has high"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Acid and Metal Oxide ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "acidity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkalinity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "chloride content",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "nitrate content",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f9460875-d1ae-4774-883f-c80704db131e",
+      "question_text": [
+        "It is difficult to achieve an orderly arrangement of the molecules of a gas because they"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Kinetic-Molecular Theory ",
+        " Gases"
+      ],
+      "explanation": "The molecules are in constant, random motion and frequently collide with each other and with the walls of any container. The distances of separation between the molecules are so large that the forces of attraction or repulsion between them are negligible.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "have no definite shape",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "have little force of attraction between them",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "can collide with one another in the container",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "are too small in size",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c733a08-d49e-410a-a5f9-f68fd0dbf94c",
+      "question_text": [
+        "A given volume of methane diffuses in 20s. How long will it take the same volume of sulphur (IV) oxide to diffuse under the same conditions?[C = 12, H = 1, S = 32, O = 16]."
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "Relative molecular mass of CH4 = 12 * 1 + 4 = 16Relative molecular mass of SO2 = 32 + 10 *2 = 64tSO2/tCH4 = √MSO2/MCH4t/20 = √64/16 = √4t/20 = 2∴ t = 20 * 2 = 40sec",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "40s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bdf8b621-e296-4bb4-ba82-6fa5fe481302",
+      "question_text": [
+        "An electron can be added to a halogen atom to form a halide ion with"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Naming Alkyl Halides ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 valence electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 valence electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7 valence electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 valence electrons",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8d5fd21e-0a7e-4ba4-ba91-fa00958a56b9",
+      "question_text": [
+        "The shape of s-orbitals is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Hybrid Atomic Orbitals ",
+        " Advanced Theories of Covalent Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "spherical",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "elliptical",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "spiral",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "circular",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "085cb499-c740-4c82-909d-5a3a4b8ee259",
+      "question_text": [
+        "22688Ra → x86Rn + α - particleWhat is the value of x in the nuclear reaction above?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Balancing Nuclear Reactions ",
+        " Nuclear Chemistry"
+      ],
+      "explanation": "22688Ra → 22286Rn + α - particle",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "220",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "222",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "226",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "227",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6e47033-8bbc-4374-9a0a-34819949ccda",
+      "question_text": [
+        "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Sublimation and Deposition ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "crystallization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sublimation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "10ab2eab-8c18-4179-a2c5-ec337da47d2c",
+      "question_text": [
+        "A chemical reaction is always associated with"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Physical and Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an increase in the composition of one of the substance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a change in the volume of the reactants",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a change in the nature of the reactants",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the formation of new substance",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "84c80aad-c10f-4cb7-8532-006701f3c44a",
+      "question_text": [
+        "If a solution contains 4.9g of tetraoxosulphate (VI) acid, calculate the amount of copper (II) oxide that will react with it[Cu = 64, O = 16, S = 32, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Equation of the reaction H2SO4(g) + CuO(s) → Cu4(aq) + H2ORelative molecular mass of H2SO4 = 1 + 2 + 32 + 16 + 4 = 98Relative molecular mass of CuO = 64 + 16 =80From the above equation, 98s of H2SO4 reacts with 80s of CuO.∴ 4.9g of H2SO4 will react with = (4.9 * 80)/98 of CuO = 392/98 = 4.0g",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.8g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.0g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "40.0g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80.0g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a061a5ed-38e2-40e4-9897-dabb2c27b3de",
+      "question_text": [
+        "What volume of gas is evolved at S.t.p if 2g of calcium trioxocarbonate (IV) is added to a solution of hydrochloric acid?[Ca = 40, C = 12, O = 16, Cl = 35.5, H = 1 Molar volume of agas at s.t.p = 22.4 dm3"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Acid and a Metal Carbonate ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "CaCO3(s) + 2HCl(aq) → CaCl2 + H2O(l) + CO2The relative molecular mass of CaCO3 = 40 + 12 + 16 * 3 = 52 +48 = 100 ; Relative molecular mass of CO2 = 12 + 10 * 2 = 44 From the above equation, 100g of CaCO3reacts with 44g of CO2 at s.t.p. i.e 22.4 dm32g of CaCO3 will react with (2*22.4)/100 of CO2 = 0.448 dm30.448 dm3 = 0.448 * 1000 = 448cm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "112 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "224 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "448 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2240 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6eb1a5cb-a16d-4e0b-bda2-74035757961c",
+      "question_text": [
+        "According to charles' law, the volume of a gas becomes zero at"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Volume and Temperature: Charles’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-100 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-273 oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-373 oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c93bca2-c725-4e5c-ab6b-e42082348ef6",
+      "question_text": [
+        "Which of these reagents can confirm the presence of a triple bond?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Bond Order ",
+        " Advanced Theories of Covalent Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hypochlorous acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Bromine water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Acidified KMnO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Copper I chloride",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d85839bb-5a82-4233-af8e-0c90c1fe8edb",
+      "question_text": [
+        "When stem is passed over red hot carbon the substances produced are"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Hydrogen and carbon (ii) oxide will be formed when red steam is passed ever red-hot carbon. Option A,B,D are not produced through this process",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen and trioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogen, oxygen and carbon (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8f58a492-073d-4ae6-80a8-c9f957c10fb8",
+      "question_text": [
+        "In the electrolysis of brine the anode is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "In the industrial of brine carbon is the anode while mercury is the cathode. Options of A, B, C are not used in brine solution because they are alloy of mercury",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "platinum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "copper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5d893fa7-baf2-40d9-a40c-28629db7a17d",
+      "question_text": [
+        "N2O4(g)→ 2NO2(g)In the endothermic reaction above, more products formed will be favored by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "A decrease in pressure will result in the breaking or splitting of a larger molecule into a simpler ones. Options A, B, D are not in conformance to the reaction",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A constant values",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an increase in pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a decrease pressure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a decrease volume",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27c52237-93e5-43a5-bd9f-3257d96b2d59",
+      "question_text": [
+        "What volume of 0.5mldm3 H2SO4 will exactly neutralize 20cm3 of 0.1moldm3 NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Titration Curve ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2NaOH + H2SO4 → Na2SO4 + 2H2OCaVa) ÷ (CbVb) = ratio of acid / ratio of base0.5Va ÷ (0.1 × 20) = ½Va = 2.0cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e712972d-c986-4654-a8c2-4edafd883911",
+      "question_text": [
+        "In the production of soap, concentrated sodium chloride solution is added to"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "Concentrated sodium chloride solution will the solubility of soap along the course of soap production. Options A,C,D are not appropriate",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the solubility of soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decrease the solubility of the soap",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "saponify the soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "emulsify the soap",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "296ee2f2-e5b8-48b7-ab19-e10a631b0d16",
+      "question_text": [
+        "Vulcanization involve the removal of"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Alkenes ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Vulcanizer is the removal of double bend in a chemical reaction. Option A,B,D can not be removed by vulcanizer",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "monometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a polymer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94434dc9-9c46-4b2e-9963-edfad67c85e0",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem140.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-bromo-3-chlorobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3-bromo-2-chlorobutanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3-chloro-2-bromobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-chloro-3-bromobutanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4c140cae-94ad-4aeb-ab59-3484567dd7a1",
+      "question_text": [
+        "In the experiment above, X is a mixture of nitrogen, carbon (IV) oxide and"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Nitrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem124.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "impurities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "inert gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxygen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f69a3940-ce6a-47d9-b828-bb692dd1aee8",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-ethylpentane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3,4-dimethylhexane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2,3-dimethylhexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-ethylhexane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "10143125-bd57-4d0d-ae04-2246b1a3d873",
+      "question_text": [
+        "Which of the following acts as both a reducing and an oxidizing agent?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Structure and General Properties of the Nonmetals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "SO2 = i.eIn H2SO2 act as oxidizing agent H2S + SO2 → 3S + 2H2OWhereas in water SO2 acts as reducing agents H2O + SO2 H2SO23",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1fcf268b-70b0-469e-92f6-77050d8fb180",
+      "question_text": [
+        "When stem is passed over red hot carbon the substances produced are"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Hydrogen and carbon (ii) oxide will be formed when red steam is passed ever red-hot carbon. Option A,B,D are not produced through this process",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen and trioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogen, oxygen and carbon (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58545585-6a39-4f79-b1ed-38df39fa63c4",
+      "question_text": [
+        "In the electrolysis of brine the anode is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "In the industrial of brine carbon is the anode while mercury is the cathode. Options of A, B, C are not used in brine solution because they are alloy of mercury",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "platinum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "copper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "97a88af8-2a60-44ec-a696-6a409a8ae5a1",
+      "question_text": [
+        "N2O4(g)→ 2NO2(g)In the endothermic reaction above, more products formed will be favored by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "A decrease in pressure will result in the breaking or splitting of a larger molecule into a simpler ones. Options A, B, D are not in conformance to the reaction",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A constant values",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an increase in pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a decrease pressure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a decrease volume",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff94cff8-2c94-4185-bea7-4efff941e0e0",
+      "question_text": [
+        "What volume of 0.5mldm3 H2SO4 will exactly neutralize 20cm3 of 0.1moldm3 NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Titration Curve ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2NaOH + H2SO4 → Na2SO4 + 2H2OCaVa) ÷ (CbVb) = ratio of acid / ratio of base0.5Va ÷ (0.1 × 20) = ½Va = 2.0cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2d8c80e9-8c6a-4c50-8ff0-1372ab62329f",
+      "question_text": [
+        "In the production of soap, concentrated sodium chloride solution is added to"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "Concentrated sodium chloride solution will the solubility of soap along the course of soap production. Options A,C,D are not appropriate",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the solubility of soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decrease the solubility of the soap",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "saponify the soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "emulsify the soap",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64b8227f-990b-4b97-9349-7f47890d460c",
+      "question_text": [
+        "Vulcanization involve the removal of"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Alkenes ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Vulcanizer is the removal of double bend in a chemical reaction. Option A,B,D can not be removed by vulcanizer",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "monometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a polymer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3dc3840c-ec6f-489c-9e82-56efddec833a",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem140.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-bromo-3-chlorobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3-bromo-2-chlorobutanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3-chloro-2-bromobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-chloro-3-bromobutanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1249bb53-2fb3-4866-83a8-bbb2ebc0dbd6",
+      "question_text": [
+        "In the experiment above, X is a mixture of nitrogen, carbon (IV) oxide and"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Nitrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem124.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "impurities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "inert gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxygen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40aa43c7-653a-4402-a02d-3a8c3db65cc5",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-ethylpentane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3,4-dimethylhexane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2,3-dimethylhexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-ethylhexane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d33b1bb-d310-4332-9fd7-67f04ea7072a",
+      "question_text": [
+        "Which of the following acts as both a reducing and an oxidizing agent?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Structure and General Properties of the Nonmetals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "SO2 = i.eIn H2SO2 act as oxidizing agent H2S + SO2 → 3S + 2H2OWhereas in water SO2 acts as reducing agents H2O + SO2 H2SO23",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "74fd4882-b908-42cc-a9f0-44a3b4cddb22",
+      "question_text": [
+        "When stem is passed over red hot carbon the substances produced are"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Hydrogen and carbon (ii) oxide will be formed when red steam is passed ever red-hot carbon. Option A,B,D are not produced through this process",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen and trioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogen, oxygen and carbon (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bfdcdad9-0eb2-452b-854d-6cb72091dfce",
+      "question_text": [
+        "In the electrolysis of brine the anode is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "In the industrial of brine carbon is the anode while mercury is the cathode. Options of A, B, C are not used in brine solution because they are alloy of mercury",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "platinum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "copper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b34a9842-a0c3-45a6-90f3-e5f4faad6213",
+      "question_text": [
+        "N2O4(g)→ 2NO2(g)In the endothermic reaction above, more products formed will be favored by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "A decrease in pressure will result in the breaking or splitting of a larger molecule into a simpler ones. Options A, B, D are not in conformance to the reaction",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A constant values",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an increase in pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a decrease pressure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a decrease volume",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fea5d411-3fd9-4fec-902d-67ff81f5bb91",
+      "question_text": [
+        "What volume of 0.5mldm3 H2SO4 will exactly neutralize 20cm3 of 0.1moldm3 NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Titration Curve ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2NaOH + H2SO4 → Na2SO4 + 2H2OCaVa) ÷ (CbVb) = ratio of acid / ratio of base0.5Va ÷ (0.1 × 20) = ½Va = 2.0cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1b9c2ca-157a-4f3d-b430-bd6465aed10d",
+      "question_text": [
+        "In the production of soap, concentrated sodium chloride solution is added to"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "Concentrated sodium chloride solution will the solubility of soap along the course of soap production. Options A,C,D are not appropriate",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the solubility of soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decrease the solubility of the soap",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "saponify the soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "emulsify the soap",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "102a4f3a-612e-4b46-b8af-2d0e1228bbaf",
+      "question_text": [
+        "Vulcanization involve the removal of"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Alkenes ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Vulcanizer is the removal of double bend in a chemical reaction. Option A,B,D can not be removed by vulcanizer",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "monometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a polymer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fcc5dd7e-fad4-409c-aacc-a90b988e3d57",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem140.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-bromo-3-chlorobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3-bromo-2-chlorobutanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3-chloro-2-bromobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-chloro-3-bromobutanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7764c1aa-b825-4798-8751-26fee7947561",
+      "question_text": [
+        "In the experiment above, X is a mixture of nitrogen, carbon (IV) oxide and"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Nitrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem124.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "impurities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "inert gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxygen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5de9df86-aa60-49ab-a225-1b88c9218838",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-ethylpentane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3,4-dimethylhexane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2,3-dimethylhexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-ethylhexane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b729398-ce21-4c42-9034-91513dffa3ce",
+      "question_text": [
+        "Which of the following acts as both a reducing and an oxidizing agent?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Structure and General Properties of the Nonmetals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "SO2 = i.eIn H2SO2 act as oxidizing agent H2S + SO2 → 3S + 2H2OWhereas in water SO2 acts as reducing agents H2O + SO2 H2SO23",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44398d64-9fbe-4c5d-9f7c-3f8669cc8761",
+      "question_text": [
+        "When stem is passed over red hot carbon the substances produced are"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Hydrogen and carbon (ii) oxide will be formed when red steam is passed ever red-hot carbon. Option A,B,D are not produced through this process",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen and trioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogen, oxygen and carbon (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c9d499fb-b1b0-4493-8a48-1a67d45c3fbb",
+      "question_text": [
+        "In the electrolysis of brine the anode is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "In the industrial of brine carbon is the anode while mercury is the cathode. Options of A, B, C are not used in brine solution because they are alloy of mercury",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "platinum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "copper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6afcc1c0-8f2d-4ad4-a820-d3d64a6cc4d7",
+      "question_text": [
+        "N2O4(g)→ 2NO2(g)In the endothermic reaction above, more products formed will be favored by"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "A decrease in pressure will result in the breaking or splitting of a larger molecule into a simpler ones. Options A, B, D are not in conformance to the reaction",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A constant values",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an increase in pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a decrease pressure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a decrease volume",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "905b58e3-a271-409e-b1da-2333dc5b273d",
+      "question_text": [
+        "What volume of 0.5mldm3 H2SO4 will exactly neutralize 20cm3 of 0.1moldm3 NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Titration Curve ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2NaOH + H2SO4 → Na2SO4 + 2H2OCaVa) ÷ (CbVb) = ratio of acid / ratio of base0.5Va ÷ (0.1 × 20) = ½Va = 2.0cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.8cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.3cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "841d6fac-2454-4b85-be98-378b40ddac29",
+      "question_text": [
+        "In the production of soap, concentrated sodium chloride solution is added to"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "Concentrated sodium chloride solution will the solubility of soap along the course of soap production. Options A,C,D are not appropriate",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the solubility of soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decrease the solubility of the soap",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "saponify the soap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "emulsify the soap",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "72024e32-1c16-4f2e-bc85-c93fac6b794b",
+      "question_text": [
+        "Vulcanization involve the removal of"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Alkenes ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Vulcanizer is the removal of double bend in a chemical reaction. Option A,B,D can not be removed by vulcanizer",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "monometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a polymer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb9579e6-816d-4f76-ab4a-be984e122255",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem140.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-bromo-3-chlorobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3-bromo-2-chlorobutanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3-chloro-2-bromobutanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-chloro-3-bromobutanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "412bf0a7-9df5-45dc-a77d-d318749c7d6e",
+      "question_text": [
+        "In the experiment above, X is a mixture of nitrogen, carbon (IV) oxide and"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Nitrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem124.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "impurities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "inert gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxygen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1d874b3-c304-4587-a9e7-b29a9aea858e",
+      "question_text": [
+        "The IUPAC nomenclature of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem123.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-ethylpentane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3,4-dimethylhexane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2,3-dimethylhexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-ethylhexane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42529871-66f0-43a3-86b8-f50e13ee55f4",
+      "question_text": [
+        "Which of the following acts as both a reducing and an oxidizing agent?"
+      ],
+      "examType": "jamb",
+      "year": "2004",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Structure and General Properties of the Nonmetals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "SO2 = i.eIn H2SO2 act as oxidizing agent H2S + SO2 → 3S + 2H2OWhereas in water SO2 acts as reducing agents H2O + SO2 H2SO23",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,4837 @@
+
+[
+    {
+      "id": "3b615afe-0658-4104-a8dd-be0056d48fa4",
+      "question_text": [
+        "if X = {all perfect squares less than 40} and y = {all odd numbers from 1 to 15}, find X ∩ Y"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "x = (1, 4, 9, 16, 25, 36} y = {1, 3, 5, 7, 9, 11, 13, 15} X ∩ y = {1, 9}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{9, 25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{3, 9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{1, 9}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{9}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eb7013dc-23d8-4d80-83a3-eaa737f21426",
+      "question_text": [
+        "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\) y = (1 + x)2 \\(\\frac{dy}{dx}\\) = 2(1 + x)  = 2 + 2x",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x - 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 + 2x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 + 2x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "06b9c4ed-fbe1-4d99-adf3-33fe1756fec5",
+      "question_text": [
+        "If y = x cosx, find \\(\\frac{dy}{dx}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "If y = x cosx, find \\(\\frac{dy}{dx}\\). Using product rule \\(\\frac{dy}{dx}\\) = cosx - x sinx",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos x - x sinx",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "sinx - x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sin x + x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cosx + x sin x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2144e60-03d8-40b8-be3b-7735b1024cc4",
+      "question_text": [
+        "Find the size of each exterior angle of a regular octagon."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Each exterior angle e = \\(\\frac{360^o}{8}\\)  = 45o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "51o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "526df1d8-e34d-4cd6-ab2a-ff742333d3bf",
+      "question_text": [
+        "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x  ∫\\(\\frac{x^2 - \\sqrt{x}}{x}\\)dx = ∫(\\(\\frac{x^2}{x} - \\frac {\\sqrt{x}}{x}\\))dx = ∫(x - x\\(\\frac{1}{2}\\))dx = \\(\\frac{x^2}{2}\\) - \\(\\frac{x^{\\frac{1}{2}}}{\\frac{1}{2}}\\) + k = \\(\\frac{x^2}{2}\\) - 2\\(\\sqrt{x}\\) + k",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x^2 - \\sqrt{x}}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{x^2 }{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " - \\(\\sqrt{x}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8eeda644-c289-48ba-a530-9d6df14e69cf",
+      "question_text": [
+        "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx  \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx = -2 sin x\\(∫^{\\frac{\\pi}{2}} _{0}\\) = 2(sin 0 - sin\\(\\frac{\\pi}{2}\\)) = 2(0 - 1)  = -2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3d88986-1517-4a21-802f-c826e124cdd3",
+      "question_text": [
+        "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "f(x) = 2x3 - x2 - 4x + 4 f(x) = 6x2 - 2x - 4 at turning point, f1(x) = 0  6x2 - 2x - 4 = 0, 3x2 - x - 2 = 0, 3x2 - 3x + 2x - 2 = 0 (3x + 2)(x - 1) = 0, x = -\\(\\frac{2}{3}\\) or 1 f11(x) = 12x - 2, when x = \\(\\frac{2}{3}\\), f11(x) = 12(-\\(\\frac{2}{3}\\)) - 2 = -10 < 0 \\(\\to\\) f(x) is maximum @ x = -\\(\\frac{2}{3}\\) when x = 1, f11(x) = 12(1)- 2 = 10 > 0 \\(\\to\\) f(x) is maximum @ x = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2978ed1-0302-4cfb-9ea3-d3a4f5cd64a4",
+      "question_text": [
+        "The volume of a hemispherical bowl is 718\\(\\frac{2}{3}\\) cm3. Find its radius."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Volume of hemisphere = \\(\\frac{2}{3}\\pi r^3\\) \\(\\frac{2}{3}\\pi r^3\\) = 718\\(\\frac{2}{3}\\) \\(\\frac{2}{3}\\) x \\(\\frac{22}{7} r^3\\) = \\(\\frac{2156}{3}\\) r3 = \\(\\frac{2156}{3}\\) x \\(\\frac{3}{2}\\) x \\(\\frac{7}{22}\\) r3 = 49 x 7 r = 3\\(\\sqrt{343}\\) = 7cm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.0cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.6cm[\\(\\pi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6caf83c-1eee-4104-9328-ab123f7c121d",
+      "question_text": [
+        "A man 40m from the foot of a tower observes the angle of elevation of the tower to be 30o, Determine the height of the tower"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "tan 30o = \\(\\frac{h}{40m}\\) h = 40 tan 30o = 40 x \\(\\frac{1}{\\sqrt{30}}\\)m by rationalizing  h = \\(\\frac{40\\sqrt{3}}{3}\\)m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20mD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0b4821ae-d468-4824-8236-de287539188e",
+      "question_text": [
+        "If the lines 2y - kx + 2 = 0 and y + x - \\(\\frac{k}{2}\\) = 0 intersect at (1, 2), find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "2y - kx + 2 = 0, @ x = 1, y = -2 2(-2) - k(1) + 2 = 0 -4 - k + 2 = 0  k = -2 Or y + x - \\(\\frac{k}{2}\\) = 0, @ x= 1, y = -2 -2 + 1 - \\(\\frac{k}{2}\\) = 0 -1 = \\(\\frac{k}{2}\\) k = -1 x 2  = -2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2d058393-7a9b-4edf-98bb-6aed4899c191",
+      "question_text": [
+        "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "L1\\(\\Rightarrow\\) 3Y = 4X - 1 Y = \\(\\frac{4}{3}\\)X - \\(\\frac{1}{3}\\) therefore m1 = \\(\\frac{4}{3}\\) L2\\(\\Rightarrow\\) qy = x + 3 y = \\(\\frac{1}{q}\\)X + \\(\\frac{3}{q}\\) therefore, m2 = \\(\\frac{1}{q}\\) For parallel lines, m1 = m2; \\(\\frac{4}{3}\\) = \\(\\frac{1}{q}\\) therefore q = \\(\\frac{3}{4}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{4}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d80c29d-25cc-4598-aa60-61d10be504a2",
+      "question_text": [
+        "A particle p moves between points S and T such that angle SPT is always constant. Find the locus of P."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "The locus of P is a semi-circle with ST as diameter.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it is a straight line perpendicular to ST.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "it is a quadrant of a circle with ST as diameter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it is a perpendicular bisector of ST",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "it is a semi-circle with ST as diameter",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7a2ccbca-e665-4138-940e-0054f2534a3c",
+      "question_text": [
+        "The area of a square is 444 sqcm. Find the length of the diagonal."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Area S2 = 144sqcm  s = \\(\\sqrt{144}\\) = 12 cm  Length of diagonal = \\(\\sqrt{12^2 + 12^2}\\) = \\(\\sqrt{144}\\) + 144  = \\(\\sqrt{228}\\) = 12\\(\\sqrt{2}\\)cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12\\(\\sqrt{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cmC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e3a856a-28a5-4665-be7e-016ff0a6a747",
+      "question_text": [
+        "Find the value of \\(\\frac{tan60^o - tan30^o}{tan60^o + tan30^o}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\frac{tan60^o - tan30^o}{tan60^o + tan30^o}\\) = \\(\\frac{\\sqrt{3} - \\frac{1}{\\sqrt{3}}}{\\sqrt{3} - \\frac{1}{\\sqrt{3}}}\\) = \\(\\frac{3 - 1}{3 + 1}\\) = \\(\\frac{2}{4}\\) = \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{3}{\\sqrt{3}}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b77d526-6aaa-47a1-ac00-4b0aefaf05a9",
+      "question_text": [
+        "Calculate the length of an arc of a circle of diameter 14cm, which subtends an angle of 90o at the centre of the circle"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Length of an arc \\(\\frac{\\theta}{360^o}\\pi d\\) = \\(\\frac{90^o}{360^o}\\) x \\(\\pi\\) x 4cm = 4\\(\\pi\\) cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14\\(\\pi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7\\(\\pi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " cmC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "192bbb09-2c88-4d32-83ef-bc7a580bb892",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Age in years} & 10 & 11 & 12 \\\\ \\hline \\text{No. of pupils} & 6 & 27 & 7 \\end{array}\\)The table above shows the number of pupil in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Total number of pupils = 6 + 27 + 7 = 40 Number of pupils that are at least 11 years old = 27 + 7 = 34  therefore prob. (at least 11 years) = \\(\\frac{34}{17}\\) = \\(\\frac{17}{20}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{27}{40}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{30}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dddab32f-5c39-4707-9ead-06c526452218",
+      "question_text": [
+        "a senatorial candidate had planned to visit seven cities prior to a primary election. However, he could only visit four of the cities. How many different itineraries could be considered?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "No of ways = \\(^{7}P_{4}\\)  = 7 x 6 x 5 x 4 = 840",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "840",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "720",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "640",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "520",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fad1228c-7899-4519-abae-a0a6b40b932b",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Marks} & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline \\text{Frequency} & 5 & y - 1 & y & 9 & 4 & 1\\end{array}\\)The table above gives the frequency distribution of marks obtained by a group of students in a test. If the total mark scored is 200, the value of y is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "(3 x 5) + (4(y - 1)) + (5y) + (6 x 9) + (7 x 4) + 8 = 200 15 + 4y - 4 + 5y + 54 + 28 + 8 = 200 9y + 105 - 4 = 200 9y + 101 = 200 9y = 200 - 101 9y = 99 y = 11",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fea799a0-92ed-4799-a2b1-56a2850a9681",
+      "question_text": [
+        "What is the mean deviation 0f 3, 5, 8, 11, 12 and 21?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "mean(\\(\\bar{x}\\)) = \\(\\frac{\\sum x}{n}\\)  = \\(\\frac{7 + 5 + 2 + 1 + 2 + 11}{6}\\) = 10 M.D = \\(\\frac{7 + 5 + 2 + 1 + 2 + 11}{6}\\) = \\(\\frac{28}{6}\\) = 4.7",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "37",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.7",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3b959451-f681-4b87-a25a-b0045614ebbd",
+      "question_text": [
+        "W \\(\\alpha\\) L2 and W = 6 when L = 4. If L = \\(\\sqrt{17}\\), find W."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "W \\(\\alpha\\) L2, \\(\\frac{W}{L^2}\\) = k(constant) \\(\\frac{6}{42}\\) = k \\(\\frac{W}{(\\sqrt{17})^2}\\) W = \\(\\frac{17 \\times 6}{16}\\) = \\(\\frac{51}{8}\\) = 6\\(\\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6\\(\\frac{3}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{7}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cf889e50-60f9-4b90-a90c-a181b664f440",
+      "question_text": [
+        "A binary operation \\(\\Delta\\) is defined is defined by a \\(\\Delta\\) b = a + b + 1 for any real numbers a and b. Find the inverse of the real number 7 under the operation \\(\\Delta\\), if the identify element is -1"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "a \\(\\Delta\\) b = a + b + 1 a \\(\\Delta\\) a-1 = e 7 \\(\\Delta\\) 7-1 = 7 + 7-1 therefore 7-1 = -1 - 8  = -9  the inverse of 7 under the operation \\(\\Delta\\) is -9",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-9E",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "91599f0d-41a6-46e8-919f-f553ba51b73b",
+      "question_text": [
+        "If f (x) = 3x - 2, P = \\(\\begin{pmatrix} 2 & 1 \\\\ -1 & 0 \\end{pmatrix}\\) and I is 2 X 2 identity matrix, evaluate f(P)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "f(x) = 3x - 2, f(P) = 3p - 2I = 3\\(\\begin{pmatrix} 2 & 1 \\\\ -1 & 0 \\end{pmatrix}\\) - 2\\(\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}\\) = \\(\\begin{pmatrix} 6 & 3 \\\\ -3 & 0 \\end{pmatrix}\\) - \\(\\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix}\\) = \\(\\begin{pmatrix} 6 & -2 \\\\ -3 & 0 \\end{pmatrix}\\)\\(\\begin{pmatrix} 3 & -0 \\\\ 0 & -2 \\end{pmatrix}\\) = \\(\\begin{pmatrix} 4 & 3 \\\\ -3 & -2 \\end{pmatrix}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{pmatrix} 6 & 3 \\\\ -3 & 0 \\end{pmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "813681df-ca7a-48ed-b817-3ad5f7da7150",
+      "question_text": [
+        "Factorize 2t2 + t - 15"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "2t2 + t - 15 = 2t2 - 5t + 6t - 15 = t(2t - 5) + 3(2t - 5) = (t + 3)(2t - 5)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(t + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(2t - ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(2t + 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "61a7222b-7f68-46db-8316-06f4a7d01a40",
+      "question_text": [
+        "A binary operation \\(\\oplus\\) on real numbers is defined by x \\(\\oplus\\) y = xy + x + y for any two real numbers x and y. The value of (-\\(\\frac{3}{4}\\)) \\(\\oplus\\) 6 is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "x \\(\\oplus\\) y = xy + x + y  (-\\(\\frac{3}{4}\\)) \\(\\oplus\\) 6 = -\\(\\frac{3}{4.6}\\) - \\(\\frac{3}{4}\\) + 6  = -\\(\\frac{9}{2}\\) - \\(\\frac{3}{4}\\) + 6  = -\\(\\frac{3}{4}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{3}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{45}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dd15bed9-8406-4be7-af50-88e0415997fb",
+      "question_text": [
+        "The solution of the quadratic inequality (x2 + x - 12) \\(\\geq\\) 0 is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "(x2 + x - 12) \\(\\geq\\) 0 , (x - 3)(x + 4) \\(\\geq\\) 0  For the condition to hold, each of (x - 3) and (x + 4) must be of the same sign .i.e. x - 3 \\(\\geq\\) 0 and x + 4 \\(\\geq\\) 0  or x - 3\\(\\leq\\) 0 and x + 4 \\(\\leq\\) 0  when x \\(\\geq\\) 3, the condition is satisfied  when x \\(\\geq\\) -4, the condition is not satisfied.  when x \\(\\leq\\) 3, the condition is not satisfied when x \\(\\leq\\) -4 , the condition is not satisfied. Thus, the solution of the inequality is x \\(\\geq\\) 3 or x \\(\\leq\\) -4 ,",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 3 or x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " -4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ebea5cb-1db7-4b5d-88a0-61aebe8655c1",
+      "question_text": [
+        "Make L the subject of the formula if d = \\(\\sqrt{\\frac{42W}{5L}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "d = \\(\\sqrt{\\frac{42W}{5L}}\\), square both sides = d2 = \\(\\frac{42W}{5L}\\) cross multiply: 5d2L = 42W  divide both sides by 5d2 L = \\(\\frac{42W}{5d^2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{d}\\sqrt{\\frac{42W}{5}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{42}{5dW}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2da84fd9-88b4-49d8-a7ce-7375814589f0",
+      "question_text": [
+        "The nth term of the sequence \\(\\frac{3}{2}\\), 3, 7, 16, 35, 74, ..., is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "T1 = \\(\\frac{3}{2}\\) = \\(\\frac{5}{2}\\) - 1 T2 = 3 = 5 - 3 T3 = 7 = 10 - 3 = 5.2 - 3  T4 = 16 = 20 - 4 = 5.22 - 4 T5 = 35 = 40 - 5 = 5.23 - 5 T6 = 74 = 80 - 6 = 5.24 - 6 Tn = 5.2n - 2 - n",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.2n - 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.2n - 2 - n",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "nD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b22d32dc-763e-427b-a70a-671f35cc4ed6",
+      "question_text": [
+        "Evaluate\\(\\begin{pmatrix} 3 & -2 \\\\ -7 & 5\\end{pmatrix}\\) + 2\\(\\begin{pmatrix} -2 & 4 \\\\ 3 & -1\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\begin{pmatrix} 3 & -2 \\\\ -7 & 5\\end{pmatrix}\\) + 2\\(\\begin{pmatrix} -2 & 4 \\\\ 3 & -1\\end{pmatrix}\\) = \\(\\begin{pmatrix} 3 & -2 \\\\ -7 & 5\\end{pmatrix}\\) + \\(\\begin{pmatrix} -4 & 8 \\\\ 6 & -2\\end{pmatrix}\\) = \\(\\begin{pmatrix} 3 & -4 \\\\ -7 & 6\\end{pmatrix}\\) + 2\\(\\begin{pmatrix} -2 & 8 \\\\ 5 & -2\\end{pmatrix}\\)  = \\(\\begin{pmatrix}-1 & 6 \\\\ -1 & 3\\end{pmatrix}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{pmatrix}-1 & 6 \\\\ -1 & 3\\end{pmatrix}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{pmatrix} 3 & 4 \\\\ -2 & 6\\end{pmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24c9ad04-d7d8-4f66-9d61-6f19a9c53743",
+      "question_text": [
+        "Given: p = {1, 3, 5, 7, 9, 11} and Q = {2, 4, 6, 8, 10, 12}. Determine the relationship between P and Q"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "p = {1, 3, 5, 7, 9, 11}, Q = {2, 4, 6, 8, 10, 12} p ∩ Q = \\(\\phi\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P = Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "P \\(\\supset",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " Q",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "p ∩ Q = \\(\\phi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44c49efa-be40-48f1-ac1d-04b391f35f67",
+      "question_text": [
+        "Simplify \\(\\frac{3}{5}\\) \\(\\div\\) (\\(\\frac{2}{7}\\) x \\(\\frac{4}{3}\\) \\(\\div\\) \\(\\frac{4}{9}\\))"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\frac{3}{5}\\) \\(\\div\\) (\\(\\frac{2}{7}\\) x \\(\\frac{4}{3}\\) \\(\\div\\) \\(\\frac{4}{9}\\)) = \\(\\frac{2}{3}\\) \\(\\div\\) (\\(\\frac{2}{7}\\) x \\(\\frac{4}{3}\\) x \\(\\frac{9}{4}\\)) = \\(\\frac{3}{5}\\) \\(\\div\\) \\(\\frac{6}{7}\\) = \\(\\frac{3}{5}\\) x \\(\\frac{7}{6}\\) = \\(\\frac{7}{10}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{6}{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4}{5}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "682acb24-9132-4337-9ef5-7d6b955c019a",
+      "question_text": [
+        "Find the value of x for which 2(32x - 1) = 162"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "2(32x - 1) = 162, 32x - 1 = 81  = 34 2x - 1 = 4 , 2x = 5 x = \\(\\frac{5}{2}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "592dc0f5-2cf2-4d60-bc0c-fbe7465dc773",
+      "question_text": [
+        "Find y, if \\(\\sqrt{12} - \\sqrt{147}\\) + y\\(\\sqrt{3}\\) = 0"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\sqrt{12} - \\sqrt{147}\\) + y\\(\\sqrt{3}\\) = 0 \\(\\sqrt{4 \\times 3 } - \\sqrt{49 \\times 3}\\) + y\\(\\sqrt{3}\\) = 0 y - 5 = 0  y = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "78f008f6-9317-4aea-a725-2488b12b8f1c",
+      "question_text": [
+        "Evaluate \\(\\frac{(0.5625)^2 - (0.4375)^2}{0.04}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{(0.5625)^2 - (0.4375)^2}{0.04}\\) = \\(\\frac{(0.5625 - 0.4375)(0.5625 - 0.4375)}{0.04}\\) = \\(\\frac{0.1250 \\times 1}{0.04}\\) = \\(\\frac{12.50}{0.04}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.131",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.13",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9254fd3b-0098-48d5-9111-d949357a1b6e",
+      "question_text": [
+        "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets ₦600 and Lawal ₦800. How old is Lawal?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "M + L = 28,  M : L = 600 : 800 = 3 : 4 \\(\\frac{M}{L}\\) = \\(\\frac{3}{4}\\) \\(\\to\\) M = \\(\\frac{3}{4}\\)L \\(\\frac{3}{4}\\)L + L = 28 \\(\\frac{7L}{4}\\) = 28 L = \\(\\frac{4 \\times 28}{7}\\) = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14 years",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20 years",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 years",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16 years",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "71c379ed-8749-4f56-a4d8-8b149ae457c9",
+      "question_text": [
+        "x10 = 12145 find x."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "x10 = 1214 5, 1 x 53 + 2 x 52 + 1 x 51 + 4 x 5o = 125 + 50 + 5 + 4 18410 x = 184",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "124",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "184",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "180",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b8e8031-97ed-41d7-af60-5b7aaccb0617",
+      "question_text": [
+        "In a basket of fruits, there are 6 grapes, 11 bananas and 13 oranges, if one fruit is chosen at random, what is the probability that the fruit is either a grape or a banana?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Pgrape or Pbanana = \\(\\frac{6}{30}\\) + \\(\\frac{11}{30}\\)  = \\(\\frac{17}{30}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{17}{30}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{11}{30}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd7df647-a846-4710-be51-6f54faabe09c",
+      "question_text": [
+        "Each of the interior angles of a regular polygon is 140o. How many sides has the polygon?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "For a regular polygon of n sides n = \\(\\frac{360}{\\text{Exterior angle}}\\) Exterior < = 180\\(^{\\circ}\\) - 140\\(^{\\circ}\\) = 40\\(^{\\circ}\\) n = \\(\\frac{360}{40}\\) = 9 sides",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a1f86a3-bd9e-40fb-84e5-f3bf4a1d8dba",
+      "question_text": [
+        "In a basket, there are 6 grapes, 11 bananas and 13 oranges. If one fruit is chosen at random, what is the probability that the fruit is either a grape or a banana?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math101.jpg",
+      "explanation": "Total fruits 6 + 11 + 13 = 30,prob. (Grape) = \\(\\frac{6}{30}\\)prob. (Banana) = \\(\\frac{11}{30}\\)= \\(\\frac{11}{30}\\) + \\(\\frac{6}{30}\\) = \\(\\frac{17}{30}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{5}{30}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{11}{30}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b65ced46-92b7-4c22-9ae4-3206c363e722",
+      "question_text": [
+        "The graph above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math99.jpg",
+      "explanation": "The roots of the graph are -2, -1 and 1y = (x + 2)(x + 1)(x - 1) = (x + 2)(x2 - 1)= x3 + 2x2 - x - 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = x3 - 4x2 + 5x - 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = x3 - 3x - 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = x3 - 4x + 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = x3 + 2x2 - x - 2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dcc31594-d72d-471d-9e75-534fab0fde54",
+      "question_text": [
+        "If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively. Find the product of the modal and the median number"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Arrange in ascending order2, 5, 5, 6, 6, ,6, 6, 8, 8Position of median = N/2 = 8/2 = 4th and 5th∴Median = (6+6) / 2 = 12/2 = 6Mode the item that repeat itself most = 6∴Product of modal and median number = 6 x 6 = 36",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "48",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "829893a6-a889-4b88-8367-93db9b91d552",
+      "question_text": [
+        "In a basket, there are 6 grapes, 11 bananas and 13 oranges. If one fruit is chosen at random. What is the probability that the fruit is either a grape or a banana"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Number of grapes = 6Number of banana = 11Number of oranges = 13Total = 30P(Grape) = 6/30, P(Banana) = 11/30P(Orange) = 13/30∴P(Either grape or banana) = 6/30 + 11/30= 17/30",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6/30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "17/30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/30",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e416b700-af0a-4cd5-ac47-5329ce789aaa",
+      "question_text": [
+        "The histogram above represents the weights of students who travelled out to their school for an examination. How many people made the trip."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math37.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "78",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "38",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "29",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "69",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "10e3d354-756d-4107-a926-9edc50929e3a",
+      "question_text": [
+        "A senatorial candidate had planned to visit seven cities prior to a primary election. However, he could only visit four of the cities. How many different itineraries could be considered?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Number of itineraries = 7P4=\\(\\frac{7!}{(7-4)!}\\\\=\\frac{7!}{3!}\\\\=\\frac{7  \\times 6 \\times 5 \\times 4 \\times 3!}{3!}\\\\=840\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "640",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "840",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "520",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "920",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94c9f8a3-6d19-4cee-8718-8b2ddd4a3a84",
+      "question_text": [
+        "The pie chart above illustrate the amount of private time a student spends in a week studying various subjects. Find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math36.jpg",
+      "explanation": "K + 5K + 3K + 75 + 105 = 360 (at a point)6K + 180 = 3606K = 360 - 1806K = 180k = 180/6 = 30\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "90\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c351d5f-dcd9-4579-9e54-9a230dcea924",
+      "question_text": [
+        "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 1 years old?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math35.jpg",
+      "explanation": "P(At east 11 yrs) = P(11yrs) + P(12yrs)= 27/40 + 7/40= 34/40= 17/20",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27/40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "17/20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "33/40",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c360049c-2f1a-4f70-a96c-adf8951b924f",
+      "question_text": [
+        "What is the mean deviation of 3, 5, 8, 11, 12 and 21?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Mean \\(= \\bar{x} = \\frac{60}{6} = 10\\)mean deviation \\(= \\frac{\\sum|x-\\bar{x}|}{n} = \\frac{28}{6}\\)= 4.7",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "013365de-2994-4288-85c1-fc00a307d1a5",
+      "question_text": [
+        "The table above gives the frequency distribution of marks obtained by a group of students in a test. If the total mark scored is 200, calculate the value of y"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Total mark scored = 200∴200 = 15 + 4y - 4 + 5y + 54 + 28 + 8 200 = 9y + 101200 - 101 = 9y99 = 9y∴y = 11",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c4709a25-8778-4636-8204-1b0d0f04daf3",
+      "question_text": [
+        "In how many ways can 6 subjects be selected from 10 subjects for an examination"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(^{10}C_6 = \\frac{10!}{(10-6)!6!}=\\frac{10!}{4!6!}\\\\=\\frac{(10\\times 9\\times 8\\times 7 \\times 6!)}{4\\times 3\\times 2\\times 1\\times 6!}\\\\=210\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "218",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "216",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "215",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "210",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "08682474-35a5-4198-8e94-3363aff45b71",
+      "question_text": [
+        "Integrate \\(\\frac{x^2 -\\sqrt{x}}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(\\int \\frac{x^2 -\\sqrt{x}}{x} = \\int \\frac{x^2}{x} - \\frac{x^{\\frac{1}{2}}}{x}\\\\\\int x - x^{\\frac{-1}{2}}\\\\=\\left(\\frac{1}{2}\\right)x^2 - \\frac{x^{\\frac{1}{2}}}{\\frac{1}{2}}+K\\\\=\\frac{x^2}{2}-2x^{\\frac{1}{2}}+K\\\\=\\frac{x^2}{2}-2\\sqrt{x}+K\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x^2}{2}-2\\sqrt{x}+K",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2(x^2 - ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "}{3x}+K\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "15f205b0-20fe-4e95-87b8-5c6b7bb14fe7",
+      "question_text": [
+        "If y = x cos x, find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "y = x cos xdy/dx = 1. cos x + x (-sin x)= cos x - x sin x",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sin x - x cos x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sin x + x cos x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cos x + x sin x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cos x - x sin x",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "40ebf6fd-4b4c-434d-a049-c774ea6010af",
+      "question_text": [
+        "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "f(x) = 2x3 - x2 - 4x – 4f’(x) = 6x2 - 2x – 4As f’(x) = 0Implies 6x2 - 2x – 4 = 03x – x – 2 = 0 (By dividing by 2)(3x – 2)(x + 1) = 03x – 2 = 0 implies x = -2/3Or x + 1 = 0 implies x = -1f’(x) = 6x2 - 2x – 4f’’(x) = 12x – 2At max point f’’(x) < 0∴f’’(x) = 12x – 2 at x = -1= 12(-1) – 2= -12 – 2 = -14∴Max at x = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "- 2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "- 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "afb11a9d-df5c-4c10-b270-3ee0f4a74d76",
+      "question_text": [
+        "Determine the value of \\(\\int_0 ^{\\frac{\\pi}{2}}(-2cos x)dx\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\int_0 ^{\\frac{\\pi}{2}}(-2cos x)dx = [-2sin x + c]_0 ^{\\frac{\\pi}{2}}\\\\=(-2sin\\frac{\\pi}{2}+c+2sin0-c)\\\\=-2sin90+c+2sin0-c\\\\=-2(1)+2(0)\\\\=-2\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "655fdf5a-07cf-4a0e-92ea-a24ba881f5a6",
+      "question_text": [
+        "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "x⊕y = xy + x + y = -3/4 (6) + (-3/4) + 6= -9/2 - 3/4 + 6= (-18-3+3+24) / 4= 3/4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-9/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee7b8242-c25e-485c-bf34-6bdc8a8994cb",
+      "question_text": [
+        "The graph above is represented by"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math34.jpg",
+      "explanation": "x = -2, x = -1 and x = 1then the factors; x+2, x+1 and x-1Product of the factors; (x+2)(x+1)(x-1)= y = (x + 2)(x2 - x + x - 1)= y = (x+2)(x2-1)x3 - x + 2x2 - 2 = yx3 + 2x2 - x - 2 = y",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = x3 - 3x - 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = x3 + 2x2 - x - 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = x3 - 4x2 + 5x - 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = x3 - 4x + 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f14e0473-ec2a-4419-89d7-11615c89aac9",
+      "question_text": [
+        "Make L the subjects of the formula if \\(\\sqrt{\\frac{42w}{5l}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\sqrt{\\frac{42w}{5l}}\\)square both side of the equation \\(d^2 = \\left(\\sqrt{\\frac{42W}{5l}}\\right)^2\\\\d^2 = \\frac{42W}{5l}\\\\5ld^2=42W\\\\l = \\frac{42W}{5d^2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\sqrt{\\frac{42w}{5d}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{42W}{5d^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "976d4e71-4a75-4545-8d81-6340231a6fa5",
+      "question_text": [
+        "The solution of the quadratic inequality (x3 + x - 12) ≥ 0 is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "(x3 + x - 12) ≥ 0(x + 4)(x - 3) ≥ 0Either x + 4 ≥ 0 implies x ≥ -4Or x - 3 ≥ 0 implies x ≥ 3∴ x ≥ 3 or x ≥ -4",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x ≥ -3 or x ≤ 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x ≥ 3 or x ≥  -4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x ≤ 3 or x v -4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x ≥ 3 or x ≤ -4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8cd5536-1bb7-4cd3-a7e6-6aadf824bfad",
+      "question_text": [
+        "Factorize 2t2 + t - 15"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "2t2 + t - 15 = (2t-5)(t+3)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2t - ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(t + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(t + 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0f524b82-68c0-40cb-95d5-6c37e51d12b3",
+      "question_text": [
+        "W ∝ L2 and W = 6 when L = 4. If L = √17 find W"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "W ∝ L2W = KL2K = W/L2K = 6/42K = 6/16 = 3/8W = 3/8 L2W = 3/8(√17)2W = 3/8 x 17W = 51/8 = 63/8",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "67/8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "65/8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "63/8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "61/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "74145b1d-b84b-42da-8a86-3ba19b83f8f9",
+      "question_text": [
+        "A binary operation Δ is defined by aΔb = a + b + 1 for any numbers a and b. Find the inverse of the real number 7 under the operation Δ, if the identity element is -1"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "a*e = a + e + 1 = aimplies e+ 1 = 0∴ e = -17 * e = -1∴ a + 7 + 1 = -1a + 8 = -1a+8 = -1a = -1-8a = -9",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "721c44f5-3fae-4418-a28e-46a342c630a3",
+      "question_text": [
+        "The nth term of the sequence 3/2, 3, 7, 16, 35, 74 ..... is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "3/2, 3, 7, 16, 35, 74, ....Using the method of substitution When n = 1, 5 . 2n-2 - 1 = 5 . 21-2 - 1= 5 x 2-1 - 1= 5 x 1/2 - 1= 5/2 - 1 = 3/2When n = 1, 5 . 2n-2 - n  = 5 . 22-2 - 2= 5 x 20 - 2= 5 x 1 – 2 = 3When n = 3, 5 . 2n-2 - n  = 5 . 23-2 - 3= 5 x 21 - 3= 5 x 2 – 3 = 10 -3 = 7When n = 4, 5 . 2n-2 - n  = 5 . 24-2 - 4= 5 x 22 - 4= 5 x 4 – 4 = 20 – 4 = 16When n = 5, 5 . 2n-2 - n  = 5 . 25-2 - 5= 5 x 23 - 5= 5 x 8 – 5 = 40 – 5 = 35When n = 6, 5 . 2n-2 - n  = 5 . 26-2 - 6= 5 x 24 - 6= 5 x 16 – 6 = 80 – 6 = 74∴ 5 . 2n-2 - 1 = 3/2, 3, 7, 16, 35, 74",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 . 2n-2 - n",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 . 2n-2 - (n+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " / 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3 . 2n-2D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e826ad42-74bf-4a7c-b9ad-9134995553dc",
+      "question_text": [
+        "Find the sum to infinity of the series \\(2+\\frac{3}{2}+\\frac{9}{8}+\\frac{27}{32}+......\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(a=2\\\\r = \\frac{3}{4}\\\\S = \\frac{a}{1-r}\\\\S= \\frac{2}{1-\\frac{3}{4}}\\\\= \\frac{2}{\\frac{1}{4}}\\\\S = \\frac{2}{1}\\times \\frac{4}{1}\\\\= 8\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "73794762-f4d9-4ff7-a9a3-9bb12bf29fd4",
+      "question_text": [
+        "Find y, if \\(\\sqrt{12}-\\sqrt{147}+y\\sqrt{3} = 0\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\sqrt{12}-\\sqrt{147}+y\\sqrt{3} = 0\\\\\\sqrt{4\\times 3}-\\sqrt{49\\times 3}+y\\sqrt{3} = 0\\\\2\\sqrt{3}-7\\sqrt{3}+y\\sqrt{3} = 0\\\\y\\sqrt{3} = 7\\sqrt{3} - 2\\sqrt{3}\\\\y=\\frac{5\\sqrt{3}}{\\sqrt{3}}\\\\y = 5\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3611378-db56-484f-bf75-0d8dbff2bfef",
+      "question_text": [
+        "If x10 = 12145 find x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "x10 = 12145= x10 = 1 x 53 + 2 x 52 + 1 * 51 + 4 x 50= 1 x 125 + 2 x 25 + 1 x 5 + 4 x 1 = 125 + 50 + 5 + 4 = 184",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "124",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "184",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "180",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d702feb8-7120-41c5-b105-8f09e4b3699a",
+      "question_text": [
+        "Evaluate \\(\\frac{(05652 - 04375)^2}{0.04}\\) correct to three significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\frac{(0.5652 - 0.4375)^2}{0.04}\\\\\\frac{(0.5625+0.4375)(0.5625-0.4375)}{0.04}\\\\\\frac{1.000\\times 0.125}{0.04}\\\\=3.125\\\\=3.13\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.13",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.313",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f699e5ee-4346-481a-88ec-dc1d5042bd90",
+      "question_text": [
+        "Find the value of x for which 2(32x-1) = 162"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "2(32x-1) = 162 32x-1 = 162/232x-1 = 8132x-1 = 322x - 1 = 4 (equating the indices)2x = 55/2x =",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3452760a-103f-4bdd-b8ff-a7279dd9a20b",
+      "question_text": [
+        "If log102 = x, express log1012.5 in terms of x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "log1012.5 = log10 121/2= log1025/2= log1025 - log102= log1052 - log102= 2log105 - log102= 2log1010/2 - log102= 2(1-x)- x= 2 - 2x – x= 2 – 3x",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2(1 + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 + 3x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2(1 - x",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "03051138-1399-42a2-85c8-7ab6e4cc4496",
+      "question_text": [
+        "A man made a profit of 5% when he sold an article for N60,000.00. How much would he have sell the article to make a profit of 26%"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "5% profit = 100 + 5 = 105%26% profit = 100 + 26 = 126%∴ 105% → N60,0001% → 60000/15126% = 1000/105 x 126/1=N72,000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N68,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N72,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N65,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N70,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c101d74c-3006-4014-9386-79f85be13177",
+      "question_text": [
+        "GivenP = {1, 3, 5, 7, 9, 11}And Q = {2, 4, 6, 8, 1, 12}. Determine the relationship between P and Q"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "P = {1, 3, 5, 7, 9, 11}Q = {2, 4, 6, 8, 1, 12}P∩Q = {1, 3, 5, 7, 9, 11}∩{2, 4, 6, 8, 1, 12}= {} = ∅",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "P∩Q = ∅",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "P ⊂ Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Q⊂P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P = Q",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d84b83e-3dda-4b41-bc92-de63f2476994",
+      "question_text": [
+        "Evaluate 101122 - 10122"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "101122 - 10122 = (1x23 + 0x22 + 1x21 + 1x20)2 - (1x22 + 0x21 + 1x22)2(1x8 + 0x4 + 1x2 + 1x1) 2 - (1x4 + 0x2 + 1x1) 2)= (8 + 0 + 2 + 1) 2 - (4 + 0 + 1) 2= 112 - 52= 16 x 6 = 969610 to base 2 2/96 = 48 R 02/48 = 24 R 02/24 = 12 R 02/12 = 6 R 02/6 = 3 R 02/3 = 1 R 12/1 = 0 R 111000002",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1100002",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1102",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11000002",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "110002",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "333b1bcd-704a-4b6b-9523-a410b1bbab66",
+      "question_text": [
+        "If X = {all the perfect squares less than 40}Y = {all the odd numbers fro, 1 to 15}. Find X ∩ Y."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "All the perfect squares < 40X = {1, 4, 9, 16, 25, 36}All the odd numbers from 1 to 15Y = {1, 3, 5, 7, 9, 11, 13, 15}X ∩ Y = {1, 9}",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{3, 9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{9, 25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1, 9}",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b2acf3c6-9e77-45ab-a64a-921e9a6edeae",
+      "question_text": [
+        "Calculate the length of an arc of a circle diameter 14 cm, which substends an angle of 90\\(^{\\circ}\\) at the center of the circle"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Length of an arc = θ/360 x 2πr90/360 x 2 x π x 7= 7π/2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7π/2 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7π  cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "14π  cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7π/4 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6b89a85-beb4-40f9-9757-b6f6baf31777",
+      "question_text": [
+        "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "If the line 3y = 4x – 1 is parallel t[ line qy = x + 3Implies gradient of 3y = 4x – 1Y = 4/3x - 1/3∴Gradient = 4/3Gradient of line qy = x + 3Y = 1/qx + 3/q∴ Gradient = 1/q4/3 = 1/q4q = 3Q = 3/4",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dedc726a-46cd-4512-9390-63267a3c0d86",
+      "question_text": [
+        "The volume of a  hemispherical bowl is \\(718\\frac{2}{3}\\). Find its radius ."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Volume of bowl \\(\\frac{2}{3}\\pi r^2\\\\718\\frac{2}{3}=\\frac{2}{3}\\pi r^2\\\\\\frac{2156}{3}=\\frac{2}{3} \\times \\frac{22}{7} \\times r^3∴r^3 = \\frac{2156 \\times 3 \\times 7}{3 \\times 2 \\times 22}\\\\r^3 = 343\\\\r = \\sqrt[3]{343}\\\\r= 7.0cm\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.6 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7.0 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.8 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "90886c40-8a00-4543-8879-c7df84aad057",
+      "question_text": [
+        "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus off P"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "It is a semi circle with ST as diameter",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "It is a perpendicular bisector of St",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "It is a quadrant of a circle with ST as diameter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "It is a straight line perpendicular to ST",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "839819e2-b378-4523-9320-5419ee02311a",
+      "question_text": [
+        "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 Intersect at (1, -2), find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "If the point of intersection is (1, -2), it implies that x = 1 and y = -2 when the two equation are solved simultaneously.∴ substitute x = 1 and y = -2 in any of the equations 2y - k x + 2 = 02(-2) - k(1) + 2 = 0-4 - k + 2 = 0-4 + 2 = k -2 = k",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef4c1282-6f61-46d0-812c-d5437590e464",
+      "question_text": [
+        "A man 40 m from the foot of a tower observes the angle of elevation of the tower to be 30\\(^{\\circ}\\). Determine the height of the tower."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(Tan 30 = \\frac{h}{40}\\\\\\frac{1}{\\sqrt{3}}=\\frac{h}{40}\\\\h\\sqrt{3}=40\\\\h = \\frac{40}{\\sqrt{3}}\\\\h = \\frac{40}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}}\\\\h = \\frac{40\\sqrt{3}}{3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{40\\sqrt{3}}{3}m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40√3 mD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c29fa4d-0225-403e-8520-e6e3e35a43fd",
+      "question_text": [
+        "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Locus of point P equidistant from y - 5 = 0 and y - 3 = 0 is y = 4 i.e y - 4 = 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y - 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y - 4 = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "y - 1 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y - 3 = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a5a36f06-945e-4db4-bf88-9c539a617e41",
+      "question_text": [
+        "What is the value of k if the mid-point of the line joining (1 - k, - 4) and (2, k + 1) is (-k , k)?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "(1-k+2) / 2 = - k and -4 + k + 1 = k3-k = -2k and -3 + k = 2kK = -3 and k = -3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1659b9af-fc27-4ce8-a1b3-5357e81efef0",
+      "question_text": [
+        "Find the size of each exterior angle of a regular octagon"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Each Exterior ∠ = 360/n= 360/8= 45\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "51\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "45\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fdbcbc9e-270e-49e0-b259-9bd981885e46",
+      "question_text": [
+        "Find the value of \\(\\frac{tan 60^o - tan 30^o}{tan 60^o + tan 30^o}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{tan 60^o - tan 30^o}{tan 60^o + tan 30^o}= \\frac{\\sqrt{3}-\\frac{1}{\\sqrt{3}}}{\\sqrt{3}+\\frac{1}{\\sqrt{3}}}\\\\=\\left(\\frac{\\sqrt{3}\\sqrt{3}-1}{\\sqrt{3}}\\right)\\div \\left(\\frac{\\sqrt{3}\\sqrt{3}+1}{\\sqrt{3}}\\right)\\\\=\\frac{(3-1)}{(3+1)}\\\\=\\frac{2}{4}=\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4}{\\sqrt{3}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{\\sqrt{3}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d5495fc6-30bb-41d4-9d68-b57f27464f86",
+      "question_text": [
+        "The area of a square is 144 sqcm. Find the length of the diagonal."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Area of a square = x * x144 = x2√144 = x 12 = xBut d2 = 122 x 122= 144 + 144= 288d = √288= √144 x 2= 12√2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "13 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12√2 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11√3 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e60cd770-3d83-4c98-85b2-19a10ef44c2d",
+      "question_text": [
+        "If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively, find the product of the modal and medial number."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "48",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "38",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "57a004f0-a97e-4d96-8f0c-6e2291023e80",
+      "question_text": [
+        "if X = {all perfect squares less than 40} and y = {all odd numbers from 1 to 15}, find X ∩ Y"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "x = (1, 4, 9, 16, 25, 36} y = {1, 3, 5, 7, 9, 11, 13, 15} X ∩ y = {1, 9}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{9, 25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{3, 9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{1, 9}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{9}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef8e471a-3c51-4aa6-a95a-ddc2773ecfc7",
+      "question_text": [
+        "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\) y = (1 + x)2 \\(\\frac{dy}{dx}\\) = 2(1 + x)  = 2 + 2x",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x - 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 + 2x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 + 2x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "deda159c-5b05-48e7-9187-782c9027a0a6",
+      "question_text": [
+        "If y = x cosx, find \\(\\frac{dy}{dx}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "If y = x cosx, find \\(\\frac{dy}{dx}\\). Using product rule \\(\\frac{dy}{dx}\\) = cosx - x sinx",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos x - x sinx",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "sinx - x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sin x + x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cosx + x sin x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c1bbff7-92ad-4382-a2cd-32d2e9f0adf8",
+      "question_text": [
+        "Find the size of each exterior angle of a regular octagon."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Each exterior angle e = \\(\\frac{360^o}{8}\\)  = 45o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "51o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b924dc3c-5014-454e-9692-8090fc40a966",
+      "question_text": [
+        "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x  ∫\\(\\frac{x^2 - \\sqrt{x}}{x}\\)dx = ∫(\\(\\frac{x^2}{x} - \\frac {\\sqrt{x}}{x}\\))dx = ∫(x - x\\(\\frac{1}{2}\\))dx = \\(\\frac{x^2}{2}\\) - \\(\\frac{x^{\\frac{1}{2}}}{\\frac{1}{2}}\\) + k = \\(\\frac{x^2}{2}\\) - 2\\(\\sqrt{x}\\) + k",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x^2 - \\sqrt{x}}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{x^2 }{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " - \\(\\sqrt{x}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "797833cd-9f76-47ba-9b9c-f767f18fe75e",
+      "question_text": [
+        "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx  \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx = -2 sin x\\(∫^{\\frac{\\pi}{2}} _{0}\\) = 2(sin 0 - sin\\(\\frac{\\pi}{2}\\)) = 2(0 - 1)  = -2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c62caf6e-6fb0-431b-b08f-65cf61f25ebf",
+      "question_text": [
+        "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "f(x) = 2x3 - x2 - 4x + 4 f(x) = 6x2 - 2x - 4 at turning point, f1(x) = 0  6x2 - 2x - 4 = 0, 3x2 - x - 2 = 0, 3x2 - 3x + 2x - 2 = 0 (3x + 2)(x - 1) = 0, x = -\\(\\frac{2}{3}\\) or 1 f11(x) = 12x - 2, when x = \\(\\frac{2}{3}\\), f11(x) = 12(-\\(\\frac{2}{3}\\)) - 2 = -10 < 0 \\(\\to\\) f(x) is maximum @ x = -\\(\\frac{2}{3}\\) when x = 1, f11(x) = 12(1)- 2 = 10 > 0 \\(\\to\\) f(x) is maximum @ x = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "183ce742-cf8a-4955-8a53-671cc73cb7be",
+      "question_text": [
+        "The volume of a hemispherical bowl is 718\\(\\frac{2}{3}\\) cm3. Find its radius."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Volume of hemisphere = \\(\\frac{2}{3}\\pi r^3\\) \\(\\frac{2}{3}\\pi r^3\\) = 718\\(\\frac{2}{3}\\) \\(\\frac{2}{3}\\) x \\(\\frac{22}{7} r^3\\) = \\(\\frac{2156}{3}\\) r3 = \\(\\frac{2156}{3}\\) x \\(\\frac{3}{2}\\) x \\(\\frac{7}{22}\\) r3 = 49 x 7 r = 3\\(\\sqrt{343}\\) = 7cm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.0cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.6cm[\\(\\pi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "642bc849-5654-402e-b3b8-b8373522e4c6",
+      "question_text": [
+        "A man 40m from the foot of a tower observes the angle of elevation of the tower to be 30o, Determine the height of the tower"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "tan 30o = \\(\\frac{h}{40m}\\) h = 40 tan 30o = 40 x \\(\\frac{1}{\\sqrt{30}}\\)m by rationalizing  h = \\(\\frac{40\\sqrt{3}}{3}\\)m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20mD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b591e4be-9c5a-4914-a893-e01965abeaec",
+      "question_text": [
+        "If the lines 2y - kx + 2 = 0 and y + x - \\(\\frac{k}{2}\\) = 0 intersect at (1, 2), find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "2y - kx + 2 = 0, @ x = 1, y = -2 2(-2) - k(1) + 2 = 0 -4 - k + 2 = 0  k = -2 Or y + x - \\(\\frac{k}{2}\\) = 0, @ x= 1, y = -2 -2 + 1 - \\(\\frac{k}{2}\\) = 0 -1 = \\(\\frac{k}{2}\\) k = -1 x 2  = -2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c137de44-5d33-4d4a-8778-568e8df7ab83",
+      "question_text": [
+        "if X = {all perfect squares less than 40} and y = {all odd numbers from 1 to 15}, find X ∩ Y"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "x = (1, 4, 9, 16, 25, 36} y = {1, 3, 5, 7, 9, 11, 13, 15} X ∩ y = {1, 9}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{9, 25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{3, 9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{1, 9}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{9}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d08057b5-a46f-4259-ab1d-35130dc1d11f",
+      "question_text": [
+        "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\) y = (1 + x)2 \\(\\frac{dy}{dx}\\) = 2(1 + x)  = 2 + 2x",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x - 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 + 2x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 + 2x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cacdda92-c7a2-4783-9dc4-fe59beb73564",
+      "question_text": [
+        "If y = x cosx, find \\(\\frac{dy}{dx}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "If y = x cosx, find \\(\\frac{dy}{dx}\\). Using product rule \\(\\frac{dy}{dx}\\) = cosx - x sinx",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos x - x sinx",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "sinx - x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sin x + x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cosx + x sin x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "179b35d2-67ff-4994-83d0-e181516a17a4",
+      "question_text": [
+        "Find the size of each exterior angle of a regular octagon."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Each exterior angle e = \\(\\frac{360^o}{8}\\)  = 45o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "51o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11b3bd18-c94d-4946-9cde-58176212efb1",
+      "question_text": [
+        "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x  ∫\\(\\frac{x^2 - \\sqrt{x}}{x}\\)dx = ∫(\\(\\frac{x^2}{x} - \\frac {\\sqrt{x}}{x}\\))dx = ∫(x - x\\(\\frac{1}{2}\\))dx = \\(\\frac{x^2}{2}\\) - \\(\\frac{x^{\\frac{1}{2}}}{\\frac{1}{2}}\\) + k = \\(\\frac{x^2}{2}\\) - 2\\(\\sqrt{x}\\) + k",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x^2 - \\sqrt{x}}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{x^2 }{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " - \\(\\sqrt{x}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "99d4b815-e872-44da-a40c-e8cf50132cb8",
+      "question_text": [
+        "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx  \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx = -2 sin x\\(∫^{\\frac{\\pi}{2}} _{0}\\) = 2(sin 0 - sin\\(\\frac{\\pi}{2}\\)) = 2(0 - 1)  = -2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "599c4919-3557-4ecf-9a4a-d5431b8d5e0e",
+      "question_text": [
+        "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "f(x) = 2x3 - x2 - 4x + 4 f(x) = 6x2 - 2x - 4 at turning point, f1(x) = 0  6x2 - 2x - 4 = 0, 3x2 - x - 2 = 0, 3x2 - 3x + 2x - 2 = 0 (3x + 2)(x - 1) = 0, x = -\\(\\frac{2}{3}\\) or 1 f11(x) = 12x - 2, when x = \\(\\frac{2}{3}\\), f11(x) = 12(-\\(\\frac{2}{3}\\)) - 2 = -10 < 0 \\(\\to\\) f(x) is maximum @ x = -\\(\\frac{2}{3}\\) when x = 1, f11(x) = 12(1)- 2 = 10 > 0 \\(\\to\\) f(x) is maximum @ x = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "809de871-74fb-4aee-8582-79baaf22b9a6",
+      "question_text": [
+        "The volume of a hemispherical bowl is 718\\(\\frac{2}{3}\\) cm3. Find its radius."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Volume of hemisphere = \\(\\frac{2}{3}\\pi r^3\\) \\(\\frac{2}{3}\\pi r^3\\) = 718\\(\\frac{2}{3}\\) \\(\\frac{2}{3}\\) x \\(\\frac{22}{7} r^3\\) = \\(\\frac{2156}{3}\\) r3 = \\(\\frac{2156}{3}\\) x \\(\\frac{3}{2}\\) x \\(\\frac{7}{22}\\) r3 = 49 x 7 r = 3\\(\\sqrt{343}\\) = 7cm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.0cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.6cm[\\(\\pi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf6cf335-95f8-4fbd-a035-124abeb5f237",
+      "question_text": [
+        "A man 40m from the foot of a tower observes the angle of elevation of the tower to be 30o, Determine the height of the tower"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "tan 30o = \\(\\frac{h}{40m}\\) h = 40 tan 30o = 40 x \\(\\frac{1}{\\sqrt{30}}\\)m by rationalizing  h = \\(\\frac{40\\sqrt{3}}{3}\\)m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20mD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2e6f86c3-ba22-45d7-a9d9-fe4db8bdf85b",
+      "question_text": [
+        "If the lines 2y - kx + 2 = 0 and y + x - \\(\\frac{k}{2}\\) = 0 intersect at (1, 2), find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "2y - kx + 2 = 0, @ x = 1, y = -2 2(-2) - k(1) + 2 = 0 -4 - k + 2 = 0  k = -2 Or y + x - \\(\\frac{k}{2}\\) = 0, @ x= 1, y = -2 -2 + 1 - \\(\\frac{k}{2}\\) = 0 -1 = \\(\\frac{k}{2}\\) k = -1 x 2  = -2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6cc1382e-6e92-4e44-a276-93689497f273",
+      "question_text": [
+        "if X = {all perfect squares less than 40} and y = {all odd numbers from 1 to 15}, find X ∩ Y"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "x = (1, 4, 9, 16, 25, 36} y = {1, 3, 5, 7, 9, 11, 13, 15} X ∩ y = {1, 9}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{9, 25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{3, 9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{1, 9}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{9}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba47efab-77e4-4e82-862e-5be38a85474b",
+      "question_text": [
+        "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\) y = (1 + x)2 \\(\\frac{dy}{dx}\\) = 2(1 + x)  = 2 + 2x",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x - 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 + 2x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 + 2x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5bca0950-84e7-4a72-8d92-9f093ddb447e",
+      "question_text": [
+        "If y = x cosx, find \\(\\frac{dy}{dx}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "If y = x cosx, find \\(\\frac{dy}{dx}\\). Using product rule \\(\\frac{dy}{dx}\\) = cosx - x sinx",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos x - x sinx",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "sinx - x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sin x + x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cosx + x sin x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8a7a403f-591d-4077-a74f-6f13eb13bef1",
+      "question_text": [
+        "Find the size of each exterior angle of a regular octagon."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Each exterior angle e = \\(\\frac{360^o}{8}\\)  = 45o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "51o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29bd5421-2f1b-4668-ab6d-8e6e978df9df",
+      "question_text": [
+        "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x  ∫\\(\\frac{x^2 - \\sqrt{x}}{x}\\)dx = ∫(\\(\\frac{x^2}{x} - \\frac {\\sqrt{x}}{x}\\))dx = ∫(x - x\\(\\frac{1}{2}\\))dx = \\(\\frac{x^2}{2}\\) - \\(\\frac{x^{\\frac{1}{2}}}{\\frac{1}{2}}\\) + k = \\(\\frac{x^2}{2}\\) - 2\\(\\sqrt{x}\\) + k",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x^2 - \\sqrt{x}}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{x^2 }{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " - \\(\\sqrt{x}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8710ad73-b6c1-47ca-b2dc-421037ab3f33",
+      "question_text": [
+        "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx  \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx = -2 sin x\\(∫^{\\frac{\\pi}{2}} _{0}\\) = 2(sin 0 - sin\\(\\frac{\\pi}{2}\\)) = 2(0 - 1)  = -2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b5e9f3c-5411-4120-b87e-191aa4959891",
+      "question_text": [
+        "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "f(x) = 2x3 - x2 - 4x + 4 f(x) = 6x2 - 2x - 4 at turning point, f1(x) = 0  6x2 - 2x - 4 = 0, 3x2 - x - 2 = 0, 3x2 - 3x + 2x - 2 = 0 (3x + 2)(x - 1) = 0, x = -\\(\\frac{2}{3}\\) or 1 f11(x) = 12x - 2, when x = \\(\\frac{2}{3}\\), f11(x) = 12(-\\(\\frac{2}{3}\\)) - 2 = -10 < 0 \\(\\to\\) f(x) is maximum @ x = -\\(\\frac{2}{3}\\) when x = 1, f11(x) = 12(1)- 2 = 10 > 0 \\(\\to\\) f(x) is maximum @ x = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe5e30a2-d52f-439f-b034-31e799042f1a",
+      "question_text": [
+        "The volume of a hemispherical bowl is 718\\(\\frac{2}{3}\\) cm3. Find its radius."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Volume of hemisphere = \\(\\frac{2}{3}\\pi r^3\\) \\(\\frac{2}{3}\\pi r^3\\) = 718\\(\\frac{2}{3}\\) \\(\\frac{2}{3}\\) x \\(\\frac{22}{7} r^3\\) = \\(\\frac{2156}{3}\\) r3 = \\(\\frac{2156}{3}\\) x \\(\\frac{3}{2}\\) x \\(\\frac{7}{22}\\) r3 = 49 x 7 r = 3\\(\\sqrt{343}\\) = 7cm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.0cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.6cm[\\(\\pi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "885af7c7-84d7-4df2-b9d3-3374d620ea2d",
+      "question_text": [
+        "A man 40m from the foot of a tower observes the angle of elevation of the tower to be 30o, Determine the height of the tower"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "tan 30o = \\(\\frac{h}{40m}\\) h = 40 tan 30o = 40 x \\(\\frac{1}{\\sqrt{30}}\\)m by rationalizing  h = \\(\\frac{40\\sqrt{3}}{3}\\)m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20mD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5fdb6572-d7c2-4841-9ec4-4a6e53d6dd13",
+      "question_text": [
+        "If the lines 2y - kx + 2 = 0 and y + x - \\(\\frac{k}{2}\\) = 0 intersect at (1, 2), find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "2y - kx + 2 = 0, @ x = 1, y = -2 2(-2) - k(1) + 2 = 0 -4 - k + 2 = 0  k = -2 Or y + x - \\(\\frac{k}{2}\\) = 0, @ x= 1, y = -2 -2 + 1 - \\(\\frac{k}{2}\\) = 0 -1 = \\(\\frac{k}{2}\\) k = -1 x 2  = -2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c4140a4-03e7-4446-b0cf-65b91f3b5a50",
+      "question_text": [
+        "if X = {all perfect squares less than 40} and y = {all odd numbers from 1 to 15}, find X ∩ Y"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "x = (1, 4, 9, 16, 25, 36} y = {1, 3, 5, 7, 9, 11, 13, 15} X ∩ y = {1, 9}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{9, 25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{3, 9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{1, 9}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{9}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c260cb59-0575-440a-90e4-630d3b06a0af",
+      "question_text": [
+        "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\) y = (1 + x)2 \\(\\frac{dy}{dx}\\) = 2(1 + x)  = 2 + 2x",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x - 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 + 2x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 + 2x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36c2f10a-99ce-4f12-9b3b-18cfe9e56bcf",
+      "question_text": [
+        "If y = x cosx, find \\(\\frac{dy}{dx}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "If y = x cosx, find \\(\\frac{dy}{dx}\\). Using product rule \\(\\frac{dy}{dx}\\) = cosx - x sinx",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos x - x sinx",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "sinx - x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sin x + x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cosx + x sin x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f0a3c11-3998-4e74-bad4-915198dd2748",
+      "question_text": [
+        "Find the size of each exterior angle of a regular octagon."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Each exterior angle e = \\(\\frac{360^o}{8}\\)  = 45o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "51o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "449a428b-b00c-4b29-8187-dc44541df864",
+      "question_text": [
+        "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x  ∫\\(\\frac{x^2 - \\sqrt{x}}{x}\\)dx = ∫(\\(\\frac{x^2}{x} - \\frac {\\sqrt{x}}{x}\\))dx = ∫(x - x\\(\\frac{1}{2}\\))dx = \\(\\frac{x^2}{2}\\) - \\(\\frac{x^{\\frac{1}{2}}}{\\frac{1}{2}}\\) + k = \\(\\frac{x^2}{2}\\) - 2\\(\\sqrt{x}\\) + k",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x^2 - \\sqrt{x}}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{x^2 }{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " - \\(\\sqrt{x}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bada13dd-6900-490a-87d6-3e4fcbe0dfac",
+      "question_text": [
+        "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx  \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx = -2 sin x\\(∫^{\\frac{\\pi}{2}} _{0}\\) = 2(sin 0 - sin\\(\\frac{\\pi}{2}\\)) = 2(0 - 1)  = -2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b4ccbae-03e3-43be-a1db-5e5a2d26738a",
+      "question_text": [
+        "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "f(x) = 2x3 - x2 - 4x + 4 f(x) = 6x2 - 2x - 4 at turning point, f1(x) = 0  6x2 - 2x - 4 = 0, 3x2 - x - 2 = 0, 3x2 - 3x + 2x - 2 = 0 (3x + 2)(x - 1) = 0, x = -\\(\\frac{2}{3}\\) or 1 f11(x) = 12x - 2, when x = \\(\\frac{2}{3}\\), f11(x) = 12(-\\(\\frac{2}{3}\\)) - 2 = -10 < 0 \\(\\to\\) f(x) is maximum @ x = -\\(\\frac{2}{3}\\) when x = 1, f11(x) = 12(1)- 2 = 10 > 0 \\(\\to\\) f(x) is maximum @ x = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1dc4ff6d-3a57-4f6c-b26e-546d0c275fb9",
+      "question_text": [
+        "The volume of a hemispherical bowl is 718\\(\\frac{2}{3}\\) cm3. Find its radius."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Volume of hemisphere = \\(\\frac{2}{3}\\pi r^3\\) \\(\\frac{2}{3}\\pi r^3\\) = 718\\(\\frac{2}{3}\\) \\(\\frac{2}{3}\\) x \\(\\frac{22}{7} r^3\\) = \\(\\frac{2156}{3}\\) r3 = \\(\\frac{2156}{3}\\) x \\(\\frac{3}{2}\\) x \\(\\frac{7}{22}\\) r3 = 49 x 7 r = 3\\(\\sqrt{343}\\) = 7cm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.0cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.6cm[\\(\\pi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3babf886-7258-4086-8b1f-8778c25606a6",
+      "question_text": [
+        "A man 40m from the foot of a tower observes the angle of elevation of the tower to be 30o, Determine the height of the tower"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "tan 30o = \\(\\frac{h}{40m}\\) h = 40 tan 30o = 40 x \\(\\frac{1}{\\sqrt{30}}\\)m by rationalizing  h = \\(\\frac{40\\sqrt{3}}{3}\\)m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20mD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "de051f78-3e3d-442b-9692-e392f5f4854f",
+      "question_text": [
+        "If the lines 2y - kx + 2 = 0 and y + x - \\(\\frac{k}{2}\\) = 0 intersect at (1, 2), find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "2y - kx + 2 = 0, @ x = 1, y = -2 2(-2) - k(1) + 2 = 0 -4 - k + 2 = 0  k = -2 Or y + x - \\(\\frac{k}{2}\\) = 0, @ x= 1, y = -2 -2 + 1 - \\(\\frac{k}{2}\\) = 0 -1 = \\(\\frac{k}{2}\\) k = -1 x 2  = -2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f1f3c65-fa02-4e0d-a489-dc625abe3696",
+      "question_text": [
+        "if X = {all perfect squares less than 40} and y = {all odd numbers from 1 to 15}, find X ∩ Y"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "x = (1, 4, 9, 16, 25, 36} y = {1, 3, 5, 7, 9, 11, 13, 15} X ∩ y = {1, 9}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{9, 25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{3, 9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{1, 9}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{9}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c020f5b8-3dd0-446a-953f-a020fa78c250",
+      "question_text": [
+        "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\) y = (1 + x)2 \\(\\frac{dy}{dx}\\) = 2(1 + x)  = 2 + 2x",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x - 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 + 2x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 + 2x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "13bd80a4-ffb9-4b0d-88d5-6977bebcb407",
+      "question_text": [
+        "If y = x cosx, find \\(\\frac{dy}{dx}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "If y = x cosx, find \\(\\frac{dy}{dx}\\). Using product rule \\(\\frac{dy}{dx}\\) = cosx - x sinx",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos x - x sinx",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "sinx - x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sin x + x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cosx + x sin x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ffd5c8dc-98d8-4fc9-a2a5-2131dfe99856",
+      "question_text": [
+        "Find the size of each exterior angle of a regular octagon."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Each exterior angle e = \\(\\frac{360^o}{8}\\)  = 45o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "51o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b526209-ca29-4f24-8199-440f3546a919",
+      "question_text": [
+        "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x  ∫\\(\\frac{x^2 - \\sqrt{x}}{x}\\)dx = ∫(\\(\\frac{x^2}{x} - \\frac {\\sqrt{x}}{x}\\))dx = ∫(x - x\\(\\frac{1}{2}\\))dx = \\(\\frac{x^2}{2}\\) - \\(\\frac{x^{\\frac{1}{2}}}{\\frac{1}{2}}\\) + k = \\(\\frac{x^2}{2}\\) - 2\\(\\sqrt{x}\\) + k",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x^2 - \\sqrt{x}}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{x^2 }{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " - \\(\\sqrt{x}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "41024cba-8092-4858-945e-f971d569f678",
+      "question_text": [
+        "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx  \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx = -2 sin x\\(∫^{\\frac{\\pi}{2}} _{0}\\) = 2(sin 0 - sin\\(\\frac{\\pi}{2}\\)) = 2(0 - 1)  = -2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d9ff213b-2cb6-483d-9997-9d7685455ea2",
+      "question_text": [
+        "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "f(x) = 2x3 - x2 - 4x + 4 f(x) = 6x2 - 2x - 4 at turning point, f1(x) = 0  6x2 - 2x - 4 = 0, 3x2 - x - 2 = 0, 3x2 - 3x + 2x - 2 = 0 (3x + 2)(x - 1) = 0, x = -\\(\\frac{2}{3}\\) or 1 f11(x) = 12x - 2, when x = \\(\\frac{2}{3}\\), f11(x) = 12(-\\(\\frac{2}{3}\\)) - 2 = -10 < 0 \\(\\to\\) f(x) is maximum @ x = -\\(\\frac{2}{3}\\) when x = 1, f11(x) = 12(1)- 2 = 10 > 0 \\(\\to\\) f(x) is maximum @ x = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f0248f6d-67f5-452e-a776-bdea684f7154",
+      "question_text": [
+        "The volume of a hemispherical bowl is 718\\(\\frac{2}{3}\\) cm3. Find its radius."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Volume of hemisphere = \\(\\frac{2}{3}\\pi r^3\\) \\(\\frac{2}{3}\\pi r^3\\) = 718\\(\\frac{2}{3}\\) \\(\\frac{2}{3}\\) x \\(\\frac{22}{7} r^3\\) = \\(\\frac{2156}{3}\\) r3 = \\(\\frac{2156}{3}\\) x \\(\\frac{3}{2}\\) x \\(\\frac{7}{22}\\) r3 = 49 x 7 r = 3\\(\\sqrt{343}\\) = 7cm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.0cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.6cm[\\(\\pi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e83b7e57-88d4-4cb6-99f6-d049510d6e13",
+      "question_text": [
+        "A man 40m from the foot of a tower observes the angle of elevation of the tower to be 30o, Determine the height of the tower"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "tan 30o = \\(\\frac{h}{40m}\\) h = 40 tan 30o = 40 x \\(\\frac{1}{\\sqrt{30}}\\)m by rationalizing  h = \\(\\frac{40\\sqrt{3}}{3}\\)m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20mD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b7611d8b-f193-4efc-a146-3e5175fff417",
+      "question_text": [
+        "If the lines 2y - kx + 2 = 0 and y + x - \\(\\frac{k}{2}\\) = 0 intersect at (1, 2), find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "2y - kx + 2 = 0, @ x = 1, y = -2 2(-2) - k(1) + 2 = 0 -4 - k + 2 = 0  k = -2 Or y + x - \\(\\frac{k}{2}\\) = 0, @ x= 1, y = -2 -2 + 1 - \\(\\frac{k}{2}\\) = 0 -1 = \\(\\frac{k}{2}\\) k = -1 x 2  = -2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0a05f2c5-d0f4-404b-ba00-b2f20f2e8fc6",
+      "question_text": [
+        "if X = {all perfect squares less than 40} and y = {all odd numbers from 1 to 15}, find X ∩ Y"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "x = (1, 4, 9, 16, 25, 36} y = {1, 3, 5, 7, 9, 11, 13, 15} X ∩ y = {1, 9}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{9, 25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{3, 9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{1, 9}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{9}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cae6e734-3240-4018-99a3-d6f2c32d83de",
+      "question_text": [
+        "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "If y = (1 + x)2, find \\(\\frac{dy}{dx}\\) y = (1 + x)2 \\(\\frac{dy}{dx}\\) = 2(1 + x)  = 2 + 2x",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x - 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 + 2x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 + 2x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d7bca0b-26c5-46b1-9f7b-0f25616c8571",
+      "question_text": [
+        "If y = x cosx, find \\(\\frac{dy}{dx}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "If y = x cosx, find \\(\\frac{dy}{dx}\\). Using product rule \\(\\frac{dy}{dx}\\) = cosx - x sinx",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos x - x sinx",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "sinx - x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sin x + x cosx",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cosx + x sin x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cdc8c2b-9646-4b94-98bc-eeaf9444b36d",
+      "question_text": [
+        "Find the size of each exterior angle of a regular octagon."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "Each exterior angle e = \\(\\frac{360^o}{8}\\)  = 45o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "51o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fbd36968-a5f8-4639-8939-ebaee93ac132",
+      "question_text": [
+        "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "Integrate \\(\\frac{x^2 - \\sqrt{x}}{x}\\) with respect to x  ∫\\(\\frac{x^2 - \\sqrt{x}}{x}\\)dx = ∫(\\(\\frac{x^2}{x} - \\frac {\\sqrt{x}}{x}\\))dx = ∫(x - x\\(\\frac{1}{2}\\))dx = \\(\\frac{x^2}{2}\\) - \\(\\frac{x^{\\frac{1}{2}}}{\\frac{1}{2}}\\) + k = \\(\\frac{x^2}{2}\\) - 2\\(\\sqrt{x}\\) + k",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x^2 - \\sqrt{x}}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{x^2 }{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " - \\(\\sqrt{x}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e73bad9a-c4e2-43bd-a39b-32874bd14fa3",
+      "question_text": [
+        "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "Determine the value of \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx  \\(∫^{\\frac{\\pi}{2}}_{0}\\) (-2 cosx)dx = -2 sin x\\(∫^{\\frac{\\pi}{2}} _{0}\\) = 2(sin 0 - sin\\(\\frac{\\pi}{2}\\)) = 2(0 - 1)  = -2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-\\(\\frac{3}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "347fc386-8e99-4087-bafd-5aa9e2eb7007",
+      "question_text": [
+        "Find the value of x for which the function f(x) = 2x3 - x2 - 4x + 4 has a maximum value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "f(x) = 2x3 - x2 - 4x + 4 f(x) = 6x2 - 2x - 4 at turning point, f1(x) = 0  6x2 - 2x - 4 = 0, 3x2 - x - 2 = 0, 3x2 - 3x + 2x - 2 = 0 (3x + 2)(x - 1) = 0, x = -\\(\\frac{2}{3}\\) or 1 f11(x) = 12x - 2, when x = \\(\\frac{2}{3}\\), f11(x) = 12(-\\(\\frac{2}{3}\\)) - 2 = -10 < 0 \\(\\to\\) f(x) is maximum @ x = -\\(\\frac{2}{3}\\) when x = 1, f11(x) = 12(1)- 2 = 10 > 0 \\(\\to\\) f(x) is maximum @ x = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b52ae0c-9958-4374-9986-3ea63413a72c",
+      "question_text": [
+        "The volume of a hemispherical bowl is 718\\(\\frac{2}{3}\\) cm3. Find its radius."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "Volume of hemisphere = \\(\\frac{2}{3}\\pi r^3\\) \\(\\frac{2}{3}\\pi r^3\\) = 718\\(\\frac{2}{3}\\) \\(\\frac{2}{3}\\) x \\(\\frac{22}{7} r^3\\) = \\(\\frac{2156}{3}\\) r3 = \\(\\frac{2156}{3}\\) x \\(\\frac{3}{2}\\) x \\(\\frac{7}{22}\\) r3 = 49 x 7 r = 3\\(\\sqrt{343}\\) = 7cm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.0cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.6cm[\\(\\pi\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e1497904-543f-4e1b-a3e4-68b76d54034a",
+      "question_text": [
+        "A man 40m from the foot of a tower observes the angle of elevation of the tower to be 30o, Determine the height of the tower"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "tan 30o = \\(\\frac{h}{40m}\\) h = 40 tan 30o = 40 x \\(\\frac{1}{\\sqrt{30}}\\)m by rationalizing  h = \\(\\frac{40\\sqrt{3}}{3}\\)m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20mD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "897d2210-a1b1-4953-9fc2-79aa3a89ec28",
+      "question_text": [
+        "If the lines 2y - kx + 2 = 0 and y + x - \\(\\frac{k}{2}\\) = 0 intersect at (1, 2), find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "2y - kx + 2 = 0, @ x = 1, y = -2 2(-2) - k(1) + 2 = 0 -4 - k + 2 = 0  k = -2 Or y + x - \\(\\frac{k}{2}\\) = 0, @ x= 1, y = -2 -2 + 1 - \\(\\frac{k}{2}\\) = 0 -1 = \\(\\frac{k}{2}\\) k = -1 x 2  = -2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

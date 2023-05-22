@@ -1,0 +1,3369 @@
+
+[
+    {
+      "id": "b0da88d5-c577-41d4-8f65-7a20cb6bd986",
+      "question_text": [
+        "Calculate the volume in cm3 of oxygen evolved at s.t.p when a current of 5A is passed through acidified water for 193s?[F = 96500 C mol1. Molar volume of a gas at s.t.p = 22.4dm3]"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Q = 193 x 5 = 965C40H \\(\\mapsto\\) 2H2O + O2 + 4e4 x 96500C = 22.4dm3965C = xx = \\(\\frac{22.4 \\times 965}{4 \\times 96500}\\) = 0.056dm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056dm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.224dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "224.000dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "56.000dm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ff08a9b-9da2-47e8-8891-4e7e7157925f",
+      "question_text": [
+        "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Industrial Production of Fertilizers ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Phosphorus-32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cobalt-60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbon-14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Iodine-131",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f59066e8-66d4-494a-be72-e57da6ed6bd7",
+      "question_text": [
+        "2SO2(g) + O2(g) \\( \\iff \\)2SO3(g)\\( \\bigtriangleup H = -395.7kJmol^{-1} \\)In the reaction above, the concentration of 2SO3(g) can be in creased by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Concentration-Time and Mole-Time Graphs ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decreasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreasing the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the addition of catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increasing the temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "351b040d-3768-47bb-94ea-0bb24c2b6242",
+      "question_text": [
+        "How many unpaired electron are in the p-orbitals of a fluorine atom?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Covalent Bonds and Bond Formation ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( 0 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e69c6dae-123a-4e57-bc2d-c28ed65329c4",
+      "question_text": [
+        "The radioactive emission with the least ionization power is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Polyprotic Acids ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\alpha - particles ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "X-rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\gamma -rays \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "048bed1d-499f-43a6-a318-3ee61b39a783",
+      "question_text": [
+        "Zn(s) + CuSO4(aq) \\( \\to \\) ZnSO4(aq) + Cu(s)In the reaction above, the oxidizing agent is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CuSO4(a",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ZnSO4(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef376be6-72ed-46e0-8df2-2b3efdc63c8e",
+      "question_text": [
+        "Use the following option above to answer this question. Which of the following compounds in solution will turn red litmus paper blue?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "pH Calculations ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem142.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f5674ef-bc35-4861-826f-17e2323e01bd",
+      "question_text": [
+        "The compound above is an"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem141.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "akanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9fe4f4e2-e3dc-4c30-b3de-8fb2e78ab283",
+      "question_text": [
+        "In the graph above, the activation energy of the catalyzed reaction is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem137.jpg",
+      "explanation": "Activation energy of catalysed reaction is the small curve inside while the activation energy of the uncatalysed is the big curve outside. Therefore activation energy of the catalysed reaction = Activation complex of the catalysed reaction - reactant = 200 - 100 = 100KJ.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100KJ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "300KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "250KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "200KJ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39b9087a-c569-424a-9a87-c888a5cc2deb",
+      "question_text": [
+        "Choose the correct option from the graph above.3Fe(S) + 4H2O(g) ⇌ Fe3O4(s) + 4H2(g). The equilibrium constant, K, of the reaction above is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Equilibrium Constants ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem136.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "65c3ce59-8b45-4c43-a871-c26a8d04aad3",
+      "question_text": [
+        "The IUPAC nomenclature for the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Naming Alkenes ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem135.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4-methylpent-1-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3-methylpent-2-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2-methylpent-1ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-methylpent-4-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "04faccc3-6e6d-40b6-aca1-540682b712b2",
+      "question_text": [
+        "Use the above option to answer this question. The dehydration of ammonium salt of alkanoic acids produces a compound with the general formula"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Producing Ammonium Nitrate ",
+        " Chemistry and the Real World"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem134.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8cf841e2-0ac9-48e8-86d8-467663afe5b5",
+      "question_text": [
+        "An organic compound contains 60% carbon, 13.3% hydrogen and 26.7% oxygen. Calculate the empirical formularn(C=12,H =1, O=16)"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C 5H 12O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C 3H 8O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "C 6H 13O 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C 4H 9O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "acb22654-95b7-4da9-8e50-baaa084b6899",
+      "question_text": [
+        "2- methylbutan- 2ol is an example of a"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dihydric alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "tertiary alkanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "secondary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "primary alkanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1b030f0-c962-419f-b5d4-d51f1a25336a",
+      "question_text": [
+        "The reaction between ammonia and ethyl ethanoate produces"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Production of Esters ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanol and ethanamide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "propanol and propanamide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethanol and propanamide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethanol and ethanamide",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cb5667a3-bad7-4db5-a610-c0097c8367f5",
+      "question_text": [
+        "The decarboxylation of ethanoic acid will produce carbon (IV)oxide and"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Naming Carboxylic Acids ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0eafb84f-0644-4172-b3ef-c27974e57755",
+      "question_text": [
+        "A primary amide is generally represented by the formula"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "RCOOR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "RCONH 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "RCONHR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "RCONR 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c59b1706-7103-4741-a912-6f57522621af",
+      "question_text": [
+        "Which of the following fraction is used as raw material for the cracking process?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Alkanes as Fossil Fuels ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "kerosine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "lubricating oil",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bitumen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "diesel oils",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "85599b90-da89-479e-a5b6-5007065064e5",
+      "question_text": [
+        "Sulphur (IV)oxide is a strong reducing agent in the presence of water due to the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Salt Hydrolysis ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydroxide ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sulpgur (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulhideD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3c9a7f90-797a-4d18-8320-c8f78e382e48",
+      "question_text": [
+        "A metal that forms soluble trioxosulphate (IV) ion is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "barium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "potassium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "manganese",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "aluminium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4daa4bf6-f32b-4940-9044-e28cccfd3d0e",
+      "question_text": [
+        "Copper is displaced from the solution of its salts by most metals because it"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Radioactive Decay Series ",
+        " Nuclear Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "is a transition element",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "is at the bottom of the activity series",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "is very reactive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "has completely filled 3d-orbitals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c22964b5-97dd-41c3-b999-5eeb5ca87f51",
+      "question_text": [
+        "The coloured nature of transition metal ions are associated with their partially filled"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Transition Metals and Their Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "f- orbital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "s- orbital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p-orbital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "d-orbital",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "782789f7-e16d-4a59-a682-69b8d18b228e",
+      "question_text": [
+        "Aluminium containers are frequently used to transport trioxonitrate (V) acid because aluminium"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "has a silvery-white appearance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "has a low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "does not react with the acid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "does not corrode",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1680602-4a2e-4d08-a213-16fe13dc537c",
+      "question_text": [
+        "In an endothermic reaction, if there is a loss in entropy the reaction will"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Exothermic and Endothermic Reactions ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "be indeterminate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "be spontaneous",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "not be spontaneous",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be at equilibrium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d5bfbdc4-6003-459a-a0f6-372f9c434ffb",
+      "question_text": [
+        "the minimum amount of energy required for a reaction to take place is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "lattice energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ionization energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "activation energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "kinetic energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d1e5711-9575-4496-a688-19d686400541",
+      "question_text": [
+        "Which of the following compounds is a neutral oxide?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Acid and Metal Oxide ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Sulphur (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oixideC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1b1621d2-0895-4474-a50e-ecf1496e18ee",
+      "question_text": [
+        "In the laboratory preparation of ammonia, the flask is placed in a slanting position so as to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Titration Experiments ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "prevent condensed water from breaking the reaction flask",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "enable the proper mixing of the reactions in the flask",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "enhance the speed of the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "prevent formation of precipitate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6a9a3e58-ed5c-4cb6-90cc-8b78c1e9bc51",
+      "question_text": [
+        "Which of the gases is employed as an anaesthesia?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Volume Relationships in Gases ",
+        " Physical and Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N 2O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NO",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35eb4e5e-32b1-4256-a161-311d0a37a40a",
+      "question_text": [
+        "Which of the following substances is not a salt?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Aluminium oxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sodium hydrogentrioxosulphate (",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sodium trioxocarbonate (V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0ffdbfeb-7d37-4dd1-bf53-f7e03e5792a2",
+      "question_text": [
+        "An insoluble salt can be prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Acid-Base Reactions Continued ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the reaction of trioxocarbonate (",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " with an acid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "double decomposition",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the action of dilute acid on an insoluble baseD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d5fdb7f9-f8e3-464a-b878-8ada9e52ce41",
+      "question_text": [
+        "2H2O (l) + 2F2(g) → 4HF(aq) + O2(g).In the reaction above, the substance that is being reduced is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Oxidation and Reduction ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "F(2) + 2e \\(\\rightarrow\\) 2F- x 22F2 + 4e \\(\\rightarrow\\) 4F-",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2O(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c0f6a82-75bd-44f6-bb63-6639924c9609",
+      "question_text": [
+        "In an electrochemical cell, polarization is caused by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Introducing Electrochemical Reactions ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "oxygen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tetaoxsulphate (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " acidD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "617c51ac-e062-497a-ab85-fda72068d9fe",
+      "question_text": [
+        "Calculate the volume in cm3 of oxygen evolved as s.t.p. when a current of 5 A is passed through acidified water for 193s{F = 96500 Cmol-1, Molar volume of a gas at s.t.p. = 22.4 dm3}"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Q = 1 x t \\(\\implies\\) Q = (5 x 193)CQ = 965C40H \\(\\implies\\) 2H2O + O2 + 4e4 X 96500C evolve 22.4 dm3 x 9654 x 96500 = 0.056 dm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "224.000 dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.056 dm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.224 dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "56.000 dm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3eba5a68-72fb-4f8b-a375-82d5d1d03f60",
+      "question_text": [
+        "If 24.4 g of lead (ll) trioxonitrate (V) were dissolved in 42 g of distilled water at 20oC; calculate the solubility of the solute in gdm-3."
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "581.000.",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.581",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.810",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "58.100",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c9bb06f-52ff-45b3-8c57-b8cf65a722e8",
+      "question_text": [
+        "The solvent used for removing grease stain is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Phase Diagram For An Aqueous Solution of a Nonelectrolyte ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "turpentine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ammonia solution",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solution of borax in water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0a4ee9a-245e-4efb-acc5-5e08ac37b321",
+      "question_text": [
+        "In a water body, too much sewage leads to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Chemistry Applications: Water Treatment ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a decrease in the temperature of the water which cause in death of aquatic animals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an increase in the number of aquatic animals in the water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an increase in the bacterial population which reduces the level of oxygen in the water",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a decrease in the bacterial population which increases the level of oxygen in the water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "669b4231-8f9f-4c90-8bef-e30fe8e71e68",
+      "question_text": [
+        "10.0 dm3 of water was added to 2.0 mol dm-3 of 2.5dm3 solution of HCl. What is the concentration of the final solution in mol dm-3?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Solutions ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "C1V1 = C2V2C2 = \\(\\frac{C_1V_1}{V_2}\\)= \\(\\frac{2.0 \\times 2.5}{12.5}\\)= 0.4mol/dm-3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "984f858c-fea5-420c-b3aa-5896232f6236",
+      "question_text": [
+        "Three drops of a 1.0 mol dm-3 solution of HCl was added to 20 cm3 of a solution of pH6.4. The pH of the resulting solution will be"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "close to that of pure water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "less than 6.4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "greater than 6.4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "unaltered",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f28d109c-234f-44f0-86fd-3c155005f37a",
+      "question_text": [
+        "Which of the following molecules is held together by hydrogen bond?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Energy and Bonding Continued ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "HBr",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "HF",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "84265333-c8f4-4b9d-81c5-72e569796ca3",
+      "question_text": [
+        "The bond formed between two elements with electron configurations 1s2 2s2 2p6 3s2 and 1s2 2s2 2p4 is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c5d0edea-77ee-492a-951b-8d1b1f08ad0f",
+      "question_text": [
+        "The constituent of air that acts as a diluent is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Nitrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitrogen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "noble gasesD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6328d59c-510f-4b7c-a937-6f40bbff3a15",
+      "question_text": [
+        "Steam changes the colour of anhydrous cobalt (ll) chloride from"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Changes in Colour ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "white  to red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "blue to white",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "blue to pink",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "white to blue",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ae266b30-4b73-48c8-b17c-6aa375aee19e",
+      "question_text": [
+        "An example of a hygroscopic substance is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CuO (",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": ".",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "MgCL2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ".C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bab4dbe6-076a-4927-9ac5-38a4ae7ed003",
+      "question_text": [
+        "The presence of an impurity in substance will cause the melting point to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Melting and Freezing ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "reduce",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "be stable",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ec32e4a-02da-4a50-97ef-1cb391ab122f",
+      "question_text": [
+        "What volume of carbon (ll) oxide is produced by reacting excess carbon with 10 dm3 of oxygen?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Simply multiply the number of moles in CO2 by the volume of the reacting Oxygen. Therefore, 10 × 2 = 20dm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5 dm 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20 dm 3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "15 dm 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 dm 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2ed37039-21a2-43d7-b657-ce8a5b178808",
+      "question_text": [
+        "The rate of diffusion of a gas Y is twice that of Z If the relative molecular mass of Y is 64 and the two gases diffuse under the same conditions, find the relative molecular mass of Z"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "\\(\\sqrt{y}\\) = 2x\\(\\sqrt{Z}\\) = x\\(\\frac{rz}{ry}\\) = \\(\\sqrt{\\frac{my}{mz}}\\)\\(\\frac{2x}{x}\\) = \\(\\sqrt{\\frac{64}{mz}}\\)\\(\\frac{4}{1}\\) = \\(\\frac{64}{mz}\\)mz = \\(\\frac{64}{4}\\)mz = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4fe6330a-fa1f-42fc-9d50-6edadb4487f4",
+      "question_text": [
+        "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Industrial Production of Fertilizers ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon-14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "phosphorus-32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cobalt-60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "iodine-131",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "540df5c9-032b-49ed-ad60-926161ad2a52",
+      "question_text": [
+        "The  shape of the carbon (lV) oxide molecule is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pyramidal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "linear",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "angular",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "tetrahedral",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eae20ebf-421e-47ae-9405-a1b9464e0147",
+      "question_text": [
+        "Calculate the volume in cm3 of oxygen evolved at s.t.p when a current of 5A is passed through acidified water for 193s?[F = 96500 C mol1. Molar volume of a gas at s.t.p = 22.4dm3]"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Q = 193 x 5 = 965C40H \\(\\mapsto\\) 2H2O + O2 + 4e4 x 96500C = 22.4dm3965C = xx = \\(\\frac{22.4 \\times 965}{4 \\times 96500}\\) = 0.056dm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056dm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.224dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "224.000dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "56.000dm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8a77148e-0317-4a4d-af79-eb828f8dabe9",
+      "question_text": [
+        "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Industrial Production of Fertilizers ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Phosphorus-32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cobalt-60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbon-14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Iodine-131",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34f737da-4e06-411e-a381-e76274447080",
+      "question_text": [
+        "2SO2(g) + O2(g) \\( \\iff \\)2SO3(g)\\( \\bigtriangleup H = -395.7kJmol^{-1} \\)In the reaction above, the concentration of 2SO3(g) can be in creased by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Concentration-Time and Mole-Time Graphs ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decreasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreasing the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the addition of catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increasing the temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4528f3da-5ec9-4b80-ab99-4ff20b2a675c",
+      "question_text": [
+        "How many unpaired electron are in the p-orbitals of a fluorine atom?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Covalent Bonds and Bond Formation ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( 0 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a61dbdb3-babb-493a-b5eb-522647cffeb5",
+      "question_text": [
+        "The radioactive emission with the least ionization power is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Polyprotic Acids ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\alpha - particles ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "X-rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\gamma -rays \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3037674f-5291-45e9-80eb-7a8ff8846868",
+      "question_text": [
+        "Zn(s) + CuSO4(aq) \\( \\to \\) ZnSO4(aq) + Cu(s)In the reaction above, the oxidizing agent is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CuSO4(a",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ZnSO4(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f01f9c49-f40c-4945-9e42-2384f606f23e",
+      "question_text": [
+        "Use the following option above to answer this question. Which of the following compounds in solution will turn red litmus paper blue?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "pH Calculations ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem142.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "de056012-daae-45ef-9b60-428ad12705bf",
+      "question_text": [
+        "The compound above is an"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem141.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "akanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "721642db-c9f0-4f79-b858-06c11df87f5c",
+      "question_text": [
+        "In the graph above, the activation energy of the catalyzed reaction is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem137.jpg",
+      "explanation": "Activation energy of catalysed reaction is the small curve inside while the activation energy of the uncatalysed is the big curve outside. Therefore activation energy of the catalysed reaction = Activation complex of the catalysed reaction - reactant = 200 - 100 = 100KJ.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100KJ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "300KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "250KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "200KJ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd2a755b-210a-4485-bd74-c190e8c0b50f",
+      "question_text": [
+        "Choose the correct option from the graph above.3Fe(S) + 4H2O(g) ⇌ Fe3O4(s) + 4H2(g). The equilibrium constant, K, of the reaction above is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Equilibrium Constants ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem136.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e57cc442-299e-4fe0-acab-40e4c0f9195c",
+      "question_text": [
+        "Calculate the volume in cm3 of oxygen evolved at s.t.p when a current of 5A is passed through acidified water for 193s?[F = 96500 C mol1. Molar volume of a gas at s.t.p = 22.4dm3]"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Q = 193 x 5 = 965C40H \\(\\mapsto\\) 2H2O + O2 + 4e4 x 96500C = 22.4dm3965C = xx = \\(\\frac{22.4 \\times 965}{4 \\times 96500}\\) = 0.056dm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056dm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.224dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "224.000dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "56.000dm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "37f3748d-dcc5-460c-ba02-9096e55a7c95",
+      "question_text": [
+        "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Industrial Production of Fertilizers ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Phosphorus-32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cobalt-60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbon-14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Iodine-131",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecd0341a-04a6-408b-87f0-92c87d7db09a",
+      "question_text": [
+        "2SO2(g) + O2(g) \\( \\iff \\)2SO3(g)\\( \\bigtriangleup H = -395.7kJmol^{-1} \\)In the reaction above, the concentration of 2SO3(g) can be in creased by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Concentration-Time and Mole-Time Graphs ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decreasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreasing the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the addition of catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increasing the temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb612149-ef60-48c3-a24d-db56b95deba8",
+      "question_text": [
+        "How many unpaired electron are in the p-orbitals of a fluorine atom?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Covalent Bonds and Bond Formation ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( 0 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a65bd0e-7345-4eb1-abda-40f996504d32",
+      "question_text": [
+        "The radioactive emission with the least ionization power is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Polyprotic Acids ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\alpha - particles ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "X-rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\gamma -rays \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4aefef97-41ec-49ec-aca5-09ab3646970c",
+      "question_text": [
+        "Zn(s) + CuSO4(aq) \\( \\to \\) ZnSO4(aq) + Cu(s)In the reaction above, the oxidizing agent is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CuSO4(a",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ZnSO4(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44a6ac23-c64e-48e9-8893-0984997fb228",
+      "question_text": [
+        "Use the following option above to answer this question. Which of the following compounds in solution will turn red litmus paper blue?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "pH Calculations ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem142.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "61128da9-3c90-4c56-900c-382835f25b89",
+      "question_text": [
+        "The compound above is an"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem141.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "akanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26571be0-e7d7-486d-bf52-d245cebc889d",
+      "question_text": [
+        "In the graph above, the activation energy of the catalyzed reaction is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem137.jpg",
+      "explanation": "Activation energy of catalysed reaction is the small curve inside while the activation energy of the uncatalysed is the big curve outside. Therefore activation energy of the catalysed reaction = Activation complex of the catalysed reaction - reactant = 200 - 100 = 100KJ.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100KJ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "300KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "250KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "200KJ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30cc857e-39f4-43f7-8a45-b3de1a44d250",
+      "question_text": [
+        "Choose the correct option from the graph above.3Fe(S) + 4H2O(g) ⇌ Fe3O4(s) + 4H2(g). The equilibrium constant, K, of the reaction above is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Equilibrium Constants ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem136.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "abf374e1-d970-49e0-a6fc-142953ba0e18",
+      "question_text": [
+        "Calculate the volume in cm3 of oxygen evolved at s.t.p when a current of 5A is passed through acidified water for 193s?[F = 96500 C mol1. Molar volume of a gas at s.t.p = 22.4dm3]"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Q = 193 x 5 = 965C40H \\(\\mapsto\\) 2H2O + O2 + 4e4 x 96500C = 22.4dm3965C = xx = \\(\\frac{22.4 \\times 965}{4 \\times 96500}\\) = 0.056dm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056dm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.224dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "224.000dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "56.000dm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fb7e88e7-7f4b-4e81-8a34-083dc5db1468",
+      "question_text": [
+        "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Industrial Production of Fertilizers ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Phosphorus-32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cobalt-60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbon-14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Iodine-131",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b37e61e1-6777-40eb-b581-a6edbfa1dbc4",
+      "question_text": [
+        "2SO2(g) + O2(g) \\( \\iff \\)2SO3(g)\\( \\bigtriangleup H = -395.7kJmol^{-1} \\)In the reaction above, the concentration of 2SO3(g) can be in creased by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Concentration-Time and Mole-Time Graphs ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decreasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreasing the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the addition of catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increasing the temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "119ccc69-af79-4745-b5a3-32735e8c0b56",
+      "question_text": [
+        "How many unpaired electron are in the p-orbitals of a fluorine atom?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Covalent Bonds and Bond Formation ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( 0 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1807543-d583-42fe-bbdb-e8c983ed199c",
+      "question_text": [
+        "The radioactive emission with the least ionization power is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Polyprotic Acids ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\alpha - particles ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "X-rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\gamma -rays \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3663de86-3eac-4277-8cb3-972eceee8e4e",
+      "question_text": [
+        "Zn(s) + CuSO4(aq) \\( \\to \\) ZnSO4(aq) + Cu(s)In the reaction above, the oxidizing agent is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CuSO4(a",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ZnSO4(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ed29994-8cdb-4006-966a-bf633256db0e",
+      "question_text": [
+        "Use the following option above to answer this question. Which of the following compounds in solution will turn red litmus paper blue?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "pH Calculations ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem142.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "224a9051-881f-4bb4-ab0a-57d2f9a85c45",
+      "question_text": [
+        "The compound above is an"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem141.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "akanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0664a89e-ecf3-4359-9277-f3c4ca144b99",
+      "question_text": [
+        "In the graph above, the activation energy of the catalyzed reaction is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem137.jpg",
+      "explanation": "Activation energy of catalysed reaction is the small curve inside while the activation energy of the uncatalysed is the big curve outside. Therefore activation energy of the catalysed reaction = Activation complex of the catalysed reaction - reactant = 200 - 100 = 100KJ.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100KJ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "300KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "250KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "200KJ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f6d2790-d578-41ed-8cb9-09d3e3d0c095",
+      "question_text": [
+        "Choose the correct option from the graph above.3Fe(S) + 4H2O(g) ⇌ Fe3O4(s) + 4H2(g). The equilibrium constant, K, of the reaction above is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Equilibrium Constants ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem136.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a2c7039-7cc2-429a-9e47-47dc6588c36c",
+      "question_text": [
+        "Calculate the volume in cm3 of oxygen evolved at s.t.p when a current of 5A is passed through acidified water for 193s?[F = 96500 C mol1. Molar volume of a gas at s.t.p = 22.4dm3]"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Q = 193 x 5 = 965C40H \\(\\mapsto\\) 2H2O + O2 + 4e4 x 96500C = 22.4dm3965C = xx = \\(\\frac{22.4 \\times 965}{4 \\times 96500}\\) = 0.056dm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.056dm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.224dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "224.000dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "56.000dm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "448f18cd-5d59-47b8-8439-8b8516c94ad1",
+      "question_text": [
+        "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Industrial Production of Fertilizers ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Phosphorus-32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cobalt-60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbon-14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Iodine-131",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d91be92b-dd8d-4f66-bf99-163a30118d0b",
+      "question_text": [
+        "2SO2(g) + O2(g) \\( \\iff \\)2SO3(g)\\( \\bigtriangleup H = -395.7kJmol^{-1} \\)In the reaction above, the concentration of 2SO3(g) can be in creased by"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Concentration-Time and Mole-Time Graphs ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decreasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreasing the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the addition of catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increasing the temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "12740d1e-aff8-4083-abb8-0f0584ffc713",
+      "question_text": [
+        "How many unpaired electron are in the p-orbitals of a fluorine atom?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Covalent Bonds and Bond Formation ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( 0 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8dfff7e-d571-48a6-acbc-87370b4b252b",
+      "question_text": [
+        "The radioactive emission with the least ionization power is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Polyprotic Acids ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\alpha - particles ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "X-rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\gamma -rays \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "68eb49ed-4c25-450c-875e-741a04ba8ed6",
+      "question_text": [
+        "Zn(s) + CuSO4(aq) \\( \\to \\) ZnSO4(aq) + Cu(s)In the reaction above, the oxidizing agent is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CuSO4(a",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ZnSO4(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2336f424-15e6-4956-8ce7-ba6126edcb06",
+      "question_text": [
+        "Use the following option above to answer this question. Which of the following compounds in solution will turn red litmus paper blue?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "pH Calculations ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem142.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "adbde8d8-09f1-43f1-9cd3-8a56aba4d85a",
+      "question_text": [
+        "The compound above is an"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem141.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "akanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "355c5f98-a8ea-4dd7-a695-d7d0e14e719c",
+      "question_text": [
+        "In the graph above, the activation energy of the catalyzed reaction is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem137.jpg",
+      "explanation": "Activation energy of catalysed reaction is the small curve inside while the activation energy of the uncatalysed is the big curve outside. Therefore activation energy of the catalysed reaction = Activation complex of the catalysed reaction - reactant = 200 - 100 = 100KJ.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100KJ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "300KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "250KJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "200KJ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "04c914ad-a886-4e12-9a6b-50e94d01e401",
+      "question_text": [
+        "Choose the correct option from the graph above.3Fe(S) + 4H2O(g) ⇌ Fe3O4(s) + 4H2(g). The equilibrium constant, K, of the reaction above is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Equilibrium Constants ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem136.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,1434 @@
+
+[
+    {
+      "id": "105a8e30-0943-463f-9f0f-f6000913219e",
+      "question_text": [
+        "Given T = { even numbers from 1 to 12 } N = {common factors of 6, 8 and 12} Find T ∩ N"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "T = {evenn numbers from 1 to 12} N = {common factors of 6,8 and 12} Find T ∩ N T = {2, 4, 6, 8, 10, 12} N = {2} T ∩ N = {2} i.e value common to T & N",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{2, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2, 3, 4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{3, 4, 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{2}",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2983749a-4c37-4977-8d93-4575250a6db0",
+      "question_text": [
+        "What is the next number in the series 2, 1, \\(\\frac{1}{2}\\), \\(\\frac{1}{4}\\)..."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "2, 1, \\(\\frac{1}{2}\\), \\(\\frac{1}{4}\\)..... There are 4 terms in the series  Therefore the next number will be the 5th term Tn = ar\\(^{n − 1}\\) (formular for geometric series) a = first term = 2 r = common rate = \\(\\frac{\\text{next term}}{\\text{previous term}}\\) = \\(\\frac{1}{2}\\) n = number of terms T5 = 5th term = ? T5 = ar\\(^{5 - 1}\\) = ar\\(^4\\) = 2 × (ar\\(^{n − 1}\\))4 = 2 × \\(\\frac{1}{16}\\) = \\(\\frac{1}{8}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "37e3c0f6-4871-42d1-96f1-12529c482d33",
+      "question_text": [
+        "If U = {x : x is an integer and 1 ≤ x ≤ } E1 = {x: x is a multiple of 3} E2 = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20} E1 = {3, 6, 9, 12, 15, 18} E2 = {4, 8, 12, 16, 20} Probability of E2 = \\(\\frac{5}{20}\\) i.e \\(\\frac{\\text{Total number in}E_2}{\\text{Entire number in set}}\\) Probability of set E2 = 1 − \\(\\frac{5}{20}\\) = \\(\\frac{15}{20}\\) = \\(\\frac{3}{4}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2cae57e2-32d6-40e6-941f-996de986ff63",
+      "question_text": [
+        "If two graphs y = px2 + q and y = 2x2 − 1 intersect at x =2, find the value of p in terms of q"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "y = px2 + q y = 2x2 - 1 px2 + q = 2x2 - 1 px2 = 2x2 - 1 - q p = \\(\\frac{2x^2 - 1 - q}{x^2}\\) at x = 2 p = \\(\\frac{2(2)^2 - 1 - q}{2^2}\\) = \\(\\frac{2(4) - 1 -q}{4}\\) = \\(\\frac{8 - 1 - q}{4}\\) p = \\(\\frac{7 - q}{4}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "q − \\(\\frac{8}{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "7 − \\(\\frac{q}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c58e0c44-bfcd-4b85-9486-4bbb27a92f73",
+      "question_text": [
+        "Evaluate (\\(\\sin\\)45o + \\(\\sin\\)3o ) in surd form."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/05/math303.jpg",
+      "explanation": "hypotenuse sin = \\(\\frac{1}{2}\\) \\(\\sin45 = \\frac{1}{\\sqrt{2}}\\) = \\(\\frac{2}{2}\\) ∴ (sin45 + sin30) = \\(\\frac{1}{\\sqrt{2}} + \\frac{1}{2}\\) = \\(\\frac{\\sqrt{2}}{2}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{\\sqrt{2} + 1}{2}\\) = \\(\\frac{1 + \\sqrt{2}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{\\sqrt{3}}{2\\sqrt{2}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "√3 − \\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "30bd9770-16d8-44c8-95b6-c9d691ea229c",
+      "question_text": [
+        "If y = x Sin x, find \\(\\frac{dy}{dx}\\) when x = \\(\\frac{\\pi}{2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "y = xsinx \\(\\frac{dy}{dx}\\) = \\(1 \\sin x + x \\cos x\\) = \\(\\sin x + x \\cos x\\) At x = \\(\\frac{\\pi}{2}\\) = sin\\(\\frac{\\pi}{r}\\) + \\(\\frac{\\pi}{2} \\cos {\\frac{\\pi}{2}}\\) = 1 + \\(\\frac{\\pi}{2}\\) × 10 = 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{- \\pi}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "598f5268-da4f-4d65-a173-908a5345f404",
+      "question_text": [
+        "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "t ∝ h, t = 20, h t = ? h = 60 t = kh where k is constant 20 = 50k  k = \\(\\frac{20}{50}\\) k = \\(\\frac{2}{5}\\) when h = 60, t = ? t = \\(\\frac{2}{5}\\) × 60 t = 24oC",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "24oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "34oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "241e526a-bd5e-4ded-a559-a3d2b3d4769f",
+      "question_text": [
+        "Evaluate \\(1 - (\\frac{1}{5} \\times \\frac{2}{3}) + (5 + \\frac{2}{3})\\)"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "db001e2a-61a8-4fda-b58c-01fb66305242",
+      "question_text": [
+        "Given m = N\\(\\frac{\\sqrt{SL}}{T}\\) make T the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "M = \\(\\frac{\\sqrt{SL}}{T}\\),  make T subject of formula square both sides M2 = \\(\\frac{N^2SL}{T}\\) TM2 = N2SL T = \\(\\frac{N^2SL}{M^2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{\\text{NSL}}{M}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{N^2SL}{M^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "810c02b3-53e5-402d-9258-412853f52a80",
+      "question_text": [
+        "Simplify 3 \\(^{n − 1}\\) × 27 \\(\\frac{n + 1}{81^n}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "3\\(^{n + 1}\\) × 27\\(\\frac{n + 1}{81^n}\\) = 3\\(^{n + 1}\\) × 3 \\(\\frac{3^{(n + 1)}}{3^{4n}}\\) = 3\\(^{n + 1 + 3n + 3 − 4n}\\) = 3\\(^{4n − 4n − 1 + 3}\\) = 32 = 9",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3\\(^{2n}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3nD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c51e8e18-2f6c-464e-a210-3aeca22b60aa",
+      "question_text": [
+        "The locus of a point which is equidistant from the line PQ forms a"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "The locus of points at a fixed distance from the point P is a circle with the given P at its centre. The locus of points at a fixed distance from the point Q is a circle with the given point Q at its centre The locus of points equidistant from two points P and Q i.e line PQ is the perpendicular bisector of the segment determined by the points Hence, The locus of a point which is equidistant from the line PQ forms a perpendicular line to PQ",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "circle centre P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "pair of parallel lines each opposite to PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "circle centre Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "perpendicular line to PQ",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7941dea3-ba50-43bf-a9db-66fbbaee031d",
+      "question_text": [
+        "Given T = {even numbers from 1 to 12} N = {common factors of 6, 8 and 12}Find T ∩ N"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Given T = {even numbers from 1 to 12} = { 2, 4, 6, 8,10, 12} N = {common factors of 6, 8 and 12}  = {2} Find T n N = {2}",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{2, 3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2, 3, 4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{3, 4, 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{2}",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f17213db-7419-421f-9029-75cbfc6c077a",
+      "question_text": [
+        "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60o"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "If RST = 60o RXT = 2 × RST (angle at the centre twice angle at the circumference) RXT = 2 × 60 = 120o",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "140o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d3a0ccb-c825-495e-8f93-87c0691e0b05",
+      "question_text": [
+        "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Range = Highest Number - Lowest Number Mode is the number with highest occurrence 10, 9, 10, 9, 8, 7, 7, 10, 8, 4, 6,, 9, 10, 9, 7, 10, 6, 5 Range = 10 − 4 = 6 Mode = 10 Sum of range and mode = range + mode = 6 + 10 = 16",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3194de8-d6ee-49cb-93f1-e15d2985bb2b",
+      "question_text": [
+        "Find the sum to infinity of the series  \\(\\frac{1}{4}\\), \\(\\frac{1}{8}\\), \\(\\frac{1}{16}\\),.........."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Sum to infinity ∑ = arn − 1 = \\(\\frac{a}{1}\\) − r a = \\(\\frac{1}{4}\\) r = \\(\\frac{1}{8}\\) ÷ \\(\\frac{1}{4}\\) r = \\(\\frac{1}{s}\\) × \\(\\frac{4}{1}\\) = \\(\\frac{1}{2}\\) S = \\(\\frac{1 \\div 4}{1}\\) − \\(\\frac{1}{2}\\) = \\(\\frac{1}{4}\\) ÷ \\(\\frac{1}{2}\\) = \\(\\frac{1}{4}\\) × \\(\\frac{2}{1}\\) = \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c7ea3b7-c2c1-4ede-8de6-04a82009ff68",
+      "question_text": [
+        "The base in which the operation was performed was"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6ce38bc2-4819-4a76-97d3-86c0832f4134",
+      "question_text": [
+        "The value of x + x ( xx) when x = 2 is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Using BODMAS  \\(2+2(2^2)\\) Clear bracket by squaring to have 4 Then multiply by 2 to get 8  Then add by 2 to get 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "18",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a401a6de-1386-4608-a0d2-b4908d7874d3",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080m3. What is the depth of the tank if the diameter of its base is 14m? Take pi = 22/7."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Capacity = Volume = 3080m3 base diameter = 14m radius = \\(\\frac{\\text{diameter}}{2}\\) = 7m Volume of Cylidner = Capacity of cylinder πr2h = 3080 \\(\\frac{22}{7}\\) × 7 × 7 × h = 3080 h = \\(\\frac{3080}{22 \\times 7}\\) h = 20m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "83410865-9244-4fac-aa26-c88bc17092ab",
+      "question_text": [
+        "Simplify 4\\(\\sqrt{27}\\) + 5\\(\\sqrt{12}\\) − 3\\(\\sqrt{75}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "4\\(\\sqrt{27}\\) + 5\\(\\sqrt{12}\\) − 3\\(\\sqrt{75}\\) = 4\\(\\sqrt{3}\\) × 9 + 5\\(\\sqrt{3}\\) × 4 − 3\\(\\sqrt{3}\\) × 25 = 4 × 3\\(\\sqrt{3}\\) + 5 × 2\\(\\sqrt{3}\\) − 3 × 5\\(\\sqrt{3}\\) = 12\\(\\sqrt{3}\\) + 10\\(\\sqrt{3}\\) − 15\\(\\sqrt{3}\\) = (12 + 10 − 15)\\(\\sqrt{3}\\) = 7\\(\\sqrt{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "− 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "− 7\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fdc6d149-4b55-45d2-a1e2-22e3373c808b",
+      "question_text": [
+        "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Let the speed of the 1st trip be x miles/hr and the speed of the 2nd trip be 3x miles/hr Speed = distance/time ∴ Time taken to cover a distance of 50 miles on the 1st trip = \\(\\frac{50}{xhr}\\) time taken to cover a distance of 300 miles on the next trip = \\(\\frac{300}{3xhr}\\) = \\(\\frac{100}{xhr}\\)  ∴the new time compared with the old time is twice as much",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "three times as much",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the same",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "twice as much",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "half as much",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "539610c8-09c2-4398-869e-c507d15af14c",
+      "question_text": [
+        "In the figure, find x"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Sum of angle at a point = 360o 2x + 3x + 4x = 360 9x = 360 x = \\(\\frac{360}{9}\\) x = 40o",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "55o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11050bbb-52da-4b7d-972e-5f04837c918d",
+      "question_text": [
+        "Find the number of ways that the letters of the word EXCELLENCE be arranged"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "EXCELLENCE It is a ten letter word = 10! Since we have repeating letters, we have to divide to remove the duplicates accordingly. There are 4 Es, 2 Cs, 2 Ls ∴ there are \\(\\frac{10!}{4!2!2!}\\) ways to arrange",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{10!}{2!2!2!}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{10!}{4!2!}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a35daf83-0b5b-47c7-a5f4-143dbb6dde3a",
+      "question_text": [
+        "Evaluate \\(\\frac{0.00000231}{0.007}\\) and leave the answer in standard form"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\frac{0.00000231}{0.007}\\) to standard form = \\(\\frac{231 \\times 10^{-8}}{7 \\times 10^{-3}}\\) = 33 × 10\\(^{-8 − (−3)}\\) = 33 × 10\\(^{− 8 + 3}\\) = 33 × 10-5",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.3 x 104",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.3 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.3 x 10-4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.3 x 10-8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd67359a-c902-493e-91f1-f2245fedc296",
+      "question_text": [
+        "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Actual measurement = 10cm approximated value of measurement = 10.5cm % error = \\(\\frac{\\text{Actual measurement − Approximated}}{\\text{Actual measure}}\\) × 100 = \\(\\frac{10 − 10.5}{10}\\) × 100 = \\(\\frac{-0.5}{10}\\) × 100 ignore -sign i.e take absolute value = \\(\\frac{0.5}{10}\\) × 100 = 5 %",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "488bb0dd-e49a-47be-9941-5225472c778a",
+      "question_text": [
+        "The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is ₦ 80 000. Find the amount allocated to fertilizer"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Total angle at a point = 3600 ∴ To get the angle occupied by fertilizer we have, 40 + 50 + 80 + 70 + 30 + fertilizer(x) = 360 270 + x = 360 x = 360 - 270 x = 90 Total amount allocated to the farm = ₦ 80,000 ∴Amount allocated to the fertilizer = \\(\\frac{\\text{fertilizer (angle) × Total amount}}{\\text{total angle}}\\) = \\(\\frac{90}{360}\\) × 80,000 = ₦20,000",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦ 35, 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦ 40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦ 25,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦ 20,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a66ac475-02e8-4f94-8d95-6b6ddf9d9991",
+      "question_text": [
+        "In how many ways can the word MATHEMATICS be arranged?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "MATHEMATICS is an eleven letter word = 11! There are 2Ms and 2As and 2Es  Divide the number of repeating letters  = \\(\\frac{11!}{2!2!2!}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{11!}{9!2!}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{11!}{9!2!2!}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "689a805f-7706-4f0e-baa9-bc0cb45fd685",
+      "question_text": [
+        "In how many ways can the word MACICITA be arranged?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "MACICITA is an eight letter word = 8! Since we have repeating letters, we have to divide to remove duplicates accordingly. There are 2A, 2C, 2I ∴ \\(\\frac{8!}{2! 2! 2!}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8!}{2!}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{8!}{3! 2!}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6b67fbc-9f54-4f4b-a39e-4765b07768d7",
+      "question_text": [
+        "y is inversely proportional to x and y and 6 when x = 7. Find the constant of the variation"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Y ∝ \\(\\frac{1}{2}\\) Y = 6, X = 7 Y = \\(\\frac{k}{x}\\) where k is constant 6 = \\(\\frac{k}{7}\\) k = 42",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "47",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "42",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "54",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "46",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4ab88ea3-8e8f-40ce-bde8-a8353f0ea327",
+      "question_text": [
+        "In the diagram MN, PQ and RS are parallel lines. What is the value of the angle marked X?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/05/math298.jpg",
+      "explanation": "MN || PQ || RS MN = PQ = RS (parallel lines) Label the angle in the lines a = i (corresponding angles are equal) b = x (corresponding angles are equal) If |MN| = |RS| If a = i and a = 63 = i a + b = 180 (Adjacent interior angles are supplementary i.e add to 180) ∴ i + x = 180 63 + x = 180 x = 180 - 63 x = 1170",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "123o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "170o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "137o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6040d1f-b5ae-4069-b0e4-59d0687d1dda",
+      "question_text": [
+        "Find ∫(x2 + 3x − 5)dx"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "∫xndx = \\(\\frac{x_{n + 1}}{n + 1}\\) ∫dx = x + k  where k is constant  ∫(x2 + 3x − 5)dx  ∫x2 dx + ∫3xdx − ∫5dx  \\(\\frac{2_{2 + 1}}{2 + 1}\\) + \\(\\frac{3x^{1 + 1}}{1 + 1}\\) − 5x + k \\(\\frac{x_3}{3}\\) + \\(\\frac{3x_2}{2}\\) − 5x + k",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{x_3}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " - \\(\\frac{3x_2}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " - 5x + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{x_3}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "439068f4-6ab0-4add-a7dd-57814d499e5c",
+      "question_text": [
+        "If m * n = [mn − nm] for m, n belong to R, evaluate − 3 * 4"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "m * n = \\(\\frac{m}{n}\\) - \\(\\frac{m}{n}\\) m = − 3 n = 4 ∴ − 3 × 4 = \\(\\frac{-3}{4}\\) - \\(\\frac{-4}{-3}\\) = \\(\\frac{3(−3) − (− 4 × 4)}{12}\\) = \\(\\frac{− 9 + 16}{12}\\) = \\(\\frac{7}{12}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "915b553a-67cf-455c-8b31-4379fbcc5b95",
+      "question_text": [
+        "Factorize completely x2 + 12xy + y  + 3x + 3y - 18"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "x + 2xy + y  + 3x + 3y - 18 x  + 2xy + 3x + y  + 3y -18 x  + 2xy - 3x + 6x + y  -3y + 6y -18 x  + 2xy -3x + y  -3y + 6x + 6y -18 x  + xy -3x + xy + y  - 3y + 6x + 6y -18 x(x + y - 3) + y(x + y - 3) + 6(x + y - 3) = (x + y - 3)(x + y + 6) = (x + y + 6)(x + y -3)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + y + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x + y -",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x - y - 6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b86a64e-eeca-499b-871a-ac3953b27a4d",
+      "question_text": [
+        "The operation * on the set R of real number is defined by x * y = 3x + 2y − 1, find 3* − 1"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "x * y is an operation on 3x + 2y − 1 Find 3A − 1 x = 3, y = −1 3 * − 1 on 3x + 2y − 1 3(3) + 2(−1) −1 = 9 − 2 − 1 = 6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "- 9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "- 6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff737dfe-655a-4cb7-9ba8-5f9710201679",
+      "question_text": [
+        "Find the gradient of the line joining the points (3, 2) and (1, 4)."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Gradient of line joining points (3, 2), (1, 4) Gradient = \\(\\frac{\\text{Change in Y}}{\\text{Change in X}}\\) = \\(\\frac{y_2 - y_1}{x_2 - x_1}\\)  (X1, Y1) = (3, 2) (X2, Y2) = (1, 4) Gradient = \\(\\frac{4 − 2}{1 + 3}\\) = \\(\\frac{2}{-2}\\) = −1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2/1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d39c50c-1f53-4115-b7ae-062534127bbc",
+      "question_text": [
+        "Simplify \\((\\sqrt[3]{64}a^3)^{−1}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\((\\sqrt[3]{64}a^3)^{−1}\\) \\(\\cfrac{1}{(\\sqrt[3]{64}a^3)}\\) = \\(\\cfrac{1}{4a}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(4a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{8a}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "36e1a236-f831-4c03-b703-d33cb63badb8",
+      "question_text": [
+        "If \\(\\frac{2 \\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + 2 \\sqrt{2}}\\) = m + n √ 6, find the values of m and n respectively."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{2 \\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + 2 \\sqrt{2}}\\)= m + n√6 \\(\\frac{2 \\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + 2 \\sqrt{2}}\\) x \\(\\frac{\\sqrt{3} - 2 \\sqrt{2}}{\\sqrt{3} - \\sqrt{2}}\\) \\(\\frac{2 \\sqrt{3} (\\sqrt{3} - 2 \\sqrt{2}) - \\sqrt{2}(\\sqrt{3} - 2 \\sqrt{2})}{\\sqrt{3}(\\sqrt{3} - 2 \\sqrt{2}) + 2 \\sqrt{2}(\\sqrt{3} - 2 \\sqrt{2})}\\) \\(\\frac{2 \\times 3 - 4\\sqrt{6} - 6 + 2 \\times 2}{3 - 2 \\sqrt{6} + 2 \\sqrt{6} - 4 \\times 2}\\) = \\(\\frac{6 - 4 \\sqrt{6} - \\sqrt{6} + 4}{3 - 8}\\) = \\(\\frac{0 - 4 \\sqrt{6} - 6}{5}\\) = \\(\\frac{10 - 5 \\sqrt{6}}{5}\\) = − 2 + √6 ∴ m + n\\(\\sqrt{6}\\) = − 2 + √6 m = − 2, n = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, − 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "− 2, n = 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": ", 1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d856b73-5f78-49e3-8158-e8445bec4019",
+      "question_text": [
+        "If α and β are the roots of the equation 3x2 + bx − 2 = 0. Find the value of \\(\\frac{1}{\\alpha}\\) + \\(\\frac{1}{\\beta}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{1}{\\alpha}\\) + \\(\\frac{1}{\\beta}\\) = \\(\\frac{\\beta -\\alpha}{\\alpha \\beta}\\)  3x2 + 5x + 5x − 2 = 0.  Sum of root = α + β Product of root = αβ x2 + \\(\\frac{5x}{3}\\) − \\(\\frac{2}{3}\\) = 0 αβ = − \\(\\frac{-2}{3}\\) α + β = \\(\\frac{5}{3}\\) ∴ \\(\\frac{\\alpha + \\beta}{\\alpha \\beta}\\) = − \\(\\cfrac{\\frac{5}{3}}{\\frac{2}{3}}\\) = − \\(\\frac{2}{3}\\) × \\(\\frac{3}{3}\\) = \\(\\frac{5}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f3a40992-a0bf-44a4-8b4f-31f96e30657e",
+      "question_text": [
+        "Find the range of the following set of numbers 0.4, −0.4, 0.3, 0.47, −0.53, 0.2 and −0.2"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "0.4, −0.4, 0.3, 0.47, −0.53, 0.2, −0.2 Range is the difference between the highest and lowest value i.e Highest − Lowest − 0.53, −0.4, −0.2, 0.2, 0.3, 0.4, 0.47 0.47 is the highest − 0.53 is the lowest ∴ = 0.47 − (− 0.53) ∴0.47 + 0.53 = 1.0",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.03",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.07",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.03",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.0",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "af3cf018-3605-46ac-b86e-67e41c38567c",
+      "question_text": [
+        "Evaluate 1 − (\\(\\frac{1}{5}\\) + 1\\(\\frac{2}{3}\\)) + (5 + 1\\(\\frac{2}{3}\\))"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "1 − (\\(\\frac{1}{5}\\) + 1\\(\\frac{2}{3}\\)) + (5 + 1\\(\\frac{2}{3}\\)) 1 − (\\(\\frac{1}{5}\\) × \\(\\frac{5}{3}\\)) + (5 + \\(\\frac{5}{3}\\)) 1 − \\(\\frac{1}{3}\\) + \\(\\frac{20}{3}\\) = \\(\\frac{22}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "77760bd8-94e2-4cad-bc57-6e6f9f14ec6d",
+      "question_text": [
+        "What is the product of 2x2 − x + 1 and 3 − 2x"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "(2x2 - x + 1) × (3 - 2x); 3(2x2 - x + 1) - 2x (2x2 - x + 1) 6x2 - 3x + 3 - 4x3 + 2x2 - 2x -4x3 + 8x2 -5x + 3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4x3 − 8x2 + 5x + 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "−4x3 + 8x2 − 5x + 3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "−4x3 − 8x2 + 5x + 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4x3 + 8x2 − 5x + 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "73fb64d3-cc85-4589-a2e1-c407aa14e7b3",
+      "question_text": [
+        "Find the principal which amounts to ₦5,500 at a simple interest in 5 years at 2% per annum."
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Principal, P = Amount, A - Interest, I. A = P + I I = (P.T.R)/100 = (P x 5 x 2)/100 = 10P/100 = P/10 But A = P + I, => 5500 = P + (P/10)  => 55000 = 10P + P  => 55000 = 11P Thus P = 55000/11 = ₦5,000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦4,900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦5,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦4,700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦4,800",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ddfc2a43-b1aa-4b6d-9f57-1c4586158055",
+      "question_text": [
+        "In the figure, find angle x"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math229.jpg",
+      "explanation": "In the figure, angle x = 20\\(^{\\circ}\\) + 80\\(^{\\circ}\\) + 40\\(^{\\circ}\\)= 140\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

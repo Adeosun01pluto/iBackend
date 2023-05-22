@@ -1,0 +1,3430 @@
+[
+    {
+      "id": "f58e7ff0-3c28-415a-a0df-a0684ced1620",
+      "question_text": [
+        "From the diagram, determine the profit-maximizing output"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Short-Run Equilibrium of a Perfect Competitor ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs74.jpg",
+      "explanation": "he profit – maximizing output level is 900 because at this, output level MC = MR. The marginal cost curve is tangential to the marginal revenue line which shows the price maximizing level output.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da576ab1-d235-497a-af4f-bdc1648be2a0",
+      "question_text": [
+        "Given that the prices and quantities supplied in litres of petrol is expressed as Qs = 25 + 0 25P.Qs is the quantity supplied and P is price. Determine the quantity supplied when price per litre is N30"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Demand and Supply"
+      ],
+      "explanation": "Qs = 25 + 0.25p= 25 + 0.25(30) = 25 + 7.5= 32.5litres",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32.5litres",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "30litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35litres",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "810a2e4c-23e3-4c07-a82d-d5f4c9d89d67",
+      "question_text": [
+        "What would encourage the growth of international division of labour?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Introduction to Division of Labour ",
+        " Theory of Production"
+      ],
+      "explanation": "Efficient transport system encourages international division of labour.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Improvement in transport system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Instability in international exchange rate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Restrictions on the movement of resources",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increase in tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d01f2cca-ad85-4691-aca8-70d7b4b48515",
+      "question_text": [
+        "The demand and supply functions of commodity x are given as follows: Qd = 20- 2p, Qs = 6p - 12 where p = price, Qd = quantity demanded and Qs = quantity supplied. Determine the equilibrium price"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Demand and Supply"
+      ],
+      "explanation": "Qd = 20 - 2pQs = 6p - 12Therefore, equilibrium price is Qd = Qs20 - 2p = 6p-1220 + 12 = 6p+2p32 = 8pEquilibrium price = 32/8= 4Equilibrium price = N4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ec9c8b3-73e0-4b76-bdc3-d837b37c2244",
+      "question_text": [
+        "The practice of selling goods overseas and often below the cost of production is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Anti-Dumping Argument ",
+        " Globalization and Protectionism"
+      ],
+      "explanation": "In economics, \"dumping\" is a kind of predatory pricing, especially in the context of international trade. It occurs when manufacturers export a product to another country at a price either below the price charged in its home market or below its cost of production.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "retailing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dumping",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "internal trade",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "advertising",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ec38b1c9-7976-49fa-b435-674ea7db3a28",
+      "question_text": [
+        "In a situation when a firm is operating in a perfectly competitive firm and the total cost is given perfectly competitive firm and the total cost is given as N75.00. If the market price is N7.00 determine the profit. When 25 units are produced"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "How Perfectly Competitive Firms Make Output Decisions ",
+        " Perfect Competition"
+      ],
+      "explanation": "Total cost (Tc) = N75.00Price (P) = N7.00Output (Q) = N25 unitsProfit = ?To derive the profit of the firm, the total revenue must be expressed. It can be expressed asTotal revenue (TR) = Price (P) × Quantity (q)Therefore, TR = P × Q= 7 × 25 unitsTr = N175Therefore, Profit = TR – TC= N175 – N75Profit = N100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N75.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N175.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N125.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a0aea24e-6bb8-40ea-aea8-e83a36943fdf",
+      "question_text": [
+        "The theory of comparative cost advantage is associated with"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Dynamic Comparative Advantage ",
+        " International Trade"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Adam Smith",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Reverend Thomas Malthus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Professor trum fisher",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "David Ricardo",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6b6f6f0b-25cc-4d5f-b309-4271f152f41f",
+      "question_text": [
+        "In a situation where Mux represent the marginal utility of product X while Px represent the price respectively. Utility can be maximized when"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Consumer Choices"
+      ],
+      "explanation": "A consumer utility is maximized when the marginal utility per amount spent on a product is equal to the price.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "MUX = MUA",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "MUX = PX",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "PX = X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "PX = PY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "17895b9c-8751-482b-81a0-bf7a44db6025",
+      "question_text": [
+        "Which of the following could be used to measure the efficiency of labour?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Debt/GDP Ratio ",
+        " Government Budgets and Fiscal Policy"
+      ],
+      "explanation": "Efficiency of labour is the output per man per unit of timethe combination of inputs in order to produce a required level of output",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rate of inflation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "input-output ratio",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "buying more machines",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "unemployment rate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b31a13a-941c-4da4-8b3f-57e3eca0542c",
+      "question_text": [
+        "How can a firm benefit from external economies?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "External Economies of Scale ",
+        " Theory of Production"
+      ],
+      "explanation": "External economies is the benefit which a firm derives from the centration of similar firms which leads to an increase in output and a reduction in the unit costThe firm will benefit from the area where the industry is located",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increasing its expenditure on advertising",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increasing the workforce",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Locating in an area in which the industry is already established",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Merging with another domestic firm engaged in the same industry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa7ede79-f93e-414a-9ec9-b6c261b0d60a",
+      "question_text": [
+        "A smaller industry that grows to cater for the need of the major industry is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "External Diseconomies of Scale ",
+        " Theory of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "subsidiary industry",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "constructive industry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "manufacturing industry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "infant industry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a667c95d-a107-4318-9096-533c979bbe08",
+      "question_text": [
+        "In the diagram, the consumer budget line shift from JK to GH. What can definitely be deduced from the diagram?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Shifts of the Budget Line ",
+        " Theory of Consumer Behaviour"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs73.jpg",
+      "explanation": "Since a budget line imposed a constraint on an individual budget that he cannot buy more where the constraint is. An increase in income will make the consumer income higher that the price of the commodity which leads to shift in budget line from JK to GH",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "There has been an increase in the consumer’s money income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "There has been a reduction in the price of both A and B",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "There has been no change in the price of A or B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "There has been no change in the price of A relative to the price of B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f46d7309-648c-44d1-b113-11e3f33aa8fa",
+      "question_text": [
+        "The situation whereby the government of a country spends more than its budgets for a given financial year is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Government Spending ",
+        " Government Budgets and Fiscal Policy"
+      ],
+      "explanation": "deficit budget is a situation whereby government revenue is less than government expenditure.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "surplus budget",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deficit budget",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "balanced budget",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "minus budget",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30d606a4-28a6-46ea-bae9-a5c29d5ec63c",
+      "question_text": [
+        "The total stock of money available for use in an economy is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Supply of Money ",
+        " Money and Inflation"
+      ],
+      "explanation": "supply of money is the total amount of money circulating outside the banking system including money on current account over a given period of time",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "supply of money",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "value of money",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "demand for money",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "attribute of money",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa6e4535-20ba-4816-95ba-3dadacf6c502",
+      "question_text": [
+        "What does the accelerator principles state?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Principles of Taxation ",
+        " Public Finance"
+      ],
+      "explanation": "Investment depends on the rate of change in income and that a change in income will cause a greater proportionate change in investment.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Consumption is a function of the rate of change of income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "income is a function of the rate of change of investment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Investment is a function of the rate of change of income",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Investment is a function of the rate of interest",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "60b5213f-f495-4639-a990-1073547d17a4",
+      "question_text": [
+        "A major limiting factor of mass production is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Marginal Productivity Theory ",
+        " Factors of Production"
+      ],
+      "explanation": "A smaller market will discourage mass production. But efficient management, adequate labour supply and adequate supply of raw materials will enhance the existence of mass production.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "efficient management",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "adequate labour supply",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "small size of the market",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "adequate supply of raw materials",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d973f588-7584-4a67-b7a5-a30476791699",
+      "question_text": [
+        "When elasticity is zero, demand curve is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Polar Cases of Elasticity and Constant Elasticity ",
+        " Elasticity"
+      ],
+      "explanation": "perfectly inelastic is when a change in price has an no effect on quantity demanded. The coefficient is zero",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "perfectly elastic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "perfectly inelastic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "down-ward sloping",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "upward sloping",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a94a9093-cee2-4a5e-85e0-840628140c29",
+      "question_text": [
+        "The term of trade can be expressed as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Inflation"
+      ],
+      "explanation": "Term of trade is the comparison between visible and invisible export and visible and invisible import expresses in price. The ratio of export to import. It could be expressed as(price index of export ÷ price index of import) × 100Which can be dented as (px ÷pm) × 100",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(Price index of export ÷ Price index of expor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "× 100",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(price index of import ÷ price index of expor",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " × 100C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ecd2e4e-181b-49d1-8e09-13ea4fc4c794",
+      "question_text": [
+        "The income of an individual increases from N150 to N250 and his consumption rate increases from N100 to N150. Calculate the Marginal Propensity to Consume"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Consumption ",
+        " National Income"
+      ],
+      "explanation": "The Marginal Propensity to Consume (MPC) is the additional amount consumed as a fraction of additional disposable income.Initial income = N150.New income = N250.Change in income = N250 – N150 = 100Initial consumption = N100New consumption = N150.Change in consumption = N150 - N100 = N50.MPC = Change in consumption ÷ Change in income .= 50/100 = ½MPC = 0.5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e7f7f4da-b6bb-4a68-83cc-e2d28a13e8ae",
+      "question_text": [
+        "The study of broad economic aggregates is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Why Study Economics? ",
+        " Introduction to Economics"
+      ],
+      "explanation": "Macro Economics studies the fluctuations in the levels of large aggregates and way to prevent the fluctuation.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Macro economics",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "deductive method of economic analysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "micro economics",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Inductive method of economics analysis",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cbf8ca18-b7b9-461c-9bb9-e8c628bc0b65",
+      "question_text": [
+        "Disposable income is total income"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Redistribution ",
+        " Poverty and Economic Inequality"
+      ],
+      "explanation": "Disposable income can only be obtained if tax has been deducted. So it is the income available for savings and spending after the deduction of personal income tax",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "less tax",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "divided by tax",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "plus tax",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "multiplied by tax",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5dd0a36-293f-4813-9072-7cddefed272b",
+      "question_text": [
+        "In which of the following economic systems do we have the means of production and exchange controlled by private individuals"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Capitalism ",
+        " Economic Systems"
+      ],
+      "explanation": "capitalist system is where the private individuals controlled the means of production and exchange",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "socialist system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "mixed system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "capitalist system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "traditional system",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3013328-ab15-4301-a947-dbfe53fc35f3",
+      "question_text": [
+        "Isocost and isoquant can be attributed to"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Strengths of the Optimum Theory ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Theory of consumer behaviour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Theory of cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Theory of production",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Theory of value",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8a2d5cf4-05be-4714-aa70-7a6a07f657d3",
+      "question_text": [
+        "The line Y in the diagram represents"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Lessons From Alternative Measures of Costs ",
+        " Cost and Industry Structure"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs72.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "total cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "variable cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fixed cost",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "marginal cost",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a16d41a6-60fa-4e9c-9a56-6681c62f8f21",
+      "question_text": [
+        "The curve labeled II illustrates a system of taxation"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Government Budgets and Fiscal Policy"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs71.jpg",
+      "explanation": "A proportional tax is a flat rate payment of tax. The same level of tax is paid irrespective of the level of income or wealth.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "proportional tax",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "regressive tax",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "value added",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "progressive tax",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "07728cd4-69c4-465a-8df7-b61454b631f7",
+      "question_text": [
+        "The curve labeled III illustrate a system of taxation"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Government Budgets and Fiscal Policy"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs71.jpg",
+      "explanation": "A regressive tax falls as incomes increases while progressive tax rises as income increases. Proportional tax is a flat rate while value added tax is the tax imposed on goods and services at each stage of production.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "regressive tax",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "progressive tax",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "value added tax",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "proportional tax",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e4ca5ef5-6b0f-4c22-a036-035a4e1263c4",
+      "question_text": [
+        "What would be likely to increase inflation in any economy?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Inflation ",
+        " Money and Inflation"
+      ],
+      "explanation": "Excess demand without a corresponding increase in supply causes inflation.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increase in demand",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Reduce public spending",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Control excessive import",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Increase in direct tax",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "12a26988-910e-4dd1-a181-5fd2151ca1b6",
+      "question_text": [
+        "All the following are types of specialization except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Gains From Trade ",
+        " International Trade"
+      ],
+      "explanation": "The types of specialization are product, process, geographical/territorial specialization and specialization by sex or gender. Manager specialization can be categorized under process specialization because it is a situation whereby worker are specialized on a particular production process.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Manager Specialization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Product specialization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Specialization by sex",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Geographical specialization",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "321022d3-b092-4d06-b051-c7792fb300fb",
+      "question_text": [
+        "A market will be at equilibrium when"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Equilibrium Price and Quantity ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "if demand and supply are equal, it brings the market to the point of equilibrium because equilibrium price is the price where quantity demanded and quantity supplied are equal.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "demand and supply are equal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "demand is greater than supply",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "price is higher",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "supply is greater than demand",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a4ddefe3-951b-43c6-89ad-419e72cdbdbe",
+      "question_text": [
+        "Which of the following will shift the demand curve for Bournvita to the right"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Shifts of the Demand Curve ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "A shift in demand does not affect other factors except price. Therefore, a fall in price will give room for an increase in demand, increase in demand will make the demand curve to shift to the right.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a rise in price of Bournvita",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an increase in income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a tax on cocoa producer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a fall in price of Bournvita",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2fba21e4-78e9-4e60-b2c1-3718440a8715",
+      "question_text": [
+        "Find the range in the following data 9, 15, 6, 20, 24, 18, 12, 8, 20, 10, 5."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Range ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "explanation": "Range is the difference between the highest and the lowest value in a set of data.Highest value = 24Lowest value = 5The range = 24 – 5= 19",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "19",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8bdb591-2e7c-4f62-a072-4c0f5a1576a4",
+      "question_text": [
+        "All the following are properties of an indifference curves except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Indifference Curve ",
+        " Theory of Consumer Behaviour"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it can intersect",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "it slopes downward from left to right like that of a normal demand curve",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "as it shift rightward it indicate higher and higher level of satisfaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "it does not intersect",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "515c1ec9-6544-4714-9e3a-fcb1ecae8d02",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Units of variable factor} & \\text{Total Product} \\\\ \\hline 1 & 25 \\\\ \\hline 2 & 31 \\\\ \\hline 3 & 40 \\\\ \\hline 4 & 48 \\\\ \\hline 5 & 55 \\\\ \\end{array}\\)The marginal product at the fifth variable factor is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Marginal Productivity Theory ",
+        " Factors of Production"
+      ],
+      "explanation": "MP = Δ TP ÷ Δ L= (TP2 – TP1) ÷ L2 – L1= (55 – 48 ) ÷ (5 – 4) = 7 ÷ 1= 7",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9e15369-1a32-4c75-ae40-4762905d2ac6",
+      "question_text": [
+        "The financial institution known as a building society is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "A Bank’s Balance Sheet ",
+        " Money and Banking"
+      ],
+      "explanation": "mortgage bank is a financial institution which grant loans for building purpose.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "commercial bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "central bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "mortgage bank",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "development bank",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "207c1b2e-c2b1-42ec-97ff-f94cd8b434b1",
+      "question_text": [
+        "A line in commodity space which shows the constraints imposed by his budget, his money income and the price of goods purchased is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Shifts of the Budget Line ",
+        " Theory of Consumer Behaviour"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "supply curve",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "liquidity preference",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Budget line",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "demand curve",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b75b831e-ca30-4f6b-bf1d-f49cab56fb07",
+      "question_text": [
+        "The information that rank a consumer preferences is given by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Indifference Curve ",
+        " Theory of Consumer Behaviour"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Scale of preference",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Indifference map",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Demand schedule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Supply schedule",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "387cc88e-4587-4b67-bb1e-12275480aee9",
+      "question_text": [
+        "The ownership of a public limited liability company is made up of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Limited Liability Companies ",
+        " Business Organisations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "two to twenty persons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "minimum of two and maximum of fifty",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "minimum of seven and no maximum number",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "owner owned by the government",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "640247b5-0058-476b-b0df-5e1f5aaa5537",
+      "question_text": [
+        "The relationship between the cost of living and standard of living is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Does a Rise in GDP Overstate or Understate the Rise in the Standard of Living? ",
+        " The Macroeconomic Perspective"
+      ],
+      "explanation": "Cost of living is the amount of money individuals spent on consumption while the standard of living is the state of economic well being. Therefore, a fall in the cost of living leads to a rise in standard of living.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A rise in cost of living gives a corresponding rise in standard of living",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A lower cost of living give a higher standard of living",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "A lower cost of living give a lower standard of living",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "None of the above",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d36f0b17-8380-464f-9a2e-348e24862fb9",
+      "question_text": [
+        "The ordinalist approach of utility postulated that utility can be"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Utility ",
+        " Theory of Consumer Behaviour"
+      ],
+      "explanation": "The ordinalist approach explains that an individual can rank boundless of goods in order of preference with regard to the satisfaction they give him or her. Ordinalist approach is explained by means of different curves and budget lines.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Rank",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Measurable",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rise",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Fall",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53d85d0c-e5a5-4c66-9802-6bf72d3fdfd6",
+      "question_text": [
+        "The frequent value that occurs most in a data is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Mode ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "explanation": "mode is the frequently occurring value in a given data.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "median",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "mean",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "mode",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "range",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba3c7df8-988c-4cfe-a4ee-6a7e4177862c",
+      "question_text": [
+        "Mr. Patrick’s income is N900 while that of Mr. Shodawe is N1,300. if Mr. Patrick and Shodawe pay N90 and N130 as taxes, the tax system is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Government Budgets and Fiscal Policy"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Direct",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Progressive",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Regressive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Proportional",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26d8ffff-dd1b-44b7-b55b-c649ed0f5e60",
+      "question_text": [
+        "Which of the following is not a type of unemployment"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "What Causes Changes in Unemployment Over the Long Run ",
+        " Unemployment"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "factory unemployment",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "structural unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "mass unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "frictional unemployment",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3bdf56b0-cdee-40cc-8dec-96ebb48d81f3",
+      "question_text": [
+        "Which of the following are examples of transfer payment"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Characteristics of Money ",
+        " Money and Inflation"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gift and donations",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "rents and rates",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "profit and dividends",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "internal and external debts",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b8a96c1d-2791-4178-aa73-fcaad3c21399",
+      "question_text": [
+        "The technical relationship between the physical inputs and the physical outputs of a firm is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Aggregate Production Function ",
+        " Economic Growth"
+      ],
+      "explanation": "production function shows the technical information about the combination of inputs necessary for the production of outputs. In equation we write the production function as q = f (L, K) where L and K represents the inputs of labour and capital respectively.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Utility",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Demand",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Production function",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "02ecd70a-75c6-4978-9ae8-736734c332b1",
+      "question_text": [
+        "The income elasticity of demand of normal goods is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Income Elasticity of Demand ",
+        " Elasticity"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "negative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "positive",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fixed",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e4a9756a-3552-4c07-9dfa-0dded3e48038",
+      "question_text": [
+        "The following equations relate to an open economy with a government sector. E = aggregate expenditure on domestically produced goods, C = Consumption, I = Investment, G = Government expenditure, T = taxes, M = imports, X = Exports. Which equation is correct"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Axes of the Expenditure-Output Diagram ",
+        " The Keynesian Perspective"
+      ],
+      "explanation": "The national income of a country can be estimated as aggregate expenditure, consumption, investment, government expenditure, export less import. Import will be deducted because it is the money paid on importation of goods from other countries.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "E = C + I + G",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "E = C + I + G + M – X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "E = C + I + G + X – M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "E = C + I + G – T + M – X",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3a71152-c56c-482d-aae3-902e569c8fba",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Units of labour} & \\text{Fixed capital} & \\text{Total product} & \\text{Average product} & \\text{Marginal product} \\\\ \\hline 0 & 10 & - & - & - \\\\ \\hline 1 & 10 & 10 & 10 & 10 \\\\ \\hline 2 & 10 & 25 & ? & 15 \\\\ \\hline 3 & 10 & 50 & 16.7 & 25 \\\\ \\hline 4 & 10 & 80 & 20.0 & 30 \\\\ \\hline 5 & 10 & 106 & 21.2 & 26 \\\\ \\end{array}\\)Calculate the average product when the 2nd labour was employed 12.5"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Concepts of Production ",
+        " Theory of Production"
+      ],
+      "explanation": "Average Product = total product ÷ Labour EmployedTPL/1 = 25/2= 12.5Average product = 12.5",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44bbe69f-9265-42a2-9aac-9e9b0a9ec58d",
+      "question_text": [
+        "All the following are the canons of taxation given by Adam Smith except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Principles of Taxation ",
+        " Public Finance"
+      ],
+      "explanation": "There are four principles given by Adam Smith which include equality/ability to pay, economy, convenience and certainty. Objective is not a canon of taxation",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "objective",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "economy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "convenience",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "certainty",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "997280b3-cfa3-4a16-a705-21ce61322fca",
+      "question_text": [
+        "Census can be classified as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Problems Associated with Conducting Census ",
+        " Population"
+      ],
+      "explanation": "Defacto is that type of census where only those who physically present would be counted. Dejure is that type of census where an individual must be a permanent resident of an area. It is counting by proxy.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "defacto and dejure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increasing and decreasing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "over and under",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "optimum",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34099c73-667c-4579-b427-4aad23b72885",
+      "question_text": [
+        "A firm that charges the maximum price without attracting competition from new entrants is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Monopolistic Competition ",
+        " Monopolistic Competition and Oligopoly"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Oil firms",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Monopolistic competitive firm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Monopolistic firm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Perfectly competitive firm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23bd6fcb-33d5-4a24-b00b-000193289bef",
+      "question_text": [
+        "A monopolist has the power to influence the prices of goods and services. Therefore, he is a"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Monopoly"
+      ],
+      "explanation": "Monopoly is a situation where there is a single producer and seller of a commodity for which there is no close substitute. This gives a monopolist the power to make/decide the price for a particular commodity.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "price maker",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "price taker",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "price system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "price competition",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d383cd1-47b0-41dd-90ff-8c575c98ae90",
+      "question_text": [
+        "Which of the following business units can issue shares?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Limited Liability Companies ",
+        " Business Organisations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Partnership",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Public limited liability company",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Sole proprietorship",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Central bank",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "273474e5-a581-4870-9347-5fb299ecafe1",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Capital consumption allowance} & \\text{₦20,000} \\\\ \\hline \\text{Gross domestic production} & \\text{₦60,000} \\\\ \\hline \\text{Factor payment to foreigners} & \\text{₦10,000} \\\\ \\hline \\text{Factor income from abroad} & \\text{₦15,000} \\\\ \\end{array}\\)From the above table, calculate the Gross National Product."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Concepts of GNP, GDP, NI, NNP ",
+        " National Income"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N70,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N75,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N50,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N60,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c2cd51e-411c-4b9a-a157-f4b1adbe1da8",
+      "question_text": [
+        "Petroleum has the following positive contributions to the Nigerian economy except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Positive Contributions of Petroleum to the Nigerian Economy ",
+        " Natural Resources and the Economy"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Generate employment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Source of government revenue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "development of mono economy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Infrastructure development",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0ba98c98-a091-4020-8e08-23cc6d1ad2c7",
+      "question_text": [
+        "The market in which the operators are many and none of them can influence the price is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Perfectly Competitive Market ",
+        " Market Structures"
+      ],
+      "explanation": "Perfect foreign market is a market where buyers and sellers cannot influence the price because they are large in number.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "stock exchange market",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "imperfect market",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "perfect foreign market",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "exchange market",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d028ec7f-df81-4ccd-8f25-03a57ea9ff59",
+      "question_text": [
+        "The concentration of industries in a particular geographical area is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Localisation of Industries ",
+        " Industry and Industrialization"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "localization of industries",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "roles of industrialization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "location of industry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "strategies of industrialization",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "87fd177a-471b-40c4-b69d-3f174c30d61d",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Units of quantity} & \\text{Total utility} & \\text{Marginal utility} \\\\ \\hline 0 & - & - \\\\ \\hline 1 & 10 & 10 \\\\ \\hline 2 & 15 & 5 \\\\ \\hline 3 & 17 & 2 \\\\ \\hline 4 & 18 & 1 \\\\ \\hline 5 & 18 & 0 \\\\ \\end{array}\\)The table illustrate the law of"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Law of Diminishing Marginal Utility ",
+        " Theory of Consumer Behaviour"
+      ],
+      "explanation": "It shows that when total utility is at the maximum, marginal utility equals zero.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "admonishing returns",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increasing returns",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diminishing marginal utility",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "increasing marginal utility",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ec9f5226-3fe5-44c2-8f19-0795d31273f1",
+      "question_text": [
+        "What will increase the likelihood that the firms in an industry will conclude to maximize their joint profit?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "How Monopolies Form: Barriers to Entry ",
+        " Monopoly"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The industry has many differentiated products",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The industry is characterized by rapid technological change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The industry consist of large number of producers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "There are significant barriers to prevent firms entering the market",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4df39dc6-6aa5-430c-84a3-489460824375",
+      "question_text": [
+        "A commercial bank can create money by"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Creation of Money ",
+        " Financial Institutions"
+      ],
+      "explanation": "lending to borrowers in form of loan with an interest rate makes the commercial bank to create more money.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "issuing currency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increasing cash ratio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "issuing cheque",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lending to borrowers",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a401744b-dd4b-4c0f-ae7d-a1457e4f89d4",
+      "question_text": [
+        "The source of all economic problems arises from"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "6",
+      "related_lessons": [
+        "What is Economics, and Why is It Important? ",
+        " Introduction to Economics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "wants",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Scarcity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Opportunity Cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Scale of Preference",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95ee2fcc-d1b9-4775-aff0-bdccc5592803",
+      "question_text": [
+        "The quantity theory of money states that a reduction in the quantity of money in circulation would bring about"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Quantity Theory of Money (Fisher Equation) ",
+        " Money and Inflation"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A constant change in price",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "A rise in prices",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "An unequal fall in prices",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A proportionate fall in price",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dd255ae0-5d9c-4e88-ac7b-3568f1ebd940",
+      "question_text": [
+        "The tax levied on locally produced goods is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Indirect Taxes ",
+        " Public Finance"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "import duty",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "excise duty",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "company tax",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "value added tax",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26b5e029-dd46-4b80-ab89-2f6a6a9a494d",
+      "question_text": [
+        "Revenue can be expressed as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Determining the Highest Profit by Comparing Total Revenue and Total Cost ",
+        " Perfect Competition"
+      ],
+      "explanation": "Revenue can be defined as the income generated by a firm from the sales of its goods and services.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "total Profit made after sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "amount of goods produced",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "total money realized from sales",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amount spent on purchases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a343af6a-b2cc-4459-9756-32f36da5d6e8",
+      "question_text": [
+        "All the following are factors that would bring about a change in supply except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Change in Quantity Supplied and Change in Supply ",
+        " Theory of Supply"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "level of technology",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "government policy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Entry of new firms",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Price of the commodity",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "97ead2c1-2859-4827-8e49-55385c5d674c",
+      "question_text": [
+        "The combination of two commodities each yielding the same level of satisfaction to the consumer is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Indifference Curve ",
+        " Theory of Consumer Behaviour"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "consumer surplus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "indifference curve",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "budget constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "goods of necessity",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce2b1594-6517-4203-aab1-fd6b46a27a46",
+      "question_text": [
+        "In which situation is it likely that the demand for labour would be inelastic?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Labour Mobility and Efficiency ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Labour and capital are close substitutes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Labour costs are only a small proportion of total costs",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Demand for the final product that the labour produces is elastic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A large quantity of unemployed labour is available in the economy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e468a6d-d34f-42d7-b034-6f9e9239c615",
+      "question_text": [
+        "The headquarter of the Organization Of Petroleum Exporting Countries (OPEC) is in"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Organisation of Petroleum Exporting Countries (OPEC) ",
+        " Natural Resources and the Economy"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Paris, France",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Geneva, Switzerland",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Lagos, Nigeria",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Vienna, Austria",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ec21b2c1-1631-40da-bbc1-b5a6efa18733",
+      "question_text": [
+        "The law of variable proportions is also known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Law of Diminishing Returns ",
+        " Theory of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "law of demand",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "law of diminishing returns",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "law of diminishing marginal utility",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "law of returns to scale",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "508382b8-4f9e-4fbe-881a-48f58342596c",
+      "question_text": [
+        "All the following are problems identified with agriculture in West Africa except"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Under-Population ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "land tenure system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ignorance of the farmers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "use of crude implement",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "provision of food for the teeming population",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f2027026-b1aa-47f1-922c-856226f8cc90",
+      "question_text": [
+        "The diagram above shows the shifts in both demand supply curves. What is the new equilibrium point after the shifts?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summing Up Factors That Change Demand ",
+        " Demand and Supply"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs65.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "E3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "E1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "E4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "E2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "08bb19b7-ce48-4772-942b-a05b79dda5aa",
+      "question_text": [
+        "From the diagram, determine the profit-maximizing output"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Short-Run Equilibrium of a Perfect Competitor ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs74.jpg",
+      "explanation": "he profit – maximizing output level is 900 because at this, output level MC = MR. The marginal cost curve is tangential to the marginal revenue line which shows the price maximizing level output.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab0f64f1-067f-4d82-a142-ef767dad48be",
+      "question_text": [
+        "Given that the prices and quantities supplied in litres of petrol is expressed as Qs = 25 + 0 25P.Qs is the quantity supplied and P is price. Determine the quantity supplied when price per litre is N30"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Demand and Supply"
+      ],
+      "explanation": "Qs = 25 + 0.25p= 25 + 0.25(30) = 25 + 7.5= 32.5litres",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32.5litres",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "30litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35litres",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6fbe6446-6201-42e9-9c49-83339b13874f",
+      "question_text": [
+        "What would encourage the growth of international division of labour?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Introduction to Division of Labour ",
+        " Theory of Production"
+      ],
+      "explanation": "Efficient transport system encourages international division of labour.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Improvement in transport system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Instability in international exchange rate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Restrictions on the movement of resources",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increase in tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bae62a7c-1627-4d0e-bede-2d3c28814c55",
+      "question_text": [
+        "The demand and supply functions of commodity x are given as follows: Qd = 20- 2p, Qs = 6p - 12 where p = price, Qd = quantity demanded and Qs = quantity supplied. Determine the equilibrium price"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Demand and Supply"
+      ],
+      "explanation": "Qd = 20 - 2pQs = 6p - 12Therefore, equilibrium price is Qd = Qs20 - 2p = 6p-1220 + 12 = 6p+2p32 = 8pEquilibrium price = 32/8= 4Equilibrium price = N4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2df9d4e8-7b5e-4bbb-b36c-7da6c90e5e67",
+      "question_text": [
+        "The practice of selling goods overseas and often below the cost of production is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Anti-Dumping Argument ",
+        " Globalization and Protectionism"
+      ],
+      "explanation": "In economics, \"dumping\" is a kind of predatory pricing, especially in the context of international trade. It occurs when manufacturers export a product to another country at a price either below the price charged in its home market or below its cost of production.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "retailing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dumping",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "internal trade",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "advertising",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "042fe954-808a-43dc-ab4d-fc54512cd8be",
+      "question_text": [
+        "In a situation when a firm is operating in a perfectly competitive firm and the total cost is given perfectly competitive firm and the total cost is given as N75.00. If the market price is N7.00 determine the profit. When 25 units are produced"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "How Perfectly Competitive Firms Make Output Decisions ",
+        " Perfect Competition"
+      ],
+      "explanation": "Total cost (Tc) = N75.00Price (P) = N7.00Output (Q) = N25 unitsProfit = ?To derive the profit of the firm, the total revenue must be expressed. It can be expressed asTotal revenue (TR) = Price (P) × Quantity (q)Therefore, TR = P × Q= 7 × 25 unitsTr = N175Therefore, Profit = TR – TC= N175 – N75Profit = N100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N75.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N175.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N125.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c4149c4-8e38-4208-a39a-71acd534abb1",
+      "question_text": [
+        "The theory of comparative cost advantage is associated with"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Dynamic Comparative Advantage ",
+        " International Trade"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Adam Smith",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Reverend Thomas Malthus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Professor trum fisher",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "David Ricardo",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "392a94ae-b2ae-4932-98c6-343880588223",
+      "question_text": [
+        "In a situation where Mux represent the marginal utility of product X while Px represent the price respectively. Utility can be maximized when"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Consumer Choices"
+      ],
+      "explanation": "A consumer utility is maximized when the marginal utility per amount spent on a product is equal to the price.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "MUX = MUA",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "MUX = PX",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "PX = X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "PX = PY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7e9910d-e048-498c-b2de-563542106253",
+      "question_text": [
+        "Which of the following could be used to measure the efficiency of labour?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Debt/GDP Ratio ",
+        " Government Budgets and Fiscal Policy"
+      ],
+      "explanation": "Efficiency of labour is the output per man per unit of timethe combination of inputs in order to produce a required level of output",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rate of inflation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "input-output ratio",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "buying more machines",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "unemployment rate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d6ca1bb-535c-4146-acc0-0e1a91ea525c",
+      "question_text": [
+        "How can a firm benefit from external economies?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "External Economies of Scale ",
+        " Theory of Production"
+      ],
+      "explanation": "External economies is the benefit which a firm derives from the centration of similar firms which leads to an increase in output and a reduction in the unit costThe firm will benefit from the area where the industry is located",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increasing its expenditure on advertising",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increasing the workforce",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Locating in an area in which the industry is already established",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Merging with another domestic firm engaged in the same industry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2159058-46b8-4a6b-aedc-cc7a0d5ad523",
+      "question_text": [
+        "From the diagram, determine the profit-maximizing output"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Short-Run Equilibrium of a Perfect Competitor ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs74.jpg",
+      "explanation": "he profit – maximizing output level is 900 because at this, output level MC = MR. The marginal cost curve is tangential to the marginal revenue line which shows the price maximizing level output.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d753d198-3da1-4246-8a73-a1f9a95bd170",
+      "question_text": [
+        "Given that the prices and quantities supplied in litres of petrol is expressed as Qs = 25 + 0 25P.Qs is the quantity supplied and P is price. Determine the quantity supplied when price per litre is N30"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Demand and Supply"
+      ],
+      "explanation": "Qs = 25 + 0.25p= 25 + 0.25(30) = 25 + 7.5= 32.5litres",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32.5litres",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "30litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35litres",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e75f4c9-4005-4b34-897d-1e15c487b813",
+      "question_text": [
+        "What would encourage the growth of international division of labour?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Introduction to Division of Labour ",
+        " Theory of Production"
+      ],
+      "explanation": "Efficient transport system encourages international division of labour.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Improvement in transport system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Instability in international exchange rate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Restrictions on the movement of resources",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increase in tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78d82d23-2362-43be-b929-50fc1a7f5887",
+      "question_text": [
+        "The demand and supply functions of commodity x are given as follows: Qd = 20- 2p, Qs = 6p - 12 where p = price, Qd = quantity demanded and Qs = quantity supplied. Determine the equilibrium price"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Demand and Supply"
+      ],
+      "explanation": "Qd = 20 - 2pQs = 6p - 12Therefore, equilibrium price is Qd = Qs20 - 2p = 6p-1220 + 12 = 6p+2p32 = 8pEquilibrium price = 32/8= 4Equilibrium price = N4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28de1da1-7084-40ba-8a0c-81ac89feaa78",
+      "question_text": [
+        "The practice of selling goods overseas and often below the cost of production is known as"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Anti-Dumping Argument ",
+        " Globalization and Protectionism"
+      ],
+      "explanation": "In economics, \"dumping\" is a kind of predatory pricing, especially in the context of international trade. It occurs when manufacturers export a product to another country at a price either below the price charged in its home market or below its cost of production.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "retailing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dumping",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "internal trade",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "advertising",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5bb5bcff-402e-4e0e-a75a-58d5fde8613c",
+      "question_text": [
+        "In a situation when a firm is operating in a perfectly competitive firm and the total cost is given perfectly competitive firm and the total cost is given as N75.00. If the market price is N7.00 determine the profit. When 25 units are produced"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "How Perfectly Competitive Firms Make Output Decisions ",
+        " Perfect Competition"
+      ],
+      "explanation": "Total cost (Tc) = N75.00Price (P) = N7.00Output (Q) = N25 unitsProfit = ?To derive the profit of the firm, the total revenue must be expressed. It can be expressed asTotal revenue (TR) = Price (P) × Quantity (q)Therefore, TR = P × Q= 7 × 25 unitsTr = N175Therefore, Profit = TR – TC= N175 – N75Profit = N100",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N75.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N100",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N175.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N125.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a484631-f3b1-492e-a363-37674df1fc3c",
+      "question_text": [
+        "The theory of comparative cost advantage is associated with"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Dynamic Comparative Advantage ",
+        " International Trade"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Adam Smith",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Reverend Thomas Malthus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Professor trum fisher",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "David Ricardo",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b0973760-87e7-47aa-b407-298c0d42c0b8",
+      "question_text": [
+        "In a situation where Mux represent the marginal utility of product X while Px represent the price respectively. Utility can be maximized when"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Consumer Choices"
+      ],
+      "explanation": "A consumer utility is maximized when the marginal utility per amount spent on a product is equal to the price.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "MUX = MUA",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "MUX = PX",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "PX = X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "PX = PY",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e50c3f6-6cdd-4c30-ac1f-3c274ca0c7d6",
+      "question_text": [
+        "Which of the following could be used to measure the efficiency of labour?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Debt/GDP Ratio ",
+        " Government Budgets and Fiscal Policy"
+      ],
+      "explanation": "Efficiency of labour is the output per man per unit of timethe combination of inputs in order to produce a required level of output",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rate of inflation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "input-output ratio",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "buying more machines",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "unemployment rate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1dd02777-a721-438d-84ae-f2a2c817d0c9",
+      "question_text": [
+        "How can a firm benefit from external economies?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "External Economies of Scale ",
+        " Theory of Production"
+      ],
+      "explanation": "External economies is the benefit which a firm derives from the centration of similar firms which leads to an increase in output and a reduction in the unit costThe firm will benefit from the area where the industry is located",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increasing its expenditure on advertising",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increasing the workforce",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Locating in an area in which the industry is already established",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Merging with another domestic firm engaged in the same industry",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

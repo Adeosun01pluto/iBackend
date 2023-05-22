@@ -1,0 +1,4009 @@
+
+[
+    {
+      "id": "222bf739-12e8-408b-8433-92fffd5cda6c",
+      "question_text": [
+        "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Percentage birthrate = 1.0%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d740c15e-7a67-4d5f-b7e5-3b064f159380",
+      "question_text": [
+        "Simplify 1¼ ÷ (2 ÷ ¼ of 28)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "1¼ ÷ (2 ÷ ¼ of 28) To solve, we apply BODMAS rules \\( \\frac{5}{4}\\) ÷ [ 2 ÷ ¼ × 28 ] \\( \\frac{5}{4} ÷ \\frac{2}{7} \\)  \\( \\frac{5}{4} × \\frac{7}{2} \\)  \\( \\frac{35}{8}\\) = \\(4 \\frac{3}{8}\\)Thus, 1¼ ÷ (2 ÷ ¼ of 28) = \\(4 \\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 \\( \\frac{3}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 \\( \\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d47068d7-923d-4122-8654-79337dee238c",
+      "question_text": [
+        "Factorize x2 + 9x + 20"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\( x^2 + 9x + 20 \\) Find the two numbers whose product is 20 and its sum is 9} \\( 5x \\times 4x = 20x^2\\)\\(5x + 4x = 9x\\) \\((x^2 + 5x) + (4x + 20)\\)  \\(x(x + 5)+ 4(x + 5)\\) \\(= (x + 5)(x + 4)\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x − ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f419a117-cef1-4009-b06b-85cf1987d06d",
+      "question_text": [
+        "If three staff of Chukwudi and Sons Ltd. agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is ₦120,000.00K, How much does the second staff receive?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Sum of ratios = 18 + 20 + 22 = 60 The second staff would collect \\(\\frac{20}{60 \\times 120000}\\) = 40,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦36,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦44,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦40,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦15,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29dfff3e-24ff-455c-b0ee-c86400c07d8f",
+      "question_text": [
+        "X and Y are two sets such that nX = 15, nY = 12 and n{X ∩ Y} = 7. Find n{X ∪ Y}."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "n(X ∪ Y) = nx + ny − n(X ∩ Y) = 15 + 12 − 7 ∴ n(X ∪ Y) = 20",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "225",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "66aca913-785a-4b87-9ace-cd9061b81820",
+      "question_text": [
+        "Find the x and y intercepts of the graph of 3x - z \\(\\leq\\) 9"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Starting from 3x − z \\(\\leq\\) 9 x = 0, substitute the value of x (i.e. x = 0) into the equation 3x − z \\(\\leq\\) 9 3(0) − z \\(\\leq\\) − 9 z \\(\\leq\\) − 9 If z = 0 Then, 3x − 0 \\(\\leq\\) 9 3x \\(\\leq\\) 9 x \\(\\leq\\) 3 Intercept of x and z i.e (x,z) = (3, -9)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-3, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0f31d8e8-a55b-4a21-99d4-cfebd7abb70a",
+      "question_text": [
+        "Simplify log101.5 + 3 log102 − log100.3"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "log101.5 + 3 log102 − log100.3 log101.5 + log1023 − log100.3 [log10(1.5 × 23) ÷ log100.3] [log10(15/10 × 8 ) ÷ log10( 3/10)] log10(15/10 × 8 × 10/3 ) log1040",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "log104",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "log1040",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "log10-40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "log104-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9448c995-8b85-47e9-a0d8-9d62602e5ba9",
+      "question_text": [
+        "Find the total surface area of a cylinder of base radius 5cm and length 7cm (π = 3.14)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "The total surface area of a cylinder = 2πrl + 2πr2 = 2πr(l + r) = 2 × 3.14 × 5 (7 + 5) 2 × 3.14 × 5 * 12 = 377.0 cm2 (to 1 decimal place)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "219.9cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "157.1cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "377.0cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "298.7cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75851dc9-9a23-4726-9688-eb835529b030",
+      "question_text": [
+        "If x + y = 90, simplify (sinx + siny)2−2sinxsiny"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "If \\(x + y = 90\\) Solve for \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)  \\(x + y = 90\\)   ---(1) \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)   ----(2) \\(x = 90 - y\\)   ---(3) Expanding eqn (2) Therefore: \\(\\sin^{2}x + \\sin^{2}y + 2\\sin x \\sin y - 2\\sin x \\sin y\\) => \\(\\sin^{2}x + \\sin^{2}y\\)   --- (4) Substitute the value of \\(x\\) in eqn (3) into eqn (4) => \\(\\sin^{2}(90-y) + \\sin^{2}y\\) ---(5) Expanding eqn (5) => \\(\\sin^{2}(90) - \\sin^{2}y + \\sin^{2}y\\) => \\(\\sin^{2}(90) + 0\\) => \\(\\sin^{2}(90)\\) => \\((\\sin(90))^{2}\\) => \\(1^2\\) = \\(1\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7135da0-ba4a-47fb-a48a-67d027bc025a",
+      "question_text": [
+        "A man with an annual salary of ₦2000, has allowances of ₦600. If Income Tax is 5%, how much tax does he pay each year?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "His annual salary = ₦2000 His allowances = ₦600 So his taxable income = Annual salary − allowance = ₦2000 − ₦600 = ₦1400 He pays at 5% Then, his allowance income tax 5/100 × 600 = ₦30",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9126cdef-ad3a-4399-bf51-cf66270fdaa1",
+      "question_text": [
+        "Solve the equation \\( 3x^2 − 4x − 5 = 0 \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = 1.75 or − 0.15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 2.12 or − 0.79",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = 1.5 or − 0.34",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = 2.35 or −1.23",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "193987aa-b913-4831-8135-8c8213772873",
+      "question_text": [
+        "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Nth term of a linear sequence (AP) = a+(n − 1)d first term = 6, last term = 10 sum − 40 i.e. a = 6, l = 10, S = 40 sn = n ÷ 2(2a + (n − 1)d or Sn = ÷2 (a + b) Sn = n ÷ 2(a + l) 40 = n ÷ 2(6 + 10) 40 = 8n 8n = 40 8n = 40 N = 40/8 = 5 The nth term = 5",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nth = 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "nth = 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nth = 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "nth = 6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "935c8e8b-347d-4f0c-9b98-573d89d4e9de",
+      "question_text": [
+        "Find the equation of a line which is from the origin and passes through the point (−3, −4)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Equation of a straight line is given by \\( y-y_{1}=m(x-x_{1}) \\) Where m is the slope or gradient Don't forget, the line passes through the origin. That means it has a coordinates of \\( \\lbrace{0,0}\\rbrace\\) and \\(\\lbrace{-3,-4}\\rbrace \\). So to calculate m \\( m=\\cfrac{\\Delta y}{\\Delta x}=\\cfrac{0-(-4)}{0-(-3)}=\\cfrac{4}{3} \\) Equation of straight line is therefore given as: \\( y-(-4)=\\cfrac{4}{3}[x-(-3)] \\) \\( 3(y+4)=4(x+3) \\) \\( 3y+12=4x+12 \\) \\( 3y=4x \\) \\( \\therefore y=\\cfrac{4x}{3} \\) Option B",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = \\( \\frac{3x}{4} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = \\( \\frac{4x}{3} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ddac581-5a92-4ec5-8345-00a911f0c43c",
+      "question_text": [
+        "The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r ÷ 100))n. Find A, if P = 126, r = 4 and n = 2."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\( A = P \\left(1 + \\frac{r}{100}\\right)^n \\) Where P = 126, r = 4, n = 2 A=126 \\( \\left(1 + \\frac{4}{100}\\right)^2\\) ... using LCM =126 \\( \\left(\\frac{100+4}{100}\\right)^2 = 126 \\left(\\frac{104}{100}\\right)^2 \\) =126 \\( \\left(1.04^2 \\right) \\) = 126 * 1.04 * 1.04 =136.28 A = 136.30 (approx.) The Amount A, = ₦136.30k",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦132.50K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦136.30K",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦125.40K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦257.42K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "790e3600-7c7b-4c53-8879-f28ccbc47bb8",
+      "question_text": [
+        "Make x the subject of the equation s = 2 + \\(\\frac{t}{5} \\)(x + ⅗y)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "2 + t/5(x + 3/5y ) = s t/5(x + 3/5y ) = s − 2 [(t(5x + 3y) ÷ 25)] = s − 2 t(5x + 3y) = 25 (s − 2) 5x + 3y = [(25(s − 2))÷ t] 5x = [(25(s − 2))÷ t] − 3y Divide both sides by 5 x = [25(s − 2) − 3ty)]÷ 5t",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = 5[(s − ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " ÷ t] + 3yt",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = 25[(s − ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " ÷ t] − 3tyC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5f1d709-da9c-4459-b2f7-5984862c85f8",
+      "question_text": [
+        "If log520 = x, find x"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "log520 = x 5x = 20(Take log10 of both sides) log5x = log20 xlog5 = log20 x= [log20 ÷ log5] [1.30103 ÷ 0.69897] x = 1.861",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.761",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.354",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.861",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.549",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af3dfefc-7613-4660-aab0-bc6824ff9f50",
+      "question_text": [
+        "Find at which rate per annum simple interest ₦525 will amount to ₦588 in 3 years."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "I = A − P = ₦588 − ₦525 ∴I = ₦63 I = PRT ÷ 100 R = [100I ÷PT] R = [(100 × 63 ) ÷ (525 × 3)] = (6300 ÷ 1575) = 4 ∴ The rate = 4 %",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4%",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b58b9a41-6ecd-485c-980f-1379401596cf",
+      "question_text": [
+        "Find the range of values of t which satisfies the inequality.2t − 1 \\(\\leq\\) 3 and 2− t \\(\\geq\\) 5"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "2t − 1 \\(\\leq\\) 3 and 2 − t < 5 2t \\(\\leq\\) 3 + 1 and 2 − 5 \\(\\leq\\) t 2t \\(\\leq\\) 4 and − 3 \\(\\leq\\) t t \\(\\leq\\) 2 and − 3 \\(\\leq\\) t or t \\(\\geq\\) − 3 Combining the two, starting from the last -3 \\(\\leq\\) t \\(\\leq\\) 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " t \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2 \\(\\leq\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d0656995-623d-49e7-b511-3d9e3df8c960",
+      "question_text": [
+        "Given that A = {1, 5, 7}B = {3, 9, 12, 15}C = {2, 4, 6, 8}Find (A ∪ B) ∪ C"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "{A ∪ B ∪ C} {A ∪ B} = {1, 3, 5, 7, 9, 12, 15} ∪ C={2,4,6,8} {A ∪ B} ∪ C = {1, 3, 5, 7, 9, 12, 15} ∪ {2, 4, 6, 8} = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15} {A ∪ B} ∪ C = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "{1, 2, 3, 5, 6, 8, 12, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2, 4, 5, 9, 12, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1, 5, 6, 7, 8, 9, 12, 15}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e14b8e80-bdc0-475c-a966-d78f4777ed3c",
+      "question_text": [
+        "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newtons is 2cm, find the extension produced by a tension of 12 Newtons."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "13709e05-a618-4796-b103-1bbceba6d5c4",
+      "question_text": [
+        "Factorize \\( x^2 − 2x − 15 \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "x2 − 2x − 15 (x2 − 5x) + (3x − 15) x(x − 5)+ 3(x − 5) (x − 5)(x + 3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x − 3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a7512583-fd69-4552-8947-b4bdc97e178b",
+      "question_text": [
+        "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2, ½",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "½ , 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1, ½",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0, 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2087309-afba-4efd-b706-a1a17c0dc56b",
+      "question_text": [
+        "Find the simple interest on ₦325 in 5years at 3% per annum."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "I =[ PRT ÷ 100] [(325 × 5 × 3) ÷ (100)] N(195 ÷ 4) ₦48.75K",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦48.75K",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦50.10K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦75.50K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦15.75K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f559879-521a-4081-a9f5-e7e3b0229567",
+      "question_text": [
+        "Simplify (0.09)2 and give your answer correct to 4 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "(0.09)2 = 0.09 × 0.09 = 0.0081 = 0.008100 to 4 significant figures Please, start counting first from the non-zero digits i.e. 8",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.81",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.081",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.0081",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.0001",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab68bc3b-ce0c-4e15-9e1a-2f7ada216504",
+      "question_text": [
+        "Simplify \\( [1 ÷ (x^2 + 3x + 2)] + [1 ÷ (x^2 + 5x + 6)] \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\( [1 ÷ (x^2 + 3x + 2)] + [1 ÷ (x^2 + 5x + 6)] \\) = \\( 1 ÷ (x^2 + 3x + 2) + [1 ÷ (x^2 +5x + 6)]\\) = \\( [1 ÷ ((x^2 + x) + (2x + 2) )] + [1 ÷ ((x^2 + 3x) + (2x + 6) )] \\) = [1 ÷ (x(x + 2) + 2(x +1))] + [1 ÷ (x(x + 3) +2(x + 3) )] = [1 ÷ (x + 1)(x + 2)] + [1 ÷ ((x + 3) + (x + 2))] =((x + 3) + (x + 1)) ÷ (x + 1)(x + 2)(x + 3) Using the L.C.M =((x + x + 3 + 1)) ÷ (x + 1)(x + 2)(x + 3) =(2x+4)/(x+1)(x+2)(x+3) =2(x+2)/(x+1)(x+2)(x+3) = \\( \\frac{2 }{(x + 1)(x + 3)} \\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{2}{(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "^2} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\frac{2}{(x + 1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "27575cd3-cf20-426d-9b6d-51cfb505bedc",
+      "question_text": [
+        "One bag contain 3 blue and 5 red balls, another bag contain 2 blue and 4 red balls respectively. One ball is drawn for each bag. What is the probability both balls are blue"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "One bag with 3 blue and 5 red Pr (H) = 3/8Pr (r) 5/8 Another bag with 2 blue and 4 red (note one ball is drawn from each bag) i.e. prob.=8 − 1 = 7 prob. (2 ball both are blue=pr (1st blue and 2nd blue) prob. 2 balls both blue = 3/8 × 2/7 = \\( \\frac{3}{28} \\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{2}{15} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{3}{24} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "27e41d06-3c8a-450a-b895-50beaa93b797",
+      "question_text": [
+        "Given that A = {3, 4, 1, 10, ⅓ }B = {4, 3 ⅓, ⅓, 7}.Find A∩B"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "A ∩ B = {3, 4, ⅓}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{⅓, 1, 2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{3, 4, ⅓}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1, 3, ⅓}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "391fb822-a5da-4f19-bc44-d3f9abe45827",
+      "question_text": [
+        "Find x if 132x = 70 eight."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "132x = 708 \\( 1 × x^2 + 3 × x^1 + 2 × x^0 \\) \\( 7 × 8^1 + 0 × 8^0 \\) \\( x^2 + 3x + 2 − 56 = 0 \\) \\( x^2 + 3x − 54 = 0 \\) x(x + 9)−6(x + 9) = 0 (x + 9)(x − 6) = 0 Either (x + 9) = 0 or (x − 6) = 0 x = − 9 or +6 The positive values for x = 6 The base number for 132x = 1326",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "edc18564-a835-44da-80ee-8d8ead7c2abe",
+      "question_text": [
+        "A man sells his new brand car for ₦420,000 at a gain of 15%. What did it cost him?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Cost Price: Selling price = 100 : (100 + 15) = 100 : 115 Cost Price = 100 ÷ 115 of selling price (i.e ₦420,000) = 100 ÷ 15 × ₦420,000 = ₦365,217.4 ∴ Cost Price = ₦365, 217",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦410,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦365,217",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦157,250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦257,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4bb555b3-6222-4bb0-9dfd-ee891835dda4",
+      "question_text": [
+        "Find the value of x if \\( [ 1 ÷ 64^{(x + 2)}]= [4^{(x − 3)} ÷ 16^x ] \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\( [ 1 ÷ 64^{(x + 2)}]= [4^{(x − 3)} ÷ 16^x ] \\) \\( 64^{−(x + 2)} = [4^{(x − 3)}] ÷[16^x] \\) Break down 4, 16 and 64 into smaller index numbers: \\( 2^{−6(x + 2)} = 2^{2(x − 3)} ÷ 2^{4(x)} \\) \\( 2^{−6x− 12} = 2^{2x − 4x − 6} \\) \\( 2^{−6x −12} = 2^{−2x − 6} \\) − 6x − 12 = − 2x − 6 Collect the like terms: −6x + 2x = −6 + 12 −4x =6 x = \\( \\frac{6}{4} \\) x = \\( \\frac{−3}{2} \\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{3}{2} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{2}{3} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "16ab1c3c-5f53-49c4-b941-006a7f373950",
+      "question_text": [
+        "A pipe made of metal 10cm thick has an external radius of 11cm. find the area of metal in making 2.4cm of pipe"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "The external radius = 11cm The internal radius = 10cm The area of cross section = π(π2 − 102) = π (11 + 10)(11 − 10)= π(21)(1) = 21πcm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "21πcm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21πcm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "15πcm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "17πcm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52b11a21-5b90-4049-b674-3c2b12bbf914",
+      "question_text": [
+        "Solve x2 − 2x − 3 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "x2 − 2x − 3 = 0 −3x + x = − 2x − 3x × x = − 3x2 (x2 − 3x)(x − 3) = 0 (x − 3)(x + 1) = 0 Either (x − 3) = 0 or (x + 1) = 0 x = 3 or − 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = 2 or 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 3 or -1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = 1 or 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = 1 or 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f7e1287d-767a-4234-9ea1-bac57d08fa4d",
+      "question_text": [
+        "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "V = πr2h V = ?, h = 4cm, r = 5cm V = 3.14(5)2 (4) V = 3.14(25)(4) V = 3.14 × 100 = 314cm2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "313cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "145cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "314cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "214cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b7477d3-743c-444b-a1b1-83dd7738c911",
+      "question_text": [
+        "Evaluate \\( \\int x^2 \\text{Sin}x \\Delta x \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Let u= x2 du = 2xdx Let v = sinx ∫dv = ∫ sin x i.e. v = cos x ∫ udv = uv − ∫ vdu ∫ x2 Sin xdx = − x2 Cos x − ∫ (− Cos x)2 × dx x2 Cos x + 2 ∫ x cos x1 dx = − x2 Cos x + 2 ∫ x Cos x2 dx 2 ∫ u Cos xdx Let u = x du = dx dv = Cos x ∫dv = ∫ Cos x ∫ x2 Sin x1 dx = − x2 Cos x + 2Sin x − 2Cos x + C ∫ x2 Sin xdx = − x2 Cos x + 2xSin + 2Cos x + C",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "−Cos x + 2xSin x + C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "−Cos x + 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x2Cos x + 2xSin x + 2Cos x+ C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "−x2Cos x + 2xSinx + 2Cos x + C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "497d5edf-000e-41e2-8f2c-e7db86ee32a1",
+      "question_text": [
+        "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Prob(A) = \\( \\frac{1}{5} \\) , Prob(B) = \\( \\frac{1}{4} \\), Prob (A ∩ B) = \\( \\frac{1}{15} \\), Prob (A ∪ B) = ? Note: I. the probability is either event of A or B or both. The formula is prob (A ∪ B) = ∩ prob(A) + prob(A) − prob(A ∩ B) II. But if the probability of both outcomes A and B The formula is Prob(A ∩ B) − prob(A) + prob(B) – prob (A ∪ B) In this question, A or B, Prob (A ∩ B): A and B, Prob (A ∩ B) prob (A ∪ B) = prob(A) + prob(B) − Prob (A ∩ B) is used. prob (A ∪ B) = \\( \\frac{1}{15} \\) + \\( \\frac{1}{3} \\) − \\( \\frac{1}{15} \\) = (3 + 5 + 1) ÷ 15 = \\( \\frac{7}{15} \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{2}{15} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{3}{4} ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e6fbf1f6-c0e9-49fa-ae6f-ed0d8033e489",
+      "question_text": [
+        "Simplify 4 √[(390695T− 8)½)]"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "4√(390625T − 8)½ [(390625T − 8)½]¼ [((390625)½ × T − 8)½]¼ (√ 390625 × T − 4 )¼ (625 × T −¼)¼ (54 × T −4)¼ = (54)¼ × (T − 4 )¼ = 5 × T − 1 = 5 × 1/T = 5/T",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5/T",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "T/5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "31be081f-cb11-42e6-aac1-ead404ba305c",
+      "question_text": [
+        "If (159.75)10 = (y)6. Find x"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "(159.75)10 = (y)6 \\( \\begin{array}{c|c} 6 & 159 \\\\  \\hline 6 & 26 \\text{ R 3} \\\\ 6 & 4 \\text{ R 2} \\\\ & 0 \\text{ R 4} \\\\ \\end{array}\\uparrow \\) 15910 = 4236 Then Convert 0.75 to base 6 0.75 x 6 =4.5 i.e 4.5 - 3.00 = 1.5 0.5 x 6 = 3.00 423 + 1.5 =424.5 159.75 = (424.5)6 (159)10 = (424.5)6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x6 = 123.346",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x6 = 424.56",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x6 = 122.436",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x6 = 124.456",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea760d59-3075-461e-ad66-0a9a15b50395",
+      "question_text": [
+        "A man bought a car for ₦800 and sold it for ₦520. Find his loss per cent"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Percentage Loss = (actual loss ) ÷ (Cost price) × 100 Actual loss = Cost Price − Selling Price (sold price) = ₦800 − ₦520 = ₦280 Percentage loss = (280 ÷ 800) × 100 = 35% ∴ His loss percent = 35%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "35%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b23a2f7a-4891-402c-95f7-7ae715ab2580",
+      "question_text": [
+        "Simplify \\(6\\frac{1}{12} − 2 ¾ + 1 ½ \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "6½ − 2¾ + 1½ 73/12 − 11/4 + 3/2 [(73 − 33 + 18) ÷ (12)] 58/12 29/6 \\( 4\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( 3 \\frac{5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( 4 \\frac{5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7001c260-7f4f-4ea2-b145-88ed4d668eec",
+      "question_text": [
+        "Find the distance between the points (-2,-3) and (-2,4)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.4m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.1m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "64c08905-dd1f-434b-af2d-0033ca4c1399",
+      "question_text": [
+        "Determine the third term of a geometrical progression whose first and second term are 2 and 14 respectively"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "1st G.P. = a =2 2nd G.P. = ar − 1 = 54 2(r) = 54 r = 54/2 = 27 r = 27 3rd term = ar2 = (2) (27)2 2 × 27 × 27 = 1458",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1458",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1485",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1345",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1258",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f4ec81b4-a688-4dcd-9036-0eb4ce5adebd",
+      "question_text": [
+        "Given that S and T are sets of real numbers such that S = {x : 0 \\(\\leq\\) x \\(\\leq\\) 5} and T = {x :− 2 < x < 3} Find S \\(\\cup\\) T"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "S = {0, 1, 2, 3, 4, 5} T = {− 1, 0, 1, 2} S \\(\\cup\\) T = {− 1, 0, 1, 2, 3, 4, 5 } ⇒ − 2 < x ≤ 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "−3 < x < \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "−2< x < \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30c8043e-dc6b-4857-b494-790e613abc91",
+      "question_text": [
+        "If an investor invest ₦450,000 in a certain organization in order to yield X as a return of ₦25,000. Find the return on an investment of ₦700,000 by Y in the same organization."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "[Return ÷ Investment] as a ratio ; i.e The Ratio is Return : Investmen [(Return1÷ Investment1 ) = (Return2÷ Investment2)] R1 = ₦25000 R2 =? I1 = ₦450,000, I1 = ₦700000 (25000 ÷ 450000) = (R2 ÷ 700000) R2 = [(25000 × 700000 ) ÷ 450000] = ₦38,888.90K ∴ The return on a investment of Y = ₦38888.90K",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦14,950.50K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦25,150.30K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦15,000.00K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦38,888.90K",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "014580a3-cd96-4c33-9bfa-02e12c349ab4",
+      "question_text": [
+        "Evaluate log717"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "log717 = [log 17 ÷ log7] = [1.2304 ÷ 0.8451] [100.0899 ÷ 101.9270] = 1.455(antilog)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.353",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.455",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.455",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "721726b4-ff12-41b3-80c7-baff0e3ee8a9",
+      "question_text": [
+        "Evaluate log5(\\( y^2x^5 ÷ 125b½) \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 log5y + 5log5 y2 − 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "log5 y2 + 5log5 x + 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "25logy 5 + 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2log5y + 5log5x − ½ log5b −3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "34b16962-7542-4457-8d99-f464490afb3b",
+      "question_text": [
+        "If y = \\((x^2 + 3x − 1) ÷ (3x + 4).\\) Find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "dy/dx \\( (4x^3 + 3x^2 + 2x + 1) \\) = \\( 12x^2 + 6x + 2 \\) ⇒ \\( 12x^2 + 6 + 2 \\) Divide both sides by 2 \\( \\frac{12x^2}{2} − \\frac{6x}2 − \\frac{2}{2} \\) = \\( 6x^2 + 3x + 1 \\) dy/dx = \\( 6x^2 + 3x + 1 \\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( (3x^2 + 8x + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " ÷ (3x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "^2 ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da8e9988-e643-4861-8eb5-97084aa8be60",
+      "question_text": [
+        "Integral ∫\\( (5x^3 + 7x^2 − 2x + 5)\\)dx"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(∫ [(x^2 + 4x^2 + 1 ) ÷ x^2]dx = ∫ (x^3/x^2)dx + ∫(1/x^2)dx \\) ⇒\\( ∫ xdx + ∫ 4^{−1} or + ∫ (1/x^2)dx\\) = \\( x^2/2 − 4x − 1/x^2 + C \\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{5x^4}{4} + \\frac{7x^3}{3} + 2x + C ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{5x}{4} + \\frac{7x^3}{3} - x^2 + 5x + C ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd46bd9c-2b4e-42aa-b1dd-fd62446bc9fb",
+      "question_text": [
+        "Find the area of the curved surface of a cone whose base radius is 3cm and whose height is 4cm (π = 3.14)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Find the slant height \\( l^2 = h^2 + r^2(h = 4cm,r = 3cm)\\) \\( l^2 = 4^2 + 3^2 = 16 + 9 = 25 \\) \\( l^2 = √ 25 \\) Squaring both sides l = 5cm The area of curved surface (s) =π(3)(5) 15π = 15 × 3.14 = 47.1cm2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17.1cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "27.2cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "47.1cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "37.3cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "02ab5286-14b2-4c24-accf-a86227ee15fe",
+      "question_text": [
+        "Simplify \\( \\frac{1}{(x + 1)} + \\frac{1}{(x − 1)} \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "[1 ÷ (x+1)] + [1 ÷ (x − 1)] = ((x − 1) + [(x + 1)) ÷ (x+1)(x − 1)] Using the L.C.M. = (x − 1 + x + 1) ÷ (x + 1)(x − 1) = (x + 2 − 1 + 1) ÷ (x + 1)(x − 1) = 2x ÷ (x + 1)(x − 1) =2x ÷ (x + 1)(x − 1)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x/(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x−",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2/(x + 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b2f97408-9761-483d-b1e7-2dcfe8c5a103",
+      "question_text": [
+        "The area of a circle of radius 4cm is equal to (Take π = 3.142 )"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Area of a circle (A) = πr2 Radius = 4cm π = 3.142 A = 3.142 × (4)2 = 3.142 × 16 = 50.272 A = 50.3cm2 (1dp)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10.3cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15.7cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50.3cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "17.4cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "344e3f43-af0f-41e0-a4ab-8cf7248ac932",
+      "question_text": [
+        "The area of an ellipse is 132cm2. The length of its major axis is 14cm. Find the length of it minor axis."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "The area of an ellipse (e) = \\(\\cfrac{πab}{4}\\) Let a rep. the length of its major axis = 14cm Let b rep. the length of its minor axis = ? π = 3.142 Area of an ellipse = 132cm2 132 = (π14 × b) ÷ 4 132 = (3.142 × 14b) ÷ 4 3.142 × 14b =132 × 4 b = (1324 × 4) ÷ (3.142 × 14) = 528/43.988 = 12cm The length of its minor axis (b) = 12cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10.5cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ebd48d85-6336-45c4-be53-51c7495a846b",
+      "question_text": [
+        "The volume of a cone (s) of height 6cm and base radius 5cm is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "V = ⅓ πr2 h Volume of a cone (Vc) = ⅓ × 3.14 × (5)2 × 6 = 156.93 157cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "157cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "155cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "175cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "145cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58b38eb9-9bf6-43d7-ae5a-4544a9d5cf2d",
+      "question_text": [
+        "The probability of an outcome A is 1/6. The probability of the B outcome is 1/4. If the probability of A or B or both is 1/12, what is the probability of both outcomes A and B?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "P(A outcome) = \\(\\frac{1}{6}\\), P(B outcome) = ¼ P(A ∪ B) = 1/12, P(A ∩ B) P(A ∩ B) = P(A) + P(B) − P(A ∪ B) 1/6 + 1/4 − 1/12 = (2 + 3 − 1) ÷ 12 = 4/12 = 1/3 P(A ∩ B) = 1/3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35009b29-4cae-43c5-9ef7-c0750d9f7e4e",
+      "question_text": [
+        "Given that Z = {1,2,4,5} what is the power of set Z?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Z has 4 elements, power = number of subset = 2p Z = 2n = 24 = 16",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "902390a4-996b-488c-9bbc-e9440984a617",
+      "question_text": [
+        "Calculate the value of x and y if 27x ÷ 81x+2y = 9, x + 4y = 0"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(27^x ÷ 81^{(x + 2y)} = 9\\)\\((27)x = 9 × 81^{(x+2y)}\\)\\((3^3 )^x =3^2 \\times 3^{4(x + 2y)}\\)\\(=3^{(2 + 4x + 8y)}\\)\\(3^{3x} = 3^{ (2 + 4x + 8y)}\\)\\(3x = 2 + 4x + 8y\\)\\(3x − 4x − 8y = 2 ........ (1)\\)\\(x + 4y = 0 ........ (2)\\)\\(− 4y = 2\\)\\(y = (− 2) ÷ 4 = −\\frac{1}{2}\\)\\(y = −\\frac{1}{2}\\) Substitute the value of y into equation (2) i.e \\(x + 4y = 0\\)\\(x + 4(−\\frac{1}{2}) = 0\\)\\(x − 2 = 0\\)\\(x = 2\\)\\(∴ x = 2, y = −\\frac{1}{2}\\) Method II \\(27^x ÷ 31^{(x + 2y)} = 9\\)\\(3^{3x} × 3^{(−4x − 8y)} = 3^2\\)\\(3^{(3x − 8y)} = 3^2\\)\\(−x − 8y = 2 ........ (1)\\)\\(x + 4y = 0 ........ (2)\\)\\(−4y = 2\\)\\(y = -\\frac{2}{4} = -\\frac{1}{2}\\)\\(y = -\\frac{1}{2}\\) Substitute the value of y into equation 2\\(x + 4y = 0\\)\\(x + 4 (− 1) ÷ 2) = 0\\)\\(x − 2 = 0\\)\\(x = 2\\)\\(x = 2, y = -\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = 1, y = 1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 2, y = – 1/2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x − 0, y = 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = 2, y = –1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00a55d08-e14c-4c7c-8c05-802190fdd8bb",
+      "question_text": [
+        "Simplify √30 × √40"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "√30 × √40 = √(30 × 40) = √(3 × 10 × 4 × 10) = √(400 × 3) = √400 × √3 = 20 × √3 = 20√3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 √3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 √3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 √3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 √3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "38c10a9b-93b0-4394-9305-e3ec11b17888",
+      "question_text": [
+        "If √(2x + 2) − √x = 1, find x."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "√(2x + 2 ) − √x = 1 √(2x + 2) = 1 + √x Square both sides √(2x + 2)2 = (1 + √x)2 ((2x + 2)2)½ = 1 + √x + √x+ x 2x + 2 = 1 + 2√x +x Collect the like terms together:  2x − x + 2 − 1 = 2 √x x + 1 = 2√x Square both sides (x + 1)2 = (2√x)2 x2 + 2x + 1 = 4x x2 + 2x − 4x + 1 = 0 (x2− x)(x + 1)= 0 x(x − 1) −1(x − 1) (x − 1)(x −1) Either (x − 1) = 0 or (x − 1) = 0 x = 1 or 1 x = 1 twice",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = 1 twice",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 0 or 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = 3 or 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = 2 twice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecbc36ba-3eeb-458a-b557-a1d8cd8d99ab",
+      "question_text": [
+        "The sum of two numbers is 5; their product is 14. Find the numbers."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Let x represent the first number; Then, the other is (5 − x) , since their sum is 5 and their product is 14 x(5 − x) = 14 5x − x2 = 14 x2 − 5x − 14 = 0 (x2 − 7x) + (2x − 14) = 0 x(x − 7) + 2(x − 7) = 0 (x − 7)(x + 2) = 0 Either (x − 7) = 0 or (x + 2) = 0 x = 7 or x = − 2 The two numbers are 7 and − 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = 5 or 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 7 or 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = 7 or 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = 7 or − 2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "28b44534-0a29-4a70-a5df-05ed39a01c14",
+      "question_text": [
+        "Solve the equation \\( 5^{(x − 2)} = (1 ÷ 125)^{(x +3)}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\( 5^{(x − 2)} = (125^{−1} )^{(x + 3)}\\)\\(5^{(x − 2)} = (5− 3)^{x + 3}\\)\\(5^{(x − 2)} = 5^{− 3x − 9}\\)\\(x + 3x = − 9 + 2\\)\\(4x = − 7\\)\\(x = \\frac{−7}{4} \\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "− 7/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4/7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00f03c07-c7ed-4144-bc28-80b20fb42af7",
+      "question_text": [
+        "How many sides has a regular polygon whose interior angles are 120° each?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Each exterior angle = 180 − 120 = 60 Exterior angle = 360/n 60 = 360/n n = 360/6 = 6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05171f04-4266-4364-b484-a5157b03f869",
+      "question_text": [
+        "If duty is levied at 25%, find the duty to be added to a bill of ₦80."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "25% of ₦80 = 25/100 × 80 = ₦20.00",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦100",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦80",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦150",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36853609-d1c4-454a-8070-7255edee4efc",
+      "question_text": [
+        "Simplify 2.04 × 3.7 (Leave your answer in 2 decimal place)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "2.04 x 3.7 = 204 x 37 _____ 7548= 7.548 = 7.55 (to 2 decimal places)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7.51",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.71",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.55",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a1aa2aa2-595f-44a5-81e1-4c1000cfc19b",
+      "question_text": [
+        "A public car dealer marked up the cost of a car at 30% in an attempt to make 20% gross profit. Due to the value of dollar, he now placed 20% discount on the car. What profit or loss will he make?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Let assume the cost price is 100% Marked up price + cost price = 20 + 100 = 120% Discount at 20% = 20/100 × 120 % of cost price Selling price = cost price − gain = (120 − 24)% of cost price = 96% of cost price Loss = (100− 96)% of cost price = 4% of cost price ∴ He will make a 4% loss.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f83ae14-4496-4bbf-8033-de96f20a9ac3",
+      "question_text": [
+        "Rationalize 5 ÷ (2 − √3)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "5÷ (2 − √3) Using conjugate surds [5 ÷ (2 − √3)]×(2 + √3) ÷ (2 + √3)] [5(2+√3)÷((2− √3))2] [5(2 +√3) ÷ (2)2− (√3)2] [5(2 +√3) ÷(4− 3)] = 5(2 + √3)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3(2 + √",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2(3 + √",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c539883e-8c38-4641-8b42-1d12f87da652",
+      "question_text": [
+        "Factorize \\( a^2 − b^2 − 4a + 4 \\)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "The trinomial = \\( a^2 − 4a + 4 \\) \\(a^2 − b^2− 4a + 4 = (a^2 − 4a + 4) − b^2 \\) \\((a^2 − 2a − 2a + 4) − b^2 \\) \\(a(a − 2)− 2(a − 2) − b^2 \\) \\((a − 2)^2 − b^2 \\) \\((a − 2 + b)(a − 2 − b )\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(a + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(a − ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(a − 2 + b",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c3362b0-25d2-4579-87c2-79f15733525b",
+      "question_text": [
+        "Given that tan x = \\(\\frac{2}{3}\\), where 0o d\" x d\" 90o, Find the value of 2sinx."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "tan x = \\(\\frac{2}{3}\\)(given), is illustrated in a right-angled \\(\\Delta\\) thus m2 = 22 + 32 = 4 + 9 = 13 m = \\(\\sqrt{13}\\) Hence, 2sin x = 2 x \\(\\frac{2}{m}\\) 2 x\\(\\frac{2}{\\sqrt{13}}\\) = \\(\\frac{4}{\\sqrt{13}}\\) = \\(\\frac{4}{\\sqrt{13}} = \\frac{\\sqrt{13}}{\\sqrt{13}}\\) = \\(\\frac{4\\sqrt{13}}{13}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2\\sqrt{13}}{13}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3\\sqrt{13}}{13}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2ebb9257-5c41-47d0-9e2e-b752937b62a9",
+      "question_text": [
+        "In the venn diagram, the shaded region is"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math158.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(P \\(\\cap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " \\(\\cup",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " RB",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c1b7adc-c1f0-4a38-a834-75c7e8064e6d",
+      "question_text": [
+        "Find the range of the value of x satisfying the inequalities 5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 7"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 75 + x \\(\\leq\\) 8X \\(\\leq\\) 8 – 5X \\(\\leq\\) 3And 13 + x \\(\\geq\\) 7X \\(\\geq\\) 7 – 15X \\(\\geq\\) -7Combining the two together -6 \\(\\leq\\) x \\(\\leq\\) 3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3 \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "86879d86-e9a8-4f37-9f3f-ca298bbcbd2e",
+      "question_text": [
+        "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Percentage birthrate = 1.0%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "50a45aa0-0762-44b4-8b1e-cafeef2f87a6",
+      "question_text": [
+        "Simplify 1¼ ÷ (2 ÷ ¼ of 28)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "1¼ ÷ (2 ÷ ¼ of 28) To solve, we apply BODMAS rules \\( \\frac{5}{4}\\) ÷ [ 2 ÷ ¼ × 28 ] \\( \\frac{5}{4} ÷ \\frac{2}{7} \\)  \\( \\frac{5}{4} × \\frac{7}{2} \\)  \\( \\frac{35}{8}\\) = \\(4 \\frac{3}{8}\\)Thus, 1¼ ÷ (2 ÷ ¼ of 28) = \\(4 \\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 \\( \\frac{3}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 \\( \\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21d01a1f-e5f7-421e-80cf-f68a3b7a8d7c",
+      "question_text": [
+        "Factorize x2 + 9x + 20"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\( x^2 + 9x + 20 \\) Find the two numbers whose product is 20 and its sum is 9} \\( 5x \\times 4x = 20x^2\\)\\(5x + 4x = 9x\\) \\((x^2 + 5x) + (4x + 20)\\)  \\(x(x + 5)+ 4(x + 5)\\) \\(= (x + 5)(x + 4)\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x − ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7bfa217-5f0a-4fdf-9e41-a6db42493f72",
+      "question_text": [
+        "If three staff of Chukwudi and Sons Ltd. agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is ₦120,000.00K, How much does the second staff receive?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Sum of ratios = 18 + 20 + 22 = 60 The second staff would collect \\(\\frac{20}{60 \\times 120000}\\) = 40,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦36,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦44,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦40,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦15,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ba7a686-43ae-4c99-bf83-381877f04b1a",
+      "question_text": [
+        "X and Y are two sets such that nX = 15, nY = 12 and n{X ∩ Y} = 7. Find n{X ∪ Y}."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "n(X ∪ Y) = nx + ny − n(X ∩ Y) = 15 + 12 − 7 ∴ n(X ∪ Y) = 20",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "225",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5cfcc760-a184-48ba-a84b-869c5f3b3673",
+      "question_text": [
+        "Find the x and y intercepts of the graph of 3x - z \\(\\leq\\) 9"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Starting from 3x − z \\(\\leq\\) 9 x = 0, substitute the value of x (i.e. x = 0) into the equation 3x − z \\(\\leq\\) 9 3(0) − z \\(\\leq\\) − 9 z \\(\\leq\\) − 9 If z = 0 Then, 3x − 0 \\(\\leq\\) 9 3x \\(\\leq\\) 9 x \\(\\leq\\) 3 Intercept of x and z i.e (x,z) = (3, -9)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-3, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5ee54e7-5de7-4b54-9899-8dfb70162e1b",
+      "question_text": [
+        "Simplify log101.5 + 3 log102 − log100.3"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "log101.5 + 3 log102 − log100.3 log101.5 + log1023 − log100.3 [log10(1.5 × 23) ÷ log100.3] [log10(15/10 × 8 ) ÷ log10( 3/10)] log10(15/10 × 8 × 10/3 ) log1040",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "log104",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "log1040",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "log10-40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "log104-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "642de309-9cc5-4ac8-a132-0971db6541fb",
+      "question_text": [
+        "Find the total surface area of a cylinder of base radius 5cm and length 7cm (π = 3.14)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "The total surface area of a cylinder = 2πrl + 2πr2 = 2πr(l + r) = 2 × 3.14 × 5 (7 + 5) 2 × 3.14 × 5 * 12 = 377.0 cm2 (to 1 decimal place)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "219.9cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "157.1cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "377.0cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "298.7cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee351724-a854-4b80-8a9a-039d1f0561e5",
+      "question_text": [
+        "If x + y = 90, simplify (sinx + siny)2−2sinxsiny"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "If \\(x + y = 90\\) Solve for \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)  \\(x + y = 90\\)   ---(1) \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)   ----(2) \\(x = 90 - y\\)   ---(3) Expanding eqn (2) Therefore: \\(\\sin^{2}x + \\sin^{2}y + 2\\sin x \\sin y - 2\\sin x \\sin y\\) => \\(\\sin^{2}x + \\sin^{2}y\\)   --- (4) Substitute the value of \\(x\\) in eqn (3) into eqn (4) => \\(\\sin^{2}(90-y) + \\sin^{2}y\\) ---(5) Expanding eqn (5) => \\(\\sin^{2}(90) - \\sin^{2}y + \\sin^{2}y\\) => \\(\\sin^{2}(90) + 0\\) => \\(\\sin^{2}(90)\\) => \\((\\sin(90))^{2}\\) => \\(1^2\\) = \\(1\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af0ef47a-4d34-44d6-bf78-651e8d9d5f5d",
+      "question_text": [
+        "A man with an annual salary of ₦2000, has allowances of ₦600. If Income Tax is 5%, how much tax does he pay each year?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "His annual salary = ₦2000 His allowances = ₦600 So his taxable income = Annual salary − allowance = ₦2000 − ₦600 = ₦1400 He pays at 5% Then, his allowance income tax 5/100 × 600 = ₦30",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e52ba8ed-490e-4f02-91f9-90d881c10f5c",
+      "question_text": [
+        "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Percentage birthrate = 1.0%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "90252476-a6ed-4292-9116-5af63e1cadf1",
+      "question_text": [
+        "Simplify 1¼ ÷ (2 ÷ ¼ of 28)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "1¼ ÷ (2 ÷ ¼ of 28) To solve, we apply BODMAS rules \\( \\frac{5}{4}\\) ÷ [ 2 ÷ ¼ × 28 ] \\( \\frac{5}{4} ÷ \\frac{2}{7} \\)  \\( \\frac{5}{4} × \\frac{7}{2} \\)  \\( \\frac{35}{8}\\) = \\(4 \\frac{3}{8}\\)Thus, 1¼ ÷ (2 ÷ ¼ of 28) = \\(4 \\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 \\( \\frac{3}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 \\( \\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "195c4127-2993-4fe6-9e04-3c595e4b8525",
+      "question_text": [
+        "Factorize x2 + 9x + 20"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\( x^2 + 9x + 20 \\) Find the two numbers whose product is 20 and its sum is 9} \\( 5x \\times 4x = 20x^2\\)\\(5x + 4x = 9x\\) \\((x^2 + 5x) + (4x + 20)\\)  \\(x(x + 5)+ 4(x + 5)\\) \\(= (x + 5)(x + 4)\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x − ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e8b3fe3-c154-4c21-871b-f46d24386fde",
+      "question_text": [
+        "If three staff of Chukwudi and Sons Ltd. agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is ₦120,000.00K, How much does the second staff receive?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Sum of ratios = 18 + 20 + 22 = 60 The second staff would collect \\(\\frac{20}{60 \\times 120000}\\) = 40,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦36,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦44,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦40,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦15,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c4f6e152-4959-4126-a8b6-938f56e7f8fd",
+      "question_text": [
+        "X and Y are two sets such that nX = 15, nY = 12 and n{X ∩ Y} = 7. Find n{X ∪ Y}."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "n(X ∪ Y) = nx + ny − n(X ∩ Y) = 15 + 12 − 7 ∴ n(X ∪ Y) = 20",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "225",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "99b6563a-6f3c-4dc2-96dd-c3ecb7366629",
+      "question_text": [
+        "Find the x and y intercepts of the graph of 3x - z \\(\\leq\\) 9"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Starting from 3x − z \\(\\leq\\) 9 x = 0, substitute the value of x (i.e. x = 0) into the equation 3x − z \\(\\leq\\) 9 3(0) − z \\(\\leq\\) − 9 z \\(\\leq\\) − 9 If z = 0 Then, 3x − 0 \\(\\leq\\) 9 3x \\(\\leq\\) 9 x \\(\\leq\\) 3 Intercept of x and z i.e (x,z) = (3, -9)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-3, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cba51495-f560-42a3-a0af-37a45aa776af",
+      "question_text": [
+        "Simplify log101.5 + 3 log102 − log100.3"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "log101.5 + 3 log102 − log100.3 log101.5 + log1023 − log100.3 [log10(1.5 × 23) ÷ log100.3] [log10(15/10 × 8 ) ÷ log10( 3/10)] log10(15/10 × 8 × 10/3 ) log1040",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "log104",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "log1040",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "log10-40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "log104-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5eb283ca-0049-4c2f-b5c5-a658aaf3b318",
+      "question_text": [
+        "Find the total surface area of a cylinder of base radius 5cm and length 7cm (π = 3.14)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "The total surface area of a cylinder = 2πrl + 2πr2 = 2πr(l + r) = 2 × 3.14 × 5 (7 + 5) 2 × 3.14 × 5 * 12 = 377.0 cm2 (to 1 decimal place)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "219.9cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "157.1cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "377.0cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "298.7cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "06fb855b-2a98-4b5b-8f49-86528c546119",
+      "question_text": [
+        "If x + y = 90, simplify (sinx + siny)2−2sinxsiny"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "If \\(x + y = 90\\) Solve for \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)  \\(x + y = 90\\)   ---(1) \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)   ----(2) \\(x = 90 - y\\)   ---(3) Expanding eqn (2) Therefore: \\(\\sin^{2}x + \\sin^{2}y + 2\\sin x \\sin y - 2\\sin x \\sin y\\) => \\(\\sin^{2}x + \\sin^{2}y\\)   --- (4) Substitute the value of \\(x\\) in eqn (3) into eqn (4) => \\(\\sin^{2}(90-y) + \\sin^{2}y\\) ---(5) Expanding eqn (5) => \\(\\sin^{2}(90) - \\sin^{2}y + \\sin^{2}y\\) => \\(\\sin^{2}(90) + 0\\) => \\(\\sin^{2}(90)\\) => \\((\\sin(90))^{2}\\) => \\(1^2\\) = \\(1\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f943b1cf-9946-48fd-9584-94f3be682603",
+      "question_text": [
+        "A man with an annual salary of ₦2000, has allowances of ₦600. If Income Tax is 5%, how much tax does he pay each year?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "His annual salary = ₦2000 His allowances = ₦600 So his taxable income = Annual salary − allowance = ₦2000 − ₦600 = ₦1400 He pays at 5% Then, his allowance income tax 5/100 × 600 = ₦30",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee8142db-a6f8-4f35-88e1-cbe711613b8a",
+      "question_text": [
+        "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Percentage birthrate = 1.0%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "acfb32a0-66b7-420d-afad-6140510a5147",
+      "question_text": [
+        "Simplify 1¼ ÷ (2 ÷ ¼ of 28)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "1¼ ÷ (2 ÷ ¼ of 28) To solve, we apply BODMAS rules \\( \\frac{5}{4}\\) ÷ [ 2 ÷ ¼ × 28 ] \\( \\frac{5}{4} ÷ \\frac{2}{7} \\)  \\( \\frac{5}{4} × \\frac{7}{2} \\)  \\( \\frac{35}{8}\\) = \\(4 \\frac{3}{8}\\)Thus, 1¼ ÷ (2 ÷ ¼ of 28) = \\(4 \\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 \\( \\frac{3}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 \\( \\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b40ae3ae-5825-42ad-959e-3fd5a5fdcce8",
+      "question_text": [
+        "Factorize x2 + 9x + 20"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\( x^2 + 9x + 20 \\) Find the two numbers whose product is 20 and its sum is 9} \\( 5x \\times 4x = 20x^2\\)\\(5x + 4x = 9x\\) \\((x^2 + 5x) + (4x + 20)\\)  \\(x(x + 5)+ 4(x + 5)\\) \\(= (x + 5)(x + 4)\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x − ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27cc1a99-eb3b-4248-96b0-9617bb5e2c04",
+      "question_text": [
+        "If three staff of Chukwudi and Sons Ltd. agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is ₦120,000.00K, How much does the second staff receive?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Sum of ratios = 18 + 20 + 22 = 60 The second staff would collect \\(\\frac{20}{60 \\times 120000}\\) = 40,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦36,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦44,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦40,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦15,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8efcfe1b-ff7c-4d92-9e8f-1d7f9ada8776",
+      "question_text": [
+        "X and Y are two sets such that nX = 15, nY = 12 and n{X ∩ Y} = 7. Find n{X ∪ Y}."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "n(X ∪ Y) = nx + ny − n(X ∩ Y) = 15 + 12 − 7 ∴ n(X ∪ Y) = 20",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "225",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "61a7307f-000e-47ac-9854-5033d79b0c63",
+      "question_text": [
+        "Find the x and y intercepts of the graph of 3x - z \\(\\leq\\) 9"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Starting from 3x − z \\(\\leq\\) 9 x = 0, substitute the value of x (i.e. x = 0) into the equation 3x − z \\(\\leq\\) 9 3(0) − z \\(\\leq\\) − 9 z \\(\\leq\\) − 9 If z = 0 Then, 3x − 0 \\(\\leq\\) 9 3x \\(\\leq\\) 9 x \\(\\leq\\) 3 Intercept of x and z i.e (x,z) = (3, -9)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-3, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8963ef4-bcca-4881-8e3a-b6dca04b53ca",
+      "question_text": [
+        "Simplify log101.5 + 3 log102 − log100.3"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "log101.5 + 3 log102 − log100.3 log101.5 + log1023 − log100.3 [log10(1.5 × 23) ÷ log100.3] [log10(15/10 × 8 ) ÷ log10( 3/10)] log10(15/10 × 8 × 10/3 ) log1040",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "log104",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "log1040",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "log10-40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "log104-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b639f3b-f3b1-4bbc-8610-f7e29bc16579",
+      "question_text": [
+        "Find the total surface area of a cylinder of base radius 5cm and length 7cm (π = 3.14)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "The total surface area of a cylinder = 2πrl + 2πr2 = 2πr(l + r) = 2 × 3.14 × 5 (7 + 5) 2 × 3.14 × 5 * 12 = 377.0 cm2 (to 1 decimal place)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "219.9cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "157.1cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "377.0cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "298.7cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "058bcfdc-6506-4749-b4dd-a98f322faf53",
+      "question_text": [
+        "If x + y = 90, simplify (sinx + siny)2−2sinxsiny"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "If \\(x + y = 90\\) Solve for \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)  \\(x + y = 90\\)   ---(1) \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)   ----(2) \\(x = 90 - y\\)   ---(3) Expanding eqn (2) Therefore: \\(\\sin^{2}x + \\sin^{2}y + 2\\sin x \\sin y - 2\\sin x \\sin y\\) => \\(\\sin^{2}x + \\sin^{2}y\\)   --- (4) Substitute the value of \\(x\\) in eqn (3) into eqn (4) => \\(\\sin^{2}(90-y) + \\sin^{2}y\\) ---(5) Expanding eqn (5) => \\(\\sin^{2}(90) - \\sin^{2}y + \\sin^{2}y\\) => \\(\\sin^{2}(90) + 0\\) => \\(\\sin^{2}(90)\\) => \\((\\sin(90))^{2}\\) => \\(1^2\\) = \\(1\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0fbe008c-ba02-461f-83ec-b20b65d69e88",
+      "question_text": [
+        "A man with an annual salary of ₦2000, has allowances of ₦600. If Income Tax is 5%, how much tax does he pay each year?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "His annual salary = ₦2000 His allowances = ₦600 So his taxable income = Annual salary − allowance = ₦2000 − ₦600 = ₦1400 He pays at 5% Then, his allowance income tax 5/100 × 600 = ₦30",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4609c250-ee29-4937-a0e5-d1576a520df8",
+      "question_text": [
+        "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Percentage birthrate = 1.0%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26565a3f-42c8-4d94-98e8-9930a50176f1",
+      "question_text": [
+        "Simplify 1¼ ÷ (2 ÷ ¼ of 28)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "1¼ ÷ (2 ÷ ¼ of 28) To solve, we apply BODMAS rules \\( \\frac{5}{4}\\) ÷ [ 2 ÷ ¼ × 28 ] \\( \\frac{5}{4} ÷ \\frac{2}{7} \\)  \\( \\frac{5}{4} × \\frac{7}{2} \\)  \\( \\frac{35}{8}\\) = \\(4 \\frac{3}{8}\\)Thus, 1¼ ÷ (2 ÷ ¼ of 28) = \\(4 \\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 \\( \\frac{3}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 \\( \\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "74f2e96a-0620-44d4-967f-68745252821c",
+      "question_text": [
+        "Factorize x2 + 9x + 20"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\( x^2 + 9x + 20 \\) Find the two numbers whose product is 20 and its sum is 9} \\( 5x \\times 4x = 20x^2\\)\\(5x + 4x = 9x\\) \\((x^2 + 5x) + (4x + 20)\\)  \\(x(x + 5)+ 4(x + 5)\\) \\(= (x + 5)(x + 4)\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x − ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85e963a9-4dfa-4436-98cc-eba050f3452c",
+      "question_text": [
+        "If three staff of Chukwudi and Sons Ltd. agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is ₦120,000.00K, How much does the second staff receive?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Sum of ratios = 18 + 20 + 22 = 60 The second staff would collect \\(\\frac{20}{60 \\times 120000}\\) = 40,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦36,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦44,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦40,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦15,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9ae3b64-6d01-4cab-b1c1-79f772a620cc",
+      "question_text": [
+        "X and Y are two sets such that nX = 15, nY = 12 and n{X ∩ Y} = 7. Find n{X ∪ Y}."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "n(X ∪ Y) = nx + ny − n(X ∩ Y) = 15 + 12 − 7 ∴ n(X ∪ Y) = 20",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "225",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "40686d6d-fd4b-4932-a050-443e50e823fd",
+      "question_text": [
+        "Find the x and y intercepts of the graph of 3x - z \\(\\leq\\) 9"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Starting from 3x − z \\(\\leq\\) 9 x = 0, substitute the value of x (i.e. x = 0) into the equation 3x − z \\(\\leq\\) 9 3(0) − z \\(\\leq\\) − 9 z \\(\\leq\\) − 9 If z = 0 Then, 3x − 0 \\(\\leq\\) 9 3x \\(\\leq\\) 9 x \\(\\leq\\) 3 Intercept of x and z i.e (x,z) = (3, -9)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-3, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ef45907-95fa-4cbe-adb0-d78a09fb3177",
+      "question_text": [
+        "Simplify log101.5 + 3 log102 − log100.3"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "log101.5 + 3 log102 − log100.3 log101.5 + log1023 − log100.3 [log10(1.5 × 23) ÷ log100.3] [log10(15/10 × 8 ) ÷ log10( 3/10)] log10(15/10 × 8 × 10/3 ) log1040",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "log104",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "log1040",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "log10-40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "log104-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d577a19-1bb7-4352-b5d8-81bc21d52897",
+      "question_text": [
+        "Find the total surface area of a cylinder of base radius 5cm and length 7cm (π = 3.14)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "The total surface area of a cylinder = 2πrl + 2πr2 = 2πr(l + r) = 2 × 3.14 × 5 (7 + 5) 2 × 3.14 × 5 * 12 = 377.0 cm2 (to 1 decimal place)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "219.9cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "157.1cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "377.0cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "298.7cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab4240f3-e021-429e-a7a6-ecf40aac4840",
+      "question_text": [
+        "If x + y = 90, simplify (sinx + siny)2−2sinxsiny"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "If \\(x + y = 90\\) Solve for \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)  \\(x + y = 90\\)   ---(1) \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)   ----(2) \\(x = 90 - y\\)   ---(3) Expanding eqn (2) Therefore: \\(\\sin^{2}x + \\sin^{2}y + 2\\sin x \\sin y - 2\\sin x \\sin y\\) => \\(\\sin^{2}x + \\sin^{2}y\\)   --- (4) Substitute the value of \\(x\\) in eqn (3) into eqn (4) => \\(\\sin^{2}(90-y) + \\sin^{2}y\\) ---(5) Expanding eqn (5) => \\(\\sin^{2}(90) - \\sin^{2}y + \\sin^{2}y\\) => \\(\\sin^{2}(90) + 0\\) => \\(\\sin^{2}(90)\\) => \\((\\sin(90))^{2}\\) => \\(1^2\\) = \\(1\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "324651c0-44b2-4ab1-a4ff-640e571beedf",
+      "question_text": [
+        "A man with an annual salary of ₦2000, has allowances of ₦600. If Income Tax is 5%, how much tax does he pay each year?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "His annual salary = ₦2000 His allowances = ₦600 So his taxable income = Annual salary − allowance = ₦2000 − ₦600 = ₦1400 He pays at 5% Then, his allowance income tax 5/100 × 600 = ₦30",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "38fa850e-9fdd-490f-b09c-421032322e0b",
+      "question_text": [
+        "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Percentage birthrate = 1.0%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.40%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f7f7f93-6968-4943-bb18-b3163ed6bb15",
+      "question_text": [
+        "Simplify 1¼ ÷ (2 ÷ ¼ of 28)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "1¼ ÷ (2 ÷ ¼ of 28) To solve, we apply BODMAS rules \\( \\frac{5}{4}\\) ÷ [ 2 ÷ ¼ × 28 ] \\( \\frac{5}{4} ÷ \\frac{2}{7} \\)  \\( \\frac{5}{4} × \\frac{7}{2} \\)  \\( \\frac{35}{8}\\) = \\(4 \\frac{3}{8}\\)Thus, 1¼ ÷ (2 ÷ ¼ of 28) = \\(4 \\frac{3}{8}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 \\( \\frac{3}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 \\( \\frac{3}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f48e23a7-784a-45df-887d-906b0d213974",
+      "question_text": [
+        "Factorize x2 + 9x + 20"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\( x^2 + 9x + 20 \\) Find the two numbers whose product is 20 and its sum is 9} \\( 5x \\times 4x = 20x^2\\)\\(5x + 4x = 9x\\) \\((x^2 + 5x) + (4x + 20)\\)  \\(x(x + 5)+ 4(x + 5)\\) \\(= (x + 5)(x + 4)\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x − ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(x + 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "991dffc3-95d4-4978-bbd5-b6b01331f944",
+      "question_text": [
+        "If three staff of Chukwudi and Sons Ltd. agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is ₦120,000.00K, How much does the second staff receive?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Sum of ratios = 18 + 20 + 22 = 60 The second staff would collect \\(\\frac{20}{60 \\times 120000}\\) = 40,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦36,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦44,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦40,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦15,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23bf5830-2266-4f2e-96ed-d15801f3b778",
+      "question_text": [
+        "X and Y are two sets such that nX = 15, nY = 12 and n{X ∩ Y} = 7. Find n{X ∪ Y}."
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "n(X ∪ Y) = nx + ny − n(X ∩ Y) = 15 + 12 − 7 ∴ n(X ∪ Y) = 20",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "225",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0ae70824-0df8-4308-9b76-c9319f0b604c",
+      "question_text": [
+        "Find the x and y intercepts of the graph of 3x - z \\(\\leq\\) 9"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Starting from 3x − z \\(\\leq\\) 9 x = 0, substitute the value of x (i.e. x = 0) into the equation 3x − z \\(\\leq\\) 9 3(0) − z \\(\\leq\\) − 9 z \\(\\leq\\) − 9 If z = 0 Then, 3x − 0 \\(\\leq\\) 9 3x \\(\\leq\\) 9 x \\(\\leq\\) 3 Intercept of x and z i.e (x,z) = (3, -9)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(3, -",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(-3, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6a3f5854-af30-4a39-8870-1cac26b9842f",
+      "question_text": [
+        "Simplify log101.5 + 3 log102 − log100.3"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "log101.5 + 3 log102 − log100.3 log101.5 + log1023 − log100.3 [log10(1.5 × 23) ÷ log100.3] [log10(15/10 × 8 ) ÷ log10( 3/10)] log10(15/10 × 8 × 10/3 ) log1040",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "log104",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "log1040",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "log10-40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "log104-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30de040f-7e03-4072-8ea8-d525164e3c22",
+      "question_text": [
+        "Find the total surface area of a cylinder of base radius 5cm and length 7cm (π = 3.14)"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "The total surface area of a cylinder = 2πrl + 2πr2 = 2πr(l + r) = 2 × 3.14 × 5 (7 + 5) 2 × 3.14 × 5 * 12 = 377.0 cm2 (to 1 decimal place)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "219.9cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "157.1cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "377.0cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "298.7cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3c28e068-4566-4831-bbb0-dffc5afa5fd1",
+      "question_text": [
+        "If x + y = 90, simplify (sinx + siny)2−2sinxsiny"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "If \\(x + y = 90\\) Solve for \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)  \\(x + y = 90\\)   ---(1) \\((\\sin x + \\sin y)^2 - 2\\sin x \\sin y\\)   ----(2) \\(x = 90 - y\\)   ---(3) Expanding eqn (2) Therefore: \\(\\sin^{2}x + \\sin^{2}y + 2\\sin x \\sin y - 2\\sin x \\sin y\\) => \\(\\sin^{2}x + \\sin^{2}y\\)   --- (4) Substitute the value of \\(x\\) in eqn (3) into eqn (4) => \\(\\sin^{2}(90-y) + \\sin^{2}y\\) ---(5) Expanding eqn (5) => \\(\\sin^{2}(90) - \\sin^{2}y + \\sin^{2}y\\) => \\(\\sin^{2}(90) + 0\\) => \\(\\sin^{2}(90)\\) => \\((\\sin(90))^{2}\\) => \\(1^2\\) = \\(1\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7157e8e-1c77-4518-8940-b78718a210c0",
+      "question_text": [
+        "A man with an annual salary of ₦2000, has allowances of ₦600. If Income Tax is 5%, how much tax does he pay each year?"
+      ],
+      "examType": "jamb",
+      "year": "2015",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "His annual salary = ₦2000 His allowances = ₦600 So his taxable income = Annual salary − allowance = ₦2000 − ₦600 = ₦1400 He pays at 5% Then, his allowance income tax 5/100 × 600 = ₦30",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

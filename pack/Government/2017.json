@@ -1,0 +1,4183 @@
+
+[
+    {
+      "id": "d23479c1-1726-4678-b574-2e57110c756d",
+      "question_text": [
+        "The appointment and dissolution of the board of directors of the public corporation fall under _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "Organisational Structure of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "Answer is A (ministerial control), Essential textbook pg 176",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ministerial control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "legislative control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "political control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "judicial control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ba20dd2-3648-486f-b1d8-1d868d7bab54",
+      "question_text": [
+        "Sucessive population figures have been contested in Nigeria because of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "Counting Voters ",
+        " American Voting and Elections"
+      ],
+      "explanation": "Successful figure of population census needs to be considered politically because it can contribute to the success of politics.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gender consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "religious consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "geographical disparity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "political consideration",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d4727f5b-9408-4747-ac1a-ba7f111775d8",
+      "question_text": [
+        "In the United States, what do they call by-election?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "Types of Elections ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "special election",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "by polls",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "general election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "recall",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7fafa904-c442-4ca9-85bb-6f6102c94819",
+      "question_text": [
+        "The identifiable spheres of control which the central government exercise over local government is known as ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "What is Federal Government? ",
+        " Structure and Systems of Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Supervisory Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Judicial Control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Audit Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Appointment Control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d5679c9b-f577-4e5e-b7a8-b78cb6ad5812",
+      "question_text": [
+        "The 1976 Local government reforms was embarked upon by the central government under the leadership of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "Local Government Reform of 1976 ",
+        " Nigerian Local Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "General Olusegun Obasanjo",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "General Sanni Abacha",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "General Mohammed Buhari",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Goodluck Jonathan",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7819e89a-f9b1-44d4-9586-2b9e6a70a63d",
+      "question_text": [
+        "One of the demerits of the privatization of public corporations in Nigeria is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "Reasons for and Functions of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "One of the problem of privatisation was due to the fact that their was to make profit, thereby affecting the consumer.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "scarcity of goods and services",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "higher cost of goods and services",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "creation of unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inefficient service delivery",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a191350-cf20-478f-a1a4-ed8d8a6efa32",
+      "question_text": [
+        "The indirect dimension of changing the government is known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "Military Rule in Nigeria ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "The term used for the indirect or illegal dimension of changing the government.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coup de ta't",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "military rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electorate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ebb828b-1185-4206-8ca7-f15eafa59e04",
+      "question_text": [
+        "The head of the palace in the pre-colonial hausa system is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "Hausa/Fulani Pre-Colonial Political Administration ",
+        " Pre-Colonial Political Systems"
+      ],
+      "explanation": "During the pre-colonial era, the head of palace officials was Sarking fada. Sarkin dawaki and Sarkin gida had no offices in the fulani pre-colonial era. Sarkin ruwa is another office in hausa-fulani in the pre-colonial era where his office was the river fishing official.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sarkin dawaki",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sarkin gida",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sarkin fada",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sarkin ruwa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "14efc241-5948-44b5-acd8-940639d6fa04",
+      "question_text": [
+        "What is the name of the motion brought before the chamber asking that leave be given to bring in a bill?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "How a Law is Made ",
+        " Arms of Government"
+      ],
+      "explanation": "This is a motion brought before the chamber to enforce it in a bill.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "government motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enactment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "approval",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "leave",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dbfec215-4001-4509-834f-0dba6cc6bc40",
+      "question_text": [
+        "Early nationalist activities manifested in the form of _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "1",
+      "related_lessons": [
+        "Advantages and Disadvantages of Federalism ",
+        " American Federalism"
+      ],
+      "explanation": "Participation on government process on a regional level led to early motion for self government.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discrimination",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "participation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "disagreement",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c24de25c-300a-49bf-b72b-135f331360f0",
+      "question_text": [
+        "A major difference between a pressure group and a political party is that whereas the latter aims at winning power the former__________?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Difference Between Pressure Groups and Political Parties ",
+        " Pressure Groups and Public Opinion"
+      ],
+      "explanation": "The former (the pressure group/interest group) seeks to influence the activities/policies of government in favour of their members.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "execute government policies",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "aims at winning election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "influencing government policies",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "nominates potential leaders for government",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b633fdd3-e868-4230-84bb-1c107e70f4b5",
+      "question_text": [
+        "Which of the following is a process of military disengagement from Nigeria politics?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Characteristics of a Free and Fair Election ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "This aspect of election is not possible because of the military power to use force",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increase in military budget",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "conduct of free and fair elections",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Appointment of Army officers into political post",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "strengthening the Army",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "957a6ae3-a35b-4814-a3a2-9869ddaa7c45",
+      "question_text": [
+        "Division of responsibilities into distinct branches to limit any branches from exercising the core functions of another is _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Separation of Powers ",
+        " Principles of Democratic Government"
+      ],
+      "explanation": "This states that the executive, legislative, and judiciary powers of government should be divided into different branches and not concentrated in one",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "fusion of power",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "parliamentary system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "aristocracy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "separation of powers",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d433f97a-9b16-4ca6-a9de-c26cdc56be42",
+      "question_text": [
+        "In the 1976 reforms and the local government generally, which regime constitutes the Ibrahim panel of 1984?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Military Coups in Nigeria ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Major General Muhammadu Buhari Administration",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Olusegun Obasanjo Administration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Goodluck Jonathan Administration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ernest Shonekan Administration",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "483d055c-2208-4d41-b27a-c38d2b349bd7",
+      "question_text": [
+        "Iran, Iraq and which countries first created OPEC?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Organization of the Petroleum Exporting Countries (OPEC) ",
+        " International Organizations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kuwait, Saudi Arabia",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Venezuela, Dubai, Greece",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Venezuela, Saudi Arabia, Kuwait",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Venezuela, Vienna.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "015774fd-0d4b-4eab-a491-638a37340730",
+      "question_text": [
+        "The transfer of certain powers and functions by means of constitutional or legislation process to the lowest levels of government is known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Merits and Demerits of Separation of Powers ",
+        " Principles of Democratic Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Delegation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Devolution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Deconcentration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Decentralisation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e2202b7f-0c9a-4269-a293-a392970c9b2d",
+      "question_text": [
+        "When was the Nigeria flag designed?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Introducing Colonial Nigeria ",
+        " West-African Colonial Administration"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1961",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1959",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1957",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1962",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dcd0d13f-de93-4b38-ac92-6f6c27bd552e",
+      "question_text": [
+        "The elective principle was introduced by which constitution?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Hugh Clifford Constitution ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Macpherson Constitution of 1951",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Clifford Constitution of 1922",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Richard Constitution of 1946",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lyttleton Constitution of 1954",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d102e480-8797-427c-a970-626c02b3a264",
+      "question_text": [
+        "The primary reason for the establishment of political parties is to _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Functions of Political Parties ",
+        " Political Parties and Party Systems"
+      ],
+      "explanation": "The main aim of any political party is to gain power and control resources through elections",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Attain political power",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "protect political interest",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lobby the government",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d958b92a-c84d-494c-b279-479eb2c17b35",
+      "question_text": [
+        "The African country that was not colonized is ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "2",
+      "related_lessons": [
+        "Introducing the African Union (AU) ",
+        " International Organizations"
+      ],
+      "explanation": "As of today, Ethiopia is the only country that is not colonised as majority of the people are Italian citizens",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sudana",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Botswana",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Gambia",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ethiopia",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9fe432ad-94ab-4c40-9485-582e2313889d",
+      "question_text": [
+        "New partnership for Africa's development was an attempt to overcome _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "African Quest for Unity ",
+        " International Organizations"
+      ],
+      "explanation": "The forming of new partnership for African development was mainly to tackle and bring up about development in Africa generally.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "civil wars in africa",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "diseases in africa",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "obstacles to african development",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "coups in africa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ad08ee1-ec75-43e8-90c7-2682100ca62e",
+      "question_text": [
+        "The problem that has bedevilled many developing societies is known as ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "State, Society and Nation ",
+        " Introduction to Government"
+      ],
+      "explanation": "it is dishonest or fraudulent conduct by those in power typically involving bribery",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Enforcement",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Impartiality",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Inefficient judicial institution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Corruption",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fbbf6abd-9124-4fef-add7-c85ea9566f07",
+      "question_text": [
+        "A formal group decision-making process by which a population chooses an individual to hold public office is ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "Election ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "This is the process of choosing an individual to occupy a public office.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "by-election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "election",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "bill",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "public office",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9f3a32cc-1ddc-4e16-98d7-dc395c50a0a7",
+      "question_text": [
+        "The system of government by the political parties in a democratic country is known as ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "Functions of Political Parties in Nigeria ",
+        " Political Parties and Party Systems"
+      ],
+      "explanation": "A party system is a concept in comparative political science concerning the system of government by political parties in a democratic country",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Party system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Party structure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Public opinion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Political party",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac09690f-a6c9-4067-9217-4849b6cf08ae",
+      "question_text": [
+        "Ensuring that appointment into federal establishment in Nigeria reflect geographical spread is the sole function of the ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "Electoral Commission ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "They also ensure that recruitment are done without bias.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "revenue Mobilization and fiscal allocation commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "civil service commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "federal character commission",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "public complaint commission",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f9b986ab-df39-4486-b633-8240b608dd5f",
+      "question_text": [
+        "Bye laws are made by the _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "Legislation ",
+        " Arms of Government"
+      ],
+      "explanation": "They are responsible to make laws",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "judiciary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "legislature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "media",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "executive",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e5480d4f-f5ca-40a0-ad4d-466ad3703789",
+      "question_text": [
+        "The organ of the UN that served as eustodiait of some African countries prior to their independence is _________?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "The National Assembly ",
+        " Post-Independence Nigerian Government"
+      ],
+      "explanation": "They are the main body charged with the responsibility of policy-making and representative organ of the UN.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The international court of justice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the security council",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the truteeship council",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the general assembly",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cfdfcbb2-b09d-47e0-9497-ae803a504a5c",
+      "question_text": [
+        "The chairman of the 1976 constitution drafting committee was _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "Nigerian 1979 Republican Constitution ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "Chief Frederick Rotimi Alade Williams was the first Nigerian to become Senior Advocates of Nigeria (SAN). The body held by him was formed to draft the constitution to be approved by the military administration under the regime of Obasanjo.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Udo udoma",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ademola Adetokunba",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rotimi Williams",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Niki Tobi",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9efc9cd6-60d8-4760-af4f-d9d6c6841678",
+      "question_text": [
+        "The needs of the citizen are made known to the government through ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "Importance of Public Opinion ",
+        " Pressure Groups and Public Opinion"
+      ],
+      "explanation": "These are means at which government hears about the needs of its citizen. Through public opinion, governments are able to know the needs of the citizens",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "judiciary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "political party",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "civil service",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "public opinion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2f6631e2-8712-4c53-81d6-6d51e2b805d7",
+      "question_text": [
+        "The organ that is responsible for the interpretation of law is known as _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "3",
+      "related_lessons": [
+        "Functions and Powers of the Judiciary ",
+        " Arms of Government"
+      ],
+      "explanation": "this organ of government is responsible for the interpretation of laws",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Judiciary",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Executive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Legislature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "President",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71cca617-4b66-435b-b6c1-6e487939a11e",
+      "question_text": [
+        "The primary source of fund for local government is ________?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "Sources of Revenue for Local Governments ",
+        " Nigerian Local Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "grant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "loan",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "statutory allocation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "fines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6c7370f-9fe4-4c58-a6f8-8b7dbdbda586",
+      "question_text": [
+        "The United Nations is a replacement for which ineffective organisation?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "Nigeria and International Organisations ",
+        " West African Foreign Policy"
+      ],
+      "explanation": "The first international organisation whose principle was to maintain world peace but later replaced by United Nations",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "World War II",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "League Nations",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "OPEC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ECOWAS",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aea07814-8d9c-4431-a839-d79049473997",
+      "question_text": [
+        "Which of the following emphasizes the rule of law and human right protection?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "Constitutionalism ",
+        " Principles of Democratic Government"
+      ],
+      "explanation": "Constitution is a formal or informal system of primary principles and law that regulates a government or other institutions",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "constitutionalism",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "delegated legislation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decentralization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "centralization",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dbfd30a8-c72e-48fe-945d-ac51dc1b135a",
+      "question_text": [
+        "Laws enacted by the legislature are known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "Introducing the Legislature ",
+        " Arms of Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Legislation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Legislature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Budget",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Executive",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd02e56c-bc82-4319-9f71-019d1cdc6960",
+      "question_text": [
+        "The Quorum in the OPEC conference is formed with the attendance of ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "History of OPEC ",
+        " International Organizations"
+      ],
+      "explanation": "They consist of the simple majority",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "one third of the member state",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "half of member states",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "member states",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "three quarter of the member state",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e1be6733-3374-4183-951f-94bf641ac7ec",
+      "question_text": [
+        "Dispute among member state of ECOWAS are settled by _________?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "ECOWAS Governance Structure ",
+        " International Organizations"
+      ],
+      "explanation": "They settle disputes among members state",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The Technical and specialized commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Board of Trustee",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The community tribunal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "The council of minister",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "14e4b46d-a38b-4d9c-962d-f1366175b6ec",
+      "question_text": [
+        "The industrial relations system in the USA tremendously influenced the experience of _________?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "History of Foreign Policy ",
+        " West African Foreign Policy"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Great Britain",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Canada",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "South America",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "India",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "50aba0fa-5bd3-4056-b78f-f9ba970e01e0",
+      "question_text": [
+        "________ is the art of wearing campaign paraphernalia or carrying signs to a polling centre with the intent of influencing voters?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "Campaigns and Voting ",
+        " American Voting and Elections"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "polling centre",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "candidate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "passive electioneering",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "electorate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ca3d47f-b4e6-4a56-86e1-10a1cff8dab0",
+      "question_text": [
+        "The totality of Nigeria's participation in the international system is known as ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "Nigeria and International Organisations ",
+        " West African Foreign Policy"
+      ],
+      "explanation": "These are policy at which all the citizen shows concern to politics and the society. It is the means by which welfare state and economic performance can be meet.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "International policy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "foreign policy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "economic policy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "social policy",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9a469abc-3d12-4caa-90c5-fcf5144b7c58",
+      "question_text": [
+        "One important agent of a political socialization is the _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "4",
+      "related_lessons": [
+        "Political Socialization ",
+        " Introduction to Government"
+      ],
+      "explanation": "This is a group formed by people to come together through votes in order to gain power and control the resources",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "political party structure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "political party",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "party constitution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electoral college",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecce1566-3b98-432d-b964-fc7c8522a8cf",
+      "question_text": [
+        "In the year 1911, who argued most representative system deteriorates towards an Oligarchy or Patriarchy?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Oligarchy ",
+        " Introduction to Government"
+      ],
+      "explanation": "He is the author of the book \"Political Parties\" argues that most representative systems deteriorates towards an Oligarchy or Patriarchy in the year 1911",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Robert Michels",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Adolf Gasser",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Adolf Hitler",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Edmunde Burke",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1700ac4-79dd-419f-8d67-2c329ca5d96a",
+      "question_text": [
+        "In the 18th century, a new wind of development blow over Europe and the development was referred to__________?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summary of Organizing to Govern ",
+        " American Presidency"
+      ],
+      "explanation": "Industrial revolution came into existence and there was a change in the means of production and domestic system of manufacturing",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Labour Revolution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Doctrine Revolution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Industrial Revolution",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Economic Revolution",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26dcb846-5818-4499-a775-fcb51fd0c58a",
+      "question_text": [
+        "One major merit of the Unitary system of government is that_______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Advantages and Disadvantages of Unitary System ",
+        " Structure and Systems of Government"
+      ],
+      "explanation": "It is cheaper to operate because unitary system of government is a system of government in which power is concentrated in a single system",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "is most democratic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "is cheaper to operate",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "eradicates co-operation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "eliminate tyranny",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7d8f77e-c8e9-4eec-8194-d324b3f726a1",
+      "question_text": [
+        "The legal right to exercise power in a state is known as______"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Authority ",
+        " Introduction to Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Authority",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sovereignity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Coercion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Influence",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a3a7f34a-4507-4090-87d3-20fbff18edf6",
+      "question_text": [
+        "Bills passed by the legislature usually requires the approval of the following except_______"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Introducing the Legislature ",
+        " Arms of Government"
+      ],
+      "explanation": "They do not have the constitutional right to approve bill",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Governor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Member house of representative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Monarch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "President",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6eae75d1-7d1b-4b67-a646-0b7c700d9322",
+      "question_text": [
+        "The Constitutional forms with two levels of Government is _________"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Articles of Confederation ",
+        " American Constitutions and Origins"
+      ],
+      "explanation": "Confederation is the Constitutional form with the levels of Government, the Central and the Regional",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Unitary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Evolution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Confederal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Confederation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3de9d81b-c4f0-463d-9431-fd056abd3f67",
+      "question_text": [
+        "The essence of ECOWAS is to________"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Economic Community of West African States (ECOWAS) ",
+        " International Organizations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bring political parties together",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "foster interstate economic and political co-operation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "emerging political event",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "expansion of scopes and powers",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39fae747-1d05-4f88-bcf2-5fc58f00a0d3",
+      "question_text": [
+        "The head of government under the 1979 Constitution is the _____"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Nigerian 1979 Republican Constitution ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "president",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "prime minister",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "speaker of the house of represenative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "senate president",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9bebd9a4-ec7b-4798-a37e-2a58a92def65",
+      "question_text": [
+        "The Characteristics of the Civil Servants which prevents it's officers from addressing the press unless directed is known as ________"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Characteristics of the Civil Service ",
+        " Civil Service Administration"
+      ],
+      "explanation": "This is used to describe situations where the acting person's name is unknown",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "impartiality",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutrality",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "anonymity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "impersonality",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecefeff9-ea14-4553-ab77-9fe047ce67e4",
+      "question_text": [
+        "The granting of internal authority to the regions came under which constitution?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "5",
+      "related_lessons": [
+        "Oliver Lyttleton Constitution ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "This constitution was the only constitution that granted Internal authority",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Littleton Constitution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Richard Constitution",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Clifford Constitution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Macpherson Constitution",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e3e7497-6fbf-4ff5-a4ce-bbfaf7e2cce7",
+      "question_text": [
+        "The appointment and dissolution of the board of directors of the public corporation fall under _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "Organisational Structure of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "Answer is A (ministerial control), Essential textbook pg 176",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ministerial control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "legislative control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "political control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "judicial control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "265d651e-d1db-4b27-8d07-c30915cdcc86",
+      "question_text": [
+        "Sucessive population figures have been contested in Nigeria because of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "Counting Voters ",
+        " American Voting and Elections"
+      ],
+      "explanation": "Successful figure of population census needs to be considered politically because it can contribute to the success of politics.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gender consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "religious consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "geographical disparity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "political consideration",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "79f24809-bf2c-4bcb-b80e-c6ce76c60688",
+      "question_text": [
+        "In the United States, what do they call by-election?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "Types of Elections ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "special election",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "by polls",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "general election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "recall",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "314daba2-f913-4ba6-b8de-ccc8d40f9d22",
+      "question_text": [
+        "The identifiable spheres of control which the central government exercise over local government is known as ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "What is Federal Government? ",
+        " Structure and Systems of Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Supervisory Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Judicial Control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Audit Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Appointment Control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e31db7e3-bb39-46dd-92dd-dcc8cc6b969f",
+      "question_text": [
+        "The 1976 Local government reforms was embarked upon by the central government under the leadership of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "Local Government Reform of 1976 ",
+        " Nigerian Local Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "General Olusegun Obasanjo",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "General Sanni Abacha",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "General Mohammed Buhari",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Goodluck Jonathan",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f1f0bc86-c3c1-4dea-b252-23fae1b46c2c",
+      "question_text": [
+        "One of the demerits of the privatization of public corporations in Nigeria is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "Reasons for and Functions of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "One of the problem of privatisation was due to the fact that their was to make profit, thereby affecting the consumer.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "scarcity of goods and services",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "higher cost of goods and services",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "creation of unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inefficient service delivery",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d80b869-1148-4a84-9089-7dcb3ee73575",
+      "question_text": [
+        "The indirect dimension of changing the government is known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "Military Rule in Nigeria ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "The term used for the indirect or illegal dimension of changing the government.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coup de ta't",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "military rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electorate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9dd13692-f4c8-42a4-8dd4-50934b5d841d",
+      "question_text": [
+        "The head of the palace in the pre-colonial hausa system is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "Hausa/Fulani Pre-Colonial Political Administration ",
+        " Pre-Colonial Political Systems"
+      ],
+      "explanation": "During the pre-colonial era, the head of palace officials was Sarking fada. Sarkin dawaki and Sarkin gida had no offices in the fulani pre-colonial era. Sarkin ruwa is another office in hausa-fulani in the pre-colonial era where his office was the river fishing official.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sarkin dawaki",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sarkin gida",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sarkin fada",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sarkin ruwa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6f86c2b-ae3c-40c8-8a3a-226d3f437a2f",
+      "question_text": [
+        "What is the name of the motion brought before the chamber asking that leave be given to bring in a bill?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "How a Law is Made ",
+        " Arms of Government"
+      ],
+      "explanation": "This is a motion brought before the chamber to enforce it in a bill.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "government motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enactment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "approval",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "leave",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6ac4b402-77d1-4d28-8d27-1ecffc7996a3",
+      "question_text": [
+        "Early nationalist activities manifested in the form of _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "6",
+      "related_lessons": [
+        "Advantages and Disadvantages of Federalism ",
+        " American Federalism"
+      ],
+      "explanation": "Participation on government process on a regional level led to early motion for self government.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discrimination",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "participation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "disagreement",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba9f7969-6e31-4acd-bbe5-a0b5ef58d306",
+      "question_text": [
+        "The appointment and dissolution of the board of directors of the public corporation fall under _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "Organisational Structure of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "Answer is A (ministerial control), Essential textbook pg 176",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ministerial control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "legislative control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "political control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "judicial control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c71fa698-c886-4226-a92c-073e1494b4c4",
+      "question_text": [
+        "Sucessive population figures have been contested in Nigeria because of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "Counting Voters ",
+        " American Voting and Elections"
+      ],
+      "explanation": "Successful figure of population census needs to be considered politically because it can contribute to the success of politics.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gender consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "religious consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "geographical disparity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "political consideration",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d79deefc-16d1-4398-a03a-e1734a83f8ff",
+      "question_text": [
+        "In the United States, what do they call by-election?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "Types of Elections ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "special election",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "by polls",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "general election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "recall",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe2a8cd4-851a-45f6-9729-58cec27dd5be",
+      "question_text": [
+        "The identifiable spheres of control which the central government exercise over local government is known as ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "What is Federal Government? ",
+        " Structure and Systems of Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Supervisory Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Judicial Control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Audit Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Appointment Control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "014e4d7d-0698-45df-a6bd-77a62846bb51",
+      "question_text": [
+        "The 1976 Local government reforms was embarked upon by the central government under the leadership of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "Local Government Reform of 1976 ",
+        " Nigerian Local Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "General Olusegun Obasanjo",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "General Sanni Abacha",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "General Mohammed Buhari",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Goodluck Jonathan",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a895b9a-64ae-490f-bcf8-9189011310b7",
+      "question_text": [
+        "One of the demerits of the privatization of public corporations in Nigeria is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "Reasons for and Functions of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "One of the problem of privatisation was due to the fact that their was to make profit, thereby affecting the consumer.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "scarcity of goods and services",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "higher cost of goods and services",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "creation of unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inefficient service delivery",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "68f9cac8-1066-4e49-bc3c-eec70ea89192",
+      "question_text": [
+        "The indirect dimension of changing the government is known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "Military Rule in Nigeria ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "The term used for the indirect or illegal dimension of changing the government.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coup de ta't",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "military rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electorate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c43bd269-7123-42ae-9e28-d24645ad7f66",
+      "question_text": [
+        "The head of the palace in the pre-colonial hausa system is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "Hausa/Fulani Pre-Colonial Political Administration ",
+        " Pre-Colonial Political Systems"
+      ],
+      "explanation": "During the pre-colonial era, the head of palace officials was Sarking fada. Sarkin dawaki and Sarkin gida had no offices in the fulani pre-colonial era. Sarkin ruwa is another office in hausa-fulani in the pre-colonial era where his office was the river fishing official.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sarkin dawaki",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sarkin gida",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sarkin fada",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sarkin ruwa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e457b61b-3001-4e10-8d20-2b9591972427",
+      "question_text": [
+        "What is the name of the motion brought before the chamber asking that leave be given to bring in a bill?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "How a Law is Made ",
+        " Arms of Government"
+      ],
+      "explanation": "This is a motion brought before the chamber to enforce it in a bill.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "government motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enactment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "approval",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "leave",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ff9f14a4-ffc5-4db7-8a47-790476cda9c4",
+      "question_text": [
+        "Early nationalist activities manifested in the form of _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "7",
+      "related_lessons": [
+        "Advantages and Disadvantages of Federalism ",
+        " American Federalism"
+      ],
+      "explanation": "Participation on government process on a regional level led to early motion for self government.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discrimination",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "participation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "disagreement",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e14084c-6dc7-4859-bab5-14c6fcfbe883",
+      "question_text": [
+        "The appointment and dissolution of the board of directors of the public corporation fall under _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "Organisational Structure of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "Answer is A (ministerial control), Essential textbook pg 176",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ministerial control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "legislative control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "political control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "judicial control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cf8bcc57-1721-46cb-b66a-25400e7a2dbb",
+      "question_text": [
+        "Sucessive population figures have been contested in Nigeria because of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "Counting Voters ",
+        " American Voting and Elections"
+      ],
+      "explanation": "Successful figure of population census needs to be considered politically because it can contribute to the success of politics.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gender consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "religious consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "geographical disparity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "political consideration",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e4256fb1-1b6b-4a45-a92e-cad15c345186",
+      "question_text": [
+        "In the United States, what do they call by-election?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "Types of Elections ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "special election",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "by polls",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "general election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "recall",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "81d9c085-94ce-4c1c-b986-bfd2a68bac61",
+      "question_text": [
+        "The identifiable spheres of control which the central government exercise over local government is known as ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "What is Federal Government? ",
+        " Structure and Systems of Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Supervisory Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Judicial Control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Audit Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Appointment Control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "938e7240-8335-464f-b4b2-3112cddc8873",
+      "question_text": [
+        "The 1976 Local government reforms was embarked upon by the central government under the leadership of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "Local Government Reform of 1976 ",
+        " Nigerian Local Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "General Olusegun Obasanjo",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "General Sanni Abacha",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "General Mohammed Buhari",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Goodluck Jonathan",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "675849fd-1beb-4eb5-a7ff-b0e5627c22e6",
+      "question_text": [
+        "One of the demerits of the privatization of public corporations in Nigeria is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "Reasons for and Functions of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "One of the problem of privatisation was due to the fact that their was to make profit, thereby affecting the consumer.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "scarcity of goods and services",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "higher cost of goods and services",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "creation of unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inefficient service delivery",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25c675fc-e0f9-4fb1-b95b-dca1bcf9d08f",
+      "question_text": [
+        "The indirect dimension of changing the government is known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "Military Rule in Nigeria ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "The term used for the indirect or illegal dimension of changing the government.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coup de ta't",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "military rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electorate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "332da111-8909-4b5f-a15a-b3ff9d9eabbe",
+      "question_text": [
+        "The head of the palace in the pre-colonial hausa system is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "Hausa/Fulani Pre-Colonial Political Administration ",
+        " Pre-Colonial Political Systems"
+      ],
+      "explanation": "During the pre-colonial era, the head of palace officials was Sarking fada. Sarkin dawaki and Sarkin gida had no offices in the fulani pre-colonial era. Sarkin ruwa is another office in hausa-fulani in the pre-colonial era where his office was the river fishing official.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sarkin dawaki",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sarkin gida",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sarkin fada",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sarkin ruwa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "41778f4f-fd43-4721-a13d-0c43e1ec48a5",
+      "question_text": [
+        "What is the name of the motion brought before the chamber asking that leave be given to bring in a bill?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "How a Law is Made ",
+        " Arms of Government"
+      ],
+      "explanation": "This is a motion brought before the chamber to enforce it in a bill.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "government motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enactment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "approval",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "leave",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fc97c940-fd61-4f5d-8e96-2845f2938659",
+      "question_text": [
+        "Early nationalist activities manifested in the form of _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "8",
+      "related_lessons": [
+        "Advantages and Disadvantages of Federalism ",
+        " American Federalism"
+      ],
+      "explanation": "Participation on government process on a regional level led to early motion for self government.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discrimination",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "participation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "disagreement",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42fc0326-7d08-4f75-b406-48dd7ccab78a",
+      "question_text": [
+        "The appointment and dissolution of the board of directors of the public corporation fall under _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "Organisational Structure of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "Answer is A (ministerial control), Essential textbook pg 176",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ministerial control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "legislative control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "political control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "judicial control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dad8802b-1d75-4db9-b24a-94b3b9da3841",
+      "question_text": [
+        "Sucessive population figures have been contested in Nigeria because of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "Counting Voters ",
+        " American Voting and Elections"
+      ],
+      "explanation": "Successful figure of population census needs to be considered politically because it can contribute to the success of politics.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gender consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "religious consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "geographical disparity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "political consideration",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a89fc707-554e-4af2-8342-6f99319714b7",
+      "question_text": [
+        "In the United States, what do they call by-election?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "Types of Elections ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "special election",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "by polls",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "general election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "recall",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0118492f-66b4-49df-8111-6231705a77e7",
+      "question_text": [
+        "The identifiable spheres of control which the central government exercise over local government is known as ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "What is Federal Government? ",
+        " Structure and Systems of Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Supervisory Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Judicial Control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Audit Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Appointment Control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a3968c4-006f-4786-b815-82c21b113308",
+      "question_text": [
+        "The 1976 Local government reforms was embarked upon by the central government under the leadership of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "Local Government Reform of 1976 ",
+        " Nigerian Local Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "General Olusegun Obasanjo",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "General Sanni Abacha",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "General Mohammed Buhari",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Goodluck Jonathan",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00c83c81-1c92-424a-9372-98cb88d03d49",
+      "question_text": [
+        "One of the demerits of the privatization of public corporations in Nigeria is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "Reasons for and Functions of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "One of the problem of privatisation was due to the fact that their was to make profit, thereby affecting the consumer.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "scarcity of goods and services",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "higher cost of goods and services",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "creation of unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inefficient service delivery",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23e250ec-594c-497e-a6c3-a371df4e244f",
+      "question_text": [
+        "The indirect dimension of changing the government is known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "Military Rule in Nigeria ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "The term used for the indirect or illegal dimension of changing the government.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coup de ta't",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "military rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electorate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c047d4eb-bb06-45af-be34-a18791dade3e",
+      "question_text": [
+        "The head of the palace in the pre-colonial hausa system is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "Hausa/Fulani Pre-Colonial Political Administration ",
+        " Pre-Colonial Political Systems"
+      ],
+      "explanation": "During the pre-colonial era, the head of palace officials was Sarking fada. Sarkin dawaki and Sarkin gida had no offices in the fulani pre-colonial era. Sarkin ruwa is another office in hausa-fulani in the pre-colonial era where his office was the river fishing official.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sarkin dawaki",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sarkin gida",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sarkin fada",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sarkin ruwa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "888aa11a-496a-43ed-959a-0d073bd6431d",
+      "question_text": [
+        "What is the name of the motion brought before the chamber asking that leave be given to bring in a bill?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "How a Law is Made ",
+        " Arms of Government"
+      ],
+      "explanation": "This is a motion brought before the chamber to enforce it in a bill.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "government motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enactment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "approval",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "leave",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fb195209-216e-4dbd-b790-2148534704d3",
+      "question_text": [
+        "Early nationalist activities manifested in the form of _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "9",
+      "related_lessons": [
+        "Advantages and Disadvantages of Federalism ",
+        " American Federalism"
+      ],
+      "explanation": "Participation on government process on a regional level led to early motion for self government.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discrimination",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "participation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "disagreement",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a2e1109-0c9c-4731-8867-0833a900ea90",
+      "question_text": [
+        "The appointment and dissolution of the board of directors of the public corporation fall under _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "Organisational Structure of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "Answer is A (ministerial control), Essential textbook pg 176",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ministerial control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "legislative control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "political control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "judicial control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a1e9beac-5e3e-4e11-a17b-a0c9d1a7bdec",
+      "question_text": [
+        "Sucessive population figures have been contested in Nigeria because of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "Counting Voters ",
+        " American Voting and Elections"
+      ],
+      "explanation": "Successful figure of population census needs to be considered politically because it can contribute to the success of politics.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gender consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "religious consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "geographical disparity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "political consideration",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "81fa3077-ed3a-428e-a0e5-857fb9946c40",
+      "question_text": [
+        "In the United States, what do they call by-election?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "Types of Elections ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "special election",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "by polls",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "general election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "recall",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "578386a5-d239-4db4-9118-12ffbc94fe3e",
+      "question_text": [
+        "The identifiable spheres of control which the central government exercise over local government is known as ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "What is Federal Government? ",
+        " Structure and Systems of Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Supervisory Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Judicial Control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Audit Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Appointment Control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8474f997-ecd2-4247-be00-cde030954ae7",
+      "question_text": [
+        "The 1976 Local government reforms was embarked upon by the central government under the leadership of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "Local Government Reform of 1976 ",
+        " Nigerian Local Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "General Olusegun Obasanjo",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "General Sanni Abacha",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "General Mohammed Buhari",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Goodluck Jonathan",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05ccd14e-82e9-4ce3-b574-d9560c151e65",
+      "question_text": [
+        "One of the demerits of the privatization of public corporations in Nigeria is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "Reasons for and Functions of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "One of the problem of privatisation was due to the fact that their was to make profit, thereby affecting the consumer.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "scarcity of goods and services",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "higher cost of goods and services",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "creation of unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inefficient service delivery",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4b2c609-8338-4c04-b846-e9dcb3484faf",
+      "question_text": [
+        "The indirect dimension of changing the government is known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "Military Rule in Nigeria ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "The term used for the indirect or illegal dimension of changing the government.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coup de ta't",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "military rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electorate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd790af8-5175-4e68-bb58-2a7c20f26ae4",
+      "question_text": [
+        "The head of the palace in the pre-colonial hausa system is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "Hausa/Fulani Pre-Colonial Political Administration ",
+        " Pre-Colonial Political Systems"
+      ],
+      "explanation": "During the pre-colonial era, the head of palace officials was Sarking fada. Sarkin dawaki and Sarkin gida had no offices in the fulani pre-colonial era. Sarkin ruwa is another office in hausa-fulani in the pre-colonial era where his office was the river fishing official.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sarkin dawaki",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sarkin gida",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sarkin fada",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sarkin ruwa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "61b81ca4-9d5c-48db-8a0c-bdb9e4e7ed8c",
+      "question_text": [
+        "What is the name of the motion brought before the chamber asking that leave be given to bring in a bill?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "How a Law is Made ",
+        " Arms of Government"
+      ],
+      "explanation": "This is a motion brought before the chamber to enforce it in a bill.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "government motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enactment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "approval",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "leave",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "986db5c7-dcd5-4ea0-b0e1-8e6d05c14dae",
+      "question_text": [
+        "Early nationalist activities manifested in the form of _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "10",
+      "related_lessons": [
+        "Advantages and Disadvantages of Federalism ",
+        " American Federalism"
+      ],
+      "explanation": "Participation on government process on a regional level led to early motion for self government.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discrimination",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "participation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "disagreement",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4a406f4-2ce8-4e39-bfd9-971edeb3564c",
+      "question_text": [
+        "The appointment and dissolution of the board of directors of the public corporation fall under _______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "Organisational Structure of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "Answer is A (ministerial control), Essential textbook pg 176",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ministerial control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "legislative control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "political control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "judicial control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "91ab0325-5006-4823-8dd6-536060d79f8f",
+      "question_text": [
+        "Sucessive population figures have been contested in Nigeria because of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "Counting Voters ",
+        " American Voting and Elections"
+      ],
+      "explanation": "Successful figure of population census needs to be considered politically because it can contribute to the success of politics.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gender consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "religious consideration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "geographical disparity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "political consideration",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b7167522-d278-4d60-87c1-2b7c85c859fa",
+      "question_text": [
+        "In the United States, what do they call by-election?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "Types of Elections ",
+        " Electoral Systems and Processes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "special election",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "by polls",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "general election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "recall",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9229d49c-9a86-44f2-a34d-71e07c93b277",
+      "question_text": [
+        "The identifiable spheres of control which the central government exercise over local government is known as ____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "What is Federal Government? ",
+        " Structure and Systems of Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Supervisory Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Judicial Control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Audit Control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Appointment Control",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0787bd9f-985a-4184-b2dd-ae9295dbac05",
+      "question_text": [
+        "The 1976 Local government reforms was embarked upon by the central government under the leadership of ______?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "Local Government Reform of 1976 ",
+        " Nigerian Local Government"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "General Olusegun Obasanjo",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "General Sanni Abacha",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "General Mohammed Buhari",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Goodluck Jonathan",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4ca1bb2f-f21e-46e4-97c1-06510b8f0c3c",
+      "question_text": [
+        "One of the demerits of the privatization of public corporations in Nigeria is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "Reasons for and Functions of Public Corporations ",
+        " Public Corporations and Parastatals"
+      ],
+      "explanation": "One of the problem of privatisation was due to the fact that their was to make profit, thereby affecting the consumer.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "scarcity of goods and services",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "higher cost of goods and services",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "creation of unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inefficient service delivery",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ae0ae962-4fe3-4682-94de-d0bc6b81efde",
+      "question_text": [
+        "The indirect dimension of changing the government is known as ___ ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "Military Rule in Nigeria ",
+        " West-African Constitutional Development"
+      ],
+      "explanation": "The term used for the indirect or illegal dimension of changing the government.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coup de ta't",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "military rule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "election",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electorate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "803c3e99-6a3f-4070-967b-6a3bcce33888",
+      "question_text": [
+        "The head of the palace in the pre-colonial hausa system is ?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "Hausa/Fulani Pre-Colonial Political Administration ",
+        " Pre-Colonial Political Systems"
+      ],
+      "explanation": "During the pre-colonial era, the head of palace officials was Sarking fada. Sarkin dawaki and Sarkin gida had no offices in the fulani pre-colonial era. Sarkin ruwa is another office in hausa-fulani in the pre-colonial era where his office was the river fishing official.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sarkin dawaki",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sarkin gida",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sarkin fada",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sarkin ruwa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "83196605-2ba6-49b8-af04-828936aa0038",
+      "question_text": [
+        "What is the name of the motion brought before the chamber asking that leave be given to bring in a bill?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "How a Law is Made ",
+        " Arms of Government"
+      ],
+      "explanation": "This is a motion brought before the chamber to enforce it in a bill.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "government motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enactment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "approval",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "leave",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6d012e87-0bb4-4b14-829b-a3e92dd3b84d",
+      "question_text": [
+        "Early nationalist activities manifested in the form of _____?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "government",
+      "pageNum": "11",
+      "related_lessons": [
+        "Advantages and Disadvantages of Federalism ",
+        " American Federalism"
+      ],
+      "explanation": "Participation on government process on a regional level led to early motion for self government.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "discrimination",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "resistance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "participation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "disagreement",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

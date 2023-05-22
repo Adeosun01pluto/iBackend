@@ -1,0 +1,3859 @@
+
+[
+    {
+      "id": "31402936-33cb-4ab0-b769-5ada79ed4439",
+      "question_text": [
+        "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Boyle's law is an experimental gas law that describes how the pressure of a gas tends to increase as the volume of the container decreases.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Graham's Law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Boyle's Law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charles LawE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c4b1931c-d7f5-4000-a805-2893938da0e8",
+      "question_text": [
+        "In homes, electrical appliances and lamps are connected in parallel because"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Electric Circuits Continued ",
+        " Electric Circuits"
+      ],
+      "explanation": "The voltage of a circuit is the same whether in parallel or in series. Parallel and series affects resistance and current. So the answer should be it uses less current.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Parallel connections do not heat up the wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "series connections use high voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "less current will be used",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "less voltage will be used",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "894e8f72-726a-4b5f-aa90-c5603469cd38",
+      "question_text": [
+        "In an A.C circuit, the ratio of r.m.s value to peak value of current is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\( \\frac{I_0}{\\sqrt{2}} \\)\\( \\text{Therefore } \\sqrt{2Irms} = I_0 \\\\\\frac{Irms}{I_0} = \\frac{1}{\\sqrt{2}} \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( \\frac{1}{2} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\frac{1}{\\sqrt{2}} \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9f896e0-9b14-43c7-9d22-deb431db2133",
+      "question_text": [
+        "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Resistors in Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5:3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3:5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a44c89fd-f163-46da-89a6-a5824e449de9",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7ce85b1-1f0a-4630-9c36-b1754ae6823e",
+      "question_text": [
+        "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "m = v/u = -3v = -3uf = 15cm1/v + 1/U = 1/f1/-3U + 1/u = 1/152/3u = 1/153U = 15 x 2U = 30/3= 10 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0998c5a-64db-46ce-affe-ea53896dc207",
+      "question_text": [
+        "A length of wire has a frequency of 255Hz when stretched by a force of b225N. If the fore increased to 324N, what is the new frequency of vibration"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Period and Frequency in Oscillations ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "f1 = 255Hz, T1 = 225Nf2 = ? T2 = 324NBut f ∝ √T => f = K√T => K = f/√T∴ f1/√T1 = f2/√T2225/√225 = f2/√324f2 =225√225√225=225 x 18__15= 306Hz",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "306 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "512 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "488 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "356 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a1f491c6-b0b7-4cb9-83ef-489d3286733f",
+      "question_text": [
+        "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Introducing Resistors in Series and Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy197.jpg",
+      "explanation": "IVR=1212= 1A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.6 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d5b808c-5436-4bf6-84c8-9f3110be9e22",
+      "question_text": [
+        "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Finding Magnitude With Pythagoras Theorem ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy194.jpg",
+      "explanation": "The resultant, R is given by pythagoras rule, R2 = P2 + Q2= 62 + 82 = 36 + 64 = 100R = √100 = 10.0N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.0 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13.0 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a69e202e-8d64-49cb-9fe4-14e859cfb726",
+      "question_text": [
+        "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Stability ",
+        " Statics and Torque"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy193.jpg",
+      "explanation": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Z only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "X only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y and Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y and X",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c211e33a-4130-4345-8f27-41ec16424e5d",
+      "question_text": [
+        "The correct expression for the potential at a point distance r from a charge q in an electric field is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Concept of a Field ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "Electric potential is work done in taking a unit mass or charge from infinity to that point V =w =Fr =Q1Q2 xrQQ4πεor2Q1 =_q4πεor",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "_q24πεor2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "_q24πεor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "_q4πεor2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "_q4πεor",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a94409b3-d1ec-4627-9a94-e6a3136808f7",
+      "question_text": [
+        "The electrical properties of germanium can be altered drastically by the addition of impurity. This process is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Introducing Relativistic Energy ",
+        " Special Relativity"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "saturation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bonding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "amplification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dopping",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f46cef4f-f942-4eb2-92f9-97e2237c3b84",
+      "question_text": [
+        "If the threshold frequency for tungsten is 1.3 x 1015Hz, what is its work function?[H = 6.6 x 10-34 Js]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "Work function, w = hfo 6.6 x 10-34 x 1.3 x 1015= 8.58 x 10-19",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.58 x 10-19 J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.50 x 10-15 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.58 x 10-17 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.85 x 10-18",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "38b5335c-36a0-4e9f-961b-c2d7bdc1df23",
+      "question_text": [
+        "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Eddy Currents and Magnetic Damping ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Metals and hydrogen are deposited at the cathode, while non-metals and oxygen are deposited on the anode ∴ metals Y will form the anode which is deposited at the cathode made of x",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "X is the anode and very high current is used",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "X is the anode and Y is the cathode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y is the cathode and X is the anode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y is the anode and very high current is used",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6f15ba09-fbeb-4379-a000-941521b48a76",
+      "question_text": [
+        "Under which of the following conditions do gases conduct electricity?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Gauge Pressure and Absolute Pressure ",
+        " Fluid Statics"
+      ],
+      "explanation": "Under high potential difference and low pressure gases are good conductor of electricity",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Low presssure and low p.d",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low pressure and high p.d",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "high pressure an low p.d",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "high pressure and high p.d",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf3ea390-3773-4ca6-b2ea-8a1ca42c6056",
+      "question_text": [
+        "Two inductors of inductance 4 II and 8 II are arrange in series and a current of 10 A is passed through them. What is the energy stored in them?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Energy Stored in an Inductor ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Effective inductance(1)/L = (1)/4 + (1)/8 = (3)/8 ∴ L = (8)/3Energy stored = (1)/2 LI2= (1)/2 x (8)/3 x 10 x 10 = (400)/3 = 133.3 J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "500 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "133 J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "250 J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a4fd26ef-b3ae-4821-8dd3-22fab33d08dd",
+      "question_text": [
+        "Which of the following materials has an increase in resistance with temperature?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Temperature Variation of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Resistance in metals are proportional to temperature",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electrolyte",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "76e0d777-838a-4f3d-bb2f-43310a6756d3",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electrovalent",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "81b0c2af-9fc2-4ccb-b0c5-97a335dd8dca",
+      "question_text": [
+        "A radioactive isotope has a decay constant of 10-5s4. Calculate half life"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Half-Life and Activity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "T (1)/2 = (0.693)/λ = (0.693)/10-5=  0.693 x 105= 6.93 x 104 sec",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.93 x 105s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.93 x 105s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.93 x104s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.93 x 104s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f8c8160-e9d9-4945-a564-e0d4e79e71bd",
+      "question_text": [
+        "A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Vision Correction ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "V = - 50, U = 25CM(1)/r = (1)/v + (1)/u = (1)/-50 + (1)/25 = (1 + 2)/50 = (1)/50 f = +50cm = +0.5m p = (1)/r = (1)/0.5 = (10)/5 = 2 dioptersThe power of a lens is the reciprocal of the focal length in meters. it is expressed in diopters.",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.06 D",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.02 D",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.03 D",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.04 DE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1cffe8d1-1d7a-4d7f-a1d3-e0bd2a1e38f5",
+      "question_text": [
+        "The eclipse of the sun occurs when the"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Tides ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "Eclipse of the sun occurs when the moon which is opaque objects between the sun and the earth",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "moon is between the sun and the earth",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "earth is between the sun and the moon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "moon is not completely hidden in the earth's shadow",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "moon's umbra falls on some part of the earth",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e0efa3b-388e-4e09-bc84-853e0533b5ef",
+      "question_text": [
+        "Which of the following is a property of steel?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Poles of Permanent Magnets ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "Steel is not easily magnetized and dismagnetized",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it cannot retain its magnetism longer than iron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "it can be used for making temporary magnets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it can be used for making permanent magnets",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "it can easily be magnetized and demagnetized",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b10deb9-c301-40e7-bdff-4356d0a46af0",
+      "question_text": [
+        "In measuring high frequency a.c, the instrument used is the"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing DC Voltmeters and Ammeters ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "Hot wire ammeter is used because the heat affect of A C is same as that of DC",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "d.c ammeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "moving coil ammeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "moving iron ammeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hot wire ammeter",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e615930a-a9f3-46dd-bda8-6ce58d9d8c09",
+      "question_text": [
+        "If the charge of electricity is K wh is N4, what is the cost of operating an electrical appliance rated 250 v,2 A for six hours?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Energy consumed = power x time = lvt = 2 x 250 x 6hr = 300 wh = 3 kwh but 1 kwh = N4 3 kwh = 3 x N4 = N 12",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N24",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc6c884b-00a9-43bd-821d-baaad982510c",
+      "question_text": [
+        "I. change of stateII. DiffusionIII. RadiationIV. OsmosisWhich of the processes above can be explained using the kinetic theory?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "The Rate and Direction of Diffusion ",
+        " Fluid Dynamics and Applications"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I, II,III and IV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I, III and IV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II and IV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2a7a57da-f7b7-407d-a486-48a6db5afdd9",
+      "question_text": [
+        "Three similar cells each of e.m.f 2 v and internal resistance 2Ω are connected in parallel, the total e.m.f and total internal resistance are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "explanation": "Total energy in parred connection is equal to emt of one cell, = 2v but total internal resistance is given by (1)/r = (1)/r1 + (1)/r2 + (1)/r3 = (1)/2 + (1)/2 + (1)/2 = (3)/2∴ r = (2)/3 = 0.67Ω",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 v, 6.0Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 v, 0.7Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 v, 6.0Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6 v, 0.7Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18a6af7d-46c9-4a3c-bfb3-de5007bc2142",
+      "question_text": [
+        "When the human eye loses its power of accomodation, the defect is known as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Physics of the Eye ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "presbyopia is loss of accommodation",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "short sightedness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "presbyobia",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "astigmatism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "long sightedness",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f9a5d6f-5ac5-48d5-86c2-be3babb4993a",
+      "question_text": [
+        "When a red rose flower is observed in blue light, what colour does the observer see?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Relativistic Addition of Velocities ",
+        " Special Relativity"
+      ],
+      "explanation": "The colour which an object presents to the eye is the colour of light it reflects. Red rose flower will therefore absorb any other colour and reflect red. Therefore when viewed in blue light, it has no colur to reflect and will therefore appear black. Although mixture of red light and blue light = magenta . NO correct option.",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Magenta",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellowE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3af248ad-5458-4d1e-9ef9-e9a61b894ee1",
+      "question_text": [
+        "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Dielectric ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "Dielectric constant = (c)/c° = (60)/20 = 3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da6c0a5e-beb3-4515-bd91-9b753e704d4a",
+      "question_text": [
+        "The ground is always cold at night because the"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Introduction to Heat and Heat Transfer Methods ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "The earth radiate heat to the atmosphere at night  thereby lowering the temperature of the ground",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "atmosphere absorbs the sun's energy at night",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "earth radiates heat to the atmosphere at night",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "sun no longer shine at night",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "atmosphere reflects the sun's energy at night",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "615a8c92-866d-4297-a8d2-b92c6cf1909a",
+      "question_text": [
+        "A cannon is fired from town X,after how long is the sound heard at a town Y 4.95 km away?[velocity of sound in the air = 330 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Sound ",
+        " Sound and the Physics of Hearing"
+      ],
+      "explanation": "V = (2X)/t330 = (2 x 4.95 x 103)/tt = (9.9. x 103/330 = (9900)/330 = (90)/3= 30 secs",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30 s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10 s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8f4f552-01a7-4aa8-b9b1-6955b2d8e3c5",
+      "question_text": [
+        "The phenomenon that shows that increase in pressure lowers the melting point can be observed in"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Gauge Pressure, Absolute Pressure, and Pressure Measurement ",
+        " Fluid Statics"
+      ],
+      "explanation": "Regelation means refreezing a phenomenon whereby melted ice free from increased pressure refreezed when they are released from the pressure.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sublimation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "condensation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "coagulation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "regelation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "371f01be-7c84-4d45-ba03-b001ac88c7f0",
+      "question_text": [
+        "Steam burn is more severe than that of boiling water because"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "The specific latent heat of vaporization of steam is 2.1 x 106JKg-1while the energy required to raise the temperature of a unit mass of water from 0°c to 100°c = C x Dt = 4200 x 100 = 420000 = 4.2 x 105 JKg-1∴ steam possesses greater heat energy per unit mass",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "steam burn is independent of relative humidity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "stem possesses greater heat energy per unit mass",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "water boils at a higher temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "steam burn is dependent on relative humidity",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "353946d0-d3d9-4020-9ced-01a2beb55828",
+      "question_text": [
+        "I. Density of the liquid.II. Depth below the surface of the liquid.III. Surface area of the liquid.In which of the statement above will pressure be dependent?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Surface Tension ",
+        " Fluid Statics"
+      ],
+      "explanation": "Pressure in liquid is independent of cross sectional area of the container/ liquid ∴ the correct options are I & II",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II only.",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and III only.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I, II and III only.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I and III only.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0ee0cd05-0686-40b0-883f-14f97ef29ded",
+      "question_text": [
+        "Which of the following could be effectively used to reduce friction?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Friction ",
+        " Friction, Drag and Elasticity"
+      ],
+      "explanation": "grease is more viscous than the rest of the liquids",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "grease",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "petrol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ed37c1b-90d8-47ef-9b77-5d9042148cf9",
+      "question_text": [
+        "Which of the following types of waves needs a medium for propagation?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Introducing Transverse Waves ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Sound is the only mechanical wave among the rest which are electromagnetic waves.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sound waves",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "light waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "radio waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x - rays",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "feaba07f-515f-4142-b27a-2605592bf83c",
+      "question_text": [
+        "Which of the following electromagnetic waves has the highest frequency?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing the Electromagnetic Spectrum ",
+        " Electromagnetic Waves"
+      ],
+      "explanation": "r - rays has the highest frequency followed by X - rays, ultraviolet ray, visible light intra - red and the least is radio weaves",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "utra - violet rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "radio waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x - rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "infrared - rays",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "67c99104-2e9b-4510-b6d9-8659cf0e903e",
+      "question_text": [
+        "A perfect emitter or absorber of radiant energy is a"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Dull, black surface are good emitters or absorbers of energy",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "conductor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "black body",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "white body",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "red body",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "057112e7-f2a8-49d4-9a6d-d972a73a2431",
+      "question_text": [
+        "A machine is used to lift a load of 20 N through a height of 10 m. if the efficiency of the machine is 40%, how much work is done?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "explanation": "Efficiency = \\( \\frac{\\text{work output}}{\\text{work input}} \\times  \\frac{100}{1} \\) = 40 = \\( \\frac{20 \\times 10 }{x} \\times  \\frac{100}{1} \\) = 500J",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "80 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "500 J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "300 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "120 J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e27cbbdb-6d73-4bee-b0bc-974092ae360c",
+      "question_text": [
+        "An object weighs 22 kg in water and 30kg in air. what is the upthrust exerted by the liquid on the object.[g = 10 ms2]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "upthrust = weight in air - weight in liquid = 30 x 10 - 22 x 10 = 300 - 220 = 80 N",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "520 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "220 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80 N",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e6ffc697-3943-4e83-8ff2-ef1c2e90425c",
+      "question_text": [
+        "A metal of volume 40 cm3 is heated from 30 °c to 90 °c, the increase in volume is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Flow Rate ",
+        " Fluid Dynamics and Applications"
+      ],
+      "explanation": "increase in volume, DV = RV1 ∆ θ = 3α Vsub>1 Dθ = 3 x 2.0 X 10-5 x 40 x (90 - 30) = 6 x 10-5 x 40 x 60 0.144 cm3∴ No correct option",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.12 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.00 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.20 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40 cm3E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9716b8bb-f449-4524-9632-9be05da22bf8",
+      "question_text": [
+        "A copper wire was subjected to a tensile stress of 7.7 x 107 x 10 Nm-2. calculate strain of the wire.[young modules = 1.1 x 1011 Nm-2]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Elasticity: Stress and Strain ",
+        " Friction, Drag and Elasticity"
+      ],
+      "explanation": "Young modules = \\( \\frac{\\text{Tensile stress}}{\\text{Tensile strain}}\\) = \\( 1.1 \\times 10^11 = \\frac{7.7 \\times 10^7}{\\text{Tensile Strain}} \\)∴ Tensile strain = \\( \\frac{7.7 \\times 10^7}{1.1 \\times 10^11}  \\) = \\( 7.0 \\times 10^{7-11} = 7.0 \\times 10^{-4} \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2. 0 x 10-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.0 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7.0 x 10-4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.2 x 10-4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d8098f8e-3534-446f-a9c7-6d356e17d6a6",
+      "question_text": [
+        "I. High thermal capacity.II. High sensitivity.III.Easy readability.IV. Accuracy over a wide range of temperatureFrom the statement above, the qualities of a good thermometer are"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Temperature Ranges in the Universe ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "A good thermometric liquid should not have a high thermal capacity so that the themperetue of the body being measured will not be affected∴ II, III and IV are qualities of a good thermometer",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I, II,III and IV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I, III and IV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "II, III and IV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a10f0c83-afac-4800-942c-9374c31d0d6b",
+      "question_text": [
+        "Two balls X and Y weighing 5 g and 50 kg respectively were throne up vertically at the same time with a velocity of 100 ms1 .How will their positions be one second later?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Example on Impulsive Cricketers ",
+        " Momentum and Impulse"
+      ],
+      "explanation": "v2 = U2 - 2G s0 = 1002 - 2 x 10 x s = 10000 - 20s s = (10000)/20 = 500m Which is independent of mass.the two bodies where acted upon by the same retarding force of gravity which is independent of mass of the body; therefore both will be 500 m from the point of throw.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "X and Y will be 500 m from each other",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Y will be 500 m ahead of X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "X will be 500 m ahead of Y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "X and Y both be 500 m from the poin of throw",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "55d2b342-78e7-4e0f-9508-9357eb5f2230",
+      "question_text": [
+        "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Motion in a Gravitational Field ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "S = (1)/2gt2S = (1)/2 x (10)/1 x 32 =5 x 9 = 45 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "90 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "91e1331d-12f0-41de-a2b9-463bdd1b2100",
+      "question_text": [
+        "An object of mass 2 kg moves with a velocity of 10 ms1 round at circle of radius 4 m. Calculate the centripetal force on the object"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Centripetal Acceleration ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "Centripetal force, F = \\( \\frac{mv^2}{r} \\) = \\( \\frac{2 \\times 10^2}{4} \\) = \\( \\frac{200}{4} \\)= 50N",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "40 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1456f2dd-fc15-4b49-b849-c31fc466161d",
+      "question_text": [
+        "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. the kinetic energy of the hammer just before hitting the ground is?[g = 10 ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Kinetic Energy and the Ultimate Speed Limit ",
+        " Special Relativity"
+      ],
+      "explanation": "K e just before hitting the gound = P e at the maximum height (conservation of mechanical energy)K e = P e = mgh = 1.5 x 10 x 20= 300 J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "600 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "300 J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "450 J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "297dcb5e-5780-4a3f-835d-b7f0f1857a0d",
+      "question_text": [
+        "If a tube of small radius opened at both ends is placed in a liquid, the liquid will"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Phase Changes ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "The liquid will rise up the capillary if it wets glass and falls below its wets glass and falls below its initial level if it does not wet glass",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain at the same level irrespective of whether the liquid wet the glass or not",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "fall below the liquid level if the liquid wets the glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "falls below the liquid level if the liquid does not wet the glass",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "rise above the liquid level if the liquid does not wet the glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f95e43af-8abd-4ca1-99e0-c720d1aa3196",
+      "question_text": [
+        "A man standing on a lift that is descending does not feel any weight because"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Lifts and Apparent Weight ",
+        " Newton's Laws"
+      ],
+      "explanation": "The resultant force acting on the man is given by w = mg - R Mg - mg = 0The man feels weightless because the reaction, R is equal to the weight mg",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the inside of the lift is air tight",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the lift is in vacuum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "there is no reaction from the floor of the lift",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "there is no gravitational pull on the man in the lift",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea02ca83-8773-463f-a138-80824ddf6dde",
+      "question_text": [
+        "A block of aluminum is heated electrically by a 25 W heater. if the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Heat supplied = Heat gained P x t = C ∆ Ø(25 x 5 x 60)/300 = 750 JK-1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "850 JK-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "750 JK-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "650 JK-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "500 JK-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9eae812-8227-444b-b52e-86095af600fe",
+      "question_text": [
+        "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "m = <sup>v</sup>/<sub>u</sub> = -3<br>v = -3u<br>f = 15cm<br><sup>1</sup>/<sub>v</sub> + <sup>1</sup>/<sub>U</sub> = <sup>1</sup>/<sub>f</sub><br><sup>1</sup>/<sub>-3U</sub> + <sup>1</sup>/<sub>u</sub> = <sup>1</sup>/<sub>15</sub><br><sup>2</sup>/<sub>3u</sub> = <sup>1</sup>/<sub>15</sub><br>3U = 15 x 2<br>U = <sup>30</sup>/<sub>3</sub><br>= 10 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "136248ad-2f55-496f-adfd-b8ab76debc32",
+      "question_text": [
+        "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Boyle's law is an experimental gas law that describes how the pressure of a gas tends to increase as the volume of the container decreases.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Graham's Law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Boyle's Law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charles LawE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4e28b453-9e43-4ca5-acf9-b63cbc4517b2",
+      "question_text": [
+        "In homes, electrical appliances and lamps are connected in parallel because"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Electric Circuits Continued ",
+        " Electric Circuits"
+      ],
+      "explanation": "The voltage of a circuit is the same whether in parallel or in series. Parallel and series affects resistance and current. So the answer should be it uses less current.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Parallel connections do not heat up the wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "series connections use high voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "less current will be used",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "less voltage will be used",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e2fedbb5-21a3-4c31-a1b2-0968925b3a3f",
+      "question_text": [
+        "In an A.C circuit, the ratio of r.m.s value to peak value of current is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\( \\frac{I_0}{\\sqrt{2}} \\)\\( \\text{Therefore } \\sqrt{2Irms} = I_0 \\\\\\frac{Irms}{I_0} = \\frac{1}{\\sqrt{2}} \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( \\frac{1}{2} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\frac{1}{\\sqrt{2}} \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98dd17ba-2879-4b88-8370-2f2ddad0c235",
+      "question_text": [
+        "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Resistors in Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5:3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3:5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "972d296f-9170-401d-bc79-24362fb11572",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c1003d4-28bc-4226-bd43-5c16abe534d9",
+      "question_text": [
+        "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "m = v/u = -3v = -3uf = 15cm1/v + 1/U = 1/f1/-3U + 1/u = 1/152/3u = 1/153U = 15 x 2U = 30/3= 10 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a54ab649-9970-4123-865f-b9275c48eff3",
+      "question_text": [
+        "A length of wire has a frequency of 255Hz when stretched by a force of b225N. If the fore increased to 324N, what is the new frequency of vibration"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Period and Frequency in Oscillations ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "f1 = 255Hz, T1 = 225Nf2 = ? T2 = 324NBut f ∝ √T => f = K√T => K = f/√T∴ f1/√T1 = f2/√T2225/√225 = f2/√324f2 =225√225√225=225 x 18__15= 306Hz",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "306 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "512 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "488 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "356 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2b75e8d-facf-4ced-90cf-9d42821b04ab",
+      "question_text": [
+        "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Introducing Resistors in Series and Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy197.jpg",
+      "explanation": "IVR=1212= 1A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.6 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6186c2b4-7b33-48cb-a86d-b00a1bec27f7",
+      "question_text": [
+        "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Finding Magnitude With Pythagoras Theorem ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy194.jpg",
+      "explanation": "The resultant, R is given by pythagoras rule, R2 = P2 + Q2= 62 + 82 = 36 + 64 = 100R = √100 = 10.0N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.0 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13.0 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a16fb5d-4d0f-4bbe-9ad1-dca31c263aef",
+      "question_text": [
+        "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Stability ",
+        " Statics and Torque"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy193.jpg",
+      "explanation": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Z only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "X only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y and Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y and X",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a35a698-012e-415f-9d60-a883f27c1bf8",
+      "question_text": [
+        "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Boyle's law is an experimental gas law that describes how the pressure of a gas tends to increase as the volume of the container decreases.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Graham's Law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Boyle's Law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charles LawE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea4d0fd8-6538-4dd0-be3a-cc181cc0272f",
+      "question_text": [
+        "In homes, electrical appliances and lamps are connected in parallel because"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Electric Circuits Continued ",
+        " Electric Circuits"
+      ],
+      "explanation": "The voltage of a circuit is the same whether in parallel or in series. Parallel and series affects resistance and current. So the answer should be it uses less current.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Parallel connections do not heat up the wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "series connections use high voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "less current will be used",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "less voltage will be used",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a12902e-2296-4f22-8525-329c6cb1bf95",
+      "question_text": [
+        "In an A.C circuit, the ratio of r.m.s value to peak value of current is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\( \\frac{I_0}{\\sqrt{2}} \\)\\( \\text{Therefore } \\sqrt{2Irms} = I_0 \\\\\\frac{Irms}{I_0} = \\frac{1}{\\sqrt{2}} \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( \\frac{1}{2} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\frac{1}{\\sqrt{2}} \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af85af2a-f5ac-43af-9308-16fa9301ac6f",
+      "question_text": [
+        "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Resistors in Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5:3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3:5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c6513ba-c280-45ec-92f4-b51a5cc5b3a2",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d32d9c71-6e3d-4515-86b8-f6a3fe7672c9",
+      "question_text": [
+        "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "m = v/u = -3v = -3uf = 15cm1/v + 1/U = 1/f1/-3U + 1/u = 1/152/3u = 1/153U = 15 x 2U = 30/3= 10 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2fd0d818-5e5d-4158-9ee9-1abc7e7c0d0c",
+      "question_text": [
+        "A length of wire has a frequency of 255Hz when stretched by a force of b225N. If the fore increased to 324N, what is the new frequency of vibration"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Period and Frequency in Oscillations ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "f1 = 255Hz, T1 = 225Nf2 = ? T2 = 324NBut f ∝ √T => f = K√T => K = f/√T∴ f1/√T1 = f2/√T2225/√225 = f2/√324f2 =225√225√225=225 x 18__15= 306Hz",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "306 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "512 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "488 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "356 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a354583f-b480-4582-a41e-754c4a5df122",
+      "question_text": [
+        "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Introducing Resistors in Series and Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy197.jpg",
+      "explanation": "IVR=1212= 1A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.6 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e46c1685-e0ba-4d43-abc6-091355f6adcd",
+      "question_text": [
+        "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Finding Magnitude With Pythagoras Theorem ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy194.jpg",
+      "explanation": "The resultant, R is given by pythagoras rule, R2 = P2 + Q2= 62 + 82 = 36 + 64 = 100R = √100 = 10.0N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.0 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13.0 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8c147a4-0027-4d87-bdb5-7b735e4aa8fb",
+      "question_text": [
+        "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Stability ",
+        " Statics and Torque"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy193.jpg",
+      "explanation": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Z only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "X only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y and Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y and X",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c7f0dc32-4ad3-4666-9044-c2be1ad50529",
+      "question_text": [
+        "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Boyle's law is an experimental gas law that describes how the pressure of a gas tends to increase as the volume of the container decreases.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Graham's Law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Boyle's Law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charles LawE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "331ac7f5-23c6-47ea-b3a7-5e5b30e5e264",
+      "question_text": [
+        "In homes, electrical appliances and lamps are connected in parallel because"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Electric Circuits Continued ",
+        " Electric Circuits"
+      ],
+      "explanation": "The voltage of a circuit is the same whether in parallel or in series. Parallel and series affects resistance and current. So the answer should be it uses less current.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Parallel connections do not heat up the wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "series connections use high voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "less current will be used",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "less voltage will be used",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c56aeae2-2a07-4ada-b654-c51064dc4bc7",
+      "question_text": [
+        "In an A.C circuit, the ratio of r.m.s value to peak value of current is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\( \\frac{I_0}{\\sqrt{2}} \\)\\( \\text{Therefore } \\sqrt{2Irms} = I_0 \\\\\\frac{Irms}{I_0} = \\frac{1}{\\sqrt{2}} \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( \\frac{1}{2} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\frac{1}{\\sqrt{2}} \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc5b02ac-bae8-4d69-8a6c-2bae39db43f0",
+      "question_text": [
+        "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Resistors in Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5:3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3:5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "60f37a03-036e-4b6b-abf8-6cd7da1d88f1",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22b7331e-c6db-4687-9213-209c6cadd75d",
+      "question_text": [
+        "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "m = v/u = -3v = -3uf = 15cm1/v + 1/U = 1/f1/-3U + 1/u = 1/152/3u = 1/153U = 15 x 2U = 30/3= 10 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d25f96bc-4317-4c16-9c3d-c0e5176b9475",
+      "question_text": [
+        "A length of wire has a frequency of 255Hz when stretched by a force of b225N. If the fore increased to 324N, what is the new frequency of vibration"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Period and Frequency in Oscillations ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "f1 = 255Hz, T1 = 225Nf2 = ? T2 = 324NBut f ∝ √T => f = K√T => K = f/√T∴ f1/√T1 = f2/√T2225/√225 = f2/√324f2 =225√225√225=225 x 18__15= 306Hz",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "306 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "512 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "488 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "356 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "618986fe-ffc7-47e5-82e0-da0f9fd901c4",
+      "question_text": [
+        "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Introducing Resistors in Series and Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy197.jpg",
+      "explanation": "IVR=1212= 1A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.6 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6128508d-de44-4682-916f-43144eeacbea",
+      "question_text": [
+        "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Finding Magnitude With Pythagoras Theorem ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy194.jpg",
+      "explanation": "The resultant, R is given by pythagoras rule, R2 = P2 + Q2= 62 + 82 = 36 + 64 = 100R = √100 = 10.0N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.0 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13.0 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "170961ce-1935-4fe5-8306-ee39f54ec51d",
+      "question_text": [
+        "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Stability ",
+        " Statics and Torque"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy193.jpg",
+      "explanation": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Z only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "X only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y and Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y and X",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0f1712af-6986-4241-bbb4-190b808b3428",
+      "question_text": [
+        "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Boyle's law is an experimental gas law that describes how the pressure of a gas tends to increase as the volume of the container decreases.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Graham's Law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Boyle's Law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charles LawE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "865e7cc1-c478-4f06-bdca-80c2df5f3ecf",
+      "question_text": [
+        "In homes, electrical appliances and lamps are connected in parallel because"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Electric Circuits Continued ",
+        " Electric Circuits"
+      ],
+      "explanation": "The voltage of a circuit is the same whether in parallel or in series. Parallel and series affects resistance and current. So the answer should be it uses less current.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Parallel connections do not heat up the wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "series connections use high voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "less current will be used",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "less voltage will be used",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2d5ff41-1150-40a3-9652-0713005fe7bb",
+      "question_text": [
+        "In an A.C circuit, the ratio of r.m.s value to peak value of current is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\( \\frac{I_0}{\\sqrt{2}} \\)\\( \\text{Therefore } \\sqrt{2Irms} = I_0 \\\\\\frac{Irms}{I_0} = \\frac{1}{\\sqrt{2}} \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( \\frac{1}{2} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\frac{1}{\\sqrt{2}} \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d48bfd78-125c-4612-9db5-a933c91078ba",
+      "question_text": [
+        "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Resistors in Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5:3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3:5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "912d542f-1c6c-4f55-aa10-1beedb6926eb",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b2b54afe-ad0a-4d14-8bc2-163b1023beb2",
+      "question_text": [
+        "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "m = v/u = -3v = -3uf = 15cm1/v + 1/U = 1/f1/-3U + 1/u = 1/152/3u = 1/153U = 15 x 2U = 30/3= 10 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e35a9026-cdb2-4ba0-b675-f70800ef1abb",
+      "question_text": [
+        "A length of wire has a frequency of 255Hz when stretched by a force of b225N. If the fore increased to 324N, what is the new frequency of vibration"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Period and Frequency in Oscillations ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "f1 = 255Hz, T1 = 225Nf2 = ? T2 = 324NBut f ∝ √T => f = K√T => K = f/√T∴ f1/√T1 = f2/√T2225/√225 = f2/√324f2 =225√225√225=225 x 18__15= 306Hz",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "306 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "512 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "488 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "356 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e103ff9-45ad-458a-aafa-28b9479cf337",
+      "question_text": [
+        "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Introducing Resistors in Series and Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy197.jpg",
+      "explanation": "IVR=1212= 1A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.6 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8c7fb147-7264-4b0a-9c21-6dae484ea51e",
+      "question_text": [
+        "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Finding Magnitude With Pythagoras Theorem ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy194.jpg",
+      "explanation": "The resultant, R is given by pythagoras rule, R2 = P2 + Q2= 62 + 82 = 36 + 64 = 100R = √100 = 10.0N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.0 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13.0 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c1c022b-6016-44aa-8e2a-de9925cc4173",
+      "question_text": [
+        "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Stability ",
+        " Statics and Torque"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy193.jpg",
+      "explanation": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Z only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "X only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y and Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y and X",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f2bb698-4969-47ed-a991-bf54c74f321e",
+      "question_text": [
+        "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Boyle's law is an experimental gas law that describes how the pressure of a gas tends to increase as the volume of the container decreases.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Graham's Law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Boyle's Law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Charles LawE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4aabf77f-1fd7-4cc7-bb0c-4ff5fdf425b4",
+      "question_text": [
+        "In homes, electrical appliances and lamps are connected in parallel because"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Electric Circuits Continued ",
+        " Electric Circuits"
+      ],
+      "explanation": "The voltage of a circuit is the same whether in parallel or in series. Parallel and series affects resistance and current. So the answer should be it uses less current.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Parallel connections do not heat up the wires",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "series connections use high voltage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "less current will be used",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "less voltage will be used",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36e55fcb-6472-4f3a-9ca3-9e16a7b6865d",
+      "question_text": [
+        "In an A.C circuit, the ratio of r.m.s value to peak value of current is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\( \\frac{I_0}{\\sqrt{2}} \\)\\( \\text{Therefore } \\sqrt{2Irms} = I_0 \\\\\\frac{Irms}{I_0} = \\frac{1}{\\sqrt{2}} \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\( \\frac{1}{2} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\( \\frac{1}{\\sqrt{2}} \\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b6b4fd8-d3a6-4ac9-ac4c-cca3c315273c",
+      "question_text": [
+        "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Resistors in Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5:3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3:5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b0ebf2e-4370-4088-a286-24741366894c",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc08f5dc-387c-4967-b43d-6cedd5622b85",
+      "question_text": [
+        "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "m = v/u = -3v = -3uf = 15cm1/v + 1/U = 1/f1/-3U + 1/u = 1/152/3u = 1/153U = 15 x 2U = 30/3= 10 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23aca9b0-6159-4703-8fc9-42214b60feca",
+      "question_text": [
+        "A length of wire has a frequency of 255Hz when stretched by a force of b225N. If the fore increased to 324N, what is the new frequency of vibration"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Period and Frequency in Oscillations ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "f1 = 255Hz, T1 = 225Nf2 = ? T2 = 324NBut f ∝ √T => f = K√T => K = f/√T∴ f1/√T1 = f2/√T2225/√225 = f2/√324f2 =225√225√225=225 x 18__15= 306Hz",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "306 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "512 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "488 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "356 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "071396dc-4cb4-44d2-9253-67eec486de14",
+      "question_text": [
+        "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Introducing Resistors in Series and Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy197.jpg",
+      "explanation": "IVR=1212= 1A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.4 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0 A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2 A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.6 A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "62045e97-119c-4fc2-aa9e-ff57a626ca20",
+      "question_text": [
+        "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Finding Magnitude With Pythagoras Theorem ",
+        " Vectors and Scalars"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy194.jpg",
+      "explanation": "The resultant, R is given by pythagoras rule, R2 = P2 + Q2= 62 + 82 = 36 + 64 = 100R = √100 = 10.0N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.0 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0 N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13.0 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6886f1b9-d533-4c46-b6ba-c79fd5f020fc",
+      "question_text": [
+        "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Stability ",
+        " Statics and Torque"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy193.jpg",
+      "explanation": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Z only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "X only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y and Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y and X",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

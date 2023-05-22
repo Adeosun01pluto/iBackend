@@ -1,0 +1,343 @@
+
+[
+    {
+      "id": "04aca2e3-71d3-452f-8f88-b1670a16773c",
+      "question_text": [
+        "1kg of boiling water at 100°C is poured into an aluminium hot water bottle at 16°C. The temperature of the water quickly falls to 96°C. Assuming that there is no loss of heat, the mass of the bottle is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "100° mcΔΘ : 96°m=1kg Co=4200J/KgkΘ=100°Q=mcΔΘ=1 × 4200 × (100-96)=4200 × 4=16800JFor aluminium bottlem= C=900J/Kgk Θ=16°Q=mcΔΘ=m × 840 × (96-16)=m × 840 × 80=67200mHeat gain = Heat loss16800=67200mm=16800/67200=0.25kg",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.25kg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.5kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.05kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.75kg.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cc43e59-62b2-489b-a3ac-89eff235ce30",
+      "question_text": [
+        "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30° with the resultant, find its magnitude"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "The answer is E, 43.3N. Magnitude = 50 cos 30\\(^{\\circ}\\) = 43.3N",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "57.7N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25.0N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "100.0N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "57.7NE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4f9b6c4-222b-4a91-92ed-c3880e621bf5",
+      "question_text": [
+        "When a brick is taken from the earth's surface to the moon, its mass"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "794dd0fd-cb6c-40c3-ac9f-bd1f381e6efe",
+      "question_text": [
+        "The pair of physical quantities that are scalar only are"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "A scalar or scalar quantity in physics is a physical quantity that can be described by a single element of a number field such as a real number, often accompanied by units of measurement. A scalar is usually said to be a physical quantity that only has magnitude and no other characteristics such as direction. Volume, time, area and length are scalar quantities, while impulse, moment, momentum and displacement are vector quantities.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Volume and area",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Impulse and time",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Moment and momentum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Length and displacement",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f1e1d879-2d68-4ac4-8566-c9b242aef77b",
+      "question_text": [
+        "A simple pendulum of length 0.4m has a period 2s. What is the period of a similar pendulum of length 0.8m at the same place?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "T = 2π√(L/g)  T² = 4π²(L/g)  T²g = 4π²L g = \\(\\frac{4\\pi^2 \\text{L}}{\\mathrm{T^2}}\\) From the question,  T = 2s, L = 0.4m Hence,  g = \\(\\frac{4 \\times 9.87 \\times 0.4}{2^2}\\) g = \\(\\frac{15.79}{4}\\) g = 3.95 To find the period, T of the second pendulum,  T = 2π√(L/g)  T = 2π√(0.8/3.95) T = 2π×0.45 T = 2.83 = 2√2 \\(\\therefore\\) Option A is the answer.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2√2s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "√2s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "62f10bda-cc12-44f3-b14a-b7e92823a7f3",
+      "question_text": [
+        "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "We have been given: final velocity = \\(v = 0\\text{m/s}\\), initial velocity = \\(u = 20\\text{m/s}\\), deceleration = \\(a = -2\\text{m/s}^2\\)  (this value is negative because it is decelerating) \\(v = u + at\\) \\(0=20+(-2t)\\) \\(2t=20\\) \\(t=20÷2=10\\text{s}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "830644da-9fc6-477c-8a6b-43c833033bc6",
+      "question_text": [
+        "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5ms-2."
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "The apparent weight of the man when the lift moves downward is:  \\(W = M(g - a)\\) \\(= 70(10 - 1.5)\\) \\(= 70 \\times 8.5 = 595\\text{N}\\) Therefore the answer is C.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "105N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "686N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "595N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "581N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ddcb8b3-af72-4f27-bb7d-ff645728c7c2",
+      "question_text": [
+        "A piece of cork floats in a liquid. What fraction its volume will be immersed in the liquid? [density of the cork = 0.25 × 103kgm-3, Density of the liquid = 1.25 × 103kgm-3]"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b61c1771-936f-4556-ae46-b2545ca73422",
+      "question_text": [
+        "An object is moving with a velocity of 5ms-1. At what height must a similar body be situated to have a potential energy equal in value with the kinetic energy of the moving body? [g ≈ 10ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Let's start from K.E = P.E:\\(\\text{mgh} = \\frac{1}{2}\\text{mv}^2\\)\\(\\text{mgh} = \\cfrac{\\text{mv}^2}{2}\\)Cross multiply:It gives us:\\(2\\text{mgh} = \\text{mv}^2\\)Divide both sides by m:It gives:\\(2\\text{gh} = \\text{v}^2\\)To get the value of h, divide both sides by 2gThe formula to use will become:\\(\\text{h} = \\cfrac{\\text{v}^2}{2\\text{g}}\\)Then \\(\\text{v} = 5\\text{ms}^{-1}\\)g = 10. Put this into the above formula:\\(\\text{h} = \\cfrac{5^2}{2 \\times 10}\\)\\(\\text{h} = \\cfrac{25}{20}\\)\\(\\text{h} = 1.3\\text{m}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.3m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20.0m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea3c79a5-1eaf-433c-8d00-7468c1f4abf5",
+      "question_text": [
+        "If a pump is capable of lifting 5000 kg of water through a vertical height of 60 m in 15 min, the power of the pump is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Power=workdone/time Note:workdone=force×distance  Force=5000×10=50,000 Time=15×60seconds=900seconds Power=(50000×60)/(15×60)s Power=3333.33j/s",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.3 × 103 Js-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5 × 104 Js-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5 × 105 Js-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.3 × 103 Js-1",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

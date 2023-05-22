@@ -1,0 +1,5932 @@
+
+[
+    {
+      "id": "b0c3e74a-78ed-4292-abea-b3d892e7c500",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0fe31ae6-d15d-4bfb-af50-243b85231d75",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5bfaaf84-98c7-4fac-8aa1-25872978f8a7",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d5a16350-0ff6-4b1e-b6ee-4c1bc3c777d9",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35b4e7e5-29a9-4193-a7e6-4dc33d914abf",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5db68df0-dc31-4f2e-8fe3-9d6c02bc3bfd",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d23e5d6-29a1-4dcd-9887-c9a6cafd34c3",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a8688dc0-64fa-4787-aa21-69340698b575",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc21f5be-3838-41d6-8413-65f0d016f231",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "29eced4e-c548-41f4-bf53-a2af03defddb",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8fe890ae-4af2-4b6a-a6ae-4530c237a2d6",
+      "question_text": [
+        "A compound commonly used for sterilization and preservation of specimens and food is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Names and Formulae of Substances ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "benzene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ether",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ammonia",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aada51a2-d5f0-4dbe-abfa-fcf684f0e817",
+      "question_text": [
+        "An organic compound reacted with bromine water to give a colourless solution. The compound is probably an"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Hydrocarbons ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkyne",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "alkanone",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7ac4aca-719e-441c-b144-102e86280bf7",
+      "question_text": [
+        "Which of the following hydrocarbons is mainly used as fuel?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Methylene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ethylene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ethyne",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4acccf4b-c453-47b6-a7f5-2f1765e2e878",
+      "question_text": [
+        "The type of iron that is best suited for welding, making nails, chains and iron rods is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pig iron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "wrought iron",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cast iron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "iron pyrites",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e9609170-4558-471a-b7b2-3ab571e5b9e7",
+      "question_text": [
+        "In the electrolytic extraction of aluminum, the function of the molten cryolite is to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "precipitate aluminium hdroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "lower the melting point of aluminium oxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "act as a raw materials",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "act as a solvent",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f4393fc2-aa77-49c8-b050-badde2c5bd78",
+      "question_text": [
+        "One of the products of the thermal decomposition of sodium trioxonitrate (V) is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Redox Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium dioxonitrate (II",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3fccf26c-a3ae-4f69-b975-3172bd3379a4",
+      "question_text": [
+        "A cracking process in petroleum refining can be represented by"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Alkanes as Fossil Fuels ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "heptane to heptene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "heptane to 3-methylhexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "heptane to propene and butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "heptane to 2,3,3-trimethybutane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4c30e085-61aa-4981-bcbe-a2e8b4ba3479",
+      "question_text": [
+        "Which of the following molecules has two other positional isomers?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isomers ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3CH2Br",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3CHBrCH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CBr2F2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH2CHBrCH2Br",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f91acfb0-865f-40b6-9543-faef73e3e743",
+      "question_text": [
+        "The gasification of coke is used for the manufacturing of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Types of Synthetic Organic Polymers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "producer gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "natural gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "synthetic gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "industrial gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aba42eab-d78d-46c0-b714-d4a3e5ebf0be",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar radiation is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Biological Effects of Radiation ",
+        " Nuclear Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a76b04c-6a57-4590-a71b-abe88b0c670a",
+      "question_text": [
+        "Which of the following allotrope of carbon is a constituent of a lead pencil?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Graphene: Material of the Future ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Graphite",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Diamond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Lampblack",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Soot",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28c102f8-bd09-48c5-a87c-e18d550d9d77",
+      "question_text": [
+        "which of the following metals will show the highest metallic character?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Metallic Solids ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Copper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Barium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Calcium",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a8d7372d-4b8a-4efe-af21-25f6e5d97c26",
+      "question_text": [
+        "Copper metal dissolves in concentrated trioxonitrate (V) acid with the resultant evolution of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Isolation of Copper ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NO2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "CO",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58c107f6-8cfc-4388-860c-3f1fe371808c",
+      "question_text": [
+        "A catalyst increase the rate of a chemical reaction by providing a path that"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "How do catalysts work? ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "raise the activiation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lowers the activation energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "increase the concentration",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "86b2e8c8-0674-457d-8bbc-87a207ebc313",
+      "question_text": [
+        "CuO(s) + H2(g) ↔ Cu(s) + H2O(l)What is the effect of increasing the pressure on the equilibrium reaction above?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Predicting the Direction of a Reversible Reaction ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The equilibrium is shifted to the left",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The equilibrium is shifted to the right",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "There is no effect",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "More H2(g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "17ec2608-f24c-44dd-b741-c7341b5269ac",
+      "question_text": [
+        "The equilibrium of an endothermic reaction which proceeds with an increase in volume can be shifted in the reverse direction by"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Concentration-Time and Mole-Time Graphs ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increasing the temperature and decreasing the pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increasing the pressure and increasing the temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decreasing the temperature and increasing the pressure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "decreasing the pressure and decreasing the temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84459bfb-75c2-41c1-8967-4d71a82bd795",
+      "question_text": [
+        "The oxidation of ammonia in excess air produces"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N2O4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "773fd6c3-7736-421b-815e-acc42a6edfee",
+      "question_text": [
+        "Hydrogen sulphide gas can act as"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Stoichiometric Calculations ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an oxidizing agent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a dehydrating agent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a bleaching agent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a precipitating agent",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "045c7367-0584-4163-acd9-644853b87e64",
+      "question_text": [
+        "Which of the following metals is purified commercially by electrolysis?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Zn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fe",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Cu",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4402cd7c-dbdd-4a1e-b585-a41eb8964435",
+      "question_text": [
+        "What current will deposit 3.25g of zinc in 2hrs?[Zn = 65, F = 96500 mol-]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Current and Rate of Reaction ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.25A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.00A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.34A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.67A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2fab76e2-1bd0-478c-a62b-3e2d531846f7",
+      "question_text": [
+        "C(s) + H2O(g) → H2(g) + CO2(g)ΔG for the reaction above at 1300k is -43KJ. At this temperature, the reaction is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "What is a reaction rate? ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "not feasible",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "at equilibrium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "feasible",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "exothermic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9df097f0-a6d8-4d8c-b693-99f591362b5a",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth-to-mouth to each other at room temperature. The entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Predicting the Sign of Δs ",
+        " Thermodynamics"
+      ],
+      "explanation": "In order to predict the sign of \\(\\Delta S\\), let's consider some of the factors that obviously affect the entropy of a system: addition or removal of heat, addition of energy to the system, change of state and so on. We know, for instance, that if you increase temperature, you increase entropy. Heat is not added to the system. Same thing with other forms of energy. Also, we are not dealing with a solid changing to a liquid or a liquid to gas and so on. In the case of a liquid changing to a gas, for example, it would be easy to predict that the entropy will increase and \\(\\Delta S > 0\\).Unfortunately, predicting the change in entropy for this system requires some other considerations. In the physical process, two different gases are allowed to mix with one another. We know that nitrogen is heavier than ammonia. We also know that with regards to atomic substances, heavier atoms possess greater entropy at a given temperature than lighter atoms (explaining why this is so will require delving into quantum mechanics). Based on this, we could conclude that the mixture will result in an increase in the entropy of the system.We could also take a molecular-scale statistical approach and observe the microstates of this system. Recall that a microstate is a specific way in which we can arrange the energy of the system. Check out this lesson to see some visual models and examples. There are more possible microstates associated with an even distribution of the ammonia and nitrogen particles between the two bulbs than there are microstates in which the gas particles remain in their respective bulbs. And one of the former microstates is the most probable configuration for the system. Besides, the random motion of gas particles is a spontaneous process. Entropy increases logarithmically with the number of microstates.In addition, thanks to the second law of thermodynamics, we know that the entropy of the final mixture has to be equal to or greater than the initially isolated systems. Equality occurs just when the two original systems have all their respective intensive variables (temperature, pressure) equal; then the final system also has the same values. If we were dealing with two identical gases, then the answer would have been that the entropy will remain unchanged.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "059008aa-670b-486b-ac2a-d6b4ef9b4dd5",
+      "question_text": [
+        "In the diagram above, which of the curves represents the evolution of oxygen with time in the equation 2KClO3(s) → 2KCl(s) + 3O2(g)?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Chemical Reaction Rates ",
+        " Chemical Kinetics"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem5.png",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Z",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "R",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "866bb00f-f26b-4310-bd28-19894d2eee0b",
+      "question_text": [
+        "The acid used in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "db5afd4e-9284-4cbc-8943-7e92e9aaa0cf",
+      "question_text": [
+        "What volume of 1.5M solution of KOH would contain 0.045 moles"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "67.50 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30.00 cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.75 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.00 cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a71ce71-9df1-45f3-9aed-cac11c20db80",
+      "question_text": [
+        "The salt formed from a reaction between citric acid and sodium hydroxide in solution will be"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Acid-Base Reactions Continued ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "acidic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "basic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "complex",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "neutral",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0eb46b95-d08d-433c-b79e-c1da2c027d3e",
+      "question_text": [
+        "The colour changes observed when testing for reducing agents using acidified potassium heptaoxodichromate (IV) solution is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Changes in Colour ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "yellow to purple",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange to green",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "green to orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "purple to yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "61efd7b2-fa41-43c4-812b-ed9ee4862c23",
+      "question_text": [
+        "The oxidation state of Cr in K2Cr2O7 is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "+6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "+5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c90a6513-5905-4c60-ab30-abf5e4e38d91",
+      "question_text": [
+        "When sodium trioxocarbonate (IV) decahydrate loses its water of crystallization to the atmosphere, the process is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "deliquescence",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "efflorescence",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "hygroscopic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "effervesecence",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "70e32ec3-829c-434a-846c-bde4c4dc72e3",
+      "question_text": [
+        "Water can be obtained as the only product during the"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Enthalpy of Combustion ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "combustion of hydrocarbons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutraliization of an acid by base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "combustion of hydrogen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "electrolysis of brine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7edbf8dc-091a-419b-bd39-92166589a47a",
+      "question_text": [
+        "If 10.5g of lead (II) trioxonitrate (V) is dissolved in 20cm3 of distilled water at 18oC, the solubility of the solute in mol dm-3 is[Pb = 207, N = 14, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Ksp and Solubility ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "525.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e23c1a2-cee1-480b-983b-8301f9582d03",
+      "question_text": [
+        "For a given solute, the concentration of its saturated solution in different solvents are"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Glossary of Words ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the same at the same temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "different at the same temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the same at different temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "constant",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bcaf13a0-be51-4230-ab45-88f2f3dbd51c",
+      "question_text": [
+        "The major source of oxides of nitrogen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Fuel Cells ",
+        " Electrochemistry"
+      ],
+      "explanation": "Nitrogen oxides form when fuel is burned at high temperatures",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlrofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "558034a8-5d33-4364-80ef-ae2e9fb5b66a",
+      "question_text": [
+        "If an atom is represented as \\( _{11}^{23}X \\), which of the following deduction is correct?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Group 1: The Alkali Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it contains 12 protonic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "it forms a covalent chloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "its atomic number is 23",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "it is an alkali metal",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "51a89c69-604f-4d37-8da2-6f95e35e1ad4",
+      "question_text": [
+        "Cathode rays causes an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "860dfee0-42da-4375-9840-f6cca30266f8",
+      "question_text": [
+        "Which quantum number divides shells into orbitals?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Electronic Structure of Atoms"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "principal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Arzimuthal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Magnetic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Spin",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac23d53f-1f72-41b6-97c8-03e2fddd2cdb",
+      "question_text": [
+        "The type of bonding in {Cu(NH3)4}2+ is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Electronegativity and Bonding ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coordinate",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "electrovalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25f5c5b4-1f6f-4cd8-8f81-2c747e74e6e6",
+      "question_text": [
+        "The mixture of gases used in a photographer's flash tube is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of the Noble Gases ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "argon and krypton",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "krypton and xenon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "helium and argon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "argon and xenon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "683b5f83-3829-45f2-8f5d-7b7ac576e034",
+      "question_text": [
+        "Which of the following is a physical change?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Depression of the Freezing Point of a Solvent ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Freezing ice cream",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "dissolving calcium in water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "burning kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Exposing white phosphorus to air",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "047c3d06-2f76-49f1-be9f-4f8e35f29544",
+      "question_text": [
+        "The percentage of water of crystallization in ZnSO4.7H2O is[Zn = 65, S = 32, O = 1, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Mass Percentage ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "33%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "44%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "55%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "87%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f34ccee-87ac-4ef5-af59-61e5d1a02377",
+      "question_text": [
+        "0.0075 mole of calcium trioxocarbonate (IV) is added to 0.015 mole of a solution of hydrochloric acid. The volume of gas evolved at s.t.p is[Molar volume of a gas at s.t.p = 22.4 dm3]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Molar Volumes of Gases ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "224cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "168cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "112cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "100cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "edfbbcfb-e100-42eb-bc10-66861ba34819",
+      "question_text": [
+        "A gas exerts pressure on its container because"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Kinetic-Molecular Theory ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the molecules of a gas collide with the walls of the container",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "some of the molecules are moving faster than others",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "of the collisions of the molecules with each other",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "of the mass of the molecules of the gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c5ada62-87fc-4749-8966-93bf56bd71a0",
+      "question_text": [
+        "The basic assumption in the kinetic theory of gases that the collisions of the gaseous molecules are perfectly elastic implies that the"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Kinetic-Molecular Theory ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "forces of attraction and repulsion are in equilibrium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "gaseous molecules can occupy any available space",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "gaseous molecules will continue their motion indefinitely",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "gases can be compressed",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2eb3e1aa-05ad-4f96-824a-f317602a3ad2",
+      "question_text": [
+        "A mixture of sugar and sulphur can be separated by"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Separation Techniques ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dissolution in water, evapouration and filtration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "filtration, evaporation and dissolution in water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dissolution in water, filtration and evaporation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporation, dissolution in water and filtration",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cdd28bd-9d70-47c0-ac55-276a82dde23a",
+      "question_text": [
+        "Water can be obtained as the only product during"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Enthalpy of Combustion ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "combustion of hydrocarbons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutralization of an acid by base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "combustion of hydrogen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "electrolysis of brineE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b5e1546a-86f4-4023-bf9c-9efb2423d1b0",
+      "question_text": [
+        "The gasification of coke is used for the manufacture of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "producer gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "natural gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "synthetic gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "industrial gasE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "490cf32d-9955-46d2-abc4-96f283c44333",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b2a7e3b-ba57-4df0-97b1-c6b76176fe7c",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85b2842f-08b1-4521-8fef-f0cb6f1913e4",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "64596a84-d48e-425f-8f2f-1e9ea4f57f7b",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af6981e3-d6b3-4d39-8a94-2f3794ce7d6f",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f9b05df-32db-4a68-85bc-58c82c347479",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85bc8661-6cac-4b1e-a0fe-d24a025c2402",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "42434f85-a1ef-4835-91c1-c6974c223e9f",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a1b2cf4e-e200-4025-97bc-7c065b5249c1",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6ddad25d-6efa-49d9-bc3b-687f8d0ffcb0",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6db202d9-acb4-4ba7-8ace-fab62d0b1fdd",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4c2901a6-d3e0-498e-ad6c-eac4c6a367fa",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6ade42c0-f6e0-4863-a868-bfceb5167cbc",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "27142c6b-009f-4e74-83bb-7501a4965c1e",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6bb09efc-3ca5-4b4d-af64-dcef78428af9",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "694247fc-a615-4278-a0da-0dd4490a0517",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e2cb40bc-d7b3-4cbe-a51e-91dabbaea77b",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "437d844d-d267-4136-b839-7edf1187a109",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6eefdb9-ee7e-4ffa-a516-ef665881ecae",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ef6cb55a-79ba-40a2-a20a-b0c96897587a",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e442a831-31e4-426d-bb1d-abf44da1df16",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b85e4a6d-0474-4f81-bb68-be57a8144582",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b74867ee-41bc-48ca-9292-b6f83c26034e",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0a389855-6d22-4481-8384-35b2bbcfe7e0",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3e03892-5c19-4092-8a22-e91d8ff5c9ed",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1c6c483-85ad-49cc-ab07-bc116f826368",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e84489c0-e75a-4c4c-ab1c-a25c89eca417",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "eaca16d1-f1c0-412b-a721-a8961e1407db",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5df4561d-9376-40df-989e-b3ae4e024255",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d26b6b20-14be-4b80-8bef-91bcdbda75a8",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b632d704-7fc7-4c24-b06b-6fc037eebcef",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc0f8dd5-b3cc-49ff-936a-4d1c243fda1c",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24513138-7dbf-4c91-a5c9-4578572124bc",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f69dfdba-9938-4764-ad37-51f363d7d88e",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b68847af-6168-4bd7-9343-06c92b02dfdb",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c094afb2-6c1c-408a-bc88-4fcbb3979248",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05b81d06-31f6-4d2a-984c-56fe8344d8bc",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "db18906f-6a37-409e-8337-634493c29513",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4e0229f1-7772-493b-824e-20e1f117dc31",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4940e28e-7872-47be-a844-163836138a45",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "602af694-f105-4680-8cb0-5044280a483c",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a5a8ae19-31ce-437e-80a6-66499e00069c",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "37dfe063-b8de-4eff-8f25-4a299454a521",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3d1e1729-7d4c-4164-94d9-cb05b0e81b3d",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f37c2b5-6909-4c57-a2c9-53d0fb37ed4d",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "910e4033-5185-4eea-a494-6437c0e04552",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f21de7d5-5a05-47e7-9150-21d6c51cb9b7",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d44a8c69-9031-434d-96a7-746f94dc54a3",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c2c8cf3-5d3c-4b7f-90cb-7561c33c166b",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6c14e4a3-e5d1-435c-bf0f-dfd1418a9546",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ddf9566f-99c8-4743-90f8-e08ec2f3989e",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4c7791be-79ca-4ec6-98d7-7745536c077d",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c595a4ac-ebda-4b14-8cdb-aeb46cd7db2d",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cfa69db4-4c4a-44c4-9b25-5ac485416454",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b47f8ceb-82f5-4b6c-94cf-ad85aa9761f0",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df86e972-a675-4be1-8220-a7a7ca4897e4",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "245ce23f-f800-4afb-b2c5-bfb6c2323ed1",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "614839c0-7fe0-4f26-8592-30301726cf5d",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5f13983-175e-4017-8ec0-eeb72fa647ef",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7c78cf1d-78b2-43c5-b80c-cb3a1fe63282",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb7a1416-da04-411d-9490-5c356f4be67c",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2e0b4d9-859c-4431-94e0-6a62a46b2961",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25ac7abb-2af9-4c59-b8c8-9567a14ed6c7",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3c38919b-f6dd-41bd-beee-0dbc866d0e13",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2d7fcef5-ebdf-41e9-8ad5-be14f81fe6b6",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f82de4e7-0837-4f3a-84e6-f88d0333d8b3",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e002fa51-d727-4860-8afd-7d5b5352134a",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "60be6044-b87c-45ac-8e5f-4017408e9e33",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "001c0fb0-aa52-4123-9c16-82314ea4f84b",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "803258ff-b661-4e3f-9cd2-8c350fac4f0d",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5ebd54e-2e5b-494b-ac11-87a8d62c7ed6",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a84b2bf-07ea-4bc3-b676-91741e82e364",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69926aee-7557-4b30-991f-ab7825e9d496",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ffa92471-a63d-4405-95a0-a7ed57af1d15",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "637352b3-7e85-4e42-9504-ebe94389c6e1",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a6493e55-1b21-43bb-960c-0240f86d0909",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9bc9e569-4200-4d1f-af24-2fc34e57372a",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5fa6de9a-de2c-43a9-b4c8-f40ef37aa60d",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "084fe436-5728-4bc8-a99b-c11596ffbb5e",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8469ddd4-c093-449e-a6e0-68aee5e34fd3",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9529691a-9f1e-4581-b63a-1559ae8bde12",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09ffd95f-2259-4058-b275-69a410b389ce",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b6b84bd2-bf57-41bc-b93c-5d1584039880",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "38f69c9e-0d27-42f0-b73b-a681b73851b8",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "639373ab-21da-4ef4-abee-8dce1a32a867",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "caed65e4-113a-440c-9fa1-f71da81215f4",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "613e5170-47fa-46b0-9096-b2ae8548cf87",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "86e7f47a-2636-4eb6-8287-581b890476bb",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "68ad8be1-8f53-4a02-afa0-79e11c22f280",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "49b1ce1a-34e0-4293-86fc-65563b656032",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "07aaa55e-c914-42c9-89dd-05d42fdaca30",
+      "question_text": [
+        "Two equal bulbs, one containing ammonia and the other one opened mouth-to mouth to each other at temperature the entropy in the mixture of gases is likely to"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "The bubble remain the same because entropy favors the mixture as it is the degree of randomness or disorderliness. Option B,C,D will not favors the entropy",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remain unchanged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "charge",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d09ba39d-4af2-44c9-87c1-e378e1b1e98e",
+      "question_text": [
+        "A major source of oxide of oxygen is from the burning of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Summarizing Spontaneity ",
+        " Thermodynamics"
+      ],
+      "explanation": "Coal is a major senses of oxide of nitrogen. Option B,C, D do not contribute to the anode Nitrogen either. They are sources of oxides of carbon of sulphur etc",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "coal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "wood",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fuel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorofluorocarbons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af154911-008c-4d18-96b7-f0a76f45c756",
+      "question_text": [
+        "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "Rays travels in straight lines and finds its way through any opening available. It could be refracted, reflected or transmitted based on any obstacle. Option A,B,C are not the reason why the cathode are coasted shadows",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "are negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Have mass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "travel in straight lines",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "979fec2e-d0dd-407c-befe-d8412cc18385",
+      "question_text": [
+        "The gas that is most useful in protecting humans against solar marathon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Polar Ozone Holes ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ozone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "carbon IV oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "967f0177-0ef8-4cda-b9e9-a7af76aba21f",
+      "question_text": [
+        "The acid in electrolysis of water is dilute"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "The Electrolysis of Water ",
+        " Electrochemistry"
+      ],
+      "explanation": "HeSO4 is the acid used in the electrolysis of water. Option A,B,D are concentrated acid and they will react with the water",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b8c58353-5adf-422f-bfd5-276c3f0a9249",
+      "question_text": [
+        "The molecular formula of a common organic laboratory anaesthetic is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CHCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHI3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHF3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a74682f-5dd1-4c7a-86aa-c432437068b2",
+      "question_text": [
+        "The simplest branched-chain hydrocarbon is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f0a86bfe-6c38-4e4d-bc32-a72285a3f1ec",
+      "question_text": [
+        "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Saturated and Unsaturated Structures ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a single bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a double bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a triple bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an ionic bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ace6d4e1-8f22-458b-9af3-77985014d22d",
+      "question_text": [
+        "Which of the following class of compounds can exist as dipolar ions in solution?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Amino Acids ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fatty acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dialkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amino acids",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "af52fae5-5848-4bbf-8af2-68b1e0fec2e7",
+      "question_text": [
+        "Lucas reagent is used to test for"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Alcohols ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanoic acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "amines",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,3844 @@
+
+[
+    {
+      "id": "45e0b134-7ef9-4027-b11e-c09fd406380b",
+      "question_text": [
+        "If the relative molecular mass of an element is not a whole number, it can be deduced that the element is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Naturally radioactive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "abundant in nature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a transition metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an isotopic mixture",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5d76cfbc-4a5c-4f10-823e-107db2ff2a50",
+      "question_text": [
+        "Which of the following compounds can be represented by the molecular formula C2 H6O?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Representing Molecules ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Ethanol has the molecular formula C2H6O. Option A, C, D are not because their molecular are not different",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "methanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glucose",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e866018-30b9-419b-8eda-e95007c5ff55",
+      "question_text": [
+        "The fuming of kettles is caused by the presence in the water of"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "Calcium hydrogen trionocarbonate (iv) will cause the furring of kettles whenever water is present. Options A, C, D will not react under the presence of water.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "calcium tetraoxosulphate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "calcium hydrogentrionocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5cb3c0d0-3ff9-4cca-a6ba-fafddc4c1659",
+      "question_text": [
+        "PCL5(g)= PCL3(g) + Cl2(g)In the reaction above, a decrease in pressure will"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "If we decrease the pressure in the reaction, there will be rapid breakage spilling of pcl5. And these follows a principle that molecule of gases tends to move from a region of higher pressure to low pressure. Option A,C,D will not be affected by pressure decrease",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Decelerate the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increase yield of Pcl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increase the yield of Pcl5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Accurate the reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "01a8aeff-1203-4c13-b050-43ad8df0c95b",
+      "question_text": [
+        "Which of the following gives a precipitation when treated with NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "AlCl3 will give a precipitate when treated with solution. Option B,C,D will not give a precipitate when treated with NaOH solution",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "AlCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NH4Cl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH3COONa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "12238fbe-9b8c-4c87-a4e9-cf88328bd510",
+      "question_text": [
+        "The energy value of petrol can be determined by"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Fractionating column contains petrol with different densities.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Bomb calorimeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Catalytic cracker",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fractionating column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Thermometer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dcaec821-bcfc-43c9-958b-ec3bc60fbb19",
+      "question_text": [
+        "Which of the following ion’s requires the quantity of electricity for discharge at an electrode"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Standard Hydrogen Electrode ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "2.0 mole of Q3+ ions require the largest quantity of electricity for discharge at an electric. option B,C,D are all carrying a smaller quantity of electricity which not be proven for ant discharge",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 mole of Q3+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5 mole of R2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.0 mole of T-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.0 mole of Y-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1f20074-aaef-41ad-bb0b-0ba8345e72f3",
+      "question_text": [
+        "Which of the following types of alkanols undergo oxidation to produce alkanoic acids.I. Primary alkanolsII. Secondary alkanolsIII. Tertiary alkanols"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "Only primary alkanols undergo oxidation to produce alkanoic acid. Option A,B,C will not produce alkanoic acid",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a5737039-7dcc-4401-9cb3-e0e22f8db01d",
+      "question_text": [
+        "A fixed mass of gas a volume of 92cm3 at 3°C. When will be its volume at 18C if the pressure remains constant?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "V1 ÷ T1 = V2 ÷ T2T1 = 3 × 273 = 276kT2 = 18 + 273 = 291kV1 = 92cm3V2 = ?V2 = (V1T2) ÷ T1 = (92 × 291) ÷ 276= 97.0cm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "87.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "97.0cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fc7822e0-1ea9-4a21-aa36-a8cf33de61b7",
+      "question_text": [
+        "A suitable reagent for distinguish between ethanoic and ethanol is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "Sodium hydrogen trionocarbonate iv is the only distinguishing reagent between ethanoic and ethanol. Option A, B, D are not conspicuous in distinguishing between ethanoic and ethanol",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bromine water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fehling’s solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium hydrogen trioxocarbonate (i",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "12e90ad8-7266-4ebb-8e1e-a07306298bfd",
+      "question_text": [
+        "When salt loses its water of crystallization to the atmosphere on exposure, the process is said to be"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Efflorescence (which means \"to flower out\" in French) is the migration of a salt to the surface of a porous material, where it forms a coating. The essential process involves the dissolving of an internally held salt in water, or occasionally in another solvent.Effervescence is the escape of gas from an aqueous solution and the foaming or fizzing that results from that release.The word effervescence is derived from the Latin verb fervere (to boil), preceded by the adverb ex. It has the same linguistic root as the word fermentation. Effervescence can also be observed when opening a bottle of champagne, beer or carbonated beverages such as soft drinks. The visible bubbles are produced by the escape from solution of the dissolved gas (which itself is not visible while dissolved in the liquid).Hygroscopy is the phenomenon of attracting and holding water molecules from the surrounding environment, which is usually at normal or room temperature. This is achieved through either absorption or adsorption with the adsorbing substance becoming physically changed somewhat.Deliquescence, like hygroscopy, is also characterized by a strong affinity for water and tendency to absorb moisture from the atmosphere if exposed to it. Unlike hygroscopy, however, deliquescence involves absorbing sufficient water to form an aqueous solution.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "efflorescence",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "déliquescence",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "effervescence",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fluorescence",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "82afe326-48d2-4418-a7bf-51fbd3bfca7f",
+      "question_text": [
+        "Iron is often galvanized in order to"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Corrosion ",
+        " Electrochemistry"
+      ],
+      "explanation": "Iron is galvanized with zinc covering to protect it against corrosion. Option A, B, D are the main reasons iron is galvanized",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Make it more malleable",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Remove the impurities unit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Protect it against corrosion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Render it passive",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da9f729a-0ddf-45dc-a461-5308bc0db9ae",
+      "question_text": [
+        "In the diagram above, the curve that represents the production of oxgyen gas from the decomposition of KCIO3 in the presence of MnO2 catalyst is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Effect of a Catalyst on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem118.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "R",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "P",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Q",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "150c9137-3adb-4d50-870e-2e4dbd6e3ff3",
+      "question_text": [
+        "The major product of the dehydration of the compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Elimination Reactions ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem117.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "880d45fb-5927-4955-afc5-ab3765e5d368",
+      "question_text": [
+        "The compound above is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem116.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "glycol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "primary alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "secondary alkanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "tertiary alkanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7feb1e05-4d7a-4ee3-9db5-ce08dfed0a0b",
+      "question_text": [
+        "A hydrogen atom which has lost an electron contains"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Nucleus ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "A Reason: A hydrogen atom normally contains just 1 proton and 1 electron. When the electron is removed, the 1 proton remains.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "one proton only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "one neutron only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "one proton and one neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "one proton, one electron and one neutron",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4993f2e-3503-429d-abbd-01d0ff0dbaf2",
+      "question_text": [
+        "A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2 = CH - CH2 - CH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3 CH2 - C ≡ CH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3 CH2 CH2 CH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH3 - C  C - CH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d37f4ac-a5b1-44a1-b429-3e2376200395",
+      "question_text": [
+        "The atom of an element X is represented as zyX. The basic chemical properties of X depends on the value of"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Z",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y - Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Z - Y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0dbffed-8f15-4d9b-9887-ab75a3844827",
+      "question_text": [
+        "Which of the following ions require the largest quantity of electricity for discharge at an electrode?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Standard Hydrogen Electrode ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 moles of Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.0 moles of Na+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5 moles of Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.0 moles of Al3+",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "270dec05-c29e-4ede-a331-669a57886238",
+      "question_text": [
+        "The postulate of Dalton's atomic theory which still holds is that"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Dalton’s Model of the Atom ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Postulates of Dalton’s atomic theory can used to explain the behavior of matter: All matter is composed of small tiny particles called atoms. In Greek the word atom is termed as indivisible. The atoms can not be further broken down. All atoms are indivisible, indestructible, and unchangeable. Atom of an element cannot be created, divided, destroyed, or split into smaller particles or transformed into atoms of other elements or transformed into other atoms in a chemical reaction. They are simply rearrangement of new compound. Dalton’s atomic theory based this hypothesis on the law of conservation of mass and on centuries of experimental evidence.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "atoms can neither be created nor destroyed",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the particles of the same element are exactly alike",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "particles of different elements combine in simple whole number ratio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "all elemets are made of small indivisible particles",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "233c59f6-70b9-4d24-87d8-710aaee09cb2",
+      "question_text": [
+        "146C → X + BX in the equation above represents"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Appendix: Water Properties ",
+        " Liquids and Solids"
+      ],
+      "explanation": "146C → X + B→ X + 0-1e→ 147X",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "126C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "125B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "147N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "136C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b39a379-bff2-4d4e-841e-6a318bf653c8",
+      "question_text": [
+        "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in vessel with a total pressure of 0.7 atmosphere, what is the partial pressure of oxygen in the mixture"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Density of a Gas ",
+        " Gases"
+      ],
+      "explanation": "\\(0.75+0.66=1.41\\) Therefore, \\(\\cfrac{0.66}{1.41 \\times 0.7}=0.33\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.44 atmosphere",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.22 atmosphere",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.55 atmosphere",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.33 atmosphere",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "08fc0980-f6b8-4cac-89df-1a299b76a612",
+      "question_text": [
+        "A rock sample was added to cold dilute HNO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The sample contains"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NO3-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "SO32-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "SO42-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fb57bd8b-a05e-42f4-ade7-596aad311781",
+      "question_text": [
+        "Which of the following statement is true of a proton?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Conjugate Acid-Base Pairs Continued ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The mass of a proton is 1840 times the mass of electron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the total mass of the protons in a particular nucleus is always half the nuclear size",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The mass of a proton is one - twelfth the molar mass of carbon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The mass of a proton is 1.0008g",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3d3dab78-ec9d-48f8-b27c-e0d5faaece2e",
+      "question_text": [
+        "Which of the following chloride would exhibit the least ionic character?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Properties of Ionic Compounds ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "MgCl2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CaCl2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "LiCl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "AlCl3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "10039108-3078-4398-a513-040638240dc7",
+      "question_text": [
+        "A fixed mass of gas has a volume of 92cm3 at 3 oC. When will be its volume at 18 oC if the pressure remains constant"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "(V1/T1) = (V2/T2)T1 = 3+273 = 276K∴ (92/276) = (V2/291)T2 = 18 + 273 = 291KV2 (92 * 291)/276= 97.0 cm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "87.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "552.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "97.0cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6b39d10a-7d35-4ac2-b047-b43c10929ca1",
+      "question_text": [
+        "The processes which return carbon (IV) oxide to the atmosphere include"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Earth’s Atmosphere ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "respiration, decay and combustion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "photosynthesis, respiration and transpiration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ozone depletion, combustion and decay",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "photosynthesis, decay and respiration",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c9bdf25a-d811-4e1e-a125-03de24ab8d8b",
+      "question_text": [
+        "The boiling of fat and aqueous caustic soda is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Reactions in Aqueous Solution ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "esterification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "acidification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "saponification",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5594ceb3-16bf-4e48-943b-c186f5ac2652",
+      "question_text": [
+        "The most important use of hydrogen is in the"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Hydrogen Compounds ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "manufacture of ammonia",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "manufacture of methyl alcohol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "manufacture of ethyl alcohol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogenation of oils",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09f1eaa3-fda4-4bfc-a8f1-66aae2ce137e",
+      "question_text": [
+        "which of the following polymers is suitable for packaging and electrical insulation?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Types of Synthetic Organic Polymers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "polyamide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "polyethene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polycarbonate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polystyrene",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8f84572e-1c9e-488c-b0dc-e04990ace6ba",
+      "question_text": [
+        "Hydrogen is readily released when dilute hydrochloric acid reacts with"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Acid and a Metal Carbonate ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Na",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Au",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ag",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d80bb6e-aa00-4020-839f-7b64c68e0bde",
+      "question_text": [
+        "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate (IV) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Carbonyl-Containing Compounds ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "butanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "methanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "propanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f42a8247-14e0-42c8-8d84-1f66cc78863b",
+      "question_text": [
+        "The reaction of an alkene with hydrogen in the presence of catalyst is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "How do catalysts work? ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a substitution reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an oxidation reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a nucleophilic reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an addition reaction",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8f07bbc8-5c2a-46a2-91f4-c2cfa0ee0cb2",
+      "question_text": [
+        "The number of isomers formed by C6H14 is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9519bfc-7122-4ffd-9f2a-c76101a16337",
+      "question_text": [
+        "Which of these pairs are synthetic and natural macromolecules respectively?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Types of Biological Macromolecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Haemoglobin and nylon, creatine and polyethylene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Nylon and polyethlene, creatine and Haemoglobin",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Nylon and creatine, polyethylene and haemoglobin",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Polyethylene and creatine, nylon and haemoglobin",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "287d6150-6718-4a67-bd2a-f0afe76b8849",
+      "question_text": [
+        "Ordinary glass is manufactured from silica, CaCO3 and"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Occurrence, Preparation, and Compounds of Boron and Silicon ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Na2CO3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "K2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "K2SO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NaHCO3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1fa6b097-93b9-4f81-87dc-7e9a7718cce7",
+      "question_text": [
+        "A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3CH2CH2CH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH2 = CH - CH2CH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3CH2 - C = CH",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH3 - C = C - CH3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2628abb8-dfe5-4955-a085-a31d3aa6594b",
+      "question_text": [
+        "Steam changes the colour of anhydrous cobalt  (II) chloride from"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Changes in Colour ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue to pink",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "white to red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "white to green",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "blue to white",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb246e88-f532-479c-ba59-471c905cc02b",
+      "question_text": [
+        "The gas that gives brown colouration in brown ring test is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Reaction Rates in Analysis: Test Strips for Urinalysis ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CO",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23f72e32-9454-46b1-9d58-308a6445e5f8",
+      "question_text": [
+        "Ethanol can easily be produced by"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Addition Reactions ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "fermentation of starch",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "distillation of starch solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "catalytic oxidation of methane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "destructive distillation of wood",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b29eb4f0-40fb-4055-8368-f2e1164aac99",
+      "question_text": [
+        "Which of the following gives a precipitate when treated with NaOH solution?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "AlCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NH4CL",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3COONa",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36b86c23-5335-481d-b697-8ae81d382318",
+      "question_text": [
+        "An example of element that can catenate is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "Catenation is the ability of an element to form bonds between its own atoms and produce a long chain.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bromine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1cc9b405-5b7d-4e30-9522-8a99b179b8d7",
+      "question_text": [
+        "Three drops of a 1.0 mol dm-3 solution of NaOH are added to 20 cm3 of a solution of pH 8.4. The pH of the resulting solution will be"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "Since NaOH is a strong base with a pH between  10 to 12 and 20cm3 of a solution of 8.4 is a weak base. Therefore when 3 drops of NaOH are added the pH is greater than 8.4, therefore, it will migrate from a weak base to strong base. Therefore the answer is C.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Close to that of pure water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Unaltered",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Greater than 8.4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Less than 8.4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "81dbfc42-54d1-41a2-a470-58be73af8567",
+      "question_text": [
+        "25cm3 of a 0.2 mol dm3 solution of Na2CO3 requires 20 cm3 of a solution of HCl for neutralization. The concentration of the HCl solution is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.5 mol dm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6 mol dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.2 mol dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.4 mol dm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18c837cb-1baf-4968-8960-7678ee2dc47d",
+      "question_text": [
+        "The substance least considered as a source of environmental pollution is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Structure and General Properties of the Metalloids ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Lead compounds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Organophosphorous compounds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Silicate minerals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Uranium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aef61a0b-33b7-48a0-ae0d-73741e323987",
+      "question_text": [
+        "The property which makes alcohol  soluble in water is the"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Carbonyl-Containing Compounds ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "boiling point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen bonding",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ionic character",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "covalent nature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e2dff868-619f-481f-be5c-77b90e7f5351",
+      "question_text": [
+        "CU2S(s) + O2(g) → 2CU(s) + SO2(g)What is the change in the oxidation number of copper in the reaction above?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+1 to 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0 to +2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+2 to +1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0 to +1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80f1af49-e652-4ea8-917f-14218a4d19f0",
+      "question_text": [
+        "The product of the electrolysis of dilute sodium hydroxide using platinum electrodes are"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hydrogen and oxygen gases",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Water and hydrogen gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Water and sodium metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sodium metal and oxygen gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7dd42275-a800-4976-af50-f88386a376c2",
+      "question_text": [
+        "The solubility of a salt of molar mass 101g at 20oC is 0.34 mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "At 20oC 0.34 mol/dm of the salt dissolve = 0.34 * 101 = 34.34gmOf the salt dissolved.∴ 34.34gm dissolve is 1,000cm3If only 250 cm3 is the required massX = (250/1000) * 34.34= 8.555gmIf only 3.40gm of the salt dissolved ,the solution is unsaturated",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A suspension",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Saturated",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Unsaturated",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Supersaturated",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3768711f-402a-4a63-b0a5-bcafcdbbeff6",
+      "question_text": [
+        "Tetraoxosulphate (VI) acid burns the skin by"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Hydration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Heating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dehydration",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6848c1d1-f28d-428e-bde3-e6d0b4458482",
+      "question_text": [
+        "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Efflorescence",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Deliquescence",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Effervescence",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Fluorescence",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "961bf7ec-fafd-4af1-a204-bdb22ed014b7",
+      "question_text": [
+        "Which of the following equations show that a reaction is in equilibrium?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Equilibrium Constants ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ΔG < O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ΔG = ΔH – TΔS",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ΔG > O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ΔG = O",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b24e8656-c94c-4ea2-ac71-e9aca3aa5d28",
+      "question_text": [
+        "When H2S is passed into a solution of iron (III) chloride, the solution turns"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "When hydrogen sulphide is passed into iron iii chloride which is brown in solution, it changes to a pale green solution with a deposit of yellow sulphur. Therefore the answer is A.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pale green",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Pale red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Brown",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Colourless",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "289acf44-4906-4a63-bd30-23fc62ee8007",
+      "question_text": [
+        "The Arrhenius equation expresses the relationship between the speed of a reaction and its"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Collision Theory ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Molecular collision",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Heat of reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Activation energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e2970ebf-7e07-44c1-99d9-bd5f11bdf76c",
+      "question_text": [
+        "When dissolved in water, NaOH flakes show"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Exothermic and Endothermic Reactions ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "An endothermic  change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "An exothermic change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "A slow reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A rapid reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d3d7a3d-f9b5-42e1-ae19-a4541d392202",
+      "question_text": [
+        "A little quantity of trichloromethane (b.pt 60,oC) was added to a large quantity of ethanol (b.pt 78,oC). The most probable boiling point of the resultant mixture is from"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Elevation of the Boiling Point of a Solvent ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "69 oC - 70 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70 oC – 74 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "82 oC – 84 oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60 oC – 78 oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8de5d1c6-10e2-4be2-9c19-dd7d4882ccf5",
+      "question_text": [
+        "The chromatography separation of ink is based on the ability of the components to"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Separation Techniques ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "React with solvent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "React with each other",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dissolve in each other in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Move at different speeds in the column",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "318605a8-fdd5-4695-8ce0-6396cb5c9f84",
+      "question_text": [
+        "In the reaction E+F ↔ G+H, the backward reaction is favoured if the concentration of"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "What is a reaction rate? ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "F is increased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "E is increased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "E is reduced",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "G is reduced",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "025b22c0-1b87-4699-9c7e-559aa38bc848",
+      "question_text": [
+        "What amount of mercury would be liberated if the same quantity of electricity that liberates 0.65g of zinc is applied?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Group 12 ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Zn2+ + 2e- → Zn2F will be liberated 65g of Zn, if 0.65gm of Zn is liberated, the quantity of electricity used X = (0.65/65) * 2= 0.02F∴ Hg+ + e- → Hg1i.e 1F → 201gm of Hg∴ 0.02 will liberatedY = (0.02/1) * 201= 4.02g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.01g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.00g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.02g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.04g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8610af7a-e64c-4d5c-9a70-0002ad4d56cb",
+      "question_text": [
+        "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formula of the compound?[K = 39, Cl = 35.5, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Formula Mass for Ionic Compounds ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "K- (31.91%),  Mole = 31.91/39 =0.8182 Cl-(28.93%), Mole = 28.93/35.5 = 0.815O-(39.16%), Mole = 39.6/16 = 2.448K = 0.8182/0.815 = 1Cl = 0.815/0.815 = 1O = 2.448/0.815 = 3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "KClO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "KClO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "KClO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "KClO3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f120873f-134a-402d-88de-c6a2d2692ee7",
+      "question_text": [
+        "The formula CH2 for ethanoic acid is regarded as its"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Molecular and Empirical Formulae ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Molecular formula",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "General formula",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Empirical formula",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Structural formula",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f8ef09d-0ee4-4fd3-a9c2-b3bd45c9244c",
+      "question_text": [
+        "The energy value of petrol can be determined by a"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bomb calorimeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "catalytic cracker",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fractionating column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "thermometer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b588a58-f3e4-4db0-8c13-58c3c6951ad4",
+      "question_text": [
+        "Iron is often galvanized in order to"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Corrosion ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "make it more malleable",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "remove the impurities in it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "protect it against corrosion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "render it passive",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98d13bff-8276-4fe1-83a7-d0795a65798c",
+      "question_text": [
+        "Which of the following types of alkanols undergo oxidation to produce alkanoic acids? 1. Primary alkanols 11. Secondary alkanols 111. Tertiary alkanols"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1,11 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "l and ll only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ll only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "l only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bf6a7f6c-e5dd-45c8-a58f-b848d606fd77",
+      "question_text": [
+        "A suitable reagent for distinguishing between ethanoic acid ethanol is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Redox Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bromine water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fehling's solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium hydrogentrioxocarbonate (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aafb6ccd-51ce-4540-8253-75aee19e8acb",
+      "question_text": [
+        "A hydrogen atom which has lost an electron contains"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Nucleus ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "one proton only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "one neutron only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "one proton and one neutron",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "one proton, one electronic and one neutron",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "14ee0dd8-ece0-4d5a-80c1-68f80438379a",
+      "question_text": [
+        "The atom of an element X is represented as \\(^y_z X\\). The basic chemical properties of X depend on the value of"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Elements ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Z",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y - Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Z - Y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bce2217b-22d7-4c0a-b4db-c378528a546d",
+      "question_text": [
+        "Which of the following compounds can be represented by the molecular formula C2H6O?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Representing Molecules ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Propanel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ethanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Methanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Glucose",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a7ed975-100e-4574-9d89-f1c93dc2759c",
+      "question_text": [
+        "Which of the following ions require the largest quantity of electricity for discharge at an electrode?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Standard Hydrogen Electrode ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 mole of Q 3+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5 mole of R2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 mole of Y-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mole of T-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64038e0c-b546-414c-8585-54774754b062",
+      "question_text": [
+        "If the relative molecular mass of an element is not a whole number, it can be deduced that the element is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "naturally radioactive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "abundant in nature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a transition metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an isotopic mixture",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3e73eb59-d9e8-4792-a02e-adc82c0c01e5",
+      "question_text": [
+        "\\(PCl_{5(g)} \\rightarrow PCl_{3(g)} + Cl_{2(g)}\\)In the reaction above, an increase in pressure will"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decelerate the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increase the yield of \\(PCl_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "increase the yield of \\(PCl_5\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d32bd9e7-32db-41af-9111-0e81cc32a149",
+      "question_text": [
+        "If the relative molecular mass of an element is not a whole number, it can be deduced that the element is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Naturally radioactive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "abundant in nature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a transition metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an isotopic mixture",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e7a30fd-7627-408f-a0fa-85dd0a92a1d2",
+      "question_text": [
+        "Which of the following compounds can be represented by the molecular formula C2 H6O?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Representing Molecules ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Ethanol has the molecular formula C2H6O. Option A, C, D are not because their molecular are not different",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "methanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glucose",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6dbafbc3-bc19-40c4-acda-5be868e4400d",
+      "question_text": [
+        "The fuming of kettles is caused by the presence in the water of"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "Calcium hydrogen trionocarbonate (iv) will cause the furring of kettles whenever water is present. Options A, C, D will not react under the presence of water.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "calcium tetraoxosulphate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "calcium hydrogentrionocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8cdba45-b588-4e3b-8c5f-f1f2a065d020",
+      "question_text": [
+        "PCL5(g)= PCL3(g) + Cl2(g)In the reaction above, a decrease in pressure will"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "If we decrease the pressure in the reaction, there will be rapid breakage spilling of pcl5. And these follows a principle that molecule of gases tends to move from a region of higher pressure to low pressure. Option A,C,D will not be affected by pressure decrease",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Decelerate the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increase yield of Pcl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increase the yield of Pcl5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Accurate the reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "109e046d-5c14-447a-928a-d5115de67de6",
+      "question_text": [
+        "Which of the following gives a precipitation when treated with NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "AlCl3 will give a precipitate when treated with solution. Option B,C,D will not give a precipitate when treated with NaOH solution",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "AlCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NH4Cl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH3COONa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b2511319-8122-4e2d-ae3d-65bc287050b9",
+      "question_text": [
+        "The energy value of petrol can be determined by"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Fractionating column contains petrol with different densities.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Bomb calorimeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Catalytic cracker",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fractionating column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Thermometer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c5627ae-6317-4e6b-b64a-7f7d56718334",
+      "question_text": [
+        "Which of the following ion’s requires the quantity of electricity for discharge at an electrode"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Standard Hydrogen Electrode ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "2.0 mole of Q3+ ions require the largest quantity of electricity for discharge at an electric. option B,C,D are all carrying a smaller quantity of electricity which not be proven for ant discharge",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 mole of Q3+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5 mole of R2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.0 mole of T-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.0 mole of Y-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "382a7fc0-b0d9-409b-8058-bc7b46932b9a",
+      "question_text": [
+        "Which of the following types of alkanols undergo oxidation to produce alkanoic acids.I. Primary alkanolsII. Secondary alkanolsIII. Tertiary alkanols"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "Only primary alkanols undergo oxidation to produce alkanoic acid. Option A,B,C will not produce alkanoic acid",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c4b02e34-fbd6-4715-aad8-744b340ef666",
+      "question_text": [
+        "A fixed mass of gas a volume of 92cm3 at 3°C. When will be its volume at 18C if the pressure remains constant?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "V1 ÷ T1 = V2 ÷ T2T1 = 3 × 273 = 276kT2 = 18 + 273 = 291kV1 = 92cm3V2 = ?V2 = (V1T2) ÷ T1 = (92 × 291) ÷ 276= 97.0cm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "87.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "97.0cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "398cf488-43ee-44a3-9716-68574b1cea3b",
+      "question_text": [
+        "A suitable reagent for distinguish between ethanoic and ethanol is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "Sodium hydrogen trionocarbonate iv is the only distinguishing reagent between ethanoic and ethanol. Option A, B, D are not conspicuous in distinguishing between ethanoic and ethanol",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bromine water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fehling’s solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium hydrogen trioxocarbonate (i",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b45268d8-99d8-4b24-b037-8dae93198c95",
+      "question_text": [
+        "If the relative molecular mass of an element is not a whole number, it can be deduced that the element is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Naturally radioactive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "abundant in nature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a transition metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an isotopic mixture",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "600d67f7-7363-486b-8efa-cdadccdc478c",
+      "question_text": [
+        "Which of the following compounds can be represented by the molecular formula C2 H6O?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Representing Molecules ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Ethanol has the molecular formula C2H6O. Option A, C, D are not because their molecular are not different",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "methanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glucose",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f2b5922-a8ae-46d7-8d38-7d42037a0b74",
+      "question_text": [
+        "The fuming of kettles is caused by the presence in the water of"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "Calcium hydrogen trionocarbonate (iv) will cause the furring of kettles whenever water is present. Options A, C, D will not react under the presence of water.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "calcium tetraoxosulphate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "calcium hydrogentrionocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d5babd8a-ab29-4a82-b390-3fa4b3baee5f",
+      "question_text": [
+        "PCL5(g)= PCL3(g) + Cl2(g)In the reaction above, a decrease in pressure will"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "If we decrease the pressure in the reaction, there will be rapid breakage spilling of pcl5. And these follows a principle that molecule of gases tends to move from a region of higher pressure to low pressure. Option A,C,D will not be affected by pressure decrease",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Decelerate the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increase yield of Pcl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increase the yield of Pcl5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Accurate the reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0aab0a96-fc6a-44c4-b7b2-aa59b87f2f6b",
+      "question_text": [
+        "Which of the following gives a precipitation when treated with NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "AlCl3 will give a precipitate when treated with solution. Option B,C,D will not give a precipitate when treated with NaOH solution",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "AlCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NH4Cl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH3COONa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba6ba3b1-717e-4d09-be7d-0288224f2478",
+      "question_text": [
+        "The energy value of petrol can be determined by"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Fractionating column contains petrol with different densities.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Bomb calorimeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Catalytic cracker",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fractionating column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Thermometer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a3f7dd8-23f3-4d02-9d21-0ef670b6a198",
+      "question_text": [
+        "Which of the following ion’s requires the quantity of electricity for discharge at an electrode"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Standard Hydrogen Electrode ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "2.0 mole of Q3+ ions require the largest quantity of electricity for discharge at an electric. option B,C,D are all carrying a smaller quantity of electricity which not be proven for ant discharge",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 mole of Q3+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5 mole of R2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.0 mole of T-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.0 mole of Y-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84579cf6-1d37-47c0-9a65-677ea35591b6",
+      "question_text": [
+        "Which of the following types of alkanols undergo oxidation to produce alkanoic acids.I. Primary alkanolsII. Secondary alkanolsIII. Tertiary alkanols"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "Only primary alkanols undergo oxidation to produce alkanoic acid. Option A,B,C will not produce alkanoic acid",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b45723d9-3962-4b85-b78d-30bd20af8d2a",
+      "question_text": [
+        "A fixed mass of gas a volume of 92cm3 at 3°C. When will be its volume at 18C if the pressure remains constant?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "V1 ÷ T1 = V2 ÷ T2T1 = 3 × 273 = 276kT2 = 18 + 273 = 291kV1 = 92cm3V2 = ?V2 = (V1T2) ÷ T1 = (92 × 291) ÷ 276= 97.0cm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "87.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "97.0cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "68006d0d-9f63-4522-a88d-85d54368b981",
+      "question_text": [
+        "A suitable reagent for distinguish between ethanoic and ethanol is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "Sodium hydrogen trionocarbonate iv is the only distinguishing reagent between ethanoic and ethanol. Option A, B, D are not conspicuous in distinguishing between ethanoic and ethanol",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bromine water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fehling’s solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium hydrogen trioxocarbonate (i",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "67a5bdeb-b64b-4d4e-8479-25d2f99f9803",
+      "question_text": [
+        "If the relative molecular mass of an element is not a whole number, it can be deduced that the element is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Naturally radioactive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "abundant in nature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a transition metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an isotopic mixture",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8942274c-55c8-4b90-a374-03afd7290c93",
+      "question_text": [
+        "Which of the following compounds can be represented by the molecular formula C2 H6O?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Representing Molecules ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Ethanol has the molecular formula C2H6O. Option A, C, D are not because their molecular are not different",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "methanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glucose",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ccf2f852-ff0d-46a8-9bf4-06ea2b48b5f7",
+      "question_text": [
+        "The fuming of kettles is caused by the presence in the water of"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "Calcium hydrogen trionocarbonate (iv) will cause the furring of kettles whenever water is present. Options A, C, D will not react under the presence of water.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "calcium tetraoxosulphate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "calcium hydrogentrionocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b1afd52-474f-4c55-abab-eef39ea6df44",
+      "question_text": [
+        "PCL5(g)= PCL3(g) + Cl2(g)In the reaction above, a decrease in pressure will"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "If we decrease the pressure in the reaction, there will be rapid breakage spilling of pcl5. And these follows a principle that molecule of gases tends to move from a region of higher pressure to low pressure. Option A,C,D will not be affected by pressure decrease",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Decelerate the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increase yield of Pcl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increase the yield of Pcl5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Accurate the reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "566fd935-ef52-417c-9525-c48dccfb6b49",
+      "question_text": [
+        "Which of the following gives a precipitation when treated with NaOH Solution?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "AlCl3 will give a precipitate when treated with solution. Option B,C,D will not give a precipitate when treated with NaOH solution",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "AlCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NH4Cl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH3COONa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "178f4a8b-f73a-404d-804b-5677a0d413fe",
+      "question_text": [
+        "The energy value of petrol can be determined by"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "Fractionating column contains petrol with different densities.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Bomb calorimeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Catalytic cracker",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fractionating column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Thermometer",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "be074dfb-5006-44fa-926b-f4af94f38b4a",
+      "question_text": [
+        "Which of the following ion’s requires the quantity of electricity for discharge at an electrode"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Standard Hydrogen Electrode ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "2.0 mole of Q3+ ions require the largest quantity of electricity for discharge at an electric. option B,C,D are all carrying a smaller quantity of electricity which not be proven for ant discharge",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 mole of Q3+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5 mole of R2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.0 mole of T-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.0 mole of Y-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0814f874-ff7a-4311-bc3f-aebcc0998580",
+      "question_text": [
+        "Which of the following types of alkanols undergo oxidation to produce alkanoic acids.I. Primary alkanolsII. Secondary alkanolsIII. Tertiary alkanols"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "Only primary alkanols undergo oxidation to produce alkanoic acid. Option A,B,C will not produce alkanoic acid",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6b24ea66-301d-4847-acf7-94321b6c6b9a",
+      "question_text": [
+        "A fixed mass of gas a volume of 92cm3 at 3°C. When will be its volume at 18C if the pressure remains constant?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "V1 ÷ T1 = V2 ÷ T2T1 = 3 × 273 = 276kT2 = 18 + 273 = 291kV1 = 92cm3V2 = ?V2 = (V1T2) ÷ T1 = (92 × 291) ÷ 276= 97.0cm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "87.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "97.0cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7a3a741a-1aca-417c-9a53-0ab04334294b",
+      "question_text": [
+        "A suitable reagent for distinguish between ethanoic and ethanol is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "Sodium hydrogen trionocarbonate iv is the only distinguishing reagent between ethanoic and ethanol. Option A, B, D are not conspicuous in distinguishing between ethanoic and ethanol",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bromine water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fehling’s solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium hydrogen trioxocarbonate (i",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

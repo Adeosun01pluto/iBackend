@@ -1,0 +1,3544 @@
+
+[
+    {
+      "id": "5f9789a5-1f42-45a7-9ee2-1679342a3b17",
+      "question_text": [
+        "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Reactance, Inductive and Capacitive ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Power of the lamp = 60W = \\( \\frac{v^2}{R} \\) and the voltage rate = 120V\\( \\implies R = \\frac{V^2}{60} = \\frac{120 \\times 120}{60} = 240Ω \\)Now, if the resistance of the lamp is 240Ω the fuse wire that should ensure current does not exceed this value should be rated 200Ω.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "200Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "300Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "500Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8814704-4b1c-4816-9247-1d06c00dea66",
+      "question_text": [
+        "A 40KW electric cable was uses to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Why Use AC for Power Distribution? ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "In general, Power = IV; \\( \\implies 40KW = IV \\\\ \\text{Therefore } 40000 = 1 \\times 800\\\\\\implies I = \\frac{40000}{800} = 50A,\\text{tune the current through} \\)Resistor = 50Apower loss= I2R = 502 x 2 = 2500 x 2 = 5.0 x 103W",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 x 103W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.0 x 103W",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ffc058bb-667a-4486-b1e7-d4a56b101f74",
+      "question_text": [
+        "Two long parallel wires X and Y carry currents 3A and 5A each. if the force experienced by unit length is 5 x 10-5N. the force per unit length experienced by wire Y is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Magnetic Force Between Two Parallel Conductors ",
+        " Magnetism"
+      ],
+      "explanation": "since the wires are parallel to each other, the forces which they exert on each other are equal and opposite, since they must agree with newton's law of action an reaction. Hence the force exerted by the wire is equally5 x 10-5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3 x 10-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 x 10-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 x 105",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 x 10-5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f06c219b-f94f-4ce7-b35e-e5bd413c2615",
+      "question_text": [
+        "Lenz's law is a law of conservation of"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Law of Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Lenz's lew of electrical magnetic induction is usefully referred to as the law of conservation of energy",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electric charge",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "electric current",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Momentum",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1839c689-5608-4b2d-8712-7b3e11c1b2eb",
+      "question_text": [
+        "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Resolving Forces Into Components ",
+        " Newton's Laws"
+      ],
+      "explanation": "Efficiency = \\( \\frac{W(120N)INPUT}{WORK OUTPUT} \\times \\frac{100}{1}  \\)And for incline planeV.R =\\( \\frac{1}{Sin\\theta} \\\\    = V.R = \\frac{1}{Sin30} =\\frac{1}{0.5} = 2 \\\\ \\text{therefore } \\frac{60}{120} = \\frac{M.A}{2} =M.A = \\frac{120}{100} = 1.2\\\\\\text{but M.A } = \\frac{load}{effort} = \\frac{120}{E}\\\\ \\text{therefore} \\frac{120}{E} = 1.2 \\\\ = E =\\frac{120}{1.2 } = 100N \\\\ \\)Therefore Effort up the plane = 100N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "210N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96e27898-9075-4d27-a051-669b5c7fbda1",
+      "question_text": [
+        "A string of length 4m is extended by 0.02m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing the Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "From hooke's law F = Ke\\(\\frac{F_1}{e_1} - \\frac{F_2}{e_2} \\text{therefore} \\frac{4}{0.02} = \\frac{15}{e_2} \\) e1 = \\( \\frac{0.02 x 15}{4} = 0.075M \\)The new length of the string is 4 + 0.075= 4.075= 4.08",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.05m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.08m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.05m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.08m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "15f57dbe-7acf-40bd-bde3-291b112119da",
+      "question_text": [
+        "Which of the following gas laws is equivalent to the work done?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing the Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Mathematically Boyle's law = PV = KWhere P = Pressureand V = VolumeBy definition Pressure = \\( \\frac{F}{A} = \\frac{F}{M \\times M} \\)Again Workdone = force x displacementtherefore \\( PV = \\frac{F}{A} \\times V = \\frac{F}{M^2} \\times \\frac{M^3}{1} \\\\PV = \\frac{F}{x\\times x} \\times \\frac{x \\times x \\times x}{1} = F \\times x \\)= force x displacement",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Boyle' law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Charles law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "van der Waal's law",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71a6e688-734c-464f-8b46-eea370953e6d",
+      "question_text": [
+        "The difference observed in solids, liquids and gases can be accounted for by"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "What is a Fluid? ",
+        " Fluid Statics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The different molecules in each of them",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The spaces and forces acting between the molecules",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Thier melting points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Their relative massess",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "061a4b84-1f00-4fe5-99bb-0c849ea76d33",
+      "question_text": [
+        "118.8cm2 surface of the copper cathode of a voltameter is to be coated with 10-6m thick copper of density 9 x 103kgm-3. How long will the process run with 10A constant current?[3.3 x 10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "From faradays law, M = itzBut mass, M = volume  x density and volume = cross sectional area x thickness M = 118.8cm2 x 10-6 x 9 x 103∴ 118.8cm2 x 10-6 x 9 x 103 = 10 x t x 3.3 x 10-7∴ (118.8 x 9) x 10-7 = 10 x t x 3.3 x 10-7∴ t = \\(\\frac{118.8 \\times 9}{ 3.3}\\)t = 324 secondsConvert to minutes by dividing by 60t = \\(\\frac{324}{60}\\)t = 5.4 sec",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.4 min",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.8 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20.0 min",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4bc3a029-ffcd-4883-8568-09e12bd136d0",
+      "question_text": [
+        "During the nuclear reaction described by235W →235X→231Y929391The particles emitted are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Nuclear Radioactivity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "The decay process illustrated above shows that the lost β -particle to decay to the X by increase its  atomic number ( from 92 to 93) and leaving the mass no. unaffected. There after, x decayed by -α emission to give Y, by decreasing the mass no. by 2 ( from 93 to 91).Thus , the emission is β and α particles respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "α and α",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "α and β",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "β and β",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "β and α",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8929eccd-58f4-4fef-affc-9806e5210288",
+      "question_text": [
+        "From the diagram above, the inductive reactance and the resistance R are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Reactance, Inductive and Capacitive ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy178.jpg",
+      "explanation": "The inductive reactance is given as Xl = 2πfl= 2 x 50/π x 0.1= 10ΩAgain from ohms law, R = V/I = 75/1.5 = 50Ω∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50Ω and 45Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25Ω and 51Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20Ω and 50Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10Ω and 50Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "13bcaa9a-b7ec-4f13-96b9-9948dd8beddc",
+      "question_text": [
+        "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Tension ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The fundamental frequency is related to tension as F ∝ √T =>F= K√T∴F1=F2=>250=500√T1√T2√400√T2∴√T2 =500√400 = 2 x 20250∴ T2 = 402 = 1600N",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1600N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "400N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "160N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0f02b823-9f37-40ac-9060-87967f8dca26",
+      "question_text": [
+        "Three cells each of e.m.f 1.5 V and internal resistance 2.5Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy177.jpg",
+      "explanation": "Since the cells are connected in parallel the net e.m.f is that of one cell, E.However the effective internal resistance should be added as parallel resistance.=>1/v + 1/25 + 1/25 + 1/25 = 1.2∴ v = 0.83Ω∴ Effective e.m.f and internal resistance are respectively = 1.5V and 0.83Ω",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.5V, 7.50Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1,5V, 0.83Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.5V, 7.50Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.5V, 0.83Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36797b74-da18-4807-aafd-096e6cc864c4",
+      "question_text": [
+        "In the diagram above , if the magnetic field points into the paper and the force on a current - carrying conductor points upwards, what is the direction of the current?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Magnetic Field Around Current Carrying Loop ",
+        " Magnetism and Faraday's Law"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy176.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Upwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Downwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Right",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Left",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2a598c90-eb86-4804-bc7d-9cc007fc73fb",
+      "question_text": [
+        "The instantaneous value of the induced e.m.f as a function of time is ε = εo sin ωt where εo is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Instantaneous Velocity and Speed ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "Period is the time to complete one cycle of 360o=> Periodic Time T ≡ 1 cycle of 360o∴ T/4 = 360/4 = 90o∴ Instantaneous e.m.f E = Eo sin ωt= Eo sin 90But sin 90 = 1: => E = Eo x 1= Eo",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "εo/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "εo/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "εo",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7d46ae82-c125-495e-8625-b80c44ce2c2f",
+      "question_text": [
+        "From the diagram above, the bob of the pendulum has the fastest speed at"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy175.jpg",
+      "explanation": "The ball has its fastest speed at its equilibrium position when its displacement X = O; at X",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "X",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "W",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff6ff810-47a0-4c48-ab4c-a691751cca3f",
+      "question_text": [
+        "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Polarization ",
+        " Electric Charges and Fields"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy174.jpg",
+      "explanation": "Being a uniform rod, the height W should be acting at the mid point 25cm mark.∴ Taking moment about the fulcrum, F, 200 x 10 = W x 10 + 40 x 302000 = 10W + 1200=> 10W = 2000 - 1200= 800w = 800/10 = 80N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "80N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "120N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "200N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64bedec0-5554-44dc-8359-1f62760ec8be",
+      "question_text": [
+        "A boy drags a bag of rice along a smooth horizontal floor with a force of 2N applied at the angle of 60o to the floor. The work done after a distance of 3m is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Man Pulling a Box Example ",
+        " Newton's Laws"
+      ],
+      "explanation": "Effective component of the force along the horizontal = F cos 60oWork done by this force : 60F cos 60 x X= 2 x 0.5 x 3= 3J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3 J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6 J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7fd78cee-6add-4ad5-a046-251494c96c28",
+      "question_text": [
+        "A blacksmith heated a metal whose cubic expansivity is 6.3 x 10-6K-1. The areal expansivity is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "If the lineal expansivity = ∝=> area expansivity β= 2∝.And cubic expansivity δ = 3∝.=> 6.3 x 10-6 = 3∝∴ ∝ =∴ ∝ =6.3 x 10-6 = 2.1x 10-6__3∴ Area = 2∝ = 2 x 2.1x10-6= 4.2  x 10-6K-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 x 10-6K-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.1 x 10-6K-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.2 x 10-6K-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.3 x 10-6K-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f694fbfc-c875-4a75-a73b-4b5240f76281",
+      "question_text": [
+        "The ratio of the coefficient of linear expansion of two metals ∝1/∝2 is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e1/e2 is 1:2, the ratio of the original lengths l1/l2 is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Thermal Expansion of Solids and Liquids ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Ratio of their linear expansion  = ∝1/∝2= 3:4.When heated to the same temperature range, the ratio of their increase in length e1/e2 = 1:2But the increase in length of 1 = e1 = ∝1l1Δθ and increase i length of 2 = e2 = ∝2l2Δθ=>e1 =∝1l1Δθ =∝1l1 =1e2∝2l2Δθ∝2l22But∝1 =3, ∴3xl1=1∝244l22=> 6l1 = 4l2∴l1=4=2OR 2 : 3l263",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0004200-eb8b-4e88-a210-bf3e494cb5d9",
+      "question_text": [
+        "The figure above shows 4 forces 3N, 10N, 3√3N and 6N acting on a particle P. The resultant of he four forces is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Forces in Equilibrium ",
+        " Newton's Laws"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy173.jpg",
+      "explanation": "Resolution of force:Total vertical upward force:= 3√3 + 10 cos 60o= 3√3 + 5.Total downward force = 6 cos 30o= 6 x √(3/2) = 3√3Total horizontal forces towards right;= 3N + cos 30o= 3N + 10 x √(3/2)= 3N + 5√3Total horizontal forces towards left:= 6 cos 60o= 6 x 0.5= 3.0NSummary:Vertical resultant forces upward:= 3√3 + 5 - 3√3= 5NHorizontal resultant forces towards right:= 3N + 5√3 - 3√3= 5NHorizontal resultant force towards right= 3N + 5√3 - 3N= 5√3N∴ R2 = 52 + (5√3)2= 25 + 25 x 3= 100∴ R = √100= 10N",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5√ 3N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10√ 3N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42e0d5e2-8399-4e88-aedf-927eca03db98",
+      "question_text": [
+        "A 120 V, 60 W lamp is to be operated on 220 V a.c. the supply mains. calculate the values of non-inductive resistance that would be required to ensure that the lamp is run on current value."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Inductors and Inductive Reactance ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Power of the lamp = 60W = (V2)/R and the voltage rate = 120v. R = (V2)/60 = (120 X 120)/60 = 240 Ω, the fuse wire that should ensure current does not exceed this value should be rated 200 Ω",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "200 Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "300 Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "500 Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e77db7d8-e186-43a4-91f5-ea0fa1560fac",
+      "question_text": [
+        "A radioactive substance has a half-life of 20 days what fraction the original radiation nuclei will remain after 80 days?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Half-Life and Activity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "80 days = 4 half lives (i.e 4 x 2odqs = 80 days)But the  fraction always left by any radioactive material after 4half lives is (1/2)4 = (1)/16",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "/32",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "/16C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cdd5e2c2-685b-4e25-b729-f70868d0aa72",
+      "question_text": [
+        "The energy E of a photon and it's wavelength are related by Eλ = X. the numerical value of X is?[h = 6.63 x 10-34js, c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "E = HF = (hc)/λEλ = hc ∴ X = hc ==6.63 x 10-34 x 108= 1.989 x 10-25=1.99 x 10-25",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.6 X 10-28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.99 X 10-27",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.60 x 10-26",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.99 x 10-25",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e19fe138-0ebf-4133-bd99-8aaa8a90b596",
+      "question_text": [
+        "The bond that forms a semiconductor is?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Other Forms of Energy Than Mechanical Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "electrovalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "metallic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a7910842-605d-45d2-a1a2-6de15d59ee9b",
+      "question_text": [
+        "Silicon doped with aluminum and germanium doped with arsenic become?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Nuclear Radioactivity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "When silicon, a four valency element, is doped with aluminum, a three valency element, a p-type semiconductor is produced where the major carriers are the electrons.Thus, the correct option is p-type and n-type respectively",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p- and n- types respectively",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "n- en p- type respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p- type semiconductor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n- type semiconductors",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f398614-0357-4880-a7d8-741ab7fe21a5",
+      "question_text": [
+        "A charge 50 µc has electric field strength of 360 NC-1 at a certain point. The electric field strength due to another charge 120 µc kept at the same distance apart and in the same medium is?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Concept of a Field ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "E = \\(\\frac{\\text{F}}{\\text{q}}\\) and Q1 = 50μF, E1 = 360μF, E2 = ?, Q2 = 120μF Using E = \\(\\frac{\\text{F}}{\\text{q}}\\). So we have F = Q \\(\\times\\) E F = 50 \\(\\times\\) 10\\(^{-6}\\) \\(\\times\\) 360 = 0.018N When E2 = F/q \\(\\frac{0.018}{120 \\times 10^{-6}}\\) = 150NC\\(^{-1}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "864 NC-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150 NC-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "144 NC-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 NC-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b984dac-fc56-42a1-9321-cc4baffd32a3",
+      "question_text": [
+        "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600 µC across the field is?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Electric Potential in a Uniform Electric Field ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "Work done = product of the charge Q, and the p.d V. (i)/e work done = Q.V = 600 x 10-6 x 3.0 x 10-3 = 1.8 J.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.8 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.8 J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.0 J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18.0 J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9846b5af-8b4f-46d3-aa8f-1997c1155c7a",
+      "question_text": [
+        "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Resistance and Resistivity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "R = (1)/a, P = (R.a)/1 = (0.1 x 3.14)/2 (10-3/2)3 ∴ P = (0.1 x 3.14 x 10-6)/2 x 4 = 0.3925 x 10-7 OR -3.930 X 10-8 Ωm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.55 x 105 Ωm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.55 x 102 Ωm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.93 x 10-6 Ωm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.93 x 10-8 Ωm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "79874262-51a4-49b9-99d9-65f48fa908e4",
+      "question_text": [
+        "A 40 kW electric cable is used to transmit electricity through a resistor of resistance 2.0Ω at 800 V. The power loss as internal energy is?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Why Use AC for Power Distribution? ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "In general, power = IV; 40kw = IV.∴ 40,000 = 1 x 8001 = (40.000)/800 = 50A. tune the current through resistor = 50A. ∴ power loss = 12R = 502 X 2 = 2500 X 2 = 5.0 X 103W",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 x 103W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.0 x 103W",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0eeaa13a-c93b-45ca-b860-0690d446c9e8",
+      "question_text": [
+        "The instrument that measures both a.c and d.c is?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing DC Voltmeters and Ammeters ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a current balance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a moving current ammeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a moving iron ammeter",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "an inverter",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7bf52a15-f9f6-4d89-941e-5d04a6534da6",
+      "question_text": [
+        "The phenomenon of light bending round an obstacle is?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Wave Nature of Light ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polarization",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "68eae909-178e-436f-b85c-34bc461635af",
+      "question_text": [
+        "The instrument used by designers to obtain different color pattern is called?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Color and Color Vision ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "periscop",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sextant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "episcope",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "kaleidoscope",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "03fac087-e3c2-4c81-85cd-62db2b441d9b",
+      "question_text": [
+        "A glass plate 0.9cm thick has a reflective index of 1.50. how long does it take for a pulse of light to pass through the plate?[c = 3.0 x 8 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Refractive Index ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "N = 1.5 = (speed of light in glass)/speed of light in air(1.5)/1 = (3.0 x 108)/V V = (3.0 x 108)/1.5V = 2.0 x 108 ms-1But x = Vt t = (x)/Vtt = (x)/v = (9 x 10)4/2.0x 108 = 4.5 x 10-2S ∴ Time = 4.5 x 10-12S",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.5 x 10-11s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.5 x 10-10s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 .5 x 10-12 s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 x 10-10s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "777411ce-edee-44bf-a04a-e73491293f0a",
+      "question_text": [
+        "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Simple microscope",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "refecting lens",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "compound microscope",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "projector",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40755baa-6f67-4f74-b84a-abc861f85f02",
+      "question_text": [
+        "The production of pure spectrum could easily be achieved using a?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "glass prism with a pin",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "triangular prism with two convex lens",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "traingular prism only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "triangular prism with two concave lenses",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80f25828-64ab-41fa-ae8a-8c2f5391a90c",
+      "question_text": [
+        "I. Increase the melting point of the liquid.II. Increase the boiling point of the liquid.III. Decrease the melting point of the liquid.IV. Decrease the boiling point of the liquid.Which of the statement above about the effect on increase in pressure in a liquid are correct?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Increase in pressure generally raises the boiling point but but lowers the melting point. II and III",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "II and III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "III and IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3c2299ca-367b-4f2d-8101-4df938ab3c3e",
+      "question_text": [
+        "I. MassII. DensityIII. TemperatureIV. Nature of substanceWhich of the above affect diffusion?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Rate and Direction of Diffusion ",
+        " Fluid Dynamics and Applications"
+      ],
+      "explanation": "Rates of diffusion of a substance generally depend on density temp. and nature of substance II,III and IV",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I,II and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II, III and IV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II, III and IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dabc07df-5b78-426e-aa97-bd3897c0381b",
+      "question_text": [
+        "The blade of a hoe feel colder to touch in the morning than the wooden handle because the"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Conductors and Electric Fields in Static Equilibrium ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "handle is a better conductor of heat than blade",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "handle contains stored energy in form of heat",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "blade is a better conductor of heat than the handle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "blade is placed at a lower temperature than the heat",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e56e705a-4fb1-43c1-91b6-7fbb73333dfc",
+      "question_text": [
+        "I. They should be identicalII. They should originate from the same source.III. They should be coherent.IV. They should be monochromatic.From the statements above, the conditions for two waves to interfere are?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Superposition and Interference ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I,II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I, III and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II, III and IV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II, III and IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af689ffc-ec6f-4cc5-bba4-f3fb551aa6e1",
+      "question_text": [
+        "In a large telecommunications auditorium, perforated absorbent materials are used to line the ceiling so as to"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Hall Effect ",
+        " Magnetism"
+      ],
+      "explanation": "In a large auditorium perforated, absorbent materials are used to line the ceiling so as to reduce the effect of multiple reflection of echo called reverberation",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increase the reverberation of sound in the hall",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the amount of echo in the hall",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reduce the hight of the ceiling from the floor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "reduce the reverberation of sound in the hall",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ba8f5a9e-ed04-4832-b5d5-c18745fced2e",
+      "question_text": [
+        "A reservoir 500 m deep is filled with a fluid of density 850 kgm-3. If the atmospheric pressure is 1.05 x 105 Nm-2, the pressure at the bottom of the reservoir is.[g = 10ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Gauge Pressure, Absolute Pressure, and Pressure Measurement ",
+        " Fluid Statics"
+      ],
+      "explanation": "In general, pressure varies with depth in the relation p = lgh = 850 x 10 x 500= 4250000= 4.25 x 106 NM-2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.72 x 106 Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.36 x 106 Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.28 x 106 Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.25 x 106 Nm-2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5674bdb1-dee7-4bc9-aa34-5c84fec3c06f",
+      "question_text": [
+        "A piece of iron weights 250 N in air and 200 N in a liquid of density 1000 kgm-3. the volume of the iron is?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Representing Magnetic Fields ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "With in the air = 250Nwt. in the liquid = 200N loss in wt. in the liquid = 250 - 200 = 50N∴ Wt. the liquid of equal vol. of the iron = 50N ∴If the density of the liquid is 1000 lgm-3then the volume of the liquid = (N)/D = V = (25kg)/1000 =0.025m3 = 2.5 x 10-2 m8.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.0 x 10-2 ms-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.5 x 10--2 ms-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5 x 10-2 ms-8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.0 x 10-2 ms-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4a4c748-2375-4da0-96d7-0942ac63891b",
+      "question_text": [
+        "A clinical thermometer is different from other mercury in glass thermometers owing to"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Temperature ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the constriction on its stem",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the grade of mercury used in it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "its long stem",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "its wide range of temperatures",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af344a3a-6c6d-486a-bb53-7bfd77b2591d",
+      "question_text": [
+        "I. Use a liquid with a high melting point.II. use a liquid of high volume expansivity.III. use a capillary tube of large diameter. which of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Adhesion and Capillary Action ",
+        " Fluid Statics"
+      ],
+      "explanation": "Using the liquid of high volume expansively  II only",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II. only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0cb34976-7db4-4d60-8226-ededf6da55e8",
+      "question_text": [
+        "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. what is the increase in temperature of the water?[specific heat capacity of water = 4200 jkg -1k-1]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Electricity heat energy supplies by the heater = lvt = 3.5 x 200 x (2 x 60) = 84000j.and this heat is supplied to the 2 kg of the water MC  ∆ t = 84000 2 x 4200 x  ∆ t = 84000∴  ∆t = (84000)/8400 = 10°c∴ increase in temp. of water = 10°c",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10°",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "75f612a0-026d-450e-ac03-a602f3aeae75",
+      "question_text": [
+        "The unit of moment of a couple can be expressed in?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Rotational Inertia and Moment of Inertia ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "Moment of couple= Force × distance (N × m)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N m-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N m-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N m2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1a6c29c0-1772-4325-94f1-3b7b95a8773e",
+      "question_text": [
+        "A gramophone record takes 5s to reach its constant angular velocity of 4\\(\\pi\\) rads-1 from rest. Find its constant angular acceleration."
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Angular Acceleration ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "From the radiation:V = +at, and if it starts from N & T,  U = 0 And for angular motion, W = O + at 4R = aχ5∴ a = (4a)/5 = 0. 8\\(\\pi\\) rads-2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.4\\(\\pi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " rads-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.8\\(\\pi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " rads-2C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dac60d23-d0b5-403e-b182-c3876caa62d7",
+      "question_text": [
+        "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms-1. The magnitude of the centripetal force on the car is ?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Centripetal Force ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "Centipetal force of the car = ma = (MV)2/r= (1500 x 40 x40)/50 = 48000 = 4.8 x 104 N",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.8 x 104 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.8 x 103  N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.2 x 103  N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.2 x 102 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "03f19983-f5e9-44d6-bab4-8d7864b4f324",
+      "question_text": [
+        "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them?[G = 6.67 X 10-11 Nm2 Kg2]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "More Charge Examples ",
+        " Electric Charges and Fields"
+      ],
+      "explanation": "The force of attraction between the two spheres is given by F (GM1 M2)/r2 = (6.67X 10-11 X5X10)/(0.3)2= 3.71 X 10-8N.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.50 x 10-10N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.71 x 10-8 N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.57 x 10-2N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.00 x 102N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca83db66-9076-49f3-8a2f-9a927f9843b7",
+      "question_text": [
+        "A machine has a velocity ratio of 4. if it requires 800 N to overcome a load of 1600 N,what is the efficiency of the machine?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Simple Machines ",
+        " Statics and Torque"
+      ],
+      "explanation": "Efficiency = (M.A)/V.R X (100)/1But M.A = (Load)/Effort = (1600)/800 = 2Efficiency = (2)/4 x (100)/1 = 50%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "40%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d85d08a-8fd8-433f-8ff3-b98df50e0d4c",
+      "question_text": [
+        "A plane inclined at an angle at 30o to the horizontal has an efficiency of 50%. The force parallel to the plane required to push a load of 120 N uniformly up the plane is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Resolving Forces Into Components ",
+        " Newton's Laws"
+      ],
+      "explanation": "E = M.A/V.R ; 50/100 = M.A/2M.A = 1; L/E = 1E = L = 120N",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40√3N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "60N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "200NE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1314028b-16e2-430b-b333-574fcad769eb",
+      "question_text": [
+        "From the diagram above, the inductive reactance and the resistance R are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Reactance, Inductive and Capacitive ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/09/phy01.jpg",
+      "explanation": "The inductive reactance is given as <br>Xl = 2πfl<br>= 2 x <sup>50</sup>/<sub>π</sub> x 0.1<br>= 10Ω<br>Again from ohms law, <br>R = <sup>V</sup>/<sub>I</sub> = <sup>75</sup>/<sub>1.5</sub> = 50Ω<br>∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50Ω and 45Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25Ω and 51Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20Ω and 50Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10Ω and 50Ω",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b80dcc78-16d5-417a-b080-adea0ac16122",
+      "question_text": [
+        "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Reactance, Inductive and Capacitive ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Power of the lamp = 60W = \\( \\frac{v^2}{R} \\) and the voltage rate = 120V\\( \\implies R = \\frac{V^2}{60} = \\frac{120 \\times 120}{60} = 240Ω \\)Now, if the resistance of the lamp is 240Ω the fuse wire that should ensure current does not exceed this value should be rated 200Ω.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "200Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "300Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "500Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da3b501c-819f-47c2-92cb-bc289a40a688",
+      "question_text": [
+        "A 40KW electric cable was uses to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Why Use AC for Power Distribution? ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "In general, Power = IV; \\( \\implies 40KW = IV \\\\ \\text{Therefore } 40000 = 1 \\times 800\\\\\\implies I = \\frac{40000}{800} = 50A,\\text{tune the current through} \\)Resistor = 50Apower loss= I2R = 502 x 2 = 2500 x 2 = 5.0 x 103W",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 x 103W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.0 x 103W",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ebac33b5-d0bd-4a3c-be0e-1c830cc96163",
+      "question_text": [
+        "Two long parallel wires X and Y carry currents 3A and 5A each. if the force experienced by unit length is 5 x 10-5N. the force per unit length experienced by wire Y is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Magnetic Force Between Two Parallel Conductors ",
+        " Magnetism"
+      ],
+      "explanation": "since the wires are parallel to each other, the forces which they exert on each other are equal and opposite, since they must agree with newton's law of action an reaction. Hence the force exerted by the wire is equally5 x 10-5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3 x 10-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 x 10-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 x 105",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 x 10-5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "31823699-88a3-4b41-84b9-385cd276eb89",
+      "question_text": [
+        "Lenz's law is a law of conservation of"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Law of Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Lenz's lew of electrical magnetic induction is usefully referred to as the law of conservation of energy",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electric charge",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "electric current",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Momentum",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d162510-dd86-43e5-8b7b-c3d25a6e1fcc",
+      "question_text": [
+        "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Resolving Forces Into Components ",
+        " Newton's Laws"
+      ],
+      "explanation": "Efficiency = \\( \\frac{W(120N)INPUT}{WORK OUTPUT} \\times \\frac{100}{1}  \\)And for incline planeV.R =\\( \\frac{1}{Sin\\theta} \\\\    = V.R = \\frac{1}{Sin30} =\\frac{1}{0.5} = 2 \\\\ \\text{therefore } \\frac{60}{120} = \\frac{M.A}{2} =M.A = \\frac{120}{100} = 1.2\\\\\\text{but M.A } = \\frac{load}{effort} = \\frac{120}{E}\\\\ \\text{therefore} \\frac{120}{E} = 1.2 \\\\ = E =\\frac{120}{1.2 } = 100N \\\\ \\)Therefore Effort up the plane = 100N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "210N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8994315d-e643-435d-ad5f-7f256561cc36",
+      "question_text": [
+        "A string of length 4m is extended by 0.02m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing the Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "From hooke's law F = Ke\\(\\frac{F_1}{e_1} - \\frac{F_2}{e_2} \\text{therefore} \\frac{4}{0.02} = \\frac{15}{e_2} \\) e1 = \\( \\frac{0.02 x 15}{4} = 0.075M \\)The new length of the string is 4 + 0.075= 4.075= 4.08",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.05m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.08m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.05m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.08m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff8b60df-b20a-4978-9ccb-450d84ad3faa",
+      "question_text": [
+        "Which of the following gas laws is equivalent to the work done?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing the Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Mathematically Boyle's law = PV = KWhere P = Pressureand V = VolumeBy definition Pressure = \\( \\frac{F}{A} = \\frac{F}{M \\times M} \\)Again Workdone = force x displacementtherefore \\( PV = \\frac{F}{A} \\times V = \\frac{F}{M^2} \\times \\frac{M^3}{1} \\\\PV = \\frac{F}{x\\times x} \\times \\frac{x \\times x \\times x}{1} = F \\times x \\)= force x displacement",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Boyle' law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Charles law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "van der Waal's law",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7005c2d2-7546-44e4-b26e-b703e5c9b649",
+      "question_text": [
+        "The difference observed in solids, liquids and gases can be accounted for by"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "What is a Fluid? ",
+        " Fluid Statics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The different molecules in each of them",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The spaces and forces acting between the molecules",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Thier melting points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Their relative massess",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24caf905-f3d6-4dc6-b785-acbee4f81f50",
+      "question_text": [
+        "118.8cm2 surface of the copper cathode of a voltameter is to be coated with 10-6m thick copper of density 9 x 103kgm-3. How long will the process run with 10A constant current?[3.3 x 10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "From faradays law, M = itzBut mass, M = volume  x density and volume = cross sectional area x thickness M = 118.8cm2 x 10-6 x 9 x 103∴ 118.8cm2 x 10-6 x 9 x 103 = 10 x t x 3.3 x 10-7∴ (118.8 x 9) x 10-7 = 10 x t x 3.3 x 10-7∴ t = \\(\\frac{118.8 \\times 9}{ 3.3}\\)t = 324 secondsConvert to minutes by dividing by 60t = \\(\\frac{324}{60}\\)t = 5.4 sec",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.4 min",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.8 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20.0 min",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "66fca4f3-44f0-42bc-a39c-b1f3f941cb6f",
+      "question_text": [
+        "During the nuclear reaction described by235W →235X→231Y929391The particles emitted are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Nuclear Radioactivity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "The decay process illustrated above shows that the lost β -particle to decay to the X by increase its  atomic number ( from 92 to 93) and leaving the mass no. unaffected. There after, x decayed by -α emission to give Y, by decreasing the mass no. by 2 ( from 93 to 91).Thus , the emission is β and α particles respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "α and α",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "α and β",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "β and β",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "β and α",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8f446536-7346-43f6-90f2-5900d69057eb",
+      "question_text": [
+        "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Reactance, Inductive and Capacitive ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Power of the lamp = 60W = \\( \\frac{v^2}{R} \\) and the voltage rate = 120V\\( \\implies R = \\frac{V^2}{60} = \\frac{120 \\times 120}{60} = 240Ω \\)Now, if the resistance of the lamp is 240Ω the fuse wire that should ensure current does not exceed this value should be rated 200Ω.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "200Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "300Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "500Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "89f15ceb-bf9d-4798-80c5-2de510e2376c",
+      "question_text": [
+        "A 40KW electric cable was uses to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Why Use AC for Power Distribution? ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "In general, Power = IV; \\( \\implies 40KW = IV \\\\ \\text{Therefore } 40000 = 1 \\times 800\\\\\\implies I = \\frac{40000}{800} = 50A,\\text{tune the current through} \\)Resistor = 50Apower loss= I2R = 502 x 2 = 2500 x 2 = 5.0 x 103W",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 x 103W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.0 x 103W",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f20d403e-ce45-4ba2-bfa5-a18fc1017a04",
+      "question_text": [
+        "Two long parallel wires X and Y carry currents 3A and 5A each. if the force experienced by unit length is 5 x 10-5N. the force per unit length experienced by wire Y is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Magnetic Force Between Two Parallel Conductors ",
+        " Magnetism"
+      ],
+      "explanation": "since the wires are parallel to each other, the forces which they exert on each other are equal and opposite, since they must agree with newton's law of action an reaction. Hence the force exerted by the wire is equally5 x 10-5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3 x 10-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 x 10-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 x 105",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 x 10-5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "38dad995-aeae-414e-b273-6bd91c9c4ee3",
+      "question_text": [
+        "Lenz's law is a law of conservation of"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Law of Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Lenz's lew of electrical magnetic induction is usefully referred to as the law of conservation of energy",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electric charge",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "electric current",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Momentum",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28f16579-fe00-41ba-aaf9-9af7c14361e9",
+      "question_text": [
+        "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Resolving Forces Into Components ",
+        " Newton's Laws"
+      ],
+      "explanation": "Efficiency = \\( \\frac{W(120N)INPUT}{WORK OUTPUT} \\times \\frac{100}{1}  \\)And for incline planeV.R =\\( \\frac{1}{Sin\\theta} \\\\    = V.R = \\frac{1}{Sin30} =\\frac{1}{0.5} = 2 \\\\ \\text{therefore } \\frac{60}{120} = \\frac{M.A}{2} =M.A = \\frac{120}{100} = 1.2\\\\\\text{but M.A } = \\frac{load}{effort} = \\frac{120}{E}\\\\ \\text{therefore} \\frac{120}{E} = 1.2 \\\\ = E =\\frac{120}{1.2 } = 100N \\\\ \\)Therefore Effort up the plane = 100N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "210N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b6f1fb1-22cd-4b85-875a-a61298f759ab",
+      "question_text": [
+        "A string of length 4m is extended by 0.02m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing the Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "From hooke's law F = Ke\\(\\frac{F_1}{e_1} - \\frac{F_2}{e_2} \\text{therefore} \\frac{4}{0.02} = \\frac{15}{e_2} \\) e1 = \\( \\frac{0.02 x 15}{4} = 0.075M \\)The new length of the string is 4 + 0.075= 4.075= 4.08",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.05m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.08m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.05m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.08m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa698f6a-d2b7-4914-b0db-39316b12bebf",
+      "question_text": [
+        "Which of the following gas laws is equivalent to the work done?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing the Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Mathematically Boyle's law = PV = KWhere P = Pressureand V = VolumeBy definition Pressure = \\( \\frac{F}{A} = \\frac{F}{M \\times M} \\)Again Workdone = force x displacementtherefore \\( PV = \\frac{F}{A} \\times V = \\frac{F}{M^2} \\times \\frac{M^3}{1} \\\\PV = \\frac{F}{x\\times x} \\times \\frac{x \\times x \\times x}{1} = F \\times x \\)= force x displacement",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Boyle' law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Charles law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "van der Waal's law",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e80997c-0da6-4874-a806-244375ff9253",
+      "question_text": [
+        "The difference observed in solids, liquids and gases can be accounted for by"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "What is a Fluid? ",
+        " Fluid Statics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The different molecules in each of them",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The spaces and forces acting between the molecules",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Thier melting points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Their relative massess",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c934228c-bf06-439d-a22f-88f5ef025948",
+      "question_text": [
+        "118.8cm2 surface of the copper cathode of a voltameter is to be coated with 10-6m thick copper of density 9 x 103kgm-3. How long will the process run with 10A constant current?[3.3 x 10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "From faradays law, M = itzBut mass, M = volume  x density and volume = cross sectional area x thickness M = 118.8cm2 x 10-6 x 9 x 103∴ 118.8cm2 x 10-6 x 9 x 103 = 10 x t x 3.3 x 10-7∴ (118.8 x 9) x 10-7 = 10 x t x 3.3 x 10-7∴ t = \\(\\frac{118.8 \\times 9}{ 3.3}\\)t = 324 secondsConvert to minutes by dividing by 60t = \\(\\frac{324}{60}\\)t = 5.4 sec",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.4 min",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.8 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20.0 min",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c744f4bb-842d-4a8c-a701-5f9c2b39d561",
+      "question_text": [
+        "During the nuclear reaction described by235W →235X→231Y929391The particles emitted are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Nuclear Radioactivity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "The decay process illustrated above shows that the lost β -particle to decay to the X by increase its  atomic number ( from 92 to 93) and leaving the mass no. unaffected. There after, x decayed by -α emission to give Y, by decreasing the mass no. by 2 ( from 93 to 91).Thus , the emission is β and α particles respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "α and α",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "α and β",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "β and β",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "β and α",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8c8baddd-8d0c-4e3b-9e3e-483d8da0f467",
+      "question_text": [
+        "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Reactance, Inductive and Capacitive ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Power of the lamp = 60W = \\( \\frac{v^2}{R} \\) and the voltage rate = 120V\\( \\implies R = \\frac{V^2}{60} = \\frac{120 \\times 120}{60} = 240Ω \\)Now, if the resistance of the lamp is 240Ω the fuse wire that should ensure current does not exceed this value should be rated 200Ω.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "200Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "300Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "500Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a850f270-2599-42ff-b70c-f5ef52246fb7",
+      "question_text": [
+        "A 40KW electric cable was uses to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Why Use AC for Power Distribution? ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "In general, Power = IV; \\( \\implies 40KW = IV \\\\ \\text{Therefore } 40000 = 1 \\times 800\\\\\\implies I = \\frac{40000}{800} = 50A,\\text{tune the current through} \\)Resistor = 50Apower loss= I2R = 502 x 2 = 2500 x 2 = 5.0 x 103W",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.0 x 102W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0 x 103W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.0 x 103W",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "297a5697-b288-4c3b-9b9d-7ab41055ba7e",
+      "question_text": [
+        "Two long parallel wires X and Y carry currents 3A and 5A each. if the force experienced by unit length is 5 x 10-5N. the force per unit length experienced by wire Y is"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Magnetic Force Between Two Parallel Conductors ",
+        " Magnetism"
+      ],
+      "explanation": "since the wires are parallel to each other, the forces which they exert on each other are equal and opposite, since they must agree with newton's law of action an reaction. Hence the force exerted by the wire is equally5 x 10-5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3 x 10-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 x 10-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 x 105",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 x 10-5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a82397d9-9d8c-40c3-883f-5d7a722f16e5",
+      "question_text": [
+        "Lenz's law is a law of conservation of"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Law of Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Lenz's lew of electrical magnetic induction is usefully referred to as the law of conservation of energy",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electric charge",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "electric current",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Momentum",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2be38378-48a8-4a25-a246-77a41783b232",
+      "question_text": [
+        "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Resolving Forces Into Components ",
+        " Newton's Laws"
+      ],
+      "explanation": "Efficiency = \\( \\frac{W(120N)INPUT}{WORK OUTPUT} \\times \\frac{100}{1}  \\)And for incline planeV.R =\\( \\frac{1}{Sin\\theta} \\\\    = V.R = \\frac{1}{Sin30} =\\frac{1}{0.5} = 2 \\\\ \\text{therefore } \\frac{60}{120} = \\frac{M.A}{2} =M.A = \\frac{120}{100} = 1.2\\\\\\text{but M.A } = \\frac{load}{effort} = \\frac{120}{E}\\\\ \\text{therefore} \\frac{120}{E} = 1.2 \\\\ = E =\\frac{120}{1.2 } = 100N \\\\ \\)Therefore Effort up the plane = 100N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "210N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "99b2966f-30fc-472c-a294-70c73179bc26",
+      "question_text": [
+        "A string of length 4m is extended by 0.02m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing the Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "From hooke's law F = Ke\\(\\frac{F_1}{e_1} - \\frac{F_2}{e_2} \\text{therefore} \\frac{4}{0.02} = \\frac{15}{e_2} \\) e1 = \\( \\frac{0.02 x 15}{4} = 0.075M \\)The new length of the string is 4 + 0.075= 4.075= 4.08",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.05m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.08m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.05m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.08m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0e4b136-2406-4a39-8d53-98436c8ba514",
+      "question_text": [
+        "Which of the following gas laws is equivalent to the work done?"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing the Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Mathematically Boyle's law = PV = KWhere P = Pressureand V = VolumeBy definition Pressure = \\( \\frac{F}{A} = \\frac{F}{M \\times M} \\)Again Workdone = force x displacementtherefore \\( PV = \\frac{F}{A} \\times V = \\frac{F}{M^2} \\times \\frac{M^3}{1} \\\\PV = \\frac{F}{x\\times x} \\times \\frac{x \\times x \\times x}{1} = F \\times x \\)= force x displacement",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Boyle' law",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Charles law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "van der Waal's law",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4bf830dc-b2c6-4f89-95e7-884e71b31801",
+      "question_text": [
+        "The difference observed in solids, liquids and gases can be accounted for by"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "What is a Fluid? ",
+        " Fluid Statics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The different molecules in each of them",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The spaces and forces acting between the molecules",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Thier melting points",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Their relative massess",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f4da3cd7-bf6f-4596-a8e6-aedde79a3f3a",
+      "question_text": [
+        "118.8cm2 surface of the copper cathode of a voltameter is to be coated with 10-6m thick copper of density 9 x 103kgm-3. How long will the process run with 10A constant current?[3.3 x 10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "From faradays law, M = itzBut mass, M = volume  x density and volume = cross sectional area x thickness M = 118.8cm2 x 10-6 x 9 x 103∴ 118.8cm2 x 10-6 x 9 x 103 = 10 x t x 3.3 x 10-7∴ (118.8 x 9) x 10-7 = 10 x t x 3.3 x 10-7∴ t = \\(\\frac{118.8 \\times 9}{ 3.3}\\)t = 324 secondsConvert to minutes by dividing by 60t = \\(\\frac{324}{60}\\)t = 5.4 sec",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.4 min",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.8 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20.0 min",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dba49aad-6bd0-425e-8421-2d31b013497b",
+      "question_text": [
+        "During the nuclear reaction described by235W →235X→231Y929391The particles emitted are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2007",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Nuclear Radioactivity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "The decay process illustrated above shows that the lost β -particle to decay to the X by increase its  atomic number ( from 92 to 93) and leaving the mass no. unaffected. There after, x decayed by -α emission to give Y, by decreasing the mass no. by 2 ( from 93 to 91).Thus , the emission is β and α particles respectively",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "α and α",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "α and β",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "β and β",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "β and α",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+        "id": "02f16f04-4f69-4c9b-9a81-ac8332b50fa7",
+        "question_text": [
+          "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Summarizing Reactance, Inductive and Capacitive ",
+          " Electromagnetic Induction and AC Circuits"
+        ],
+        "explanation": "Power of the lamp = 60W = \\( \\frac{v^2}{R} \\) and the voltage rate = 120V\\( \\implies R = \\frac{V^2}{60} = \\frac{120 \\times 120}{60} = 240Ω \\)Now, if the resistance of the lamp is 240Ω the fuse wire that should ensure current does not exceed this value should be rated 200Ω.",
+        "explanationMsg": "The correct answer is B.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "100Ω",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "200Ω",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "C.",
+            "answer": "300Ω",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "500Ω",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "3fe26070-a7d1-4a0c-94df-b7ca40d36c31",
+        "question_text": [
+          "A 40KW electric cable was uses to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Why Use AC for Power Distribution? ",
+          " Electric Current, Resistance, and Ohm's Law"
+        ],
+        "explanation": "In general, Power = IV; \\( \\implies 40KW = IV \\\\ \\text{Therefore } 40000 = 1 \\times 800\\\\\\implies I = \\frac{40000}{800} = 50A,\\text{tune the current through} \\)Resistor = 50Apower loss= I2R = 502 x 2 = 2500 x 2 = 5.0 x 103W",
+        "explanationMsg": "The correct answer is D.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "4.0 x 102W",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "5.0 x 102W",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "4.0 x 103W",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "5.0 x 103W",
+            "isCorrect": "true"
+          }
+        ]
+      },
+      {
+        "id": "c49d808f-3eba-4651-8943-ece09feb51e0",
+        "question_text": [
+          "Two long parallel wires X and Y carry currents 3A and 5A each. if the force experienced by unit length is 5 x 10-5N. the force per unit length experienced by wire Y is"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Magnetic Force Between Two Parallel Conductors ",
+          " Magnetism"
+        ],
+        "explanation": "since the wires are parallel to each other, the forces which they exert on each other are equal and opposite, since they must agree with newton's law of action an reaction. Hence the force exerted by the wire is equally5 x 10-5",
+        "explanationMsg": "The correct answer is D.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "3 x 10-5",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "3 x 10-6",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "5 x 105",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "5 x 10-5",
+            "isCorrect": "true"
+          }
+        ]
+      },
+      {
+        "id": "d6bd0dd1-03d3-4ff2-84c4-1b02cfea67f8",
+        "question_text": [
+          "Lenz's law is a law of conservation of"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Law of Conservation of Energy ",
+          " Work, Energy and Energy Resources"
+        ],
+        "explanation": "Lenz's lew of electrical magnetic induction is usefully referred to as the law of conservation of energy",
+        "explanationMsg": "The correct answer is C.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "electric charge",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "electric current",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "Energy",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "D.",
+            "answer": "Momentum",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "348ddfae-ed1b-4cc3-9259-204ee571fff5",
+        "question_text": [
+          "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Resolving Forces Into Components ",
+          " Newton's Laws"
+        ],
+        "explanation": "Efficiency = \\( \\frac{W(120N)INPUT}{WORK OUTPUT} \\times \\frac{100}{1}  \\)And for incline planeV.R =\\( \\frac{1}{Sin\\theta} \\\\    = V.R = \\frac{1}{Sin30} =\\frac{1}{0.5} = 2 \\\\ \\text{therefore } \\frac{60}{120} = \\frac{M.A}{2} =M.A = \\frac{120}{100} = 1.2\\\\\\text{but M.A } = \\frac{load}{effort} = \\frac{120}{E}\\\\ \\text{therefore} \\frac{120}{E} = 1.2 \\\\ = E =\\frac{120}{1.2 } = 100N \\\\ \\)Therefore Effort up the plane = 100N",
+        "explanationMsg": "The correct answer is B.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "50N",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "100N",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "C.",
+            "answer": "175N",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "210N",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "817908d7-2b7a-4f7d-9177-bf420c7163c1",
+        "question_text": [
+          "A string of length 4m is extended by 0.02m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Summarizing the Simple Pendulum ",
+          " Oscillatory Motion and Waves"
+        ],
+        "explanation": "From hooke's law F = Ke\\(\\frac{F_1}{e_1} - \\frac{F_2}{e_2} \\text{therefore} \\frac{4}{0.02} = \\frac{15}{e_2} \\) e1 = \\( \\frac{0.02 x 15}{4} = 0.075M \\)The new length of the string is 4 + 0.075= 4.075= 4.08",
+        "explanationMsg": "The correct answer is B.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "4.05m",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "4.08m",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "C.",
+            "answer": "5.05m",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "6.08m",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "5c66727a-e6f7-4d48-97f7-ec96f4e6cd89",
+        "question_text": [
+          "Which of the following gas laws is equivalent to the work done?"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Summarizing the Ideal Gas Law ",
+          " Temperature, Kinetic Theory, and Gas Laws"
+        ],
+        "explanation": "Mathematically Boyle's law = PV = KWhere P = Pressureand V = VolumeBy definition Pressure = \\( \\frac{F}{A} = \\frac{F}{M \\times M} \\)Again Workdone = force x displacementtherefore \\( PV = \\frac{F}{A} \\times V = \\frac{F}{M^2} \\times \\frac{M^3}{1} \\\\PV = \\frac{F}{x\\times x} \\times \\frac{x \\times x \\times x}{1} = F \\times x \\)= force x displacement",
+        "explanationMsg": "The correct answer is A.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "Boyle' law",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "B.",
+            "answer": "Charles law",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "Pressure law",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "van der Waal's law",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "c79e253e-e50f-446c-be36-e3a817c21bbf",
+        "question_text": [
+          "The difference observed in solids, liquids and gases can be accounted for by"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "What is a Fluid? ",
+          " Fluid Statics"
+        ],
+        "explanation": "",
+        "explanationMsg": "The correct answer is B.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "The different molecules in each of them",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "The spaces and forces acting between the molecules",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "C.",
+            "answer": "Thier melting points",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "Their relative massess",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "117cff8d-73cc-49cb-98ae-f067387c06ad",
+        "question_text": [
+          "118.8cm2 surface of the copper cathode of a voltameter is to be coated with 10-6m thick copper of density 9 x 103kgm-3. How long will the process run with 10A constant current?[3.3 x 10-7kgC-1]"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Drift Velocity ",
+          " Electric Current, Resistance, and Ohm's Law"
+        ],
+        "explanation": "From faradays law, M = itzBut mass, M = volume  x density and volume = cross sectional area x thickness M = 118.8cm2 x 10-6 x 9 x 103∴ 118.8cm2 x 10-6 x 9 x 103 = 10 x t x 3.3 x 10-7∴ (118.8 x 9) x 10-7 = 10 x t x 3.3 x 10-7∴ t = \\(\\frac{118.8 \\times 9}{ 3.3}\\)t = 324 secondsConvert to minutes by dividing by 60t = \\(\\frac{324}{60}\\)t = 5.4 sec",
+        "explanationMsg": "The correct answer is A.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "5.4 min",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "B.",
+            "answer": "10.8 min",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "15.0 min",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "20.0 min",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "048990fb-7cb4-4ab3-a464-66c5963e9237",
+        "question_text": [
+          "During the nuclear reaction described by235W →235X→231Y929391The particles emitted are respectively"
+        ],
+        "examType": "jamb",
+        "year": "2007",
+        "subject": "physics",
+        "pageNum": "10",
+        "related_lessons": [
+          "Summarizing Nuclear Radioactivity ",
+          " Radioactivity and Nuclear Physics"
+        ],
+        "explanation": "The decay process illustrated above shows that the lost β -particle to decay to the X by increase its  atomic number ( from 92 to 93) and leaving the mass no. unaffected. There after, x decayed by -α emission to give Y, by decreasing the mass no. by 2 ( from 93 to 91).Thus , the emission is β and α particles respectively",
+        "explanationMsg": "The correct answer is D.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "α and α",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "α and β",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "β and β",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "β and α",
+            "isCorrect": "true"
+          }
+        ]
+      }
+    ]

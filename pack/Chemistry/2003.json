@@ -1,0 +1,5294 @@
+
+[
+    {
+      "id": "d4148159-bdc1-449e-a7a9-640d8b2d1446",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2a4f909-8d40-40f6-9d3f-2e035299a49d",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fb592d63-343d-4d26-a30d-aa7edb39abc1",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d37cf6b0-1acb-4b1f-9fbc-5f8454370166",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3225f3c2-6014-4f50-9551-f36061e06929",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7ac28f4-72f3-40fa-b893-8234eee87b6c",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a487a897-52df-4842-8848-34fa5595b1a8",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "410d6424-1f63-4a7c-8716-2e603006f450",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4915ad47-e1de-471a-b87d-fe2de26ac0d7",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0a5460f1-7a82-410c-aed5-5e7fce58213d",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "07e5c2c7-deff-47f9-b901-fc925c949941",
+      "question_text": [
+        "If an equilibrium reaction has ∆H < O, the reaction will proceed favorably in the forward reaction at?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Calculations Involving Equilibrium Concentrations ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "low temperatures",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "high temperatures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "all temperatures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "all pressures",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64026f45-292c-4a92-a69e-ff2b847e1bb8",
+      "question_text": [
+        "Ethanol reacts with excess acidified K2Cr2O to produce"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Carbonyl-Containing Compounds ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanedioic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethylethanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethanoic acid",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2ca36647-1269-43c6-8611-cf9fcdb1a7b8",
+      "question_text": [
+        "A compound contains 40.0% carbon 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula.[H = 1, C = 12, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C - 40% ; 40/12 = 3.33H - 6.7% ; 6.7/1 = 6.7O - 53.3% ; 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1CH2O(CH2O)n = 180(12 + 2 + 16)~n = 180 30n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "305fb2fa-3fa0-41e7-8716-6083dca31cb0",
+      "question_text": [
+        "The process by which atoms are rearranged into different molecular structure in the petroleum refining process is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Molecular Structure and Polarity ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "catalytic cracking",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrocracking",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polymerization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "reforming",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "70c8565c-a7f0-481c-bd7f-55b375d8f1dc",
+      "question_text": [
+        "Which of the following is found in cotton"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Carbohydrate Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Starch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cellulose",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fat",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Oil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8f47b328-5ad5-4dfe-87ac-8097f3dc9ba5",
+      "question_text": [
+        "The principal constituent of natural gas is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Producing Hydrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "butane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef611058-ccf1-42d6-ab80-868c8a5a8410",
+      "question_text": [
+        "Ethene reacts with hydrogen bromide to give"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2Br2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3CH2Br",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "C2H2Br2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CHBr2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11f7ec3e-c9b5-47fb-90e0-05a1b8c8b919",
+      "question_text": [
+        "How many isomers does pentane have?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "91bcde8d-2e93-499c-9070-c3e2aad1e2ab",
+      "question_text": [
+        "The leachate of a certain plant ash is used in local soap making because it contains"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Production of Chlorine ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonates",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6bfd95e7-2ffb-4199-bb73-40bec3a6be6d",
+      "question_text": [
+        "The formula for ethyl butanoate is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Naming Esters ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C3H7COOC2H5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "C2H5COOC3H7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C4H9COOC2H5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C2H5COOC4H9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35f5a1cf-63ea-42ee-b388-4c6cdbd3f128",
+      "question_text": [
+        "The type of reaction that is peculiar to benzene is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Addition, Elimination and Substitution Reactions ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "addition",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polymerization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "substitution",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2dda9dda-9595-4a16-a535-3be365858706",
+      "question_text": [
+        "Which of the following statements is true of sulphur (IV) oxide?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Acid and Metal Oxide ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "It forms tetraoxosulphate (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " acid with water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "It is an odourless gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "It is an acid hybrideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d9698739-e398-462d-a0d4-fae99f040ebd",
+      "question_text": [
+        "The salt that will form a precipitate soluble in excess ammonia solution is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Precipitation Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ca(NO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cu(NO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "891014b8-ba05-41cd-98a4-9195843105c2",
+      "question_text": [
+        "The metal that liberates hydrogen from cold water in bubbles only is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Al",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42bf88fa-4566-4656-9322-54ecd4b94035",
+      "question_text": [
+        "Chlorine gas turns a damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "97481ea4-0170-4543-8df6-12f76821fa60",
+      "question_text": [
+        "The modern process of manufacturing steel for iron is by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "treatment with acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "oxidation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "blast reduction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "treatment with alkanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f1f9c096-181d-475f-a652-01c535dbeaae",
+      "question_text": [
+        "When sugar is dissolved in tea, the reaction is always accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3bd18cf-639d-4ff4-bd96-2e14a3320f32",
+      "question_text": [
+        "Which of the following is an electrolyte?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Salts of Weak Acids and Strong Bases ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alcohol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sodium acetate solution",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Solid potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mercury",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "511d938e-017d-40a3-a4b0-3b0687411815",
+      "question_text": [
+        "Chlorine gas is prepared in the laboratory by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Acid and a Metal Carbonate ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "adding concentrated hydrochloric acid to solid manganese (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "aciding concentrated tetraoxosulphate (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " acid to solid sodium chlorideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36488ca7-dfd2-41c0-9493-ad4066746e74",
+      "question_text": [
+        "Metals of the first transition series have special properties which are different from those of groups I and II elements because they have partially filled"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Transition Metals and Their Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "s orbitals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p orbitals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "d orbitals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "f orbitals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2044095-754f-42a5-9b1b-11a99a4607f7",
+      "question_text": [
+        "Hydrogen can be displaced from a hot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ca",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "439c4499-1a23-4051-9746-836ff5f10fa1",
+      "question_text": [
+        "Which of the following will change when a catalyst is added to a chemical reaction?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The activation energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "The potential energy of the reactants",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The heat of the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the potential energy of the product",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "81860498-5c3c-4296-be3c-beaf63a95702",
+      "question_text": [
+        "If y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Structure and General Properties of the Nonmetals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Y increases in oxidation number",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Y becomes reduced",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Z loses protons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Z gains protons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a1c43a5e-5bd1-449c-8345-2c48a412ec86",
+      "question_text": [
+        "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Effect of Pressure on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2SO3(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " ↔ 2SO2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " + O2(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "db76f16d-b95f-4724-a212-d7de26598da1",
+      "question_text": [
+        "In the electrolysis of a concentrated solution of sodium chloride using electrodes, which of the following ions are discharged at the cathode and anode respectively?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Na+ and Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Na+ and OH-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+ and OH-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "H+ and Cl-",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c2ea3398-ad00-4b34-a193-431882c15a77",
+      "question_text": [
+        "CO(g) + H2O(g) → CO2(g) + H2(g)From the reaction above, calculate the standard enthalpies of formation of CO2(g), H2O(g) and CO(g) in kJ mol-1 are -394, -242, and -110 respectively."
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Standard Enthalpy of Formation ",
+        " Thermochemistry"
+      ],
+      "explanation": "CO + H2O → CO2 + H2 DH = 394 kJ mol-1-242 + 110 = -352 kJ mol-135 = -394 -(352)= -394 + 352= -42 kJ mol-1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-262 kJ mol-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-42 kJ mol-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "+42 kJ mol-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "+262 kJ mol-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c96e8a8-0c63-405f-94b5-25bce954f011",
+      "question_text": [
+        "Farmlands affected by crude-oil spillage can be decontaminated by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Adding acidic solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Using aerobic bacteria",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pouring water on the affected water area",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Burning off the oil from the area",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75d3061e-03f4-4117-b75f-47d20291c05b",
+      "question_text": [
+        "When 10g of sodium hydroxide is dissolved in 1000cm3 of water, the sodium formed is approximately[Na = 23, H = 1, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Redox Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.01 mol dm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.10 mol dm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.25 mol dm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50 mol dm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a52a8470-8861-424c-9e5c-59f3f9f4801e",
+      "question_text": [
+        "A change in temperature of a saturated solution disturb the equilibrium between the"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Dissolved solute and the solvent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Solvent and undissolved solute",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dissolved solute and undissolved  solute",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dissolved solute and the solution",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6eebf516-6155-4761-8991-2f0ce56a6219",
+      "question_text": [
+        "The commonest feature of reactions at the anode is that"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Predictions in Half-Cells ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electrons are consumed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "oxidation is involved",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ions are reduced",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electrode dissolves",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7414126c-15de-465c-860f-922d20c4106b",
+      "question_text": [
+        "A consequence of global warming is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Greenhouse Effect ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "air pollution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "water pollution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increased humudity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "flooding",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b8455c73-82a3-49ae-9147-3f0ca3f4cf64",
+      "question_text": [
+        "Which of the following ions is acidic?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Hydrolysis of Salt Solutions ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "Acids are ionic compounds ( a compound with a positive or negative charge) that break apart in water to form a hydrogen ion (H+).For example: NaCl, KNO3, CaBr2, CsClO4",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "K+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "KNO3-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "S2-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "H3O+",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "021d6269-6666-453f-89cd-a99a4c51d88d",
+      "question_text": [
+        "The structural component that makes detergent dissolve more quickly in water than soap is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Representing Organic Molecules ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-SO3- Na+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-COO-Na-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-SO4- Na+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-COO-K+",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2444027-f507-47da-b5d3-0eb37a30ae5e",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Calcium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "078aada2-ff4a-4e0f-b6aa-1ff29d9f0859",
+      "question_text": [
+        "What mass of K2CrO4 is required to prepare 250cm3 of 0.020 mol dm3 solution?[K2CrO4 = 194.2g mol-1]"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Formula Mass and Mole Relationship ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "1 mole m-3 K2CrO4 contains 194.2g mol-1 in 1000cm31 mole m-3 K2CrO4 contains 92.2g mol-1 in 500cm31 mole m-3 K2CrO4 contains 48.55g mol-1 in 250cm3If n molm-3 K2CrO4 contain 48.550.02 molm-3 will contain (0.02/1) * (48.55/1) = 0.97g",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.97g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "9.70g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "19.42g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "97.10g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b60e564-9052-4d01-88b8-4ec8e470ee07",
+      "question_text": [
+        "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Remain constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2beb15a-c7f3-44f3-8a66-31d64ac29c19",
+      "question_text": [
+        "I. H = 1s1 II. N = 1s2 2s2 p3 III. O = 1s2 2s2 p4 IV. Zn = 1s2 2s2 2p6 3s2 3p6 4s2 3d10From the above, which of the following pairs is like to be paramagnetic?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I and IV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III and IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8655d903-120d-4f29-98c3-d5075a4a79f3",
+      "question_text": [
+        "A gas exerts pressure on its container because"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Kinetic-Molecular Theory ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "some of its molecules are moving faster than others",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "of the collision of the molecules with each other",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "of the mass of the molecules of gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the molecules of a gas colide with the walls of the container",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c7d5f129-c841-43bb-b4b6-2d36bdb16e85",
+      "question_text": [
+        "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Cathode Rays ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "negatively charged",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "positvely charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bipolar",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d6eb225-81fb-4e09-a5d4-86f3d5037b3a",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Non-Ideal Gas Behavior ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "coordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "van der Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a3725d57-7348-4a11-a47a-f7310595a679",
+      "question_text": [
+        "What is the percentage by mass of oxygen in Al2(SO4)3. 2H2O?[Al = 27, S = 32, H = 1, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Mass Percentage ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Al2(SO4)3. 2H2O2 * 27 + 3*32 + 14 * 16 + 4 * 1 = 54 + 96 + 224 + 4 = 378% O2 = (224/378) * (100/1) = 59.25%",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.29%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25.39%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50.79%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "59.25%",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f5cfb87e-6334-4453-a646-47542526fa9a",
+      "question_text": [
+        "The filter in the cigarette reduces the nicotine content by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Burning",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Adsorption",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f413f65c-d0ab-4112-a7e9-e58bba2a7847",
+      "question_text": [
+        "3Cu + pHNO3 →3Cu(NO)2 + 4H2 O + xNOIn the equation above, the values of p and x respectively are"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Law of Constant Composition ",
+        " Physical and Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 and 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 and 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6 and 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 and 2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "731d71b0-1f88-408c-a1bc-b75181f8f784",
+      "question_text": [
+        "Neutral atoms of neon with atomic number 10 have the same number of electron as"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "K+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg2+",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d36b4e2a-27bd-4c94-bdab-3903be270ed0",
+      "question_text": [
+        "The noble gases owe their inactivity to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Lewis Structures ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Octet configuration",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cyclic shape",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Hexagonal shape",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Obtuse configuration",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "636a387d-8014-48eb-b58f-a973aef6ca65",
+      "question_text": [
+        "What volume of oxygen is produced from the decomposition of 2 mole of KCIO3 at s.t.p?[Molar volume of a gas at s.t.p = 22.4 dm3]"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Standard Conditions of Temperature and Pressure ",
+        " Gases"
+      ],
+      "explanation": "2KClO3 → 2KCl + 3O23 moles of oxygen is produced1 moles of oxygen is 22.4 dm33 moles of oxygen is 67.2 dm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "22.4 dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "33.6 dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "44.8 dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "67.2 dm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f5a48af4-3dea-464e-b2ee-97d0309187cb",
+      "question_text": [
+        "Which of the following is physical change?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Depression of the Freezing Point of a Solvent ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Burning kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Freezing ice cream",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Exposing white phosphorus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dissolving calcium in water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5cfd70ab-f1fb-460f-af6c-33b16b4e6f60",
+      "question_text": [
+        "Metals of the first transition series have special properties which are different from those of groups I and II elements because they have partially filled"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Transition Metals and Their Compounds ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "S orbital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "P orbital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "D orbital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "F orbital",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2a76007-6335-47b8-bfc7-5edd033d356c",
+      "question_text": [
+        "Which of the following is an electrolyte?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Redox Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alcohol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium ethanoate",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "solid potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "mercury",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27f50bfb-9c27-4985-be0f-5a641b5b66c9",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71efcd5d-6b57-44d6-92d8-43956f00247f",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "aceb39f4-f658-4c1b-b160-5003864d7e43",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "142d5e0f-2b89-4062-a183-92420eb609ed",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "08b60286-6916-46e0-922c-96de48d52f90",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e9aa7ab-cc6d-47de-9826-6150e8d23045",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2574acf8-1e1c-4da5-abc2-8989128abef5",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "106b11ce-ba9a-43c8-b49b-095ddbd546b3",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e6e376b-e5bd-4ed5-a4ce-37110813ac60",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9dec3603-909e-4553-b8fe-9700e8d92bcd",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e353180f-869c-479c-bcc0-d191d7443912",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44cf813d-bd27-481c-b5b8-74de18aba828",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "51b4de1f-29e2-4bfe-84cd-10736d4f9b36",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29f12e6b-e43e-4580-897e-79b431e901d0",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29ebb04c-ba95-407c-84bd-2327968acb79",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "669182be-ed05-44ed-8f86-f8b397475277",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd3646c2-a783-4245-af40-b6d690bcb16a",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d82ba093-40ae-4a65-839e-d3c69a73e483",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "519cedc9-8fee-4825-8585-9b00e9fdf08a",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e6aba08-14b2-444c-8573-5b7a2a8e7fce",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1bf07c4b-ab6d-40c9-b8ee-c18b551459b1",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b0193e1-77df-4e57-8971-704299e5bcc6",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "71391ce5-e277-49a2-8b92-1390f22a5a97",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1688599c-033c-4649-9153-556264acab7a",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b984315-cd55-4f29-8307-f9daad804704",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc0a697b-5e96-4521-8551-cf6f470ee02d",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53cb3234-337b-4266-b7be-399ef3c2cef0",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f2fcbe0e-0802-4cb0-bc52-1f1cc9a47933",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a53066a6-18dd-42cf-866e-73515c9f4bea",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75c2498e-e826-48a8-bf94-132166eb0781",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c91a671-6368-4070-a457-f4a542faaa08",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa0b065d-6300-495a-b22c-0480cefa795b",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e0549aae-a6df-448b-91be-48635ce8602e",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69b047eb-1b84-4691-96a1-a4a3e424d2b0",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05ab59bb-d8e5-4f80-9f2d-a2d7c3d1b5e1",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1a5fede-e3d4-4ac0-b608-1fd8607db261",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc196cd4-7014-4f4c-b858-514b77376cc9",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e758d239-9aa9-47e1-8e51-2fbf21ca7ce8",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3e1c2fb5-c52e-45d6-aeb9-e539547f60f4",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba2159b5-886c-495a-8826-1242fb6a10c3",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "065ee088-8b4d-4d4b-a402-868a88b2d7ec",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f59964b6-02af-4c38-9356-ccadcf481fc0",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0aae7210-fa1a-4d1d-ab80-c2b698560334",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d84ab0b9-0c5e-4c6a-bf02-cc14608fd141",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "89aeece4-e800-4822-aa30-b5b8d75cf087",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f514422a-9b28-4c5b-918a-9451e6bdab6a",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "54bf57b6-e96f-46b1-be15-729a2725ae1e",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9eb24e58-62a0-497f-8502-6e7424ab2894",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cf6723f5-3f4e-4d17-adb0-d46686bb8ab0",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1246f4f0-2f0e-409c-95ed-10cd4bb38f0e",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0dec214-b8ef-4bbb-8d16-ae0aaddd7cbd",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d323408-e229-449c-a1be-d80b66aeae4a",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ed798e5a-d055-472d-860d-f138e2697d1e",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6fa5eb5c-1a46-489d-8e87-233dfa7dfd42",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b863f99-76ab-4ea7-8970-d92930e4a4bc",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a215db86-29b9-494e-9277-f48e734d0839",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78f968c9-7072-4c5c-b9ae-36d8c62e942c",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1756afc1-992f-4805-9204-65335fcbe02c",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ba5efc57-3fc0-474d-9741-01e9dfe7bb17",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "445b89cd-c6cc-49c6-9a8c-bcfc9289cd43",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1815fb2e-7c3a-4477-bebd-2d5f9f5bc2b8",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "91b8201b-47b0-469a-a006-0a907faaa69c",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3bd1c98b-bf12-4aea-8f43-a7de1d1d67ea",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1bc22c8c-d04a-4b07-9a03-88918b7eee91",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3c011252-c834-4517-95cf-0bde48d30745",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "86dee473-61b8-489b-a8cc-48afb206deaf",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b789d364-8e4e-4a67-a674-927b4b19d2c0",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b6e6ea11-738a-402d-bcc3-8dfeceb81e44",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1aec58f9-8a3b-423a-a5b0-1e2ca7db7ccf",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "59a90a67-8a0c-44fe-8dde-4581cef6cb66",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c7a9bf32-2e19-46e6-9549-3a9646ca830e",
+      "question_text": [
+        "According to the kinetic theory an absence in temperature causes the kinetic energy of particles to"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remain constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "be zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "287a219f-3fa2-4f39-be77-6aa31f98b2db",
+      "question_text": [
+        "Chlorine gas turns damp starch-iodide paper"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Chlorine turns a damp starch iodide paper into dark blue or blue black.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "colourless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "dark blue",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7a506745-70d9-487b-8555-def50896ca31",
+      "question_text": [
+        "When sugar is dissolve in ten, the reaction is accomplished by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "No entropy change because the sugar will not change the chemical equivalent of the tea. Options A,B,D are not appropriate because they will change the chemical combination of the tea",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative entropy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "no entropy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a minimum entropy change",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cdfded74-656e-431b-bbf4-a7771e6c7609",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, Find the molecular formula [H = 1, C = 12, O = 16)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "C = 40%, 40/12 = 3.33H = 6.7%, 6.7/1 = 6.7O = 53.3%, 53.3/16 = 3.33C = 3.33/3.33 = 1H = 6.7/3.33 = 2O = 3.33/3.33 = 1(CH2O)n = 180(12 + 2 + 16)n = 18030n = 180n = 6= C6H12O6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H6O3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C6H12O6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H12O3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3459baf2-1718-4f05-946b-fa5feaa9e4eb",
+      "question_text": [
+        "The leachate of a certain ash is used in local soap because it contain"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "The Chloralkali Industry ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Sodium hydroxide (NaOH) is made suitable or soap production locally. Option A,C,D will not contribute to soap making",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium chloride and potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium hydroxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "potassium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "soluble carbonates and hydrogen carbonate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b93c004-e180-4508-953b-1846667dd80e",
+      "question_text": [
+        "Hydrogen can be displaced from a lot alkaline solution by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Group 2: The Alkaline Earth Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Fe displaces hydrogen from hot alkaline solution. Options B,C,d will not displace hydrogen",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sn",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c04504a7-6ad3-403b-9aad-c4b86990b852",
+      "question_text": [
+        "A liquid that will dissolve fat is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Lipid Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Kerosene is only liquid that will dissolve fat. Option A,B,D will not dissolve fat because of their chemical composition",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium hydrochloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba575bcc-c853-4d77-8ecd-219e3e2b2884",
+      "question_text": [
+        "The weakest attractive force that can be observed between two molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Intermolecular Forces ",
+        " Liquids and Solids"
+      ],
+      "explanation": "Vander Waals are the weakest attractive forces that exist between two molecules. Option A,B,C are not weak forces because the force attraction that exist between their interested molecule are very strong",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "vander Waals",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "94cea1b5-687f-4cf2-b399-809cdae6f7a3",
+      "question_text": [
+        "The filter in the cigarette reduce the nicotine construct by"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Nicotine is a substance in cigarette which makes difficult to make one stop smoking. This can be derived by burning. Options B,C,D will not reduce this nicotine",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "burning",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "absorption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16af3e71-7cea-4913-9af3-74623154189b",
+      "question_text": [
+        "2HCI(ag) + CaCO3(s) → CaCl2(s) + CO 2(g) +H2O(1)From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "L",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,1023 @@
+
+[
+    {
+      "id": "0bf1f043-62af-4fe6-82a7-de8b754abc9a",
+      "question_text": [
+        "Evaluate \\(log_{\\sqrt{2}}4+log_{\\frac{1}{2}}16-log_{4}32\\)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Note that if we set \\(log_{\\sqrt{2}}4 = x_{1},\\) solving gives \\(x_{1}=4\\)If \\(log_{\\frac{1}{2}}16 = x_{2}, \\Rightarrow x_{2} = -4\\)Also for \\(log_{4}32 = x_{3} = 2.5\\)Combining results, \\(x_{1}+x_{2}+x_{3} = 4+(-4)-2.5=-2.5\\) Note that the solution has been separated to simplify solving difficulty due to different bases.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fb06054a-506a-4ee3-9fc6-ca9bd17af430",
+      "question_text": [
+        "Simplify 2134 x 234"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "103114",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "103214",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "122314",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "132114",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c8e38ab-cc98-4269-968e-1d3088217eba",
+      "question_text": [
+        "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat ematics and Physics?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Using a venn diagram, let x = number who offer both Maths and Physics. So that (32-x) offer Maths and another (24-x) offer Physics. (32-x) + (24-x) + (x) + (4 who offer neither) = 40 => 60 - x = 40 => -x = -20 Therefore x = 20.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb9ed8cd-1f0e-48eb-b8db-9ac8594586f8",
+      "question_text": [
+        "Find (\\(\\frac{1}{0.06} \\div \\frac{1}{0.042}\\))-1"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.43",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.53",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.42",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7fe261ac-6e6e-4eec-8f5d-8b92ba006933",
+      "question_text": [
+        "A woman buys 270 oranges for ₦1800.00 and seels at 5 for ₦40.00. What is her profit?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "C.P = ₦1800 S.P = (270/5) x 400 = ₦2160.00 Profit = S.P - C.P = ₦2160 - ₦1800 = ₦360.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦2,160.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1, 620.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦630.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦360.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cc2827d1-0f1e-4cad-bb4e-31a172422756",
+      "question_text": [
+        "Simplify 1 - (7/3 x 5/4) + 2/5"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-16/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-79/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-37/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-151/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7bc88bcb-f24d-4d06-8672-5ea5258d390a",
+      "question_text": [
+        "Simplify (√98 -√50)/√32"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "(√98 - √50)/√32 = √(49x2) - √(25x2)  √(16x2) => (7√2 - 5√2)/4√2 = 1/2 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95e23c29-6874-45ee-80f2-0a1c1693876f",
+      "question_text": [
+        "A cinema halll contains a certain number of people. If 25/2% are children, 95/2% are men and 84 are women, find the number of men in the hall."
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "25/2% + 95/2% = 70% 100% - 70% = 30% (i.e women) => 30% = 84 1% = 84/30 95/2% = (84/30 x 95/2) = 133.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "63",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "84",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "113",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "133",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3f06512a-e157-404f-a524-0de3f80c1de5",
+      "question_text": [
+        "If \\(\\frac{9^{2x-1}}{27^{x+1}} = 1\\)find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Cross-multiplying, 92x-1 = 1 x 27x+1 32(2x-1) = 33(x+1) Solving by equating index: 2(2x-1) = 3(x+1), => x = 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc2224e0-e4cd-40b3-aa84-4e706ee9585e",
+      "question_text": [
+        "The sum of four numbers is 12145. What is the average expressed in base five?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "114",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "141",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "401",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "411",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ee42b33-2f40-4137-a98b-0659b0c57c35",
+      "question_text": [
+        "Evaluate \\(log_{\\sqrt{2}}4+log_{\\frac{1}{2}}16-log_{4}32\\)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Note that if we set \\(log_{\\sqrt{2}}4 = x_{1},\\) solving gives \\(x_{1}=4\\)If \\(log_{\\frac{1}{2}}16 = x_{2}, \\Rightarrow x_{2} = -4\\)Also for \\(log_{4}32 = x_{3} = 2.5\\)Combining results, \\(x_{1}+x_{2}+x_{3} = 4+(-4)-2.5=-2.5\\) Note that the solution has been separated to simplify solving difficulty due to different bases.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef453c57-2e17-47a5-b58f-c1dc80511662",
+      "question_text": [
+        "Simplify 2134 x 234"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "103114",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "103214",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "122314",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "132114",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7fd17d2d-7504-4173-b4ce-a992cf2b8870",
+      "question_text": [
+        "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat ematics and Physics?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Using a venn diagram, let x = number who offer both Maths and Physics. So that (32-x) offer Maths and another (24-x) offer Physics. (32-x) + (24-x) + (x) + (4 who offer neither) = 40 => 60 - x = 40 => -x = -20 Therefore x = 20.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5eda83da-7704-4430-905b-6243e27b8fb6",
+      "question_text": [
+        "Find (\\(\\frac{1}{0.06} \\div \\frac{1}{0.042}\\))-1"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.43",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.53",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.42",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1994cf8-c385-41f5-9171-b76704229d2b",
+      "question_text": [
+        "A woman buys 270 oranges for ₦1800.00 and seels at 5 for ₦40.00. What is her profit?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "C.P = ₦1800 S.P = (270/5) x 400 = ₦2160.00 Profit = S.P - C.P = ₦2160 - ₦1800 = ₦360.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦2,160.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1, 620.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦630.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦360.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3b494b74-09ea-48b0-b68b-31a7f2b627e9",
+      "question_text": [
+        "Simplify 1 - (7/3 x 5/4) + 2/5"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-16/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-79/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-37/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-151/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d8cb019-e700-424f-a08e-c8e0e0a94024",
+      "question_text": [
+        "Simplify (√98 -√50)/√32"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "(√98 - √50)/√32 = √(49x2) - √(25x2)  √(16x2) => (7√2 - 5√2)/4√2 = 1/2 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7135e4f1-592c-475e-b4e6-3651a01546cc",
+      "question_text": [
+        "A cinema halll contains a certain number of people. If 25/2% are children, 95/2% are men and 84 are women, find the number of men in the hall."
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "25/2% + 95/2% = 70% 100% - 70% = 30% (i.e women) => 30% = 84 1% = 84/30 95/2% = (84/30 x 95/2) = 133.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "63",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "84",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "113",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "133",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7a8f3ef6-d63f-4aea-8552-e31fe140add8",
+      "question_text": [
+        "If \\(\\frac{9^{2x-1}}{27^{x+1}} = 1\\)find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Cross-multiplying, 92x-1 = 1 x 27x+1 32(2x-1) = 33(x+1) Solving by equating index: 2(2x-1) = 3(x+1), => x = 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "93a1096f-38b4-417a-adcf-5f27d3bd0cbc",
+      "question_text": [
+        "The sum of four numbers is 12145. What is the average expressed in base five?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "114",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "141",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "401",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "411",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e1158a80-389e-4003-98bb-38c28e03a9cc",
+      "question_text": [
+        "Evaluate \\(log_{\\sqrt{2}}4+log_{\\frac{1}{2}}16-log_{4}32\\)"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Note that if we set \\(log_{\\sqrt{2}}4 = x_{1},\\) solving gives \\(x_{1}=4\\)If \\(log_{\\frac{1}{2}}16 = x_{2}, \\Rightarrow x_{2} = -4\\)Also for \\(log_{4}32 = x_{3} = 2.5\\)Combining results, \\(x_{1}+x_{2}+x_{3} = 4+(-4)-2.5=-2.5\\) Note that the solution has been separated to simplify solving difficulty due to different bases.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6314ab0b-5683-435c-ad6f-17d3394ffc68",
+      "question_text": [
+        "Simplify 2134 x 234"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "103114",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "103214",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "122314",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "132114",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "359d2abd-016a-46f3-8084-0e09415b1a0a",
+      "question_text": [
+        "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat ematics and Physics?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Using a venn diagram, let x = number who offer both Maths and Physics. So that (32-x) offer Maths and another (24-x) offer Physics. (32-x) + (24-x) + (x) + (4 who offer neither) = 40 => 60 - x = 40 => -x = -20 Therefore x = 20.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0cb62a20-eb83-471e-ac59-2a821eaea016",
+      "question_text": [
+        "Find (\\(\\frac{1}{0.06} \\div \\frac{1}{0.042}\\))-1"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.43",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.53",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.42",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58472a34-235c-4c9d-8524-de67276693c9",
+      "question_text": [
+        "A woman buys 270 oranges for ₦1800.00 and seels at 5 for ₦40.00. What is her profit?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "C.P = ₦1800 S.P = (270/5) x 400 = ₦2160.00 Profit = S.P - C.P = ₦2160 - ₦1800 = ₦360.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦2,160.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1, 620.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦630.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦360.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fead11a0-f727-41d2-be2d-72dec47099bb",
+      "question_text": [
+        "Simplify 1 - (7/3 x 5/4) + 2/5"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-16/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-79/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-37/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-151/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b701634c-0f67-4c54-97fc-dbf79160eeac",
+      "question_text": [
+        "Simplify (√98 -√50)/√32"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "(√98 - √50)/√32 = √(49x2) - √(25x2)  √(16x2) => (7√2 - 5√2)/4√2 = 1/2 ",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30718e5a-557c-493a-83fc-de8ee7839a73",
+      "question_text": [
+        "A cinema halll contains a certain number of people. If 25/2% are children, 95/2% are men and 84 are women, find the number of men in the hall."
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "25/2% + 95/2% = 70% 100% - 70% = 30% (i.e women) => 30% = 84 1% = 84/30 95/2% = (84/30 x 95/2) = 133.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "63",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "84",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "113",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "133",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ee49541a-86b1-418b-bef3-a72f902099c3",
+      "question_text": [
+        "If \\(\\frac{9^{2x-1}}{27^{x+1}} = 1\\)find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Cross-multiplying, 92x-1 = 1 x 27x+1 32(2x-1) = 33(x+1) Solving by equating index: 2(2x-1) = 3(x+1), => x = 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "01ac52d7-3c9e-4798-b4e0-3e1a8ca12b4b",
+      "question_text": [
+        "The sum of four numbers is 12145. What is the average expressed in base five?"
+      ],
+      "examType": "jamb",
+      "year": "2003",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "114",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "141",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "401",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "411",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

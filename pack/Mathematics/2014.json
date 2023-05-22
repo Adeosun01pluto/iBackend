@@ -1,0 +1,3409 @@
+
+[
+    {
+      "id": "c476f383-90fe-4ffe-ad53-a1f7b21e3c26",
+      "question_text": [
+        "Find the value of 1101112 + 101002"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11010112",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10010012",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10010112",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10011112",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a3c72ae0-33d5-46a8-ad48-35d05bdc8bd8",
+      "question_text": [
+        "A woman bought a grinder for ₦60,000. She sold it at a loss of 15%. How much did she sell it?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "SP = Nx CP = ₦60,000 Percentage loss = 15% Using percentage loss... \\(\\frac{CP - SP}{CP} = \\text{100%}\\) \\(\\text{15%} = \\frac{60000 - x}{60000} \\times \\text{100%}\\) \\(\\text{15%} \\times 60000 = (60000 - x)\\text{100%}\\) \\(60000 - x = \\frac{\\text{15%} \\times 60000}{\\text{100%}}\\) 60000 - x = 3 x 3000 60000 -x = 9000 x = 60000 - 9000 x = ₦51,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦53,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦52,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦51,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "49a2850c-b951-4c11-ae28-a208263f1f72",
+      "question_text": [
+        "Express the product of 0.00043 and 2000 in standard form."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "0.00043 x 2000 = 43 x 10-5 x 2 x 103 = 43 x 2 x 10-5+3 = 86 x 10-2 = 8.6 x 101 x 10-2 = 8.6 x 10-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.6 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.3 x 10-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.6 x 10-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.6 x 10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6a875ec9-a1b1-4375-83f6-998fb7868240",
+      "question_text": [
+        "A man donates 10% of his monthly net earnings to his church. If it amounts to ₦4,500, what is his net monthly income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Let; M = Man monthly net earnings Then; \\(\\text{₦4500} = \\frac{\\text{10%}}{\\text{100%}} \\times M \\) \\(M = \\frac{\\text{₦4500} \\times \\text{100%}}{\\text{10%}} \\) M = ₦45,000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦40,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦45,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦52,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦62,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "67988c04-7728-4af7-ae70-ce1e248bb893",
+      "question_text": [
+        "If log7.5 = 0.8751, evaluate 2 log75 + log750"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "If log 7.5 = 0.8751 Then 2log75 + log750 = 2(1.8751) + 2.8751 = 3.7502 + 2.8751 = 6.6253",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.6252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.6253",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "66.252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "66.253",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dbdd8895-b4e2-429b-8072-226cd673de47",
+      "question_text": [
+        "Solve for x in 8x-2 = 2/25"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "8x-2 = 2/25 x-2 = 2/25 x 1/8 x-2 = 2/200 x-2 = 1/100 1/x2 = 1/100 x2 = 100 x = 10",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "01346d7c-8c44-4e98-87a1-839955e7393a",
+      "question_text": [
+        "Simplify \\(\\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(= \\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}} \\times \\frac{\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\) \\(= \\frac{2\\sqrt{2}(\\sqrt{2}) + (2\\sqrt{2})(-\\sqrt{3})-\\sqrt{3}(\\sqrt{2})-\\sqrt{3}(-\\sqrt{3})}{(\\sqrt{2})^2-(\\sqrt{3})^2}\\) \\(= \\frac{2 \\times 2 - 2\\sqrt{6} - \\sqrt{6} + 3}{2 - 3}\\) \\(= \\frac{4 - 3\\sqrt{6} + 3}{-1}\\) \\(= \\frac{7 - 3\\sqrt{6}}{-1}\\) \\(= \\frac{7}{-1} - \\frac{3\\sqrt{6}}{-1}\\) \\(= -7 + 3\\sqrt{6}\\) \\(= 3\\sqrt{6}-7\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69180a03-a350-4e49-b483-623931b1662c",
+      "question_text": [
+        "Evaluate Log28 + Log216 - Log24"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\( = log_2 \\frac{8 \\times 16}{4}\\) \\( = log_2 32\\) \\( = log_2 2^5\\) \\( = 5log_2 2\\) \\( = 5 \\times 1\\) \\( = 5 \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11f06de2-085c-42d9-88b3-5565524b188a",
+      "question_text": [
+        "If P = {1,2,3,4,5} and P \\(\\cup\\) Q = {1,2,3,4,5,6,7}, list the elements in Q"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Q = (P \\(\\cup\\) Q) - P {6,7}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{6,7}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5,6}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9da5e5c-0129-4943-be01-7907d798b356",
+      "question_text": [
+        "If gt2 - k - w = 0, make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "gt2 - k - w = 0 gt2 = k + w \\(g = \\frac{k + w}{t^2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{k + w}{t^2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{k - w}{t^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9b87d61-f46c-4c3a-90e5-69be0dbe1856",
+      "question_text": [
+        "Factorize 2y2 - 15xy + 18x2"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "2y2 - 15xy + 18x2 2y2 - 12xy - 3xy + 18x2 2y(y - 6x) - 3x(y - 6x) (2y - 3x) (y - 6x)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2y - 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " (y + 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(2y - 3x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8d62376-7946-4cba-8d9d-a275e31100ba",
+      "question_text": [
+        "Find the value of k if y - 1 is a factor of y3 + 4y2 + ky - 6"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "if y - 1 is a factor of y3 + 4y2 + ky - 6, then f(1) = (1)3 + 4(1)2 + k(1) - 6 = 0 (factor theorem) 1 + 4 + k - 6 = 0 5 - 6 + k = 0 -1 + k = 0 k = 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "52905ee1-86ad-4dde-844b-4eb362bcec3e",
+      "question_text": [
+        "y varies directly as w2. When y = 8, w = 2. Find y when w = 3"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(y \\propto w^2\\) y = kw2 8 = k(2)2 8 = k(4) k = 8/4 k = 2 Thus y = 2w2 When w = 3, y = 2(3)2 y = 2 x 9 = 18",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "18",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d07899da-36d4-477b-963e-99968c406d80",
+      "question_text": [
+        "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(P \\propto \\frac{Q}{R}\\) \\(P = K \\frac{Q}{R}\\) When Q = 36, R = 16, P = 27 Then substitute into the equation \\(27 = K \\frac{36}{16}\\) \\(K = \\frac{27 \\times 16}{36}\\) \\(K = 12\\) So the equation connecting P, Q and R is \\(P = \\frac{12Q}{R}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(P = \\frac{Q}{12R}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(P = \\frac{12Q}{R}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe9e4122-8a0d-4824-a1ce-4fd234cd82f3",
+      "question_text": [
+        "What is the solution of \\(\\frac{x - 5}{x + 3} < -1\\)?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Consider the range -3 < x < -1 = { -2, -1, 0}, for instance When x = -2, \\(\\frac{-2 - 5}{-2 + 3} < -1\\) \\(\\frac{-7}{1} < -1\\) When x = -1, \\(\\frac{-1 - 5}{-1 + 3} < -1\\) \\(\\frac{-6}{2} < -1\\) = -3 < -1 When x = 0, \\(\\frac{0 - 5}{0 + 3} < -1\\) \\(\\frac{- 5}{3} < -1\\) Hence -3 < x < 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 < x < 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-3 < x < 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "757d259e-974d-4acc-ae44-47a05cd478e1",
+      "question_text": [
+        "Evaluate the inequality \\(\\frac{x}{2} + \\frac{3}{4} \\leq \\frac{5x}{6} - \\frac{7}{12}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\frac{x}{2} + \\frac{3}{4} \\leq \\frac{5x}{6} - \\frac{7}{12}\\) \\(12\\frac{x}{2} + 12\\frac{3}{4} \\leq 12\\frac{5x}{6} - 12\\frac{7}{12}\\) 6x + 9 \\(\\leq\\) 10x - 7 6x - 10x \\(\\leq\\) - 7 - 9 -4x \\(\\leq\\) -16 -4x/-4 \\(\\geq\\) -16/-4 x \\(\\geq\\) 4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(x \\geq 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(x \\leq 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2345264a-da76-463d-b030-3acac6ebac1d",
+      "question_text": [
+        "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 24th term."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "a + 3d = 13 .......... (1) a + 9d = 31 .......... (2) (2) - (1): 6d = 18 d = 18/6 = 3 From (1), a + 3(3) = 13 a + 9 = 13 a = 13 - 9 = 4 Hence, T24 = a + 23d T24 = 4 + 23(3) T24 = 4 + 69 T24 = 73",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "89",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "75",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "73",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "69",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2e95632b-03f6-4bd8-abef-22fd05c29c1f",
+      "question_text": [
+        "What is the common ratio of the G.P. \\((\\sqrt{10} + \\sqrt{5}) + (\\sqrt{10} + 2\\sqrt{5}) + ... \\)?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Common ratio r of the G.P is \\(r = \\frac{T_n + 1}{T_n} = \\frac{T_2}{T_1}\\) \\(r = \\frac{\\sqrt{10} + 2\\sqrt{5}}{\\sqrt{10} + \\sqrt{5}}\\) \\(r = \\frac{\\sqrt{10} + 2\\sqrt{5}}{\\sqrt{10} + \\sqrt{5}} \\times \\frac{\\sqrt{10} - \\sqrt{5}}{\\sqrt{10} - \\sqrt{5}} \\) \\( = \\frac{(\\sqrt{10})(\\sqrt{10}) + (\\sqrt{10})(-\\sqrt{5}) + (2\\sqrt{5})(\\sqrt{10}) + (2\\sqrt{5})(-\\sqrt{5})}{(\\sqrt{10})^2 - (\\sqrt{5})^2}\\) \\(\\frac{10 - \\sqrt{50} + 2\\sqrt{50} - 10}{10 - 5}\\) \\(\\frac{\\sqrt{50}}{5}\\) \\(\\frac{\\sqrt{25 \\times 2}}{5}\\) \\(\\frac{5\\sqrt{2}}{5}\\) \\(\\sqrt{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\sqrt{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\sqrt{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8066e70a-b606-4745-bacf-9712387c9bf8",
+      "question_text": [
+        "A binary operation * is defined by x * y = xy. If x * 2 = 12 - x, find the possible values of x"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "x * y = xy x * 2 = 12 - x Thus by comparison, x = x, y = 2 But x * y = x * 2 xy = 12 - x x2 = 12 - x x2 + x - 12 = 0 x2 + 4x - 3x - 12 = 0 x(x + 4) - 3(x + 4) = 0 (x - 3)(x + 4) = 0 x - 3 = 0 or x + 4 = 0 So x = 3 or x = -4",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3,4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3,-4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-3,4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3,-4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f6d821a-5052-4a58-b6b1-a2218fbcee8a",
+      "question_text": [
+        "Find y, if \\(\\begin{pmatrix} 5 & -6 \\\\ 2 & -7 \\end{pmatrix}\\begin{pmatrix} 5 \\\\ 2 \\end{pmatrix} = \\begin{pmatrix} 7 \\\\ -11 \\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\begin{pmatrix} 5 & -6 \\\\ 2 & -7 \\end{pmatrix}\\begin{pmatrix} 5 \\\\ 2 \\end{pmatrix} = \\begin{pmatrix} 7 \\\\ -11 \\end{pmatrix}\\) By matrices multiplication; 5x - 6y = 7 ........(1) 2x - 7y = -11 ......(2) 2 x (1): 10x - 12y = 14 .......(3) 5 x (2): 10x - 35y = -55 ......(4) (3) - (4): 23y = 69 y = 69/23 = 3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a75b699c-8c41-42b4-9b30-c55748693866",
+      "question_text": [
+        "\\(\\text{If }\\begin{vmatrix} -x & 12 \\\\ -1 & 4 \\end{vmatrix} = - 12, \\text{ find x}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\begin{vmatrix} -x & 12 \\\\ -1 & 4 \\end{vmatrix} = - 12\\) -4x - (-1)12 = -12 -4x + 12 = -12 -4x = -12 - 12 -4x = - 24 x = 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fee64c81-dd4d-4a2e-bac8-32ae73dcdc61",
+      "question_text": [
+        "Find the value of \\(\\begin{vmatrix} 0 & 3 & 2 \\\\ 1 & 7 & 8 \\\\ 0 & 5 & 4 \\end{vmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(0 \\begin{vmatrix} 7 & 8 \\\\ 5 & 4\\end{vmatrix}-3 \\begin{vmatrix} 1 & 8 \\\\ 0 & 4\\end{vmatrix}+2 \\begin{vmatrix} 1 & 7 \\\\ 0 & 5\\end{vmatrix}\\) = 0(28 - 40) - 3(4 - 0) + 2(5 - 0) = 0(-12) - 3(4) + 2(5) = 0 - 12 + 10 = -2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "820c004d-840a-4b1a-99a1-1d3b16c5d11f",
+      "question_text": [
+        "How many sides has a regular polygon whose interior angle is 135o"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "If each interior angle of the polygon is 135o, then each exterior angle is 180o - 135o = 45o. Hence, number of sides =  \\(\\frac{360^o}{\\text{one exterior angle}}\\) \\(\\frac{360^o}{45^o}\\) = 8",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e2d5df23-e3b1-4358-a827-cc35f18912b1",
+      "question_text": [
+        "A cylindrical tank has a capacity of 6160m3. What is the depth of the tank if the radius of its base is 28cm?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Using \\(V = \\pi r^2 h\\) 6160 = 22/7 x 28 x 28 x h \\(h = \\frac{6160}{22 \\times 4 \\times 28} \\) \\(h = 2.5m \\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.5m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f29560fa-1064-49cc-b173-f12718ce8323",
+      "question_text": [
+        "The locus of a dog tethered to a pole with a rope of 4m is a"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "circle with diameter 4m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "circle with radius 4m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "semi-circle with diameter 4m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "semi-circle with radius 4m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b8e75a1-f40d-4460-9ac9-c8550f27404c",
+      "question_text": [
+        "Find the mid point of S(-5, 4) and T(-3, -2)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Mid point of S(-5, 4) and T(-3, -2) is  \\([\\frac{1}{2}(-5 + -3), \\frac{1}{2}(4 + 2)]\\) \\([\\frac{1}{2}(x_1 + x_2), \\frac{1}{2}(y_1 + y_2)]\\) \\([\\frac{1}{2}(-8), \\frac{1}{2}(2)]\\) \\([-4, 1]\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4, 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-4, 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4, -1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "08ef0c31-7699-43b1-982c-25496541535f",
+      "question_text": [
+        "The gradient of a line joining (x,4) and (1,2) is \\(\\frac{1}{2}\\). Find the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\text{Gradient m} = \\frac{y_2 - y_1}{x_2 - x_1}\\) \\(\\frac{1}{2} = \\frac{2 - 4}{1 - x}\\) 1 - x = 2(2 - 4) 1 - x = 4 - 8 1 - x = -4 -x = -4 - 1 x = 5",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1cba6755-1624-4443-8791-7fcbd435b5eb",
+      "question_text": [
+        "Calculate the mid point of the line segment y - 4x + 3 = 0, which lies between the x-axis and y-axis."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y - 4x + 3 = 0 When y = 0, 0 - 4x + 3 = 0 Then -4x = -3 x = 3/4 So the line cuts the x-axis at point (3/4, 0). When x = 0, y - 4(0) + 3 = 0 Then y + 3 = 0 y = -3 So the line cuts the y-axis at the point (0, 3) Hence the midpoint of the line y - 4x + 3 = 0, which lies between the x-axis and the y-axis is; \\([\\frac{1}{2}(x_1 + x_2), \\frac{1}{2}(y_1 + y_2)]\\) \\([\\frac{1}{2}(\\frac{3}{4} + 0), \\frac{1}{2}(0 + -3)]\\) \\([\\frac{1}{2}(\\frac{3}{4}), \\frac{1}{2}(-3)]\\) \\([\\frac{3}{8}, \\frac{-3}{2}]\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{pmatrix} 3 & -3 \\\\ 8 & 2 \\end{pmatrix}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{pmatrix} 3 & 3 \\\\ 8 & 2 \\end{pmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0aa6faa7-5232-479a-ac1d-065610e04c55",
+      "question_text": [
+        "Find the equation of the straight line through (-2, 3) and perpendicular to 4x + 3y - 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "4x + 3y - 5 = 0 (given) The equation of the line perpendicular to the given line takes the form 3x - 4y = k Thus, substitution x = -2 and y = 3 in 3x - 4y = k gives; 3(-2) - 4(3) = k -6 - 12 = k k = -18 Hence the required equation is 3x - 4y = -18 3x - 4y + 18 = 0",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3x - 4y + 18 = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3x + 2y - 18 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4x + 5y + 3 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5x - 2y - 11 = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6cd8157-b82f-47b7-852b-fe49e3ef3b84",
+      "question_text": [
+        "If \\(\\sin\\theta = \\frac{12}{13}\\), find the value of \\(1 + \\cos\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{25}{13}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{18}{13}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f3311a3-d519-40c2-92c3-177e5acc7a1d",
+      "question_text": [
+        "If y = 4x3 - 2x2 + x, find \\(\\frac{\\delta y}{\\delta x}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "If y = 4x3 - 2x2 + x, then; \\(\\frac{\\delta y}{\\delta x}\\) = 3(4x2) - 2(2x) + 1 = 12x2 - 4x + 1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8x2 - 2x + 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8x2 - 4x + 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12x2 - 2x + 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12x2 - 4x + 1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f74159ae-e5a6-48d8-9c50-adbd109c0f53",
+      "question_text": [
+        "If y = cos 3x, find \\(\\frac{\\delta y}{\\delta x}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "y = cos 3x Let u = 3x so that y = cos u Now, \\(\\frac{\\delta y}{\\delta x} = 3\\), \\(\\frac{\\delta y}{\\delta x} = -sin u\\) By the chain rule, \\(\\frac{\\delta y}{\\delta x} = \\frac{\\delta y}{\\delta u} \\times \\frac{\\delta u}{\\delta x}\\) \\(\\frac{\\delta y}{\\delta x} = (-\\sin u) (3)\\) \\(\\frac{\\delta y}{\\delta x} = -3 \\sin u\\) \\(\\frac{\\delta y}{\\delta x} = -3 \\sin 3x\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3} \\sin 3x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(-\\frac{1}{3} \\sin 3x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "598badf4-c172-4fe8-b5a4-0e863dd779b8",
+      "question_text": [
+        "Find the minimum value of y = x2 - 2x - 3"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "y = x2 - 2x - 3, Then \\(\\frac{\\delta y}{\\delta x} = 2x - 2\\) But at minimum point,\\(\\frac{\\delta y}{\\delta x} = 0\\), Which means 2x - 2 = 0 2x = 2 x = 1. Hence the minimum value of y = x2 - 2x - 3 is; ymin = (1)2 - 2(1) - 3 ymin = 1 - 2 - 3 ymin = -4",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "37e5879b-e3de-4e50-a890-1c48881e243e",
+      "question_text": [
+        "Evaluate \\(\\int \\sin 2x dx\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\int \\sin 2x dx = \\frac{1}{2} (-\\cos 2x) + k\\) \\(- \\frac{1}{2} \\cos 2x + k\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos 2x + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cos 2x + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(-\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "251caf15-6bdd-4dc9-a861-c4e6aa2d4af2",
+      "question_text": [
+        "Evaluate \\(\\int (2x + 3)^{\\frac{1}{2}} \\delta x\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\int (2x + 3)^{\\frac{1}{2}} \\delta x\\) let u = 2x + 3, \\(\\frac{\\delta y}{\\delta x} = 2\\) \\(\\delta x = \\frac{\\delta u}{2}\\) Now \\(\\int (2x + 3)^{\\frac{1}{2}} \\delta x = \\int u^{\\frac{1}{2}}.{\\frac{\\delta x}{2}}\\) \\( = \\frac{1}{2} \\int u^{\\frac{1}{2}} \\delta u\\) \\( = \\frac{1}{2} u^{\\frac{3}{2}} \\times \\frac{2}{3} + k\\) \\( = \\frac{1}{3} u^{\\frac{3}{2}} + k\\) \\( = \\frac{1}{3} (2x + 3)^{\\frac{3}{2}} + k\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{12} (2x + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "^6 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{1}{3} (2x + 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5600c155-525b-4c8a-848d-bede51526810",
+      "question_text": [
+        "The mean of 2 - 4, 4 + t, 3 - 2t and t - 1 is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Mean x = \\(\\frac{\\sum x}{n}\\) = [(2 - t) + (4 + t) + (3 - 2t) + (2 + t) + (t - 1) \\(\\div\\)] 5 = [11 - 1 + 3t - 3t] \\(\\div\\) 5 = 10 \\(\\div\\) 5 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "t",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-t",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "039bae97-e68f-4f92-90d4-70cd6172dbfe",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Values} & 0 & 1 & 2 & 3 & 4 \\\\ \\hline \\text{Frequency} & 1 & 2 & 2 & 1 & 9 \\end{array}\\)Find the mode of the distribution above"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f3f5c225-878d-4557-a6ab-07dde0b3125a",
+      "question_text": [
+        "Find the median of 5,9,1,10,3,8,9,2,4,5,5,5,7,3 and 6"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "First arrange the numbers in order of magnitude; 1,2,3,3,4,5,5,5,5,6,7,8,9,9,10 Hence the median = 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "447a30ed-cfa7-4e09-bdda-359f91ee627a",
+      "question_text": [
+        "Find the standard deviation of 5, 4, 3, 2, 1"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Mean x = \\(\\frac{\\sum x}{n}\\) \\( = \\frac{5 + 4 + 3 + 2 + 1}{5}\\) \\( = \\frac{15}{5}\\) = 3 \\(\\begin{array}{c|c} x & d = x - 3 & d^2 \\\\ \\hline 5 & 2 & 4 \\\\ 4 & 1 & 1 \\\\ 3 & 0 & 0 \\\\ 2 & -1 & 1 \\\\ 1 & -2 & 4 \\\\ \\hline & & \\sum d^2 + 10 \\end{array}\\) Hence, standard deviation; \\( = \\sqrt{\\frac{\\sum d^2}{n}} = \\sqrt{\\frac{10}{5}}\\) \\( = \\sqrt{2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\sqrt{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7b9a2fff-738a-402f-bf3d-b2f45d8be4dd",
+      "question_text": [
+        "In how many ways can a team of 3 girls be selected from 7 girls?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "A team of 2 girls can be selected from 7 girls in \\(^7C_3\\) \\( = \\frac{7!}{(7 - 3)! 3!}\\) \\( = \\frac{7!}{4! 3!} ways\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{7!}{3!}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{7!}{4!}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8b3e5b2-bccd-4026-a9c3-6ff9d6469f79",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Numbers} & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline \\text{Frequency} & 18 & 22 & 20 & 16 & 10 & 14 \\end{array}\\)The table above represents the outcome of throwing a die 100 times. What is the probability of obtaining at least a 4?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Let E demote the event of obtaining at least a 4 Then n(E) = 16 + 10 + 14 = 40 Hence, prob (E) = \\(\\frac{n(E)}{n(S)}\\) \\( = \\frac{40}{100}\\) \\( = \\frac{2}{5}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d24b2465-dee9-4be4-b6e6-fa1b0fe757e4",
+      "question_text": [
+        "A number is chosen at random from 10 to 30 both inclusive. What is the probability that the number is divisible by 3?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Sample space S = {10, 11, 12, ... 30} Let E denote the event of choosing a number divisible by 3 Then E = {12, 15, 18, 21, 24, 27, 30} and n(E) = 7 Prob (E) = \\(\\frac{n(E)}{n(E)}\\) Prob (E) = \\(\\frac{7}{21}\\) Prob (E) = \\(\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{10}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fcac2511-672b-442d-9070-c5a46a45d274",
+      "question_text": [
+        "The graph of f(x) = x2 - 5x + 6 crosses the x-axis at the points"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "When X = 3, Y = 0(3, 0), When x = 2, y = 0(2, 0)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(-6, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": ", (-1, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(-3, 0",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6305e8f4-dd4d-40b3-a11a-2234cabec89c",
+      "question_text": [
+        "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 21st term."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "a + 3d = 13 a + 9d = 31 6d = 18  = d = 3 a = 13 - 9  = 4 a + 20d = 4 + (20 x 3) = 64",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "175",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "85",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "64",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "45",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9601b3da-d334-4e4f-ab2f-2f8674309b54",
+      "question_text": [
+        "From the Venn diagram above, the shaded parts represent"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math78.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(P\\(\\cap",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\cup",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(P\\(\\cap\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8a6de55a-ab4f-4b04-a067-5201f6d86af3",
+      "question_text": [
+        "In the figure above, KL//NM, LN bisects < KNM. If angles KLN is 54\\(^{\\circ}\\) and angle MKN is 35\\(^{\\circ}\\), calculate the size of angle KMN."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math77.jpg",
+      "explanation": "In the diagram above, \\(\\alpha\\) = 54\\(^{\\circ}\\)(alternate angles; KL||MN) < KNM = 2\\(\\alpha\\) (LN is bisector of < KNM) = 108\\(^{\\circ}\\)35\\(^{\\circ}\\) + < KMN + 108\\(^{\\circ}\\) = 180\\(^{\\circ}\\)(sum of angles of \\(\\bigtriangleup\\))< KMN + 143\\(^{\\circ}\\) = 180\\(^{\\circ}\\)< KMN = 180\\(^{\\circ}\\) - 143\\(^{\\circ}\\)= 37\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "91\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "89\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0cad7fd4-ad00-4a30-861d-c04cebc64932",
+      "question_text": [
+        "From the figure above, what is the value of p?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math76.jpg",
+      "explanation": "In the figure above, q\\(^{\\circ}\\) = 30\\(^{\\circ}\\) (vertically opposite angles)(P + 2q)\\(^{\\circ}\\) + 30\\(^{\\circ}\\) = 180\\(^{\\circ}\\)(angles on a straight line)p + 2 x 30\\(^{\\circ}\\) + 30\\(^{\\circ}\\) = 180\\(^{\\circ}\\)p + 60\\(^{\\circ}\\) + 30\\(^{\\circ}\\) = 180\\(^{\\circ}\\)p + 90\\(^{\\circ}\\) = 180\\(^{\\circ}\\)p = 180\\(^{\\circ}\\) - 90\\(^{\\circ}\\)= 90\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "135\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "90\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d12c1634-1ed2-4bf6-ba8e-4825292fbc90",
+      "question_text": [
+        "Find the value of x in the figure above."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math75.jpg",
+      "explanation": "In the figure above, \\(\\frac{x}{\\sin 60^o} = \\frac{10}{\\sin 30^o}\\) (Sine rule)x = \\(\\frac{10 \\sin 60^o}{\\sin 30^o}\\)= 10 x \\(\\frac{\\sqrt{3}}{2} \\times \\frac{1}{2}\\)= 10 x \\(\\frac{\\sqrt{3}}{2} \\times \\frac{2}{1}\\)= 10\\(\\sqrt{3}\\)cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10\\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cmC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0736ac3c-9d55-48ce-ab77-c5e7c71e81a0",
+      "question_text": [
+        "In the figure above, what is the equation of the line that passes the y-axis at (0,5) and passes the x-axis at (5,0)?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math74.jpg",
+      "explanation": "(x1, y1) = (0,5)(x2, y2) = (5, 0)Using \\(\\frac{y - y_1}{y_1 - y_1} = \\frac{x - x_1}{x_1 - x_1}\\)\\(\\frac{y - 5}{0 - 5} = \\frac{x - 0}{5 - 0}\\)\\(\\frac{y - 5}{-5} = \\frac{x}{5}\\)5(y - 5) = -5xy - 5 = -xx + y = 5y = -x + 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = x + 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = -x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = x - 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = -x - 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8cc4a61f-c281-4bfe-a5e5-e6c02bd80f31",
+      "question_text": [
+        "The pie chart above shows the monthly distribution of a man's salary on food items. If he spent ₦8,000 on rice, how much did he spent on yam?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math73.jpg",
+      "explanation": "Angle of sector subtended by yam= 360\\(^{\\circ}\\) - (70 + 80 + 50)\\(^{\\circ}\\)= 360\\(^{\\circ}\\) - 200\\(^{\\circ}\\)= 160\\(^{\\circ}\\)But \\(\\frac{80^o}{360^o}\\) x T = 8000T = \\(\\frac{8000 \\times 360^o}{80^o}\\)= N36,000Hence the amount spent on yam = \\(\\frac{160^o}{260} \\times N36,000\\)= N16,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦42,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦18,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦16,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦12,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "264996e1-6e73-484d-a711-202d9148289e",
+      "question_text": [
+        "Find the value of 1101112 + 101002"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11010112",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10010012",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10010112",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10011112",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11bdec1c-f3ae-4eb3-9e3a-f767f0ac8b9c",
+      "question_text": [
+        "A woman bought a grinder for ₦60,000. She sold it at a loss of 15%. How much did she sell it?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "SP = Nx CP = ₦60,000 Percentage loss = 15% Using percentage loss... \\(\\frac{CP - SP}{CP} = \\text{100%}\\) \\(\\text{15%} = \\frac{60000 - x}{60000} \\times \\text{100%}\\) \\(\\text{15%} \\times 60000 = (60000 - x)\\text{100%}\\) \\(60000 - x = \\frac{\\text{15%} \\times 60000}{\\text{100%}}\\) 60000 - x = 3 x 3000 60000 -x = 9000 x = 60000 - 9000 x = ₦51,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦53,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦52,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦51,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c83bcf9-fe38-4e2a-87d2-18ca13a4aaf9",
+      "question_text": [
+        "Express the product of 0.00043 and 2000 in standard form."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "0.00043 x 2000 = 43 x 10-5 x 2 x 103 = 43 x 2 x 10-5+3 = 86 x 10-2 = 8.6 x 101 x 10-2 = 8.6 x 10-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.6 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.3 x 10-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.6 x 10-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.6 x 10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c79b3452-c5a2-4d84-9447-1340503391c0",
+      "question_text": [
+        "A man donates 10% of his monthly net earnings to his church. If it amounts to ₦4,500, what is his net monthly income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Let; M = Man monthly net earnings Then; \\(\\text{₦4500} = \\frac{\\text{10%}}{\\text{100%}} \\times M \\) \\(M = \\frac{\\text{₦4500} \\times \\text{100%}}{\\text{10%}} \\) M = ₦45,000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦40,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦45,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦52,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦62,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c74bbd51-1222-4f3e-b2f8-820af1bfd9c3",
+      "question_text": [
+        "If log7.5 = 0.8751, evaluate 2 log75 + log750"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "If log 7.5 = 0.8751 Then 2log75 + log750 = 2(1.8751) + 2.8751 = 3.7502 + 2.8751 = 6.6253",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.6252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.6253",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "66.252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "66.253",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18ef48c7-abe0-40d3-a920-a639ea72bf3a",
+      "question_text": [
+        "Solve for x in 8x-2 = 2/25"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "8x-2 = 2/25 x-2 = 2/25 x 1/8 x-2 = 2/200 x-2 = 1/100 1/x2 = 1/100 x2 = 100 x = 10",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5443dda0-5ff7-4b9c-84f6-81186a2197fe",
+      "question_text": [
+        "Simplify \\(\\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(= \\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}} \\times \\frac{\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\) \\(= \\frac{2\\sqrt{2}(\\sqrt{2}) + (2\\sqrt{2})(-\\sqrt{3})-\\sqrt{3}(\\sqrt{2})-\\sqrt{3}(-\\sqrt{3})}{(\\sqrt{2})^2-(\\sqrt{3})^2}\\) \\(= \\frac{2 \\times 2 - 2\\sqrt{6} - \\sqrt{6} + 3}{2 - 3}\\) \\(= \\frac{4 - 3\\sqrt{6} + 3}{-1}\\) \\(= \\frac{7 - 3\\sqrt{6}}{-1}\\) \\(= \\frac{7}{-1} - \\frac{3\\sqrt{6}}{-1}\\) \\(= -7 + 3\\sqrt{6}\\) \\(= 3\\sqrt{6}-7\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ad7aeeb-ea9a-4fcc-9729-8f559bb8034d",
+      "question_text": [
+        "Evaluate Log28 + Log216 - Log24"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\( = log_2 \\frac{8 \\times 16}{4}\\) \\( = log_2 32\\) \\( = log_2 2^5\\) \\( = 5log_2 2\\) \\( = 5 \\times 1\\) \\( = 5 \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "adcaa1c3-09e2-478d-9387-b419f4260ae7",
+      "question_text": [
+        "If P = {1,2,3,4,5} and P \\(\\cup\\) Q = {1,2,3,4,5,6,7}, list the elements in Q"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Q = (P \\(\\cup\\) Q) - P {6,7}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{6,7}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5,6}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "48093443-8e37-4372-89cc-b2fd0d6c2e15",
+      "question_text": [
+        "If gt2 - k - w = 0, make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "gt2 - k - w = 0 gt2 = k + w \\(g = \\frac{k + w}{t^2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{k + w}{t^2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{k - w}{t^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c30bdf83-189d-40ba-b7db-7e168610918e",
+      "question_text": [
+        "Find the value of 1101112 + 101002"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11010112",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10010012",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10010112",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10011112",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44e79005-6cb2-4d72-b0da-610b7d25d336",
+      "question_text": [
+        "A woman bought a grinder for ₦60,000. She sold it at a loss of 15%. How much did she sell it?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "SP = Nx CP = ₦60,000 Percentage loss = 15% Using percentage loss... \\(\\frac{CP - SP}{CP} = \\text{100%}\\) \\(\\text{15%} = \\frac{60000 - x}{60000} \\times \\text{100%}\\) \\(\\text{15%} \\times 60000 = (60000 - x)\\text{100%}\\) \\(60000 - x = \\frac{\\text{15%} \\times 60000}{\\text{100%}}\\) 60000 - x = 3 x 3000 60000 -x = 9000 x = 60000 - 9000 x = ₦51,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦53,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦52,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦51,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3c340f8c-5ac2-4432-b8c6-70b76d93d889",
+      "question_text": [
+        "Express the product of 0.00043 and 2000 in standard form."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "0.00043 x 2000 = 43 x 10-5 x 2 x 103 = 43 x 2 x 10-5+3 = 86 x 10-2 = 8.6 x 101 x 10-2 = 8.6 x 10-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.6 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.3 x 10-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.6 x 10-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.6 x 10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a989bcf-1131-4f69-a27d-8e1ad5cb538f",
+      "question_text": [
+        "A man donates 10% of his monthly net earnings to his church. If it amounts to ₦4,500, what is his net monthly income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Let; M = Man monthly net earnings Then; \\(\\text{₦4500} = \\frac{\\text{10%}}{\\text{100%}} \\times M \\) \\(M = \\frac{\\text{₦4500} \\times \\text{100%}}{\\text{10%}} \\) M = ₦45,000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦40,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦45,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦52,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦62,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b3696ae6-68aa-4d29-ab48-4f4b16c11e0d",
+      "question_text": [
+        "If log7.5 = 0.8751, evaluate 2 log75 + log750"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "If log 7.5 = 0.8751 Then 2log75 + log750 = 2(1.8751) + 2.8751 = 3.7502 + 2.8751 = 6.6253",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.6252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.6253",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "66.252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "66.253",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0ffd2ff6-1f00-484b-9d23-c9b064ceb912",
+      "question_text": [
+        "Solve for x in 8x-2 = 2/25"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "8x-2 = 2/25 x-2 = 2/25 x 1/8 x-2 = 2/200 x-2 = 1/100 1/x2 = 1/100 x2 = 100 x = 10",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7c6188e8-4520-420e-8d62-b96ba8fc9bd7",
+      "question_text": [
+        "Simplify \\(\\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(= \\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}} \\times \\frac{\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\) \\(= \\frac{2\\sqrt{2}(\\sqrt{2}) + (2\\sqrt{2})(-\\sqrt{3})-\\sqrt{3}(\\sqrt{2})-\\sqrt{3}(-\\sqrt{3})}{(\\sqrt{2})^2-(\\sqrt{3})^2}\\) \\(= \\frac{2 \\times 2 - 2\\sqrt{6} - \\sqrt{6} + 3}{2 - 3}\\) \\(= \\frac{4 - 3\\sqrt{6} + 3}{-1}\\) \\(= \\frac{7 - 3\\sqrt{6}}{-1}\\) \\(= \\frac{7}{-1} - \\frac{3\\sqrt{6}}{-1}\\) \\(= -7 + 3\\sqrt{6}\\) \\(= 3\\sqrt{6}-7\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3317ae21-ace5-4106-813f-d3bb3ca2c509",
+      "question_text": [
+        "Evaluate Log28 + Log216 - Log24"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\( = log_2 \\frac{8 \\times 16}{4}\\) \\( = log_2 32\\) \\( = log_2 2^5\\) \\( = 5log_2 2\\) \\( = 5 \\times 1\\) \\( = 5 \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ec55a6ba-ed74-4ee2-8c23-48f29b0e0ab5",
+      "question_text": [
+        "If P = {1,2,3,4,5} and P \\(\\cup\\) Q = {1,2,3,4,5,6,7}, list the elements in Q"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Q = (P \\(\\cup\\) Q) - P {6,7}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{6,7}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5,6}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0a4f01d4-bcc2-417e-b267-59a6ab636b70",
+      "question_text": [
+        "If gt2 - k - w = 0, make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "gt2 - k - w = 0 gt2 = k + w \\(g = \\frac{k + w}{t^2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{k + w}{t^2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{k - w}{t^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fb414ce1-02c0-4371-93f8-790d4e25373a",
+      "question_text": [
+        "Find the value of 1101112 + 101002"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11010112",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10010012",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10010112",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10011112",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b8acb5e-1c58-42e8-a297-07e431ca2ea8",
+      "question_text": [
+        "A woman bought a grinder for ₦60,000. She sold it at a loss of 15%. How much did she sell it?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "SP = Nx CP = ₦60,000 Percentage loss = 15% Using percentage loss... \\(\\frac{CP - SP}{CP} = \\text{100%}\\) \\(\\text{15%} = \\frac{60000 - x}{60000} \\times \\text{100%}\\) \\(\\text{15%} \\times 60000 = (60000 - x)\\text{100%}\\) \\(60000 - x = \\frac{\\text{15%} \\times 60000}{\\text{100%}}\\) 60000 - x = 3 x 3000 60000 -x = 9000 x = 60000 - 9000 x = ₦51,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦53,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦52,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦51,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2de0549b-43de-45dc-b655-7e22a4487f40",
+      "question_text": [
+        "Express the product of 0.00043 and 2000 in standard form."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "0.00043 x 2000 = 43 x 10-5 x 2 x 103 = 43 x 2 x 10-5+3 = 86 x 10-2 = 8.6 x 101 x 10-2 = 8.6 x 10-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.6 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.3 x 10-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.6 x 10-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.6 x 10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dcb2c445-a811-4390-acaf-ae12739012f3",
+      "question_text": [
+        "A man donates 10% of his monthly net earnings to his church. If it amounts to ₦4,500, what is his net monthly income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Let; M = Man monthly net earnings Then; \\(\\text{₦4500} = \\frac{\\text{10%}}{\\text{100%}} \\times M \\) \\(M = \\frac{\\text{₦4500} \\times \\text{100%}}{\\text{10%}} \\) M = ₦45,000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦40,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦45,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦52,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦62,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ddf9433-00c4-4f6b-885c-bb7fff092586",
+      "question_text": [
+        "If log7.5 = 0.8751, evaluate 2 log75 + log750"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "If log 7.5 = 0.8751 Then 2log75 + log750 = 2(1.8751) + 2.8751 = 3.7502 + 2.8751 = 6.6253",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.6252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.6253",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "66.252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "66.253",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b379920-57d3-4731-bf8d-baead89a536d",
+      "question_text": [
+        "Solve for x in 8x-2 = 2/25"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "8x-2 = 2/25 x-2 = 2/25 x 1/8 x-2 = 2/200 x-2 = 1/100 1/x2 = 1/100 x2 = 100 x = 10",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "81f35fc6-6e77-49e4-bcb9-db9ede9d36cf",
+      "question_text": [
+        "Simplify \\(\\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(= \\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}} \\times \\frac{\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\) \\(= \\frac{2\\sqrt{2}(\\sqrt{2}) + (2\\sqrt{2})(-\\sqrt{3})-\\sqrt{3}(\\sqrt{2})-\\sqrt{3}(-\\sqrt{3})}{(\\sqrt{2})^2-(\\sqrt{3})^2}\\) \\(= \\frac{2 \\times 2 - 2\\sqrt{6} - \\sqrt{6} + 3}{2 - 3}\\) \\(= \\frac{4 - 3\\sqrt{6} + 3}{-1}\\) \\(= \\frac{7 - 3\\sqrt{6}}{-1}\\) \\(= \\frac{7}{-1} - \\frac{3\\sqrt{6}}{-1}\\) \\(= -7 + 3\\sqrt{6}\\) \\(= 3\\sqrt{6}-7\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d285679-e0fa-4dd1-bde1-47627be57f93",
+      "question_text": [
+        "Evaluate Log28 + Log216 - Log24"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\( = log_2 \\frac{8 \\times 16}{4}\\) \\( = log_2 32\\) \\( = log_2 2^5\\) \\( = 5log_2 2\\) \\( = 5 \\times 1\\) \\( = 5 \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3070a006-5ab2-4abe-8815-663ae5bb51ff",
+      "question_text": [
+        "If P = {1,2,3,4,5} and P \\(\\cup\\) Q = {1,2,3,4,5,6,7}, list the elements in Q"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Q = (P \\(\\cup\\) Q) - P {6,7}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{6,7}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5,6}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79403b31-571c-4eeb-ac75-40dfb1063e07",
+      "question_text": [
+        "If gt2 - k - w = 0, make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "gt2 - k - w = 0 gt2 = k + w \\(g = \\frac{k + w}{t^2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{k + w}{t^2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{k - w}{t^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d95f8260-faf4-440a-91d3-95287f610743",
+      "question_text": [
+        "Find the value of 1101112 + 101002"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11010112",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10010012",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10010112",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10011112",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09a74d74-d8fe-47e9-ae16-0d4ec6dd92aa",
+      "question_text": [
+        "A woman bought a grinder for ₦60,000. She sold it at a loss of 15%. How much did she sell it?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "SP = Nx CP = ₦60,000 Percentage loss = 15% Using percentage loss... \\(\\frac{CP - SP}{CP} = \\text{100%}\\) \\(\\text{15%} = \\frac{60000 - x}{60000} \\times \\text{100%}\\) \\(\\text{15%} \\times 60000 = (60000 - x)\\text{100%}\\) \\(60000 - x = \\frac{\\text{15%} \\times 60000}{\\text{100%}}\\) 60000 - x = 3 x 3000 60000 -x = 9000 x = 60000 - 9000 x = ₦51,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦53,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦52,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦51,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ce18438-917b-427a-b45f-cc610b5149b1",
+      "question_text": [
+        "Express the product of 0.00043 and 2000 in standard form."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "0.00043 x 2000 = 43 x 10-5 x 2 x 103 = 43 x 2 x 10-5+3 = 86 x 10-2 = 8.6 x 101 x 10-2 = 8.6 x 10-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.6 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.3 x 10-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.6 x 10-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.6 x 10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce217c14-d66e-496d-8f37-d82ca1d7177e",
+      "question_text": [
+        "A man donates 10% of his monthly net earnings to his church. If it amounts to ₦4,500, what is his net monthly income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Let; M = Man monthly net earnings Then; \\(\\text{₦4500} = \\frac{\\text{10%}}{\\text{100%}} \\times M \\) \\(M = \\frac{\\text{₦4500} \\times \\text{100%}}{\\text{10%}} \\) M = ₦45,000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦40,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦45,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦52,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦62,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6201a6f-ef18-444a-a423-1d4f4d102ab1",
+      "question_text": [
+        "If log7.5 = 0.8751, evaluate 2 log75 + log750"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "If log 7.5 = 0.8751 Then 2log75 + log750 = 2(1.8751) + 2.8751 = 3.7502 + 2.8751 = 6.6253",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.6252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.6253",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "66.252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "66.253",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d79e157-b33e-438a-8543-1a9022cf57e4",
+      "question_text": [
+        "Solve for x in 8x-2 = 2/25"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "8x-2 = 2/25 x-2 = 2/25 x 1/8 x-2 = 2/200 x-2 = 1/100 1/x2 = 1/100 x2 = 100 x = 10",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e835e712-8281-439f-930e-039593399bc7",
+      "question_text": [
+        "Simplify \\(\\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(= \\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}} \\times \\frac{\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\) \\(= \\frac{2\\sqrt{2}(\\sqrt{2}) + (2\\sqrt{2})(-\\sqrt{3})-\\sqrt{3}(\\sqrt{2})-\\sqrt{3}(-\\sqrt{3})}{(\\sqrt{2})^2-(\\sqrt{3})^2}\\) \\(= \\frac{2 \\times 2 - 2\\sqrt{6} - \\sqrt{6} + 3}{2 - 3}\\) \\(= \\frac{4 - 3\\sqrt{6} + 3}{-1}\\) \\(= \\frac{7 - 3\\sqrt{6}}{-1}\\) \\(= \\frac{7}{-1} - \\frac{3\\sqrt{6}}{-1}\\) \\(= -7 + 3\\sqrt{6}\\) \\(= 3\\sqrt{6}-7\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "12b84b13-7c74-4500-ae19-72ada5162827",
+      "question_text": [
+        "Evaluate Log28 + Log216 - Log24"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\( = log_2 \\frac{8 \\times 16}{4}\\) \\( = log_2 32\\) \\( = log_2 2^5\\) \\( = 5log_2 2\\) \\( = 5 \\times 1\\) \\( = 5 \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b5afd2de-8448-47da-a37b-43682f159d5c",
+      "question_text": [
+        "If P = {1,2,3,4,5} and P \\(\\cup\\) Q = {1,2,3,4,5,6,7}, list the elements in Q"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Q = (P \\(\\cup\\) Q) - P {6,7}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{6,7}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5,6}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84f7994f-5717-4ef1-ba01-c733b1b128f6",
+      "question_text": [
+        "If gt2 - k - w = 0, make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "gt2 - k - w = 0 gt2 = k + w \\(g = \\frac{k + w}{t^2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{k + w}{t^2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{k - w}{t^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dec3e09f-2312-4b8e-8c3c-3d3236f9eadc",
+      "question_text": [
+        "Find the value of 1101112 + 101002"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11010112",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10010012",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10010112",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10011112",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3db13b8-f20c-4da6-84dc-38f7b7112bc0",
+      "question_text": [
+        "A woman bought a grinder for ₦60,000. She sold it at a loss of 15%. How much did she sell it?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "SP = Nx CP = ₦60,000 Percentage loss = 15% Using percentage loss... \\(\\frac{CP - SP}{CP} = \\text{100%}\\) \\(\\text{15%} = \\frac{60000 - x}{60000} \\times \\text{100%}\\) \\(\\text{15%} \\times 60000 = (60000 - x)\\text{100%}\\) \\(60000 - x = \\frac{\\text{15%} \\times 60000}{\\text{100%}}\\) 60000 - x = 3 x 3000 60000 -x = 9000 x = 60000 - 9000 x = ₦51,000",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦53,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦52,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦51,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d9ed3692-fb05-46e7-9b0d-c9a3c1478836",
+      "question_text": [
+        "Express the product of 0.00043 and 2000 in standard form."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "0.00043 x 2000 = 43 x 10-5 x 2 x 103 = 43 x 2 x 10-5+3 = 86 x 10-2 = 8.6 x 101 x 10-2 = 8.6 x 10-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.6 x 10-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.3 x 10-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.6 x 10-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.6 x 10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c828db7-ffed-4a86-a02c-bdf34cb6a363",
+      "question_text": [
+        "A man donates 10% of his monthly net earnings to his church. If it amounts to ₦4,500, what is his net monthly income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Let; M = Man monthly net earnings Then; \\(\\text{₦4500} = \\frac{\\text{10%}}{\\text{100%}} \\times M \\) \\(M = \\frac{\\text{₦4500} \\times \\text{100%}}{\\text{10%}} \\) M = ₦45,000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦40,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦45,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦52,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦62,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1ac02975-47df-4785-941b-850917c8f7b1",
+      "question_text": [
+        "If log7.5 = 0.8751, evaluate 2 log75 + log750"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "If log 7.5 = 0.8751 Then 2log75 + log750 = 2(1.8751) + 2.8751 = 3.7502 + 2.8751 = 6.6253",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.6252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.6253",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "66.252",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "66.253",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2209f545-65f8-4538-b79d-bc3d21dc0b0c",
+      "question_text": [
+        "Solve for x in 8x-2 = 2/25"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "8x-2 = 2/25 x-2 = 2/25 x 1/8 x-2 = 2/200 x-2 = 1/100 1/x2 = 1/100 x2 = 100 x = 10",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7c69ec53-c757-44d2-99ff-1ad2d89386ec",
+      "question_text": [
+        "Simplify \\(\\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(= \\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}} \\times \\frac{\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\) \\(= \\frac{2\\sqrt{2}(\\sqrt{2}) + (2\\sqrt{2})(-\\sqrt{3})-\\sqrt{3}(\\sqrt{2})-\\sqrt{3}(-\\sqrt{3})}{(\\sqrt{2})^2-(\\sqrt{3})^2}\\) \\(= \\frac{2 \\times 2 - 2\\sqrt{6} - \\sqrt{6} + 3}{2 - 3}\\) \\(= \\frac{4 - 3\\sqrt{6} + 3}{-1}\\) \\(= \\frac{7 - 3\\sqrt{6}}{-1}\\) \\(= \\frac{7}{-1} - \\frac{3\\sqrt{6}}{-1}\\) \\(= -7 + 3\\sqrt{6}\\) \\(= 3\\sqrt{6}-7\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3\\(\\sqrt{6} - 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c7a3d9e4-f034-4737-9b56-8635c29d1b7f",
+      "question_text": [
+        "Evaluate Log28 + Log216 - Log24"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\( = log_2 \\frac{8 \\times 16}{4}\\) \\( = log_2 32\\) \\( = log_2 2^5\\) \\( = 5log_2 2\\) \\( = 5 \\times 1\\) \\( = 5 \\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80a66d8a-fa8b-4934-8547-84b7fc8da0a6",
+      "question_text": [
+        "If P = {1,2,3,4,5} and P \\(\\cup\\) Q = {1,2,3,4,5,6,7}, list the elements in Q"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Q = (P \\(\\cup\\) Q) - P {6,7}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{6,7}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5,6}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f4e21b06-849a-4099-953f-6e3915b7fc09",
+      "question_text": [
+        "If gt2 - k - w = 0, make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "gt2 - k - w = 0 gt2 = k + w \\(g = \\frac{k + w}{t^2}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{k + w}{t^2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{k - w}{t^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

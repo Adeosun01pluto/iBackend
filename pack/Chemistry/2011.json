@@ -1,0 +1,4094 @@
+
+[
+    {
+      "id": "10eaea2a-624f-4a3f-9825-abc3deb0f108",
+      "question_text": [
+        "MnO-4(aq) + Y + 5Fe2+(aq) → Mn2+(aq) + 5Fe2+(aq) + 4H2O(l)In the equation above, Y is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Standard Thermodynamic Properties for Selected Substances ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7f011be6-39b0-40f8-8959-246a0dbc90cb",
+      "question_text": [
+        "The functional groups present in the compound above are"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Functional Groups ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem155.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkene and halo-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Hydroxyl and chloro-group",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Alkene and chloro-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hydroxyl and halo-group",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d4e5ee5-5cc3-4b7d-b771-6d1115a47d62",
+      "question_text": [
+        "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Ionic Bond Strength and Lattice Energy ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A reversible reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A spontenous  reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "An endothermic reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "An exothermic reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "31ac5b20-a0f9-4e6a-8f88-5dabccc820da",
+      "question_text": [
+        "The compound above exhibits"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem148-e1528299344785.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Geometric isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Positional isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Structural isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Optical isomerism",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "84979d24-6532-4722-86b7-07bedfdacbca",
+      "question_text": [
+        "An isotope has an atomic number of 15 and a mass number of 31. The number of proton it contains is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "46",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "792ccac6-046b-4285-9325-73524e581a53",
+      "question_text": [
+        "Which of the following properties is not peculiar to matter?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kinetic energy of particles increases from solid to gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Random motion of particles increases from gas to solid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Orderliness of particles increases from gas to liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Random motion of particles increases from liquid to gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8e7c93a-f01c-4e31-8f6a-4dd76a372aba",
+      "question_text": [
+        "What is the concentration of a solution containing 2g of NaOH in 100cm3 of solution?[Na=23, O=16, H=1]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2g NaOH is contained in 100cm3Xg NaOH is contained in 1000cm3Xgram = \\(\\frac{2\\times 1000}{100}\\) = 20gMole = \\(\\frac{20}{40}\\) = 0.50mol/dm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.30 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.50 moldm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40 moldm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4fa325d8-959b-49f9-95b7-947649ebdab7",
+      "question_text": [
+        "The ability of carbon to form long chains is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Special Properties of Carbon ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Acylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbonation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Catenation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f9df3061-e166-49dc-aa2f-a40bca5cb46f",
+      "question_text": [
+        "The principle of column chromatography is based on the ability of the constituents to"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "move at different speeds in the column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "dissolve in each other in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "react with the solvent in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "react with each other in the column",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af9c6b78-3fc3-4c99-92bb-8bdd21808e69",
+      "question_text": [
+        "In the diagram above, X is the ``"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Enthalpy ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem131.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "enthalpy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enthalpy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "activated complex",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "619c4e06-d9fb-4a19-a254-cb23864aa7a2",
+      "question_text": [
+        "The compound above exhibits"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem130.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "geometric isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "optical isomerism",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "structural isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "positional isomerism",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9b705f61-243d-4fef-ae46-56910d71fc20",
+      "question_text": [
+        "Choose the correct answer in the option above.Which of the following is a primary amine?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Amines and Amides ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem129.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b5c2dc8-f068-4633-ba63-f57a72abf13b",
+      "question_text": [
+        "The functional groups present in the compound above are"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Functional Groups ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem12.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkene and halo-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydroxyl and chloro-group",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkene and chloro-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydroxyl and halo-group",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11dbc6e7-63f7-44fc-930e-0148229901ea",
+      "question_text": [
+        "Two organic compounds K and L were treated with a few drops of Fehling's solutions respectively . K formed a brick-red precipitate while L, remains unaffected. The compound K is an"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "alkanone",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d9fcdbaa-e911-4cbf-bcca-a3e571c3943f",
+      "question_text": [
+        "Which of the following statements is true about 2-methylpropane and butane"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Radioactive Decay Series ",
+        " Nuclear Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "They are members of the same homologous series",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "They have the same boiling point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "They have different number of carbon atoms",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "They have the same chemical properties",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb979b0f-10a3-4cb5-8782-1f687f5f187d",
+      "question_text": [
+        "With conc H2SO4 as catalystCH3COOH + C2H5OH → CH3COOC2H5 + H2O"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "esterification",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Condensation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "saponification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "neutralization",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8669770a-d4d0-4987-a46b-380241c3081c",
+      "question_text": [
+        "The ability of carbon to form long chains is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Special Properties of Carbon ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "acylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "catenation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbonation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff3b4a4d-dfef-46cf-aeb1-a2a17ed42baa",
+      "question_text": [
+        "Which of the following compounds will undergo polymerization reaction?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Condensation Reactions ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C2H4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "C2H5COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C2H6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C2H5OH",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "83daadc1-6893-47e2-85c2-e075b69aaa16",
+      "question_text": [
+        "The compound above exhibits"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem11.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "geometric isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "optical isomerism",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "structural isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "positional isomerism",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "20a52fbe-ddfa-4203-950e-c38f8af82cb8",
+      "question_text": [
+        "An organic compound has an empirical formula CH2O and vapour density of 45.What is the molecular formula?[C = 12, H = 1, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C3H7OH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C2H5OH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C3H6O3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C2H4O2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e86912f9-a33a-469c-a991-7a28a2b9f344",
+      "question_text": [
+        "At 25o and zymase as catalyst,C6H126 → 2C2H5OH + 2CO2 + energyThe reaction above represented by the equation above is useful in the production of"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "How do catalysts work? ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "butanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "methanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethanol",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "74435531-026e-4052-af18-e71dc3b1d314",
+      "question_text": [
+        "The bleaching action of chlorine gas is effective due to the presence of"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "water",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "air",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxygen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3dbb5004-25d3-4542-bfd1-5158525415fd",
+      "question_text": [
+        "In the laboratory preparation of oxygen, dried oxygen is usually collected over"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Occurrence, Preparation, and Compounds of Oxygen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrochloric acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "mercury",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "calcium chloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "tetraoxosulphate (VI",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e2b7e6d2-7eda-4b8d-af82-23d276a9fe3c",
+      "question_text": [
+        "The property of concentrated H2SO4 that makes it suitable for preparing HNO3 is its"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "boiling point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxidizing properties",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "dehydrating properties",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "57e28850-96f9-43d0-998e-1e1153306e9d",
+      "question_text": [
+        "Bronze is preferred to copper in the making of medals because it"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Isolation of Copper ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "is stronger",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "can withstand low temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "is lighter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "has low tensile strength",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c72c0d4-bca5-444d-bfdf-b38207eaa15a",
+      "question_text": [
+        "The constituents of baking powder that makes the dough to rise is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Culinary Aspects of Chemistry ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NaHCO3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NaOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NaCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "92454841-e1d8-4bd9-8219-a3edb3cd38d6",
+      "question_text": [
+        "MnO-4(aq) + Y + 5Fe2+(aq) → Mn2+(aq) + 5Fe2+(aq) + 4H2O(l)In the equation above, Y is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Standard Thermodynamic Properties for Selected Substances ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4f1b6783-e6e7-4879-a205-3eaa1f285f10",
+      "question_text": [
+        "Given that M is the mass of a substance deposited during electrolysis and Q is the quantity of electricity consumed, then Faraday's first law can be written as[Electrochemical equivalent]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Electrochemical Reactions ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "M = E/Q",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "M = EQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "M = Q/E",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "M = E/2Q",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2ee100b4-10dd-4f7d-bf1d-df5f4b2516ab",
+      "question_text": [
+        "The impurities formed during the laboratory preparation of chlorine gas are removed by"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Occurrence and Preparation of Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H2O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H2SO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "HCl",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9d9781f-c45f-44ee-91a3-1b1da1c1f34d",
+      "question_text": [
+        "The effect of the presence of impurities such as carbon and sulphur on iron is that they"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Melting and Freezing ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "give it high tensile strenght",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "make it malleable and ductile",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase its melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lower its melting point",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5720df54-8dcf-4558-82b2-ddb372211645",
+      "question_text": [
+        "A few drops of concentrated HNO3 is added to an unknown solution and boiled for a while. If this produces a brown solution, the cation presents is likely to be"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fe3+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Fe2+",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4d29c5b8-ebdb-4f2a-9718-c8c9298523b3",
+      "question_text": [
+        "A chemical reaction which the hydration energy is greater than the lattice energy is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Ionic Bond Strength and Lattice Energy ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a spontaneous reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an endothermic reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an exothermic reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a reversible reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34401371-714e-460e-a839-21263002d06a",
+      "question_text": [
+        "The function of zinc electrode in a galvanic cells is that it"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Standard Hydrogen Electrode ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "undergoes reduction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "serves as the positive electrode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "production electons",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "uses up electrons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a81fffc-198b-4425-b2a2-3890248461a0",
+      "question_text": [
+        "CH4(g) + Cl2(g) → CH3 Cl(s) + HCl(g)The major factor that influence the rate of the reaction above is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "concentration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "light",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c69b27f8-d416-4d1b-a71f-5222a147f81e",
+      "question_text": [
+        "The condition required for corrosion to take place is the presence of"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Corrosion ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water and carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "water, carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxide and oxygenC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "56cc24c1-cb31-4ba7-a145-9d2d49c1adca",
+      "question_text": [
+        "The diagram above best illustrates the effect of decrease in"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Concentration-Time and Mole-Time Graphs ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem10.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "concentration",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "surface area",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "pressure",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c91b1eb5-6e7d-4862-9baa-ebc0c630fc82",
+      "question_text": [
+        "CH3COOH(aq) + OH-(aq) ↔ CH3COO-(aq) + H2O(l)In the reaction above ,CH3COO-(aq) is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Introducing Buffers ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "conjugate base",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "conjugate acid",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dde76b8d-2a86-47de-b745-07c3a43013da",
+      "question_text": [
+        "How many cations will be produced from a solution of potassium aluminium tetraoxosulphate (VI)?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a96fcb5a-639e-472b-9852-8edc55d5cc3c",
+      "question_text": [
+        "Which of the following is NOT an alkali?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Group 1: The Alkali Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NH3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Mg(O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ca(OH",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "926aef25-88b7-4da2-8d2c-83818ff62cb8",
+      "question_text": [
+        "An effect of thermal pollution on water bodies is that the"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Thermal Conductors and Insulators ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "volume of water reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "volume of chemical waste increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "level of oxides of nitrogen increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "level of oxygen reduces",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "af3c769d-c953-4f82-8673-a5d3e92be488",
+      "question_text": [
+        "Which of the following is a deliquescent compound?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Phosphorus Oxyacids and Salts ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CaCl2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "CuO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Na2CO3.10H2O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dfdabcff-92bc-48f0-8401-cb9edb36fc6a",
+      "question_text": [
+        "What type of bond exits between an element X with atomic number 12 and Y with atomic number 17?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Electrovalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dative",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb9a778a-18cf-4770-a5f4-c2a460a64a88",
+      "question_text": [
+        "Hardness of water is mainly due to the presence of"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "calcium hydroxide or magnesium hydroxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "calcium trioxocarbonate (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " or calcium tetraoxosulphate (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "277e6574-f069-49e7-b4f6-855db11024d8",
+      "question_text": [
+        "A suitable solvent for iodine and nephthalene is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Phase Diagram For An Aqueous Solution of a Nonelectrolyte ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sulphide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "waterD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f845ec4f-a637-451b-8baa-bcc722e39021",
+      "question_text": [
+        "Which of the following noble gases is commonly found in the atmosphere?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of the Noble Gases ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Xenon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Neon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Helium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Argon",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6344d72b-6ddf-4e7c-bd00-5208afed2906",
+      "question_text": [
+        "N2O4(g) ↔ 2NO2(g) ΔH = +veIn the reaction above, an increase in temperature will"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Equilibrium Constants ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the value of the equilibrium constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreases the value of the equilibrium constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase in the reactant production",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "shift the equilibrium to the left",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16e3f600-7492-4340-97f7-65dc2fe5bc0b",
+      "question_text": [
+        "An isotope has an atomic number of 15 and a mass number of 31. The number of protons it contains is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "15 because atomic number and proton are the same. If the atomic number is 15 that means the proton number is also 15.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "46",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "31",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "011cefd7-93a7-45f6-b679-ca3c85d000a9",
+      "question_text": [
+        "The molecular lattice of iodine is held together by"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Forces Between Molecules ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dative bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogen bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "van der Waal's forces",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6940128f-5a76-4452-a676-83f14ace43b5",
+      "question_text": [
+        "The arrangement of particles in crystal lattices can be studied using"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Properties of Metals ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "X - rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "γ - rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "α - rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "β - rays",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c9943593-8c51-4cc2-8cf9-a281dea6eba2",
+      "question_text": [
+        "From the diagram above, find the amount of solute deposited when 200 cm3 of the solution is cooled from 55oC to 40oC"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Glossary of Words ",
+        " Composition of Substances and Solutions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem9.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.10 mole",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.20mole",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.01 mole",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.02 mole",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2464d4cf-c5d1-49b7-81fd-455ea80ecb81",
+      "question_text": [
+        "The importance of sodium aluminate (III) in the treatment of water is to"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Chemistry Applications: Water Treatment ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cause coagulation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutralize acidity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "prevent goitre and tooth decay",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "kill germs",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6dd6ed02-1c29-4711-b11f-f3f820edb950",
+      "question_text": [
+        "What is the concentration of a solution containing 2g of NaOH in 100cm3 of solution? [Na = 23, O = 16, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2g of NaOH in 100cm Na+O+H = 23+16+1= 40 2g of 40MM= 100 2÷40×100 = 5 Therefore in cm3 = 5 ÷ 100 = 0.5mol dm-3.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.40 mol dm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.50 mol dm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.05 mol dm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.30 mol dm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "036b61d5-7741-4a5b-a60f-dfc3f95f9e54",
+      "question_text": [
+        "Which of the following properties is NOT peculiar to matter?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "kinetic energy of particles increase from solid to gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Random motion of particles increases from liquid to gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Orderliness of particles increases from gas to liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Random motion of particles increases from gas to solid",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d513f63d-51e9-433a-83f6-3a3dc9b88ed0",
+      "question_text": [
+        "From the diagram above, an ideal can be represented by"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Ideal Gases and Non-Ideal Gases ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem8.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "K",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "L",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "608d3841-b940-4ea5-9187-31cad4d52fe5",
+      "question_text": [
+        "Which of the following questions is correct about the periodic table?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Electron Configurations and the Periodic Table ",
+        " Electronic Structure of Atoms"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The non-metallic properties of the elements tend to decrease across  each period",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The valence electrons of the elements increase progressively across the period",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Elements in the same group have the same numbeer of electron shells",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Elements in the same period have the number of valence electrons",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6cd03744-8976-4702-b558-6f5f741280c0",
+      "question_text": [
+        "The relative atomic mass of a naturally occurring lithium consisting of 90% Li and 10% Li is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Size of Nucleus ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee74de0b-ea62-49ec-a607-f59c1d6540cf",
+      "question_text": [
+        "The number of isomers that can be obtained from 04R0 is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ad1132f8-cab1-4c93-a351-419917e61cae",
+      "question_text": [
+        "MnO-4(aq) + Y + 5Fe2+(aq) → Mn2+(aq) + 5Fe2+(aq) + 4H2O(l)In the equation above, Y is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Standard Thermodynamic Properties for Selected Substances ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e5fa2776-f45e-4f70-91c6-e29e2f60f20b",
+      "question_text": [
+        "The functional groups present in the compound above are"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Functional Groups ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem155.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkene and halo-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Hydroxyl and chloro-group",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Alkene and chloro-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hydroxyl and halo-group",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fcfa9afd-51a4-481d-9960-009be43bdc38",
+      "question_text": [
+        "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Ionic Bond Strength and Lattice Energy ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A reversible reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A spontenous  reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "An endothermic reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "An exothermic reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3f1bee9-24a5-4698-a6a6-50817d315937",
+      "question_text": [
+        "The compound above exhibits"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem148-e1528299344785.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Geometric isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Positional isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Structural isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Optical isomerism",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3d0303c3-3b5e-4453-93ae-434df7239b2a",
+      "question_text": [
+        "An isotope has an atomic number of 15 and a mass number of 31. The number of proton it contains is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "46",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40982580-62d4-4b7b-92a7-0d23e03a91c2",
+      "question_text": [
+        "Which of the following properties is not peculiar to matter?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kinetic energy of particles increases from solid to gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Random motion of particles increases from gas to solid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Orderliness of particles increases from gas to liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Random motion of particles increases from liquid to gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd6dfaa9-29df-43cd-8ce2-b17a6b4058a6",
+      "question_text": [
+        "What is the concentration of a solution containing 2g of NaOH in 100cm3 of solution?[Na=23, O=16, H=1]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2g NaOH is contained in 100cm3Xg NaOH is contained in 1000cm3Xgram = \\(\\frac{2\\times 1000}{100}\\) = 20gMole = \\(\\frac{20}{40}\\) = 0.50mol/dm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.30 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.50 moldm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40 moldm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b7911bdc-ed1d-42e4-8690-0c6c340af314",
+      "question_text": [
+        "The ability of carbon to form long chains is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Special Properties of Carbon ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Acylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbonation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Catenation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7d95b7fa-7eab-4c14-9298-ae454a05a6d8",
+      "question_text": [
+        "The principle of column chromatography is based on the ability of the constituents to"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "move at different speeds in the column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "dissolve in each other in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "react with the solvent in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "react with each other in the column",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f4a5334-d0ba-471e-ba21-f86b0729c9d8",
+      "question_text": [
+        "In the diagram above, X is the ``"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Enthalpy ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem131.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "enthalpy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enthalpy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "activated complex",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "054ca896-ed99-47db-a188-88f85991c766",
+      "question_text": [
+        "MnO-4(aq) + Y + 5Fe2+(aq) → Mn2+(aq) + 5Fe2+(aq) + 4H2O(l)In the equation above, Y is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Standard Thermodynamic Properties for Selected Substances ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "66d56df2-1f8e-4d93-a867-2a782456f2f3",
+      "question_text": [
+        "The functional groups present in the compound above are"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Functional Groups ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem155.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkene and halo-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Hydroxyl and chloro-group",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Alkene and chloro-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hydroxyl and halo-group",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a4f124a7-d73a-4d40-8f68-835782648bb5",
+      "question_text": [
+        "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Ionic Bond Strength and Lattice Energy ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A reversible reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A spontenous  reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "An endothermic reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "An exothermic reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b85f91dd-8bc5-4fe2-9af5-391482feab23",
+      "question_text": [
+        "The compound above exhibits"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem148-e1528299344785.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Geometric isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Positional isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Structural isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Optical isomerism",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "297eb24e-e889-4d9c-a3f5-d9df2dc9b598",
+      "question_text": [
+        "An isotope has an atomic number of 15 and a mass number of 31. The number of proton it contains is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "46",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b217498-21d2-4c69-82b6-cb7487355811",
+      "question_text": [
+        "Which of the following properties is not peculiar to matter?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kinetic energy of particles increases from solid to gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Random motion of particles increases from gas to solid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Orderliness of particles increases from gas to liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Random motion of particles increases from liquid to gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8edf5a3-3e4c-4847-9dd0-8b0520e82076",
+      "question_text": [
+        "What is the concentration of a solution containing 2g of NaOH in 100cm3 of solution?[Na=23, O=16, H=1]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2g NaOH is contained in 100cm3Xg NaOH is contained in 1000cm3Xgram = \\(\\frac{2\\times 1000}{100}\\) = 20gMole = \\(\\frac{20}{40}\\) = 0.50mol/dm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.30 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.50 moldm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40 moldm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cefd3f56-15d2-461e-b5de-69099baf4f38",
+      "question_text": [
+        "The ability of carbon to form long chains is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Special Properties of Carbon ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Acylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbonation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Catenation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "31a57d88-9218-4832-a7e6-43c324f7823c",
+      "question_text": [
+        "The principle of column chromatography is based on the ability of the constituents to"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "move at different speeds in the column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "dissolve in each other in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "react with the solvent in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "react with each other in the column",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "afe977cf-f8c6-49d7-b2e5-bd269d3cd53c",
+      "question_text": [
+        "In the diagram above, X is the ``"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Enthalpy ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem131.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "enthalpy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enthalpy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "activated complex",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6e5dd75-7092-4350-b28b-64ea175772b4",
+      "question_text": [
+        "MnO-4(aq) + Y + 5Fe2+(aq) → Mn2+(aq) + 5Fe2+(aq) + 4H2O(l)In the equation above, Y is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Standard Thermodynamic Properties for Selected Substances ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "30001e6f-e1a9-4735-ba82-9fe0ff165da3",
+      "question_text": [
+        "The functional groups present in the compound above are"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Functional Groups ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem155.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkene and halo-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Hydroxyl and chloro-group",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Alkene and chloro-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hydroxyl and halo-group",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b2ddfc1e-9a54-468b-8679-c6d733a52365",
+      "question_text": [
+        "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Ionic Bond Strength and Lattice Energy ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A reversible reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A spontenous  reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "An endothermic reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "An exothermic reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc4caece-393f-48c7-a2b0-d3f5cf14ea97",
+      "question_text": [
+        "The compound above exhibits"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem148-e1528299344785.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Geometric isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Positional isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Structural isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Optical isomerism",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f771db22-e6ff-474f-abab-b46d120f695c",
+      "question_text": [
+        "An isotope has an atomic number of 15 and a mass number of 31. The number of proton it contains is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "46",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc1f39cc-a8cd-4b80-bc62-1e0eb6ddd4a8",
+      "question_text": [
+        "Which of the following properties is not peculiar to matter?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kinetic energy of particles increases from solid to gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Random motion of particles increases from gas to solid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Orderliness of particles increases from gas to liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Random motion of particles increases from liquid to gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b6455cf6-2ac5-4b19-a36e-0349ecd97bee",
+      "question_text": [
+        "What is the concentration of a solution containing 2g of NaOH in 100cm3 of solution?[Na=23, O=16, H=1]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2g NaOH is contained in 100cm3Xg NaOH is contained in 1000cm3Xgram = \\(\\frac{2\\times 1000}{100}\\) = 20gMole = \\(\\frac{20}{40}\\) = 0.50mol/dm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.30 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.50 moldm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40 moldm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dc61604e-d684-4fff-af2b-9a2188aa4986",
+      "question_text": [
+        "The ability of carbon to form long chains is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Special Properties of Carbon ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Acylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbonation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Catenation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "21ddb3e6-61ff-468c-84a8-2af45b2d84eb",
+      "question_text": [
+        "The principle of column chromatography is based on the ability of the constituents to"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "move at different speeds in the column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "dissolve in each other in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "react with the solvent in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "react with each other in the column",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "275759ca-ee92-41df-bd5e-c697fa28c75d",
+      "question_text": [
+        "In the diagram above, X is the ``"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Enthalpy ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem131.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "enthalpy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enthalpy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "activated complex",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1a4ce216-5b23-4599-8de1-9691bacc86c3",
+      "question_text": [
+        "MnO-4(aq) + Y + 5Fe2+(aq) → Mn2+(aq) + 5Fe2+(aq) + 4H2O(l)In the equation above, Y is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Standard Thermodynamic Properties for Selected Substances ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3d338920-bbd6-4242-b565-086319f7b9d9",
+      "question_text": [
+        "The functional groups present in the compound above are"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Functional Groups ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem155.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkene and halo-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Hydroxyl and chloro-group",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Alkene and chloro-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hydroxyl and halo-group",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1ce3a3b-a4bd-4e24-8bfb-ef48db7a9d48",
+      "question_text": [
+        "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Ionic Bond Strength and Lattice Energy ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A reversible reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A spontenous  reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "An endothermic reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "An exothermic reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00a5e8ae-1ac1-4acb-ae0c-9fc59571c79b",
+      "question_text": [
+        "The compound above exhibits"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem148-e1528299344785.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Geometric isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Positional isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Structural isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Optical isomerism",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "27a814e5-27bb-4838-b78a-acc8e7df3d8d",
+      "question_text": [
+        "An isotope has an atomic number of 15 and a mass number of 31. The number of proton it contains is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "46",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5db446f-7329-4178-8c15-7a390e20a4ae",
+      "question_text": [
+        "Which of the following properties is not peculiar to matter?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kinetic energy of particles increases from solid to gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Random motion of particles increases from gas to solid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Orderliness of particles increases from gas to liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Random motion of particles increases from liquid to gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee378349-25be-4e7a-a235-7d9448a55e1a",
+      "question_text": [
+        "What is the concentration of a solution containing 2g of NaOH in 100cm3 of solution?[Na=23, O=16, H=1]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2g NaOH is contained in 100cm3Xg NaOH is contained in 1000cm3Xgram = \\(\\frac{2\\times 1000}{100}\\) = 20gMole = \\(\\frac{20}{40}\\) = 0.50mol/dm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.30 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.50 moldm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40 moldm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "043d956a-c7c9-4bed-b1bb-f2c05755f64c",
+      "question_text": [
+        "The ability of carbon to form long chains is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Special Properties of Carbon ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Acylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbonation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Catenation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0b220a17-602c-49ab-a9fa-b5bb67e72b51",
+      "question_text": [
+        "The principle of column chromatography is based on the ability of the constituents to"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "move at different speeds in the column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "dissolve in each other in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "react with the solvent in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "react with each other in the column",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca2c6f1a-a12d-47ca-9673-d50f84383b45",
+      "question_text": [
+        "In the diagram above, X is the ``"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Enthalpy ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem131.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "enthalpy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enthalpy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "activated complex",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "882f168b-c6f4-43ec-b099-0d653e1d41b5",
+      "question_text": [
+        "MnO-4(aq) + Y + 5Fe2+(aq) → Mn2+(aq) + 5Fe2+(aq) + 4H2O(l)In the equation above, Y is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Standard Thermodynamic Properties for Selected Substances ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4H+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fa75d95c-cc9e-485a-b6a3-393073d61488",
+      "question_text": [
+        "The functional groups present in the compound above are"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Functional Groups ",
+        " Organic Molecules"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem155.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkene and halo-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Hydroxyl and chloro-group",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Alkene and chloro-group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hydroxyl and halo-group",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bcc648b2-ff87-4d6f-ae5d-6900cb692669",
+      "question_text": [
+        "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Ionic Bond Strength and Lattice Energy ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A reversible reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A spontenous  reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "An endothermic reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "An exothermic reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ce7a3fc-cd1e-48cf-b2de-7ded09130e42",
+      "question_text": [
+        "The compound above exhibits"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem148-e1528299344785.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Geometric isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Positional isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Structural isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Optical isomerism",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "753a98c8-6510-42bd-adde-3ebfc2813087",
+      "question_text": [
+        "An isotope has an atomic number of 15 and a mass number of 31. The number of proton it contains is"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "46",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "327d6413-0a34-4b22-bb73-90a191617d74",
+      "question_text": [
+        "Which of the following properties is not peculiar to matter?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Kinetic Molecular Theory ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kinetic energy of particles increases from solid to gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Random motion of particles increases from gas to solid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Orderliness of particles increases from gas to liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Random motion of particles increases from liquid to gas",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a1ff240-8862-45da-9e08-3e7f800de8b6",
+      "question_text": [
+        "What is the concentration of a solution containing 2g of NaOH in 100cm3 of solution?[Na=23, O=16, H=1]"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "2g NaOH is contained in 100cm3Xg NaOH is contained in 1000cm3Xgram = \\(\\frac{2\\times 1000}{100}\\) = 20gMole = \\(\\frac{20}{40}\\) = 0.50mol/dm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.30 moldm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.50 moldm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.40 moldm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21932c12-e13e-472c-8c7d-0effb7389b7e",
+      "question_text": [
+        "The ability of carbon to form long chains is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Special Properties of Carbon ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Alkylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Acylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbonation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Catenation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bbd27fd1-f214-402a-8715-568b5e175fa9",
+      "question_text": [
+        "The principle of column chromatography is based on the ability of the constituents to"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Obtaining Nitrogen ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "move at different speeds in the column",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "dissolve in each other in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "react with the solvent in the column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "react with each other in the column",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e71e444b-df13-41a8-8791-014bdd40c4bd",
+      "question_text": [
+        "In the diagram above, X is the ``"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Enthalpy ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem131.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "enthalpy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enthalpy change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "activated complex",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,6165 @@
+
+[
+    {
+      "id": "96e85879-3568-4cef-a259-1dabd032ec15",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5f781fcf-849b-450f-9d31-70793dd95a0e",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "388f2d52-0b29-43e2-857e-91128b235a7c",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19037872-edfa-4be9-87d1-99a8a525460d",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53a3087b-e5cb-4c8d-880b-5be112a849f6",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "507d4771-d536-41cc-968d-f229fc054306",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1dc682a3-d4fb-46ea-ad68-ff48ae6dccc3",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1d5eda03-2c8c-4e63-ab35-56e709d5a1d5",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "82381f95-5596-4c99-bd33-7d80cf012970",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "189fb6d5-aac7-4530-8fc7-56e6da79da40",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "67e7fd4a-d00d-4ddc-a191-91ee489188c9",
+      "question_text": [
+        "Which of the following represent hybridization in ethyne?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Assignment of Hybrid Orbitals to Central Atoms ",
+        " Advanced Theories of Covalent Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sp2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sp2d",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Sp3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Sp",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6a77a2ee-0c2b-4a75-912e-754fa7e889c1",
+      "question_text": [
+        "C12H22O11(s) + H2SO4(aq) 12C(s) + 11H2O(l) + H2SO4(aq)In the reaction above, tetraoxosulphate (VI) acid function as"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A dehydrate agent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "An oxidizing agent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "A reducing agent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A catalyst",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "971db60a-073b-4ce5-bcd5-89e2112165ca",
+      "question_text": [
+        "When sodium reacts with water, the resulting solution is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Redox Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Weakly acidic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Neutral",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Acidic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Alkaline",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9c8e0990-b454-4523-8f9f-d09728303853",
+      "question_text": [
+        "A characteristic reaction of the compounds with the general formula CnH2n is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Condensation Reactions ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Esterification",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Polymerization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Decarboxylation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Substitution",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f589f096-87ef-408b-9073-9ea1fe3b4e6c",
+      "question_text": [
+        "The pair of organic compounds that are isomers is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Benzene and methylbenzene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Trichloromethane and tetrachloromethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ethanol and propane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "But-1-ene and but-2-ene",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e9470397-c56b-4983-ab45-f346e2866435",
+      "question_text": [
+        "A burning candle produces water and"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Phosphorus Oxygen Compounds ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a7d30d4a-c717-4b60-ab51-b2611625898a",
+      "question_text": [
+        "The gas that can best be collected by downward displacement of air is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Catalysts Do Not Affect Equilibrium ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sulphur (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "AmmoniaD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ed89c9a3-591e-4aeb-bcd4-240ea171f4b8",
+      "question_text": [
+        "Which of the following metals burn with brick red flame?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "027bb80e-7bf4-44bd-bc47-daa6759f30da",
+      "question_text": [
+        "During the vulcanization of rubber, sulphur is added to"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Acid and a Metal Carbonate ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Break down rubber polymer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Lengthen the chain of rubber",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Bind rubber molecules together",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Act as a catalyst",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e724fb6-c9f9-4719-8f27-36877ef3065a",
+      "question_text": [
+        "Catalytic hydrogenation of benzene produces"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Hydrocarbons ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Oil",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cyclohexene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cyclohexane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Margarine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6049c842-414c-4fe3-bda1-207610b342b8",
+      "question_text": [
+        "A trihydric alkanol is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Glycerol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Phenol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Glycol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ethanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8213f878-b79a-49a0-858a-1fedd933dc01",
+      "question_text": [
+        "When chlorine Is passed into water and the resulting solution exposed to sunlight, the product formed are"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Acid and a Metal Carbonate ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Chlorine gas and hydrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Oxygen and oxochlorate (",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Chlorine gas and oxochlorate (I",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b39ddbd9-a5ab-436f-94f3-e3302f5618b3",
+      "question_text": [
+        "Proteins in acid solution undergo"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Acid-Base Neutralization ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Polymerization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Substitution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fermentation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hydrolysis",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "90ed76b0-7763-46b9-940e-36ff2dc32429",
+      "question_text": [
+        "In which of the following reactions has the oxidation number of nitrogen increased?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NO(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + Br2(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " → 2NOBr(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "678a3d3a-de5f-44f2-be29-b5c02be21cd9",
+      "question_text": [
+        "NH3(g) + HCl(g) → NH4Cl(s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "indeterminate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "15ee2ebe-654d-4c62-b5be-821e63b50ec9",
+      "question_text": [
+        "Fermentation is the"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Addition Reactions ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "breaking down of carbohydrate to glucose",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "conversion of sugar to alcohol in the presence of yeast",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "breaking down of sugar to carbohydrate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "conversion of alcohol to sugar in the presence of yeast",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8db0811-7568-4d60-88e0-d1d988b92ed4",
+      "question_text": [
+        "The general formula for the alkanals is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ROH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "R2CO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "RCOOR1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "RCHO",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0b3ea62d-3225-4aa8-810a-cd2868c05bb4",
+      "question_text": [
+        "The main impurity in iron ore during the extraction of iron is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Isolation of Iron ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Silicon (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5cfc2ea9-8589-4ded-a817-974c5363026b",
+      "question_text": [
+        "C(s) + 2S(g) → CS2(g)ΔH = +89 kJ mol-1The chemical equation above implies that"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Bond Strength: Covalent Bonds ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "each of carbon and sulphur has 89 kJ of energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "both carbon and sulphur contribute 89 kJ of energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "89 kJ of energy is released",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "89 kJ of energy is absorbed",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8da30d4f-f14d-4192-9066-75d70d7c7a3f",
+      "question_text": [
+        "2SO2(g) + O2(g) ↔ 2SO3(g)ΔH = -189 kJ mol-1The equilibrium constant for the reaction above is increased by"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Equilibrium Constants ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increasing the temperature of the system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increase the pressure of the system",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "The addition of a catalyst to the system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Increasing the surface area of the vessel",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c9c91d6e-a77e-4243-b38c-ca36d0b5d51a",
+      "question_text": [
+        "3Cu(s) + 8HNO3(aq) 3Cu(NO3)2(aq) + 4H2O(l) + 2NO(g)In the equation above, copper is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Structure and General Properties of the Nonmetals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an electron acceptor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an oxidizing agent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a reducing agent",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "582bcd2c-75ee-4844-b358-3750990da7b1",
+      "question_text": [
+        "When ΔH is negative, a reaction is said to be"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Exothermic and Endothermic Reactions ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "reversible",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "exothermic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "endothermic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "588126fb-8071-408c-b811-d93be5c99368",
+      "question_text": [
+        "As the concentration of an electrolyte reduces, the conductivity"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Electrolytes, Ionization and Conductivity ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reduces to zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "is unaffected",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "273b9571-af47-494d-843b-ada20fbdc4ca",
+      "question_text": [
+        "P(g) + Q(g) ↔ 3R(s) + S(g) ΔH is negativeWhich of the following will increase the yield of R?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Percent Yield ",
+        " Chemical Reactions and Stoichiometry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Using a larger close vessel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increasing the temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Removing some S",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Adding a positive catalyst",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e54cfef-383e-4bc7-9afc-c142937b28b5",
+      "question_text": [
+        "A metal M displaces zinc from zinc chloride solution. This shows that"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Chemical Reduction ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "M is more electronegative than zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Zinc is above hydrogen in the series",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M is more electropositive than zinc",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Electrons flow from zinc to M",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "350b1ba5-9a12-4148-8822-95a589e59ee2",
+      "question_text": [
+        "Which of the following  best  explains the increase in the rate of a chemical reaction as the temperature rises?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Kinetic-Molecular Theory Explains the Behavior of Gases, Part I ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The bonds in the reacting molecules are more readily broken",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The molecular collisions become more violent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "A lower proportion of the molecules has the necessary minimum energy to react",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The collision frequency of the molecules increase",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "55446a00-ac70-49e9-a490-ccf95c1b7302",
+      "question_text": [
+        "What current in amperes will deposit 2.7g of aluminium in 2 hours?[Al = 27, F = 96 500 C mol-1]"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Al3+ + 3e → Al3 * 96500 → 27I = 3600 * 2 → 27I = (2.7/27) * ((3 * 96500)/(3600 * 2)) = 4.025 ≈ 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f63d86de-ec3a-47b2-9a80-24fa8eed333a",
+      "question_text": [
+        "Ethanoic acid is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Acid-Base Equilibrium Constants ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "tribasic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "unionizeable",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "monobasic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "dibasic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f95a7fc7-0a81-49c8-a59c-21eb9d6b27ae",
+      "question_text": [
+        "What is the decrease in volume of air when pyrogallol  is shaken with 30.00cm3 of air ?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "% volume of O2 in air = 21%∴ (21/100) * 30 = 6.3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15.00cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.30cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.63cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.06cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "febc18d5-188c-4388-91b1-0414e53c8201",
+      "question_text": [
+        "Environmental  pollution is worsened by the release from automobile exhausts  of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Photochemical Smog ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Water vapour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Steam",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Smoke",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Heavy metals",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27be7721-e075-4b5c-9aeb-4ab7dff21244",
+      "question_text": [
+        "The chemical used for coagulation in water purification is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Aluminium tetraoxosulphate (V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Copper tetraoxosulphate (V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecb60bc9-313a-4a52-aaec-80e9b293f2be",
+      "question_text": [
+        "Phosphorus is stored under water to prevent it from"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Dehydrating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Becoming inert",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Smelling",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Catching fire",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2cf3058f-1752-4c26-acca-e93886f26976",
+      "question_text": [
+        "In which of the following reactions does reduction takes place"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Other Types of Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe2+ - e- →  Fe3+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2O2- →O2 + 4e-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cr – 2e- →  Cr2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2H+ + 2e- → H2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a29e7f0f-1515-4692-b801-bb865787fe4a",
+      "question_text": [
+        "An elements X with relative atomic mass 16.2 contains two isotopes 168X with relative abundance of 90% and m8X with relative abundance of 10%. The value of m is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Isotopes ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "168X, m8X16 * (90/100) + m * (10/100) = 16.21440 + 10m = 162010m = 180m = 18",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "18",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "104a5c50-a4ad-4a5b-bea3-ab5665eefc4f",
+      "question_text": [
+        "Which of the following statements is correct about the average kinetic energy of the molecules of a gas?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "It increase with increase in pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "It increase at constant temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "It increase with increase in temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "It increase with increase in volume",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1739d40b-ed40-40b1-8cd9-080ba2e167c7",
+      "question_text": [
+        "The pollution from petroleum spillage in rivers and lakes can best be dispersed by"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pouring detergents",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Passing of ships through the area",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pouring organic solvents",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Evaporation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5461440d-d097-441a-85b7-30b1568a93e4",
+      "question_text": [
+        "Deliquescent substance are used for"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Phosphorus Oxyacids and Salts ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cooling",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Wetting",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Melting",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Drying",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c89c4ff8-85e4-461c-9e4c-070fb6de2ba2",
+      "question_text": [
+        "Pure  solvents are obtained by"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Distillation of Solutions ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Distillation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Condensation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Extraction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Evaporation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "abbffff7-1cbb-412f-8b61-1e6e019a375d",
+      "question_text": [
+        "A particle that contains 9 protons, 10 neutrons and 10 electrons is a"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "The atom has more the electron than the proton.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e6c66f0-9d6d-4c91-b985-4f65cdde0788",
+      "question_text": [
+        "Cancerous growths are cured by exposure to"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Effects of Long-term Radiation Exposure On the Human Body ",
+        " Nuclear Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "γ - rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "β - rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "α - rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x - ray",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1ac6d632-c298-4591-983a-8fba48102ca3",
+      "question_text": [
+        "An oxide XO2 has a vapour density of 32. What is the atomic mass of X?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Atomic Mass and Diameter ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "XO2 → 32 * 2X + 16 * 2 → 64X = 64 - 32=32",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "32",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c85562c-27f0-489a-b67b-f464a39eb2b5",
+      "question_text": [
+        "Millikan's contributions to the development of atomic theory is the determination of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Bohr’s Model and Others ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "charge on electron",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "positive rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "charge to mass ratio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cathode rays",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8114558c-9327-44c3-919c-6f4a1585ffa5",
+      "question_text": [
+        "Four elements W, X, Y and Z have atomic number 2,6,16 and 20 respectively. Which of these elements is a metal?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Classifying Elements ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Z",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e3470f7d-6426-4f7c-8ebc-7290576ef15c",
+      "question_text": [
+        "25cm3 of a gas X contains Z molecules at 15oC and 75 mmHg. How many molecules will 25 cm3 of another gas Y contain at the same temperature and pressure?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Non-Ideal Gas Behavior ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 Y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Z",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "170858c4-823f-4a40-bd3e-c9a459140d64",
+      "question_text": [
+        "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen?[H = 1, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Reactions ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "2H2 + O2 → 2H2O4 → 368 → XX → (8/6) * 36= 72.0g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36.0g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.0g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "72.0g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "16.0g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d79bfede-50f6-4734-8136-d9023fc53501",
+      "question_text": [
+        "Which of the following decreases when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Number of molecules present",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Atomic radius of each particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8a0ff52-98da-4ace-a00c-edf8933a2836",
+      "question_text": [
+        "A major factor coonsidered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "crystalline form",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0f982509-88a9-4e82-83ce-01d39a457fc9",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+,OH- and CI- was electrolysed using platiunm electrodes which of the ions will be discharged at the cathods?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CI-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0ed24710-f60c-4c83-95d4-57f3f9b070f2",
+      "question_text": [
+        "What current in ampere will deposit 0.27g of aluminium in 2 hours? [Al = 27, F = 96500C]."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e0c54db-8c89-45fd-9963-47e08d0ed484",
+      "question_text": [
+        "Pure solvents are obtained by"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Distillation of Solutions ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "distillation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "condensation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "extraction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaporationE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b426873f-a14b-4b81-a1e5-2568f53c966c",
+      "question_text": [
+        "Environmental pollution is worsened by the release from the automobile exhaust of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water vapour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "steam",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "smoke",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "heavy metalsE",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c310d3ea-bcdc-4c9b-97af-5e07f4ee7c28",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "87e094db-a572-4caa-9154-70246ac53450",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd5e5822-3c0e-4c0e-a45b-9c218d002c2d",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b564572-e335-4124-9236-4e572ec64aa2",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "857e6671-5e3e-4bc4-9db3-d225d4aa7bfd",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d43543d2-7657-4ce6-b55d-f777488eef24",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d614475e-7e26-4e2e-be70-b747cc11403d",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "87debaed-d814-4cbe-ae0c-c2f5d56bb266",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6068947c-c204-4371-aa71-9d9972d0a65e",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c68454b0-9f0f-4744-a07d-2f9b15712985",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58485f31-d3c9-4155-b850-b3a04330345d",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "aaabb6d8-7434-4059-8223-61d23c1d9cfc",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2e0d29b2-e6d0-4379-8eb3-8b10ba95dc80",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e2b55458-af82-4bcc-9a48-749aa212e5c6",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "732c5dc2-fa4e-43a5-a1d5-3796179337a4",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40f0c10c-ddef-46d6-857b-94cebea3776e",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "961d6bca-d969-4835-85a1-d2f60dc14b54",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fd53f0f6-8135-4356-a8cb-94e9cff3a0cc",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1142e85c-0016-4e42-9d08-5022c269d6dd",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b5f9d7a1-1205-41cc-909d-eaa475a4e5f3",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "120c165e-f07f-4b5c-b8d4-b6e3adc8eab1",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "26074c9b-ecfa-4126-98ce-47ba3790d92d",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2eaf837c-61de-47fa-9396-a87e08b0ad07",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b9ef0e5-5907-4ebb-b713-6c4a37f4507c",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9542db14-2139-4e99-81a8-1a3bb1bad4d4",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc3c240b-bf01-4122-83a9-6aa0dac0645e",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05350417-ed85-4cce-98a9-f5fb51b441a3",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ac5b40ed-7e53-4d5c-885b-dda791adfddf",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11195882-3b2c-43b1-99e6-7ead831ef66d",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a218f9e-d192-4645-8479-b6feda0dba58",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2cb65757-1c7b-4345-acc1-24d05f7dc13e",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "73ca1de1-d351-4035-ac77-84c892182e74",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1da9a574-398a-4a25-8507-fe715321454a",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2cd5856e-f3c5-47b5-9ed5-153ff9642c22",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2fe57e9e-a4ce-42c3-8864-c98a60298ee3",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7e74161-72e3-46b9-ac0f-e389711ccbcb",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0216822e-4cf3-45e6-a8cc-576e68f748f2",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cc2ba5b5-0d2a-456d-b66d-22f378105729",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d1737f6-846d-4f82-a61e-88c9c695a841",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80f8c540-62f6-445b-94ed-30f4acd4ce1e",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "820a343a-d1f8-4b3f-96df-c5abc9bba2c6",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f944af65-e27c-4301-a398-a5d004411394",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3f25321-e1a4-4afd-a17b-0f67e97ca5b2",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c830548-57cd-461d-b00c-3d5961458eef",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3dba5ac3-d644-48f2-a512-3982c764ec46",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "93de902a-e95d-4f2e-880a-6cb337f9e7a5",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fcd8ed1d-95a3-4dd0-9f14-ed28659e74cd",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "152f1871-b8f1-4fec-aae3-05c1a3b5213a",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "87438da8-5da3-4ffd-bd92-40cf5cd4cc53",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "927b7be2-0702-4ba8-958e-f8df0be5eb39",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "feb6c803-a4c2-4d33-85b8-9cd180a2b985",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "53c6028d-8f69-491b-8724-76941d781bc8",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "244320aa-2289-4729-a878-1cd12ccd6cf1",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94698940-4eac-4c76-ad68-22f9b973f5a0",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "47c287a1-a95e-47ac-b523-0ff415ab3c22",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eaaf1d3c-9966-4621-a0b5-1ac5bf04a8e9",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53488e09-b3e9-439e-8b84-b8369c85420a",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "be51b08a-49ae-4795-9e09-4b06f43de4d9",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "adf12406-2824-4892-8378-d3d4f78c0273",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3225bcca-a35b-4937-8535-f3363d31de3e",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8bf4d5d2-9fef-4731-aefe-2a09fabde8e8",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6c08c922-4fee-4061-8d16-f44b681d58dd",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca065bc4-3dcd-440f-b56a-210c5886aa5d",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e25afd2f-7661-4f1d-a0b0-0efee5046921",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7efa6088-7bdc-450d-98d5-b2baae5b6d6e",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dd5b15e3-1112-4714-b65c-1c21967ad65c",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "592279f0-82bd-47ca-a837-9ea56382b5eb",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "74466f3a-2ed0-4b79-be2d-157b4166288d",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "01c8871e-075e-4019-aed0-d8ef4958cee1",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e3388f67-bde9-417f-a9f8-096f2d473322",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c514a21-2e40-4efa-a5db-8059d47d534b",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c1127ec0-9071-436a-9e49-a5f89bcfddde",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c91def15-069a-411e-aa69-f44b214a4e95",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f94e044-a30a-43df-912c-a06f3186fe5f",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dd405daf-421b-491c-9df5-c77420778dc7",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f65d0c4-5733-44bd-89ca-4b60fff6e5ff",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "077ec534-af62-47bb-8d51-506fedcba7f2",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c6bc025e-707b-4bb6-8487-03c22ef24abf",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "72d568a7-13c0-4c14-a93c-5b9c1aef3e4f",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd3d7649-1745-44b0-8792-13cf26466d41",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "15",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69b8443b-3465-450a-976e-381d0eba9307",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ecc219f9-678f-4302-801c-d642b6341078",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c268f6d7-c884-4273-848c-1be01bae3789",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b173d38-11a3-4b7e-b144-5bfa4b775725",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "072b4062-8e0f-4071-90dc-7c7dc5dc10e6",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "269f8298-b283-4871-99ab-1ff54bcac0a5",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ed3d8db-ef2b-4ab6-9e4d-8ec969c38f46",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f2ad74bd-3ab9-48c6-be73-be39f099435c",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d89b875-74fa-48b1-908a-93f05d4a5357",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f69f9310-a214-4df8-9ba9-ad0b04e9b004",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "16",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09301342-ec50-4b3c-9265-3917fab82f4f",
+      "question_text": [
+        "A particle that contains a protons, 10 neutrons and 10 electrons is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Appendix: Formation Constants For Complex Ions ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "protons = 9neutrons = 10electrons = 10Electronic configuration = 2, 8Ground state Electronic configuration=2, 7It means that the atom has gained an electron thereby making it have a negative ion.When an atom donates an electron, it becomes positively charged.When an atom accepts an electron, it becomes negatively charged",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive ion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "neutral atom of a metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "neutral atom of a non-metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative ion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2390dd9f-78ee-42a5-bc4f-fef8a680d059",
+      "question_text": [
+        "Which of the following metals burns with brick red"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Metals, Metalloids and Non-Metals ",
+        " Classification of Matter"
+      ],
+      "explanation": "Calcium is the only metal that burn with brick red flame. Option A,C,D will not burn with brick red flame rather burn with brick blue flame",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ca",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa83d4b0-74d1-4398-bd45-754f59315e30",
+      "question_text": [
+        "Use the solubility curves below to answer questions. If 1 dm3 of a saturated solution of L at 600C is cooled to 250C, what amount in mole will separate out?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem119.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.75",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d92da9a-c2c7-4eb9-bcaa-023bc518f55a",
+      "question_text": [
+        "Use the graph above to answer this question.If the gas is cooled, at what temperature will it start to condense?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Pressure-Temperature Relation ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "125 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "150oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "175oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "250oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f0ab7910-ef71-4510-8a52-8416f140821f",
+      "question_text": [
+        "Use the graph above to answer this question.How long does it take all the solid to melt?`"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Graphs and Le Chatelier’s Principle ",
+        " Chemical Equilibrium"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem112.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5 mins",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 mins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0 min",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0 mins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab83c15b-3ae1-4e7e-8957-9c500551b91c",
+      "question_text": [
+        "The diagram above represents the formation of"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Summarizing Covalent Bonding ",
+        " Chemical Bonding"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem111.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a metallic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a coordinate covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "60420ecf-2ad3-4728-ae79-97b9028c8d0a",
+      "question_text": [
+        "A major factor considered in selecting a suitable method for preparing a simple salt is its"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Crystalline from",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reactivity with dilute acids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "solubility in water",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "be75a013-52e8-4fcb-a345-59578f87858c",
+      "question_text": [
+        "Which of the following decrease when a given mass of gas is compressed to half its initial volume?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Volume and Pressure: Boyle’s Law ",
+        " Gases"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atomic radius of each",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Average intermolecular distance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Frequency of collisions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Number of molecules presents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d8053d03-eaff-4d7d-b49e-d5945820dc82",
+      "question_text": [
+        "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes.The ion that will be discharged at the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cu2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cl-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "H+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "OH-",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4fb7bfac-a6ce-4806-98e9-48426a1ffd3f",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "chemistry",
+      "pageNum": "17",
+      "related_lessons": [
+        "The Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 mole of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 mole of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 mole of argon",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

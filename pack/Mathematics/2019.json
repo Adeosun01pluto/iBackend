@@ -1,0 +1,2729 @@
+
+[
+    {
+      "id": "b6d2b107-4a28-4cc7-b201-aa5f9536210d",
+      "question_text": [
+        "Make q the subject of the formula in the equation \\(\\frac{mn}{a^2} - \\frac{pq}{b^2} = 1\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{mn}{a^2} - \\frac{pq}{b^2} = 1\\) \\(\\frac{mn}{a^2} - 1 = \\frac{pq}{b^2}\\) \\(\\frac{mn - a^2}{a^2} = \\frac{pq}{b^2}\\) \\(pq = \\frac{b^2 (mn - a^2)}{a^2}\\) \\(q = \\frac{b^2(mn - a^2)}{a^2 p}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(q = \\frac{b^2(mn - a^",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "}{a^2 p}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(q = \\frac{m^2 n - a^2}{p^2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "82f2605e-ccb8-4717-8840-95d5d0df8fc6",
+      "question_text": [
+        "The angle of elevation of the top of a tree from a point on the ground 60m away from the foot of the tree is 78°. Find the height of the tree correct to the nearest whole number."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": " \\(\\tan 78 = \\frac{h}{60}\\) \\(h = 60 \\tan 78\\) \\(h = 60 \\times 4.705 = 282.27m\\) \\(\\approxeq\\) 282m to the nearest whole number.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "148m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "382m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "282m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "248m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "43719ff8-85fc-48ab-8301-59430bbc98bb",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) is defined by \\(m \\otimes n = mn + m - n\\) on the set of real numbers, for all m, n \\(\\in\\) R. Find the value of 3 \\(\\otimes\\) (2 \\(\\otimes\\) 4)."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(m \\otimes n = mn + m - n\\) 3 \\(\\otimes\\) (2 \\(\\otimes\\) 4) 2 \\(\\otimes\\) 4 = 2(4) + 2 - 4 = 6 3 \\(otimes\\) 6 = 3(6) + 3 - 6  = 15",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "18",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ead96672-4af1-4d8b-8797-ea4f34da00b6",
+      "question_text": [
+        "Age in years7891011No of pupils41330449The table above shows the number of pupils in a class with respect to their ages. If a pie chart is constructed to represent the age, the angle corresponding to 8 years old is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Total number of pupils : 4 + 13 + 30 + 44 + 9 = 100 The number of 8 - year olds = 13 The angle represented by the 8-year olds on the pie chart = \\(\\frac{13}{100} \\times 360°\\) = 46.8°",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "48.6°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "56.3°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "46.8°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "13°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee9d91d5-8a71-4f9e-9f58-a9e5480af01b",
+      "question_text": [
+        "In a class of 50 students, 40 students offered Physics and 30 offered Biology. How many offered both Physics and Biology?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "n(Total) = 50 n(Physics) = 40 n(Biology) = 30 Let n(Physics and Biology) = x n(Physics only) = 40 -x n(Biology only) = 30 - x 40 - x + 30 - x + x = 50 70 - x = 50 x = 20",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "42",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "70",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "54",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b478c5d9-9d8f-407f-ad8c-0e7da52fd2ed",
+      "question_text": [
+        "Rationalize \\(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{2} - \\sqrt{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{2} - \\sqrt{3}}\\) = \\((\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{2} - \\sqrt{3}})(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}})\\) = \\(\\frac{2 + \\sqrt{6} + \\sqrt{6} + 3}{2 - \\sqrt{6} + \\sqrt{6} - 3}\\) = \\(\\frac{5 + 2\\sqrt{6}}{-1}\\) = \\(- 5 - 2\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(-5 - 2\\sqrt{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(-5 + 3\\sqrt{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "835b8bcb-7183-4af9-8617-0a0e11483d1f",
+      "question_text": [
+        "Find the length of the chord |AB| in the diagram shown above."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2020/02/math_17.jpg",
+      "explanation": "Length of chord = \\(2r \\sin (\\frac{\\theta}{2})\\) = \\(2(3) \\sin (\\frac{68}{2})\\) = \\(6 \\sin 34\\) = \\(6 \\times 0.559\\) = 3.354 cm \\(\\approxeq\\)  3.4 cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.2 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.3 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.4 cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9e963d81-ba20-4916-92d4-7968e818adf5",
+      "question_text": [
+        "Given \\(\\sin 58° = \\cos p°\\), find p."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\sin \\theta = \\cos (90 - \\theta)\\) \\(\\sin \\theta = \\cos (90 - 58)\\) = \\(\\cos 32\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "48°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "58°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "52°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab2a79f4-c443-4527-87d5-005d996a5179",
+      "question_text": [
+        "\\(\\frac{\\frac{2}{3} \\div \\frac{4}{5}}{\\frac{1}{4} + \\frac{3}{5} - \\frac{1}{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{\\frac{2}{3} \\div \\frac{4}{5}}{\\frac{1}{4} + \\frac{3}{5} - \\frac{1}{3}}\\) \\(\\frac{2}{3} \\div \\frac{4}{5} = \\frac{2}{3} \\times \\frac{5}{4}\\) = \\(\\frac{5}{6}\\) \\(\\frac{1}{4} + \\frac{3}{5} - \\frac{1}{3} = \\frac{15 + 36 - 20}{60}\\) = \\(\\frac{31}{60}\\) \\(\\therefore \\frac{\\frac{2}{3} \\div \\frac{4}{5}}{\\frac{1}{4} + \\frac{3}{5} - \\frac{1}{3}} = \\frac{5}{6} \\div \\frac{31}{60}\\) = \\(\\frac{5}{6} \\times \\frac{60}{31}\\) = \\(\\frac{50}{31}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{31}{50}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{20}{31}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6f0fd13a-c41d-444e-8e46-6ab38b680081",
+      "question_text": [
+        "If \\(6x^3 + 2x^2 - 5x + 1\\) divides \\(x^2 - x - 1\\), find the remainder."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9x + 9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6x + 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5x - ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e784e42-e94f-4656-903f-64b521324417",
+      "question_text": [
+        "If a fair coin is tossed 3 times, what is the probability of getting at least two heads?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "The outcomes are {HHH, HHT, HTT, HTH, THH, THT, TTH, TTT} P(at least two heads) = \\(\\frac{4}{8}\\) = \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "84b79982-00c3-48db-aba4-50b2e2ab7305",
+      "question_text": [
+        "In how many ways can the word MATHEMATICIAN be arranged?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "MATHEMATICIAN = 13 letters with 2M, 3A, 2T, 2I. Hence, the word MATHEMATICIAN can be arranged in \\(\\frac{13!}{2! 3! 2! 2!}\\) = 129729600 ways",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6794800 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2664910 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6227020800 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "129729600 ways",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5ffb85d1-5aee-42b9-9e5d-3471cb23c026",
+      "question_text": [
+        "Given matrix M = \\(\\begin{vmatrix} -2 & 0 & 4 \\\\ 0 & -1 & 6 \\\\ 5 & 6 & 3 \\end{vmatrix}\\), find \\(M^{T} + 2M\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "M = \\(\\begin{vmatrix} -2 & 0 & 4 \\\\ 0 & -1 & 6 \\\\ 5 & 6 & 3 \\end{vmatrix}\\) M\\(^{T}\\) = \\(\\begin{vmatrix} -2 & 0 & 5 \\\\ 0 & -1 & 6\\\\ 4 & 6 & 3 \\end{vmatrix}\\) 2M = \\(\\begin{vmatrix} -4 & 0 & 8\\\\ 0 & -2 & 12\\\\ 10 & 12 & 6\\end{vmatrix}\\) M\\(^T\\) + 2M = \\(\\begin{vmatrix} -6 & 0 & 13 \\\\ 0 & -3 & 18 \\\\ 14 & 18 & 9 \\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} -4 & 2 & 1\\\\ 6 & 0 & 5 \\\\ 0 & 6 & 2 \\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} -6 & 0 & 13\\\\ 0 & -3 & 18 \\\\ 14 & 18 & 9 \\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e738d33-1017-49f9-a6c1-551a4e8b6004",
+      "question_text": [
+        "Score (x)0123456Freq (f)57371167Find the mean of the data."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Mean = \\(\\frac{\\sum fx}{\\sum f}\\) = \\(\\frac{150}{46}\\) = 3.26",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.26",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.91",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.57",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "872bfe5b-c515-489f-8c80-87fb778b5592",
+      "question_text": [
+        "Score (x)0123456Freq (f)57371167Find the variance"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Variance = \\(\\frac{\\sum f(x - \\bar{x})}{\\sum f}\\) = \\(\\frac{170.888}{46}\\) = 3.72  ",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.42",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.69",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.85",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.72",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6ad0f8b3-8ef9-46be-889d-f99694c92232",
+      "question_text": [
+        "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bisector of the two lines",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "line parallel to the two lines",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "angle bisector of the two lines",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "perpendicular bisector of the two lines",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e1ab0f5-45eb-4cb4-abcc-754d9f8283eb",
+      "question_text": [
+        "From the cyclic quadrilateral MNOP above, find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2020/02/math_16.jpg",
+      "explanation": "The sum of two opposite angles of a cyclic quadrilateral = 180° \\(\\therefore\\) (2x + 18)° + 84° = 180° 2x + 102° = 180° \\(\\implies\\) 2x = 78° x = 39°",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "42°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "39°",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "95564d6e-d1d3-4ea7-92d8-bd9aaddf1b70",
+      "question_text": [
+        "If \\(4\\sin^2 x - 3 = 0\\), find the value of x, when 0° \\(\\leq\\) x \\(\\leq\\) 90°"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(4\\sin^2 x - 3 = 0\\) \\(4 \\sin^2 x = 3 \\implies \\sin^2 x = \\frac{3}{4}\\) \\(\\sin x = \\frac{\\sqrt{3}}{2}\\) \\(\\therefore x = \\sin^{-1} (\\frac{\\sqrt{3}}{2})\\) x = 60°",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "90°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "60°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "30°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c32061f5-49a8-4803-8412-ea40454b94bb",
+      "question_text": [
+        "In the figure above, |CD| is the base of the triangle CDE. Find the area of the figure to the nearest whole number."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2020/02/math_14.jpg",
+      "explanation": "Area of rectangle ABCD = length x breadth = 7 x 4  = 28 cm\\(^2\\) Area of triangle CDE = \\(\\frac{1}{2}\\) base x height = \\(\\frac{1}{2} \\times 3 \\times 4\\) = 6 cm\\(^2\\) Area of the figure = 28 cm\\(^2\\) + 6 cm\\(^2\\) = 34 cm\\(^2\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "56 cm\\(^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "24 cm\\(^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8bec7ea7-761f-4deb-b763-8d60e5f74b60",
+      "question_text": [
+        "The marks scored by 30 students in a Mathematics test are recorded in the table below:Scores (Mark)012345No of students437862What is the total number of marks scored by the children? "
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Scores (Mark)012345No of students437862fx031424241075",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "82",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "63",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "75",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "af1d2912-6f9b-4d5f-9058-9ee64573a789",
+      "question_text": [
+        "If given two points A(3, 12) and B(5, 22) on a x-y plane. Find the equation of the straight line with intercept at 2."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "The equation of a straight line is given as \\(y = mx + b\\)  where m = the slope of the line b = intercept Given points A(3, 12) and B(5, 22), the slope = \\(\\frac{22 - 12}{5 - 3}\\) = \\(\\frac{10}{2}\\) = 5 Hence, the equation of the line is \\(y = 5x + 2\\).",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 5x + 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 5x + 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 12x + 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 22x + 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e89aa96e-7552-4380-81dd-58309418590d",
+      "question_text": [
+        "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Q(m, n) and R(n, -4) Midpoint : P(2, m) \\(\\implies (\\frac{m + n}{2}, \\frac{n - 4}{2}) = (2, m)\\) \\(m + n = 2 \\times 2 \\implies m + n = 4 ... (i)\\) \\(n - 4 = 2 \\times m \\implies n - 4 = 2m ... (ii)\\) Solving (i) and (ii) simultaneously, m = 0 and n = 4.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "m = 0, n = 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "m = 4, n = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "m = 2, n = 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "m = -2, n = 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d600d7a-cd48-40f1-9b90-fd22dda22fef",
+      "question_text": [
+        "If \\(\\begin{vmatrix} 2 & -4 \\\\ x & 9 \\end{vmatrix} = 58\\), find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\begin{vmatrix} 2 & -4 \\\\ x & 9 \\end{vmatrix} = 58\\) \\(\\implies (2 \\times 9) - (-4 \\times x) = 58\\) \\(18 + 4x = 58 \\implies 4x = 58 - 18 = 40\\) \\(x = 10\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "28",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b16521ff-bc6d-4d0c-b454-e7af11c299d1",
+      "question_text": [
+        "If \\(y = 6x^3 + 2x^{-2} - x^{-3}\\), find \\(\\frac{\\mathrm d y}{\\mathrm d x}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(y = 6x^3 + 2x^{-2} - x^{-3}\\) \\(\\frac{\\mathrm d y}{\\mathrm d x} = 18x^2 - 4x^{-3} + 3x^{-4}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{\\mathrm d y}{\\mathrm d x} = 15x^2 - 4x^{-2} - 3x^{-2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x + 4x^{-1} - 3x^{-4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2bd9cde-182d-4600-ae18-d4c508d6bd3e",
+      "question_text": [
+        "\\(\\frac{d}{dx} [\\log (4x^3 - 2x)]\\) is equal to"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\frac{d}{dx} [\\log (4x^3 - 2x)]\\) ... (1) Let u = 4x\\(^3\\) - 2x. \\(\\frac{\\mathrm d}{\\mathrm d x} (\\log (4x^3 - 2x)) = (\\frac{\\mathrm d}{\\mathrm d u})(\\frac{\\mathrm d u}{\\mathrm d x})\\) \\(\\frac{\\mathrm d}{\\mathrm d u} (\\log u)\\) = \\(\\frac{1}{u}\\) \\(\\frac{\\mathrm d u}{\\mathrm d x} = 12x^2 - 2\\) \\(\\therefore \\frac{d}{dx} [\\log (4x^3 - 2x)] = \\frac{12x^2 - 2}{u}\\) = \\(\\frac{12x^2 - 2}{4x^3 - 2x}\\)    ",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{12x - 2}{4x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{43x^2 - 2x}{7x}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f2b47953-bb2b-4333-96b2-d793e78ce276",
+      "question_text": [
+        "If \\(f(x) = 3x^3 + 4x^2 + x - 8\\), what is the value of f(-2)?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(f(x) = 3x^3 + 4x^2 + x - 8\\) \\(f(-2) = 3(-2)^3 + 4(-2)^2 + (-2) - 8\\) = \\(-24 + 16 - 2 - 8\\) = -18",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-18",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4fcbb6ed-ae90-44a4-a847-191bc6099a02",
+      "question_text": [
+        "Solve for x in \\(\\frac{4x - 6}{3} \\leq \\frac{3 + 2x}{2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\frac{4x - 6}{3} \\leq \\frac{3 + 2x}{2}\\) 2(4x - 6) \\(\\leq\\) 3(3 + 2x) 8x - 12 \\(\\leq\\) 9 + 6x 8x - 6x \\(\\leq\\) 9 + 12 2x \\(\\leq\\) 21 \\(x \\leq \\frac{21}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(x \\leq 1\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(x \\leq \\frac{21}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a5f956fd-d9da-4044-90e7-c3bcfd0552a1",
+      "question_text": [
+        "Solve the inequality: -7 \\(\\leq\\) 9 - 8x < 16 - x"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "-7 \\(\\leq\\) 9 - 8x < 16 - x -7 \\(\\leq\\) 9 - 8x and 9 - 8x < 16 - x -7 - 9 \\(\\leq\\) -8x and -8x + x < 16 - 9 -16 \\(\\leq\\) -8x and -7x < 7 \\(\\therefore\\) x \\(\\leq\\) 2 and -1 < x -1 < x \\(\\leq\\) 2.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1 \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1 \\(\\leq\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b772c6a5-d387-4696-8bb8-51b2f6175ad5",
+      "question_text": [
+        "The nth term of a sequence is given by 2\\(^{2n - 1}\\). Find the sum of the first four terms."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(T_n = 2^{2n - 1}\\) \\(T_1 = 2^{2(1) - 1} \\) = 2 \\(T_2 = 2^{2(2) - 1}\\) = 8 \\(T_3 = 2^{2(3) - 1}\\) = 32 \\(T_4 = 2^{2(4) - 1}\\) = 128 \\(T_1 + T_2 + T_3 + T_4 = 2 + 8 + 32 + 128\\) = 170",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "74",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "42",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "170",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b9ed0557-7c91-46dc-8528-2b9488ebc4df",
+      "question_text": [
+        "Integrate \\(\\int_{-1} ^{2} (2x^2 + x) \\mathrm {d} x\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\int_{-1} ^{2} (2x^2 + x) \\mathrm {d} x\\) = \\([\\frac{2x^{2 + 1}}{3} + \\frac{x^{1 + 1}}{2}]_{-1} ^{2}\\) = \\([\\frac{2x^{3}}{3} + \\frac{x^{2}}{2}]_{-1} ^{2}\\) = \\((\\frac{2(2)^{3}}{3} + \\frac{2^2}{2}) - (\\frac{2(-1)^{3}}{3} + \\frac{(-1)^{2}}{2})\\) = \\((\\frac{16}{3} + 2) - (\\frac{-2}{3} + \\frac{1}{2})\\) = \\(\\frac{22}{3} - (-\\frac{1}{6})\\) = \\(\\frac{22}{3} + \\frac{1}{6}\\) = \\(\\frac{15}{2}\\) = \\(7\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(4\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(3\\frac{1}{2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a847649f-56f1-4aab-9684-94a13ce7d8d1",
+      "question_text": [
+        "If P varies inversely as the square root of q, where p = 3 and q = 16, find the value of q when p = 4."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(p \\propto \\frac{1}{\\sqrt{q}}\\) \\(\\implies p = \\frac{k}{\\sqrt{q}}\\) when p = 3, q = 16. \\(3 = \\frac{k}{\\sqrt{16}}\\) \\(k = 3 \\times 4 = 12\\) \\(\\therefore p = \\frac{12}{\\sqrt{q}}\\) when p = 4, \\(4 = \\frac{12}{\\sqrt{q}} \\implies \\sqrt{q} = \\frac{12}{4}\\) \\(\\sqrt{q} = 3 \\implies q = 3^2 \\) \\(q = 9\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4e076eb3-1efa-41b8-bcc7-36090857cf10",
+      "question_text": [
+        "Tade bought 200 mangoes at 4 for ₦2.50. 30 out of the mangoes got spoilt and the remaining were sold at 2 for ₦2.40. Find the percentage profit or loss."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "200 mangoes at 4 for N2.50 \\(\\implies\\) Total cost price = \\(\\frac{200}{4} \\times N 2.50\\) = N 125.00 Since 30 mangoes got spoilt \\(\\implies\\) Left over = 200 - 30 = 170 mangoes  170 mangoes at 2 for N 2.40 \\(\\implies\\) Total selling point = \\(\\frac{170}{2} \\times N 2.40\\) = N 204.00 Profit : N (204.00 - 125.00) = N 79.00 % profit = \\(\\frac{79}{125} \\times 100%\\) = 63.2% profit.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "43.6% loss",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "35% profit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "63.2% profit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "28% loss",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85ef9576-68f6-4181-8797-d221edcb7855",
+      "question_text": [
+        "The simple interest on ₦8550 for 3 years at x% per annum is ₦4890. Calculate the value of x to the nearest whole number."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "S.I = \\(\\frac{PRT}{100}\\) \\(\\implies\\) N 4890 = \\(\\frac{8550 \\times 3 \\times x}{100}\\) \\(x = \\frac{4890 \\times 100}{8550 \\times 3}\\) \\(x = 19.06%\\) \\(x \\approxeq 19%\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "19%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16.3%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51001aa4-68f4-4452-b2cf-e68be13471d4",
+      "question_text": [
+        "Simplify 81\\(^{\\frac{-3}{4}}\\) x 25\\(^{\\frac{1}{2}}\\) x 243\\(^{\\frac{2}{5}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "81\\(^{\\frac{-3}{4}}\\) x 25\\(^{\\frac{1}{2}}\\) x 243\\(^{\\frac{2}{5}}\\) = \\((\\sqrt[4]{81})^{-3} \\times \\sqrt{25} \\times (\\sqrt[5]{243})^2\\) = \\(\\frac{5 \\times 3^2}{3^{-3}}\\) = \\(\\frac{5}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "da3bd766-b990-4a14-9f81-fe9b3e0a2f1f",
+      "question_text": [
+        "Find the value of \\(\\frac{(0.5436)^3}{0.017 \\times 0.219}\\) to 3 significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{(0.5436)^3}{0.017 \\times 0.219}\\) = \\(\\frac{0.16063}{0.017 \\times 0.219}\\) = 43.1 (to 3 s.f)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "46.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "43.1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "534",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "431",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42842ba9-c88c-47ca-8017-421dde6a5e10",
+      "question_text": [
+        "If S = (4t + 3)(t - 2), find ds/dt when t = 5 secs."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(s = (4t + 3)(t - 2)\\) \\(\\frac{\\mathrm d s}{\\mathrm d t} = (4t + 3)(1) + (t - 2)(4)\\) = \\(4t + 3 + 4t - 8\\) = 8t - 5 \\(\\frac{\\mathrm d s}{\\mathrm d t} (t = 5 secs) = 8(5) - 5\\) = 40 - 5  = 35 units per sec",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50 units per sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "35 units per sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "22 units per sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13 units per sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba1f2be8-af20-4cb0-9b8f-ce7b2d62232f",
+      "question_text": [
+        "The angles of a polygon are given by 2x, 5x, x and 4x respectively. The value of x is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Since there are 4 angles given, the polygon is a quadrilateral. Sum of angle in a quadrilateral = 360° \\(\\therefore\\) 2x + 5x + x + 4x = 360° 12x = 360° x = 30°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "31°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "26°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "48°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a6bb0575-0de0-4f2c-95fe-1a2f18a48be0",
+      "question_text": [
+        "The weight of a day-old chick was measured to be 0.21g. If the actual weight of the chick is 0.18g, what was the percentage error in the measurement?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Actual weight = 0.18g Error = 0.21g - 0.18g = 0.03g % error = \\(\\frac{0.03}{0.18} \\times 100%\\) = 16.7%",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15.5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "18.2%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "14.8%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16.7%",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e37715d-27b1-4c81-92b5-7a0302b6dbbe",
+      "question_text": [
+        "Evaluate \\((\\frac{6}{0.32} \\div \\frac{2}{0.084})^{-1}\\) correct to 1 decimal place."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\((\\frac{6}{0.32} \\div \\frac{2}{0.084})^{-1}\\) = \\((\\frac{600}{32} \\div \\frac{2000}{84})^{-1}\\) = \\((\\frac{600}{32} \\times \\frac{84}{2000})^{-1}\\) = \\((\\frac{63}{80})^{-1}\\) = \\(\\frac{80}{63}\\) = 1.3 (to 1 decimal place)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e4e769c2-756f-4930-ba78-6fe384224cc6",
+      "question_text": [
+        "If 2\\(^{x + y}\\) = 16 and 4\\(^{x - y} = \\frac{1}{32}\\), find the values of x and y."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "2\\(^{x + y}\\) = 16 ; 4\\(^{x - y}\\) = \\(\\frac{1}{32}\\). \\(\\implies 2^{x + y} = 2^4\\) \\(x + y = 4 ... (1)\\) \\(2^{2(x - y)} = 2^{-5} \\) \\(2^{2x - 2y} = 2^{-5}\\) \\(\\implies 2x - 2y = -5 ... (2)\\) Solving the equations (1) and (2) simultaneously, we have x = \\(\\frac{3}{4}\\) and y = \\(\\frac{13}{4}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = \\(\\frac{3}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": ", y = \\(\\frac{11}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = \\(\\frac{3}{4}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4778eee9-763d-4876-bbd3-a1718d0ff7a9",
+      "question_text": [
+        "Simplify \\(\\frac{0.0839 \\times 6.381}{5.44}\\) to 2 significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.2809",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.51",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.098",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d748f509-a862-4810-8900-3d7a4a04b747",
+      "question_text": [
+        "Find the value of x and y in the simultaneous equation: 3x + y = 21; xy = 30"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "3x + y = 21 ... (i); xy = 30 ... (ii) From (ii), \\(y = \\frac{30}{x}\\). Putting the value of y in (i), we have 3x + \\(\\frac{30}{x}\\) = 21 \\(\\implies\\) 3x\\(^2\\) + 30 = 21x 3x\\(^2\\) - 21x + 30 = 0 3x\\(^2\\) - 15x - 6x + 30 = 0 3x(x - 5) - 6(x - 5) = 0 (3x - 6)(x - 5) = 0 3x - 6 = 0 \\(\\implies\\) x = 2. x - 5 = 0 \\(\\implies\\) x = 5. If x = 2, y = \\(\\frac{30}{2}\\) = 15; If x = 5, y = \\(\\frac{30}{5}\\) = 6.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = 3 or 7, y = 12 or 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 6 or 1, y = 11 or 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = 2 or 5, y = 15 or 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = 1 or 5, y = 10 or 7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1fc8f6a4-44e7-4745-9eed-ee61c8855183",
+      "question_text": [
+        "Points X and Y are 20km North and 9km East of point O, respectively. What is the bearing of Y from X? Correct to the nearest degree."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": " \\(\\tan \\theta = \\frac{9}{20} = 0.45\\) \\(\\theta = \\tan^{-1} (0.45) \\) = 24.23° \\(\\therefore\\) The bearing of Y from X = 180° - 24.23° = 155.77° = 156° (to the nearest degree)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "24°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "56°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "127°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "156°",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "de8bbe6b-49e3-4e09-b7e1-3cfeb5715843",
+      "question_text": [
+        "If \\(P = (\\frac{Q(R - T)}{15})^{\\frac{1}{3}}\\), make T the subject of the formula."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(P = (\\frac{Q(R - T)}{15})^{\\frac{1}{3}}\\) \\(P^3 = \\frac{Q(R - T)}{15}\\) \\(Q(R - T) = 15P^3\\) \\(R - T = \\frac{15P^3}{Q}\\) \\(T = R - \\frac{15P^3}{Q}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(T = \\frac{15R - Q}{P^3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(T = R - \\frac{15P^3}{Q}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "02f7ed3b-da39-4d83-a6f5-dc5a298a5c99",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle ABC, < ABO = 26° and < BOC = 130°. Calculate < AOC."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2020/02/math_13.jpg",
+      "explanation": " < BAC = \\(\\frac{130}{2}\\) (angle subtended at the centre) < BAC = 65° Also, x = 26° (theorem) y = 65° - 26° = 39° < AOC = 180° - (39° + 39°) = 102°",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "26°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "102°",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9c4a1340-d6a7-4d0f-b600-1ac3edfac9e2",
+      "question_text": [
+        "Each of the interior angles of a regular polygon is 140°. Calculate the sum of all the interior angles of the polygon."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Since each interior angle = 140°; Each exterior angle = 180° - 140° = 40° Number of sides of the polygon = \\(\\frac{360°}{40°}\\) = 9  Sum of angles in the polygon = 140° x 9 = 1260°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1080°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1260°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2160°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6839b610-f4af-4d7d-bdfe-d20b3013afd7",
+      "question_text": [
+        "A man bought a car newly for ₦1,250,000. He had a crash with the car and later sold it at the rate of ₦1,085,000. What is the percentage gain or loss of the man?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Cost price of the car = N 1,250.00 Selling price = N 1,085.00 Loss = N (1250 - 1085) = N 165.00 % loss = \\(\\frac{165}{1250} \\times 100%\\) = 13.2% loss",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "43.7% loss",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.2% gain",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "13.2% loss",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "43.7% gain",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85d6f50a-f4f7-49e2-af3f-76913a812639",
+      "question_text": [
+        "If the volume of a frustrum is given as \\(V = \\frac{\\pi h}{3} (R^2 + Rr + r^2)\\), find \\(\\frac{\\mathrm d V}{\\mathrm d R}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(V = \\frac{\\pi h}{3} (R^2 + Rr + r^2)\\) \\(V = \\frac{\\pi R^2 h}{3} + \\frac{\\pi Rr h}{3} + \\frac{\\pi r^2 h}{3}\\) \\(\\frac{\\mathrm d V}{\\mathrm d R} = \\frac{2 \\pi R h}{3} + \\frac{\\pi r h}{3}\\) = \\(\\frac{\\pi}{3} (2R + r)\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{\\pi h}{3} (2R + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(2R + r + \\frac{\\pi h}{3}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "be49f136-658f-4fef-9530-902930d32eaa",
+      "question_text": [
+        "Express \\((0.0439 \\div 3.62)\\) as a fraction."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\((0.0439 \\div 3.62)\\) = 0.01213 \\(\\approxeq\\) 0.012 = \\(\\frac{12}{1000}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{21}{100}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{21}{1000}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a1d1869f-7313-48fc-88e8-91a5b73241c9",
+      "question_text": [
+        "If \\(25^{1 - x} \\times 5^{x + 2} \\div (\\frac{1}{125})^{x} = 625^{-1}\\), find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(25^{1 - x} \\times 5^{x + 2} \\div (\\frac{1}{125})^{x} = 625^{-1}\\) \\((5^2)^{(1 - x)} \\times 5^{(x + 2)} \\div (5^{-3})^x = (5^4)^{-1}\\) \\(5^{2 - 2x} \\times 5^{x + 2} \\div 5^{-3x} = 5^{-4}\\) \\(5^{(2 - 2x) + (x + 2) - (-3x)} = 5^{-4}\\) Equating bases, we have \\(2 - 2x + x + 2 + 3x = -4\\) \\(4 + 2x = -4 \\implies 2x = -4 - 4\\) \\(2x = -8\\) \\(x = -4\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = -4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dfa3344a-2b4c-49ff-8f3d-8fe072e854f8",
+      "question_text": [
+        "A bricklayer charges ₦1,500 per day for himself and ₦500 per day for his assistant. If a two bedroom flat was built for ₦95,000 and the bricklayer worked 10 days more than his assistant, how much did the assistant receive?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Let the number of days worked by the assistant = t \\(\\therefore\\) The bricklayer worked (t + 10) days. 1500(t + 10) + 500(t) = N 95,000 1500t + 15,000 + 500t = N 95,000 2000t = N 95,000 - N 15,000 2000t = N 80,000 t = 40 days \\(\\therefore\\) The assistant worked for 40 days and received N (500 x 40) = N 20,000",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N20,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N28,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N31,200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N41,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce0cf0a6-c31d-46f0-a55c-30a65af1ea50",
+      "question_text": [
+        "Find the equation of the locus of a point A(x, y) which is equidistant from B(0, 2) and C(2, 1)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Since A(x, y) is the point of equidistance between B and C, then  AB = AC (AB)\\(^2\\) = (AC)\\(^2\\) Using the distance formula,  (x - 0)\\(^2\\) + (y - 2)\\(^2\\) = (x - 2)\\(^2\\) + (y - 1)\\(^2\\) x\\(^2\\) + y\\(^2\\) - 4y + 4 = x\\(^2\\) - 4x + 4 + y\\(^2\\) - 2y + 1 x\\(^2\\) - x\\(^2\\) + y\\(^2\\) - y\\(^2\\) + 4x - 4y + 2y = 5 - 4 4x - 2y = 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4x + 2y = 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4x - 3y = 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4x - 2y = 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4x + 2y = -1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "37913545-beb7-4dde-b5c0-7062c8b80827",
+      "question_text": [
+        "A factory worker earns ₦50,000 per month out of which he spends 15% on his children's education, ₦13,600 on Food, 3% on electricity and uses the rest for his personal purpose. How much does he have left?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Education = \\(\\frac{15}{100} \\times N 50,000\\) = N 7,500 Food = N 13,600 Electricity = \\(\\frac{3}{100} \\times N 50,000\\) = N 1,500 Leftover : N (50,000 - (7,500 + 13,600 + 1,500)) = N 27,400",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N21,850",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N18,780",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N27,400",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N32,500",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "987a6aef-e267-47e3-ae9d-0cdc77b7522c",
+      "question_text": [
+        "A binary operation Δ is defined by a Δ b = a + 3b + 2.Find (3 Δ 2) Δ 5"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "59",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "87",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f4ba20bf-627d-4ea4-8b3d-fcde284e9238",
+      "question_text": [
+        "If M varies directly as N and inversely as the root of P. Given that M = 3, N = 5 and P = 25. Find the value of P when M = 2 and N = 6."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(M \\propto N \\) ; \\(M \\propto \\frac{1}{\\sqrt{P}}\\). \\(\\therefore M \\propto \\frac{N}{\\sqrt{P}}\\) \\(M = \\frac{k N}{\\sqrt{P}}\\) when M = 3, N = 5 and P = 25; \\(3 = \\frac{5k}{\\sqrt{25}}\\) \\(k = 3\\) \\(M = \\frac{3N}{\\sqrt{P}}\\) when M = 2 and N = 6, \\(2 = \\frac{3(6)}{\\sqrt{P}} \\implies \\sqrt{P} = \\frac{18}{2}\\) \\(\\sqrt{P} = 9 \\implies P = 9^2\\) P = 81",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "63",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "47",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "81",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f41d2e26-f336-4342-9f7e-a108258b2d6a",
+      "question_text": [
+        "This table below gives the scores of a group of students in a Further Mathematics Test.Score1234567Frequency46841062Find the mode of the distribution."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Mode = Score with the highest frequency = 5",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc9e34ab-8a5f-4274-9857-75986faa2a9e",
+      "question_text": [
+        "This table below gives the scores of a group of students in a Further Mathematics Test.Score1234567Frequency46841062Calculate the mean deviation for the distribution"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Score(x)1234567TotalFrequency (f)4684106240fx4122416503614156x – \\(\\bar{x}\\)-2.9-1.9-0.90.11.12.13.1|x – \\(\\bar{x}\\)|2.91.90.90.11.12.13.1f|x – \\(\\bar{x}\\)|11.611.47.20.41112.66.260.4Mean = \\(\\frac{\\sum fx}{\\sum f}\\)= \\(\\frac{156}{40}\\)= 3.9M.D = \\(\\frac{\\sum f|x – \\bar{x}|}{\\sum f}\\)= \\(\\frac{60.4}{40}\\)= 1.51",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.81",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.51",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2cfd42f0-49c4-495a-b065-daa763f6a9b6",
+      "question_text": [
+        "Integrate \\(\\int (4x^{-3} - 7x^2 + 5x - 6) \\mathrm d x\\)."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\int (4x^{-3} - 7x^2 + 5x - 6) \\mathrm d x\\) = \\(\\frac{4x^{-3 + 1}}{-3 + 1} - \\frac{7x^{2 + 1}}{2 + 1} + \\frac{5x^{1 + 1}}{1 + 1} - 6x\\) = \\(-2x^{-2} - \\frac{7}{3} x^3 + \\frac{5}{2} x^2 - 6x\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(-2x^{-2} - \\frac{7}{3}x^3 + \\frac{5}{2} x^2 - 6x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(2x^2 + \\frac{7}{3} x^3 - 5x + 6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1c0fc29-cb9e-4a17-973b-c40645217041",
+      "question_text": [
+        "Find the probability that a number selected at random from 21 to 34 is a multiple of 3"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "S = {21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34} n(S) = 14 multiples of 3 = {21, 24, 27, 30, 33} n(multiples of 3) = 5 Prob( picking a multiple of 3) = 5/14",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{11}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{9}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2d2174aa-1dbe-4d84-b567-23a39a4179db",
+      "question_text": [
+        "If the 3rd and 7th terms of a G.P are 9 and 1/9 respectively. Find the common ratio."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(T_n = ar^{n - 1}\\) (terms of a G.P) \\(T_3 = ar^2 = 9\\) ... (i) \\(T_7 = ar^6 = \\frac{1}{9}\\) ... (ii) Divide (i) by (ii); \\(\\frac{ar^6}{ar^2} = \\frac{\\frac{1}{9}}{9}\\) \\(r^4 = \\frac{1}{81}\\) \\(r^4 = (\\frac{1}{3})^4\\) \\(r = \\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "766e047c-8049-4a2d-ab1d-1e2613af41c3",
+      "question_text": [
+        "If the universal set μ = {x : 1 ≤ x ≤ 20} andA = {y : multiple of 3}B = |z : odd numbers}Find A ∩ B"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "μ = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20} A = {3, 6, 9, 12, 15, 18} B = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19} A ∩ B = {3, 9, 15}",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{1, 3, 6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{3, 5, 9, 12}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{3, 9, 15}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "{2, 3, 9}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36c93714-5f47-4e52-b708-076b2e5ea6a8",
+      "question_text": [
+        "In a committee of 5, which must be selected from 4 males and 3 females. In how many ways can the members be chosen if it were to include 2 females?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "For the committee to include 2 females, we must have 3 males, so that there should be 5 members. That is, \\(^4C_3 \\times ^3C_2\\) = \\(\\frac{4!}{(4 - 3)! 3!} \\times \\frac{3!}{(3 - 2)! 2!}\\) = 4 × 3 = 12 ways",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "144 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "185 ways",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 ways",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "88c360c2-7d6f-4fc6-b78c-593a27039998",
+      "question_text": [
+        "Find the value of k in the equation: \\(\\sqrt{28} + \\sqrt{112} - \\sqrt{k} = \\sqrt{175}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\sqrt{28} + \\sqrt{112} - \\sqrt{k} = \\sqrt{175}\\) \\(\\sqrt{4 \\times 7} + \\sqrt{16 \\times 7} - \\sqrt{k} = \\sqrt{25 \\times 7}\\) \\(2\\sqrt{7} + 4\\sqrt{7} - \\sqrt{k} = 5\\sqrt{7}\\) \\(6\\sqrt{7} - 5\\sqrt{7} = \\sqrt{k}\\) \\(\\sqrt{k} = \\sqrt{7}\\) \\(\\implies k = 7\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\sqrt{28}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "28D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dfa6e284-781d-4973-af45-6205fc3e8060",
+      "question_text": [
+        "Evaluate \\(\\frac{2\\log_{3} 9 \\times \\log_{3} 81^{-2}}{\\log_{5} 625}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\frac{2\\log_{3} 9 \\times \\log_{3} 81^{-2}}{\\log_{5} 625}\\) = \\(\\frac{2\\log_3 3^2 \\times \\log_3 (3^4)^{-2}}{\\log_5 (5^4)}\\) = \\(\\frac{4\\log_3 3 \\times -8\\log_3 3}{4\\log_5 5}\\) = -8.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "773eb4c8-dd91-430e-91f2-bc116cda7de0",
+      "question_text": [
+        "Find the value of x for \\(\\frac{2 + 2x}{3} - 2 \\geq \\frac{4x - 6}{5}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\frac{2 + 2x}{3} - 2 \\geq \\frac{4x - 6}{5}\\) \\(\\frac{2 + 2x - 6}{3} \\geq \\frac{4x - 6}{5}\\) \\(\\frac{2x - 4}{3} \\geq \\frac{4x - 6}{5}\\) \\(5(2x - 4) \\geq 3(4x - 6)\\) \\(10x - 20 \\geq 12x - 18\\) \\(10x - 12x \\geq -18 + 20\\) \\(-2x \\geq 2\\) \\(x \\leq -1\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " -1C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09469baa-5a1d-4d5b-8b3e-2716b48f5b4f",
+      "question_text": [
+        "Determine the values for which \\(x^2 - 7x + 10 \\leq 0\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(x^2 - 7x + 10 \\leq 0\\) Solve for \\(x^2 - 7x + 10 = 0\\) We have, (x - 5)(x - 2) \\(\\leq\\) 0. Conditions: Case 1: (x - 5) \\(\\leq\\) 0, (x - 2) \\(\\geq\\) 0. \\(\\implies\\) x \\(\\leq\\) 5; x \\(\\geq\\) 2. 2 \\(\\leq\\) x \\(\\leq\\) 5. Choosing x = 3, 3\\(^2\\) - 7(3) + 10 = 9 - 21 + 10 = -2 \\(\\leq\\) 0. \\(\\therefore\\) 2 \\(\\leq\\) x \\(\\leq\\) 5.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2 \\(\\leq\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b63f3b78-f5e2-47fa-afa3-59ba811b8e86",
+      "question_text": [
+        "Find the polynomial if given q(x) = x\\(^2\\) - x - 5, d(x) = 3x - 1 and r(x) = 7."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Given q(x) [quotient], d(x) [divisor] and r(x) [remainder], the polynomial is gotten by multiplying the quotient and the divisor and adding the remainder. i.e In this case, the polynomial = (x\\(^2\\) - x - 5)(3x - 1) + 7. = (3x\\(^3\\) - x\\(^2\\) - 3x\\(^2\\) + x - 15x + 5) + 7 = (3x\\(^3\\) - 4x\\(^2\\) - 14x + 5) + 7 = 3x\\(^3\\) - 4x\\(^2\\) - 14x + 12",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3x\\(^3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " - 4x\\(^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " - 14x + 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3x\\(^2\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "febcf257-6821-462e-8125-5008e9c6ef46",
+      "question_text": [
+        "If 2x\\(^2\\) + x - 3 divides x - 2, find the remainder."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "When you divide a polynomial p(x) by (x - a), the remainder = p(a) i.e. In the case of 2x\\(^2\\) + x - 3 \\(\\div\\) (x - 2), the remainder = p(2). = 2(2)\\(^2\\) + 2 - 3 = 8 + 2 - 3 = 7.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "88749398-0036-464d-9ac8-2de821d40855",
+      "question_text": [
+        "If \\(\\left|\\begin{array}{lll} 2 & -5 & 3 \\\\ x & 1 & 4 \\\\ 0 & 3 & 2 \\end{array}\\right| = 132\\), find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\left|\\begin{array}{lll} 2 & -5 & 3 \\\\ x & 1 & 4 \\\\ 0 & 3 & 2 \\end{array}\\right| = 132\\) \\(\\implies 2 \\begin{vmatrix} 1 & 4 \\\\ 3 & 2 \\end{vmatrix} - (-5) \\begin{vmatrix} x & 4 \\\\ 0 & 2 \\end{vmatrix} + 3 \\begin{vmatrix} x & 1 \\\\ 0 & 3 \\end{vmatrix} = 132\\) \\(2(2 - 12) + 5(2x) + 3(3x) = 132\\) \\(-20 + 10x + 9x = 132\\) \\(19x = 152\\) \\(x = 8\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eaa64033-ea9c-4281-becb-ca5dbb6e1158",
+      "question_text": [
+        "Given the matrix \\(A = \\begin{vmatrix} 3 & -2 \\\\ 1 & 6 \\end{vmatrix}\\). Find the inverse of matrix A."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(A = \\begin{vmatrix} 3 & -2 \\\\ 1 & 6 \\end{vmatrix}\\) |A| = (3 x 6) - (-2 x 1) = 18 + 2 = 20. A\\(^{-1}\\) = \\(\\frac{1}{20} \\begin{vmatrix} 6 & 2 \\\\ -1 & 3 \\end{vmatrix}\\) = \\(\\begin{vmatrix} \\frac{6}{20} & \\frac{2}{20} \\\\ \\frac{-1}{20} & \\frac{3}{20} \\end{vmatrix}\\) = \\(\\begin{vmatrix} \\frac{3}{10} & \\frac{1}{10} \\\\ \\frac{-1}{20} & \\frac{3}{20} \\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 6 & 2 \\\\ 1 & 6 \\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} \\frac{2}{11} & \\frac{1}{12}\\\\ \\frac{3}{20} & \\frac{1}{10} \\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fd1e8faa-f7ee-43a8-a837-774b2e416c15",
+      "question_text": [
+        "If y = 8x\\(^3\\) - 3x\\(^2\\) + 7x - 1, find \\(\\frac{\\mathrm d^2 y}{\\mathrm d x^2}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "y = 8x\\(^3\\) - 3x\\(^2\\) + 7x - 1 \\(\\frac{\\mathrm d^2 y}{\\mathrm d x^2}  = \\frac{\\mathrm d}{\\mathrm d x} (\\frac{\\mathrm d y}{\\mathrm d x})\\) = \\(\\frac{\\mathrm d}{\\mathrm d x} (24x^2 - 6x + 7)\\) \\(\\frac{\\mathrm d^2 y}{\\mathrm d x^2} = 48x - 6\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "48x - 6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "11x\\(^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " + 6x - 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "32x + 7D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f7e0720-4751-44d9-9c24-96f36082f15b",
+      "question_text": [
+        "Differentiate \\(\\frac{2x}{\\sin x}\\) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(2 \\cot x \\sec x (1 + \\tan ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(2 \\csc x - x \\cot x\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6ee51542-b72d-4752-b067-4a5a8f438ac8",
+      "question_text": [
+        "Find the distance between the points C(2, 2) and D(5, 6)."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "= \\(\\sqrt{(5 - 2)^2 + (6 - 2)^2}\\) = \\(\\sqrt{3^2 + 4^2}\\) = \\(\\sqrt{9 + 16}\\) = \\(\\sqrt{25}\\) = 5 units",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "13 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 units",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2286c4cc-dcb8-4951-9d01-264c132526ee",
+      "question_text": [
+        "Find the equation of a line perpendicular to the line 4y = 7x + 3 which passes through (-3, 1)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Equation: 4y = 7x + 3 \\(\\implies y = \\frac{7}{4} x + \\frac{3}{4}\\) Slope = coefficient of x = \\(\\frac{7}{4}\\) Slope of perpendicular line = \\(\\frac{-1}{\\frac{7}{4}}\\) = \\(\\frac{-4}{7}\\) The perpendicular line passes (-3, 1) \\(\\therefore\\) Using the equation of line \\(y = mx + b\\) m = slope and b = intercept. \\(y = \\frac{-4}{7} x + b\\) To find the intercept, substitute y = 1 and x = -3 in the equation. \\(1 = \\frac{-4}{7} (-3) + b\\) \\(1 = \\frac{12}{7} + b\\) \\(b = \\frac{-5}{7}\\) \\(\\therefore y = \\frac{-4}{7} x - \\frac{5}{7}\\) \\(7y + 4x + 5 = 0\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7y + 4x + 5 = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7y - 4x - 5 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3y - 5x + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3y + 5x - 2 = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25e379b9-73b5-4de0-b40c-6502e0e38d8b",
+      "question_text": [
+        "Marks12345Frequency2y - 2y - 13y - 43 - y6 - 2yThe table above is the distribution of data with mean equals to 3. Find the value of y."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Mean = \\(\\frac{\\sum fx}{\\sum f}\\) \\(3 = \\frac{26 - y}{3y + 2}\\) \\(3(3y + 2) = 26 - y\\) \\(9y + 6 = 26 - y\\) \\(9y + y = 26 - 6\\) \\(10y = 20 \\implies y = 2\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "829004b4-9c0d-4c4f-ac55-e5945cd82533",
+      "question_text": [
+        "The histogram above represents the number of candidates who did Further Mathematics examination in a school. How many candidates scored more than 40?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2020/02/math_11.jpg",
+      "explanation": "Number of students that scored above 40 = 55 + 45 + 30 + 15 + 5 = 150 students.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "79",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "150",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7dc994b3-0f3e-4cdd-b9ec-24c6eb384094",
+      "question_text": [
+        "In the circle above, with centre O and radius 7 cm. Find the length of the arc AB, when < AOB = 57°."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2020/02/math_09.png",
+      "explanation": "Length of arc = \\(\\frac{\\theta}{360°} \\times 2 \\pi r\\) = \\(\\frac{57}{360} \\times 2 \\times \\frac{22}{7} \\times 7\\) = 6.97 cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.32 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.39 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7.33 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.97 cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bbdfbc03-a73f-4a7a-b627-081fa87ef9bc",
+      "question_text": [
+        "Calculate the volume of the regular three-dimensional figure drawn above, where "
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2020/02/math_08.jpg",
+      "explanation": "|AC| = |DF| = 13 cm Using Pythagoras theorem, |AC|\\(^2\\) = |AB|\\(^2\\) + |BC|\\(^2\\) 13\\(^2\\) = 12\\(^2\\) + |BC|\\(^2\\) |BC|\\(^2\\) = 169 - 144 = 25 |BC| = \\(\\sqrt{25}\\) = 5 cm Volume of triangular prism = \\(\\frac{1}{2} \\times base \\times length \\times height\\) = \\(\\frac{1}{2} \\times 5 \\times 12 \\times 18\\) = 540 cm\\(^3\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "394 cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "425 cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c9ff7404-19e5-4025-8620-ee667a43715c",
+      "question_text": [
+        "If \\(\\sin x = \\frac{4}{5}\\), find \\(\\frac{1 + \\cot^2 x}{\\csc^2 x - 1}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\sin x = \\frac{opp}{Hyp} = \\frac{4}{5}\\) 5\\(^2\\) = 4\\(^2\\) + adj\\(^2\\) adj\\(^2\\) = 25 - 16 = 9 adj = \\(\\sqrt{9}\\) = 3 \\(\\tan x = \\frac{4}{3}\\) \\(\\cot x = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}\\) \\(\\cot^2 x = (\\frac{3}{4})^2 = \\frac{9}{16}\\) \\(\\csc x = \\frac{1}{\\sin x}\\) = \\(\\frac{1}{\\frac{4}{5}} = \\frac{5}{4}\\) \\(\\csc^2 x = (\\frac{5}{4})^2 = \\frac{25}{16}\\) \\(\\therefore \\frac{1 + \\cot^2 x}{\\csc^2 x - 1} = \\frac{1 + \\frac{9}{16}}{\\frac{25}{16} - 1}\\) = \\(\\frac{25}{16} \\div \\frac{9}{16}\\) = \\(\\frac{25}{9}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{13}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{25}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0a87b355-f7c7-4e6f-a65a-f57cd90f7967",
+      "question_text": [
+        "Evaluate \\(\\frac{2\\sin 30 + 5\\tan 60}{\\sin 60}\\), leaving your answer in surd form."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{2\\sin 30 + 5\\tan 60}{\\sin 60}\\) \\(\\sin 30 = \\frac{1}{2}; \\tan 60 = \\sqrt{3}; \\sin 60 = \\frac{\\sqrt{3}}{2}\\) \\(\\therefore \\frac{2\\sin 30 + 5\\tan 60}{\\sin 60} = \\frac{2(\\frac{1}{2}) + 5(\\sqrt{3})}{\\frac{\\sqrt{3}}{2}}\\) = \\(\\frac{1 + 5\\sqrt{3}}{\\frac{\\sqrt{3}}{2}}\\) = \\(\\frac{2(1 + 5\\sqrt{3})}{\\sqrt{3}}\\) = \\(\\frac{2 + 10\\sqrt{3}}{\\sqrt{3}}\\) Rationalizing, we get = \\(\\frac{2\\sqrt{3} + 30}{3}\\) = \\(\\frac{2}{3} \\sqrt{3} + 10\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2\\sqrt{3}}{3} + 10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3\\sqrt{2} - 1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

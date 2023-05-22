@@ -1,0 +1,1329 @@
+
+[
+    {
+      "id": "abc84a0f-6ef4-49ea-86f2-9e263d2371c6",
+      "question_text": [
+        "Scarcity in economics means?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "Scarcity in economics means the available resources needed to satisfy human wants are limited, hence people are required to judiciously or efficiently allocate the scarce resources to meet the needs of society.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "human wants are limitless",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the economy has very few resources",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the economy can scarcely produce anything",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "resources are limited in relation to wants",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "488d8df8-a49d-4e09-be33-850d909c7fc8",
+      "question_text": [
+        "Economics is often described as a social science because?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "Economics is considered a social science because it uses scientific methods to build theories that can help explain the behaviour of individuals, groups and organisations.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "laboratory experiments are performed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "It makes use of controlled experiments",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "It uses scientific methods to explain an observed phenomenon and predict future events",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "It makes use of fieldwork",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f795ea8d-8485-4b95-994f-d5bf929ff16f",
+      "question_text": [
+        "Which of the following is an example of aninvisibleitem on the balance of payments account"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "Invisible balance of payments are services and other products that do not result in the transfer of physical objects. Examples include consulting services, shipping services, tourism, and patent license revenues.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "shipping and aviation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "exports and imports",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "merchandise",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Bullion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8af6379c-52c5-4e02-834a-c60165425ef2",
+      "question_text": [
+        "A major factor affecting the value of money is the?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "The prevailing price level is one of the major factors that affect the value of money. A rise or decline in prices of goods and services has a direct effect on the value of money.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "price level",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "banking habits",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "transaction motive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "divisible nature of money",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b1bb288-19e7-45f2-b3b1-afc2327e8ed5",
+      "question_text": [
+        "The Nigerian bank for commerce and industry is?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "Development banks are specialized banks that provide medium and long-term finance to the industrial and agricultural sectors. The Nigerian bank for commerce and industry is an example of a development bank. It provides loans and finances for entities involved in the industrial and agricultural sectors.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a commercial bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a development bank",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "an industrial bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a merchant bank",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a0e40f3c-4784-4804-a10f-6765e4822987",
+      "question_text": [
+        "To control inflation, the monetary authorities of a country can"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "Governments can use a contractionary monetary policy to fight inflation by reducing the money supply within an economy through reduced bond prices and increased interest rates.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reduce taxes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "advise the government to increase its expenditure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "engage in expansive monetary policies",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "engage in restrictive monetary policies",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8b6fda24-2b66-4b78-a69c-76032b31d2cb",
+      "question_text": [
+        "Which of the following is used by the central bank to control the rate of interest"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "The open market operation refers to when the central bank buys or sells government securities to the public. This is done to control the flow of money in the country as well as control the rates of interest.When there is too much money in circulation in the economy, the government sells securities, and increase the interest rates on those securities, to encourage savings and investments while discouraging borrowing. When it wants to increase the money in circulation, it buys buys from financial institutions, reduces interest rates to ecourage borrowing, thereby releasing more money into the economy.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bill of exchange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "banker's order",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fixed deposit account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "open market operation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "039ff3d5-2779-4bac-8271-f5f9c1509886",
+      "question_text": [
+        "What form of market is found in an imperfect competition where there are few buyers and many sellers"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "An oligopsony is a market situation where there are a few buyers and a small number of sellers. It is the opposite of oligopoly",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "monopoly",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "oligopoly",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "duopoly",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "oligopsony",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4be8b06e-06c6-4ce2-b2d9-69e06b8a452a",
+      "question_text": [
+        "A budget with a projected revenue in excess of its expenditure is said to be?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "A surplus budget is a budget whose revenues exceed the estimated expenditure in a particular financial year.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "balanced",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "surplus",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "deficit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "inflationary",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4391efd3-cf00-4512-b7d7-772aafb2a7c2",
+      "question_text": [
+        "In order to raise more revenue for a certain period, the government should impose higher taxes on goods whose demand"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "1",
+      "explanation": "High taxes should be imposed on goods whose demand is inelastic.Inelastic demand is when the buyer's demand does not change as much as the price changes. This means that no matter how high the prices may increase as a result of high taxes or other factors, people will still be willing to buy the goods.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "elastic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "inelastic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "perfectly elastic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "unitary elastic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d8db646-dc0d-4898-b6d7-3d208a88c192",
+      "question_text": [
+        "If aggregate income is N500.00 and aggregate consumption is N400.00, this means that the average propensity to consume is?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "The average propensity to consume (APC) measures the percentage of income that is spent rather than saved.The formular is gotten as: APC = C / DIIncome = 500consumption = 400\\(\\frac{400}{500}\\) = 0.8",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "759bfa6f-6d26-4a8d-aa05-c6ac56985509",
+      "question_text": [
+        "Collectivism refers to the management of state enterprises in a?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "Collectivism is a political-economic theory that advocates for a collective control of resources, especially over production and distribution. It is the opposite of individualism which seeks individual ownership of production factorsIt is associated with socialism which advocates for collective ownership of resources, rather than by individuals.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "mixed economy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "co-operative organizations",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "capitalist economic system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "socialist economy",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "df48d182-3453-46e0-adfc-e66fe8d81463",
+      "question_text": [
+        "Efficiency in production means?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "Efficiency of production means that an entity is operating at maximum capacity, where a firm is focused more on increasing the quantity being manufactured while reducing cost.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reducing the size of the work force",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "producing a given output with the lowest cost of combination of factors of production",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "adoption of capital intensive technology",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increasing the quantity of the fixed factors of production",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2d4e2b97-67e5-483c-92b6-7208b7f58e9a",
+      "question_text": [
+        "In economic life, the choice among alternatives depends on the?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "income of the decision maker",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "scarcity of resources",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the scale of preference of the decision-maker",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "status of the decison maker",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "146d8e98-1b38-49d7-a208-1f313a32d857",
+      "question_text": [
+        "The law of diminishing marginal utility indicates that if a consumer increases his consumption of a commodity continously"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "The law of diminishing marginal utility states that as a consumer consumes an item or a product, the satisfaction or utility that they derive from the product reduces as they consume more and more of that product.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "total utility must fall",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "marginal utility must fall",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "marginal utility may rise",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "marginal utility may fall even though his total utility may be rising",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bde314de-e085-44bc-accc-1dbf8c57a95b",
+      "question_text": [
+        "Which of the following rewards is associated with entrepreneurship"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "The reward for entrepreneurship is profit. Profit is described as the financial benefit gotten when the revenue generated from a business activity exceeds the expenses, costs, and taxes paid.An entrepreneur is an individual who creates or owns a business and combines all the factors of production to make a profit.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "salaries",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "profits",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "interest",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rent",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8ccb8e4-4ef9-4b75-9468-e98d865baf62",
+      "question_text": [
+        "Which of the following is likely to be inflationary"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "Increment in wages and salaries will lead to inflation. This happens when business owners raise the minimum wage, leading to a corresponding rise in the prices of their goods or services, thereby causing inflation.Remember inflation happens when there is excess money in the economy, thereby causing a general rise in prices.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "taxes increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase in unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "budget surplus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "wages increase",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bf6a6ebc-7cf6-4dc5-8d8b-73d08d6592dd",
+      "question_text": [
+        "The relationship between the tax rate and income which is relevant to progressive tax is shown by?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "curve X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "curve Y",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "curve Z",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "curve X and Z",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f8e0ce7-fc56-481e-8d17-7e14953256f6",
+      "question_text": [
+        "The relationship between tax rate and income which is relevant to a proportional tax is depicted by?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "curve Z and Y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "curve X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "curve Z",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "curve Y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c01e82d1-fa03-4d98-b6d4-8655206cbdc4",
+      "question_text": [
+        "Fiduciary issue is that part of?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "2",
+      "explanation": "The fiduciary issue is that portion of a note issued by the government that is not matched by government holdings of gold or other securities or that part of a note that lacks the backing of metal or coin or assets capable of being converted into coin.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the issue of notes backed entirely by gold",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a country's currency that is not negotiable",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the issue of notes not backed by gold",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a country's currency officially issued",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "43702aaf-998d-4a23-84eb-e492f4510bfa",
+      "question_text": [
+        "The type of business finances that entitles the holder to a fixed rate of dividend is?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "A debenture is a long-term debt security issued by a company and secured against assets, to raise capital for a business. Debenture security yields a fixed rate of interest.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "preference stock",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "common stock",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debentures",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "bank loan",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3860c37-f9e1-45e4-b4fb-642a0868d3c8",
+      "question_text": [
+        "A company's expenditure on raw materials is regarded as?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "Explicit costs are direct payments incurred by a firm in the course of running a business. These are costs actual and physical costs incurred by a firm. Examples of explicit costs include wages, lease payments, utilities, raw materials, and other direct costs.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "explicit cost",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "implicit cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "prime cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "average cost",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e1e570ba-6e1d-406a-953f-2e912bba1c23",
+      "question_text": [
+        "Firms are often set up close to each other in order to take advantage of?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "supply of skilled labour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "agglomeration economies",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "internal economies of scale",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "external economies of scale",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7f6e4329-134c-4423-9b79-8d36726925ba",
+      "question_text": [
+        "A situation in which a commodity is sold abroad below its cost of production in the home country is known as?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "Dumping is a term used to describe a market situation where an exporter firm sells its product in an international market for a price lesser than its cost of production in the home country.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dumping",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "counter trade",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bilateral trade",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "trade liberalization",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6ecde4c4-0b2f-41d8-87ba-bc24f25467a2",
+      "question_text": [
+        "The problem of conducting census include"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "high rate of rural-urban migration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "poor geographical distribution of population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high birth rate in the country",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "poor town planning in urban areas",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b8daac22-bbd9-44c7-9f4e-b773c6cc65be",
+      "question_text": [
+        "The factor of production that has the highest degree of mobility is?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "Labour has the highest mobility, that is why people easily move from one place to another or switch jobs with ease",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "land",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "labour",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "capital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "entrepreneur",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "342aa65d-73ae-46da-a876-36baa13b6b38",
+      "question_text": [
+        "In recent times, agriculture in Nigeria tends to lose its vital labour force as a result of?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "Rural-urban drift is a situation where the desire for better employment, business opportunities, and education pushes both young and old out of the rural areas to the urban areas. This is one of the major problems facing the agricultural sector in Nigeria",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "lack of an effective agricultural policy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "employment opportunities in the agricultural sector",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "rural-urban drift",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "low prices of agricultural products",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96e011ac-38b0-480a-9a34-5fd24af75e7c",
+      "question_text": [
+        "The most important goal of OPEC is to?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "present a united front for the purpose of raise prices of crude oil",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bring unity among the petroleum exporting countries",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ensure political stability among member states",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ensure that rules on quota production are strictly followed",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "da93e77f-697f-4c39-b888-7fb30a7ba34b",
+      "question_text": [
+        "Plywood industries are often located near the source of?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "A plywood firm would be located near the source of its raw materials to ensure easy access to the materials, before selling to its target.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "finance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "labour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "power supply",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "raw materials",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "675cbc88-2936-4eeb-abe7-b3acec372c5f",
+      "question_text": [
+        "When a country's population is experiencing increasing returns, that country is said to be?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "overpopulated",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "economically poor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "over-producing goods and services",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "under-populated",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7c94de5e-b2d2-47b7-b59d-6b17482c46fc",
+      "question_text": [
+        "The most important attribute of money is?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "The most distinctive attribute of money is its widely acceptance as a means of final payment for goods and servicesby all.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "homogeneity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "relative scarcity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "divisibility",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "general acceptance",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "222f4c3d-1159-48b8-a5e7-5f044e48aa5e",
+      "question_text": [
+        "The use of legally permissible means to reduce tax liabilities is known as tax?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "Tax relief is any government program or policy initiative that is designed to reduce the amount of taxes paid by individuals or businesses.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "evasion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "avoidance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "relief",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "exemption",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8de537bf-8d66-421f-9f24-504990163f1f",
+      "question_text": [
+        "The Economic Commission for Africa was set up by the?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "ECA was established by the Economic and Social Council of the United Nations (UN) in 1958 as one of the UN's five regional commissions.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "UNO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ECOWAS",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "OAU",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "IMF",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f233f3c-e68d-4729-b05c-a81e8be49310",
+      "question_text": [
+        "One of the techniques of monetary control used by the central bank of Nigeria is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "Foreign exchange control is the procedure by which a government intervenes in the foreign exchange market, banning or restricting sales and purchases of local currencies by non-residents as well as sales and purchases of foreign currencies by residents. This is one of the techniques used by the central bank for its monetary policies.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "selective credit control",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "budget deficit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "foreign exchange control",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "monitoring the general price level",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb04f208-0d7c-424a-a8a4-48fa7037c467",
+      "question_text": [
+        "Crude petroleum is a good example of a"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "lasting asset",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "wasting asset",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "synthetic product",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "costless resources",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "307cc98d-cf9c-42f8-9fd1-3b28a0e56b2c",
+      "question_text": [
+        "A major effect of a long distribution chain is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "scarcity of commodities",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "high retail",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "low retails prices",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "low producer earnings",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "113ad450-454d-43ec-8f5a-04ce78efea1e",
+      "question_text": [
+        "One of the major criticism of the 1962 -1968 National Development Plan was that?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it failed to incorporate lessons gained from earlier plans to enhance its efficiency",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "it came too quickly after the country's independence",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "planned expenditure was based too heavily on expected earnings from crude oil",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "its execution was based largely on foregn-sourced financial resources",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7fff6187-c6cf-4038-891e-722832067a6f",
+      "question_text": [
+        "Utility is the satisfaction derived from?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "Utility in economics refers to the total satisfaction received from consuming a good or service.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "production",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "distribution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "consumption",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "demand",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5380f2e4-7702-4a74-a2e6-e5da36f98653",
+      "question_text": [
+        "Economic growth is different from economic development because economic growth"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "economics",
+      "pageNum": "4",
+      "explanation": "Economic Growth is the increase in the real output of the country in a particular span of time. It has to do with the expansion (growth) of the economy. Economic Development on the other hand has to do with the positive changes that result in the enrichment of living standards and the advancement of technology.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "describes expansion and changes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "is measurable but not objective",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "describes expansion and not change",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "is not measurable but objective",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

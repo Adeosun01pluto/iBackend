@@ -1,0 +1,1362 @@
+
+[
+    {
+      "id": "a715e648-1c38-4371-a115-ca23b037ac49",
+      "question_text": [
+        "The hormone which regulates the amount of glucose in the blood is called?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "Insulin helps control blood glucose levels by signaling the liver and muscle and fat cells to take in glucose from the blood.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Adrenalin",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Auxin",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Insulin",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Thyroxine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8d15b414-adef-45eb-8e5b-c1a149d03212",
+      "question_text": [
+        "Deamination occurs in the? "
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "Deamination is used to break down amino acids for energy, and occurs primarily in the liver.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kidney",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Pancreas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Spleen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Liver",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5339a9e2-36c7-49ea-876f-fff671e9db4f",
+      "question_text": [
+        "In an agricultural ecosystem, the biotic component consist of"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "The living components of an ecosystem are called the biotic components, option A has all living components.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "crops, pests and beneficial insects",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "crops, temperature and humidity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "pests, beneficial insects and water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "crops, water and soil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f519017-840f-4b2a-8a14-3b42bffabd19",
+      "question_text": [
+        "Epiphytes growing on the branches of trees provide an example of the relationship known as?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "Commensalism is a type of symbiosis, specifically, a biological relationship in which one specie benefits from an interaction, while the host species is neither positively or negatively affected to any tangible degree.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "parasitism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "commensalism",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "saprophytism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "holophytism",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "72249b64-dbb9-493f-936e-300112c209ee",
+      "question_text": [
+        "The hypha of rhizopus is said to be non-septate because it"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "Hyphae that have walls between the cells are called septate hyphae; hyphae that lack walls and cell membranes between the cells are called nonseptate or coenocytic hyphae)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "does not contain chloropyll",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "has no cross wall",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "is vacuoled",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "stores oil globus",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c8c3930-3abb-42e7-a3d8-b170acfcbcf2",
+      "question_text": [
+        "The function of ribosome in cells is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "A ribosome is a cell organelle. It functions as a micro-machine for making proteins.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "protein synthesis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "starch synthesis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "transport of material",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lipid storage",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "027349fb-f24c-4791-8aae-3fc0b874188c",
+      "question_text": [
+        "In which of the following does external fertilization take place?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "External fertilization is a mode of reproduction in which a male organism's sperm fertilizes a female organism's egg outside of the female's body. Many fish, amphibians, and other sexual aquatic animals use external fertilization (the exceptions are aquatic mammals, sharks, and some other special types of fish).",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "toad",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "lizard",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bird",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cockroach",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df5adeb3-88f3-4d5b-8c04-e06e07cbffcc",
+      "question_text": [
+        "The villus in the small intestine is significant because"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "Villis are specialized for absorption in the small intestine as they have a thin wall, one cell thick, which enables a shorter diffusion path.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increases the surface area for absorption",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increases the surface area for digestion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "assists in mixing digested food",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "assists in filtering undigested food",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c25ebb6d-e0e1-4fdd-8d98-e186adc28a47",
+      "question_text": [
+        "The butterfly is of great economic importance because"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "Butterflies are important pollinators to most agricultural crops.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "of it's use in scientific studies",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "it sucks nectar from flowers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it adds to the beauty of the environment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "it pollinates flowers of crops and other plants",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4d0cb686-baeb-44e4-b651-4bdf7241c21e",
+      "question_text": [
+        "The bright colours of the comb and feathers in the peacock are for?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "1",
+      "explanation": "The males display their beautiful fanned trains as part of their courtship behaviour to the Peahens.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sex differentiation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "beauty",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "courtship",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "defence",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16ffea9d-6611-4516-8e66-e54936518626",
+      "question_text": [
+        "What is the term used to describe biotic and abiotic factors in the environment of the organism?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "An ecosystem consists of all the biotic and abiotic factors that influence that community.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "habitat",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biome",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ecosystem",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ecological niche",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb0186b7-f9aa-478c-b251-cd680592ea12",
+      "question_text": [
+        "Which of the following instruments is NOT used in measuring abiotic factors in any habitat?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "Common abiotic factors are atmosphere, chemical elements, sunlight/temperature, wind and water, all other options are instrument used to measure these apart from microscope which can be used to observe small objects, even cells.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "microscope",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hygrometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "windvane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84e2e91e-e028-4fdc-bae9-bb5dfa6c0dc0",
+      "question_text": [
+        "The smallest living organism which share the characteristics of both living and non-living matter are"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bacteria",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "fungi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "viruses",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "protozoa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe5a2d41-2c8e-4124-8af6-b0a9697d21de",
+      "question_text": [
+        "The process by which a red blood cell placed in distilled water absorbs water until it burst and realease it's content into the surrounding is known as"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "Your body normally destroys old or faulty red blood cells in the spleen or other parts of your body through a process called hemolysis",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "osmosis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "plasmolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "turgidity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hemolysis",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "76a665f5-31e3-4626-aa24-1a4843fd9c5f",
+      "question_text": [
+        "Which of the following waste products in plants is excreted through the stomata and lenticles?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "The waste products of a plant are carbon dioxide, water vapour and oxygen.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon dioxide",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkaloids",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tannins",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "anthoocyanins",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "865e32a2-b359-4c42-a7a9-9e85c71aa564",
+      "question_text": [
+        "Use the diagram to answer the questionThe vertebra illustrated is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "lumber",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "thoracic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "caudal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cervical",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "60e04b70-4018-45b8-a0a2-a461ec1f54d7",
+      "question_text": [
+        "Use the diagram to answer the questionThe neural arch is labelled"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "iv",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c62d893f-a972-4f48-94e3-3d97d1e44262",
+      "question_text": [
+        "The excretory structure in the earthworm is the"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "Nephridia remove metabolic wastes from an animal's body. Nephridia come in two basic categories: metanephridia and protonephridia.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "malphighian tubule",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "flame cell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nephridium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "kidney",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9cadb3ca-b5c5-43e6-b177-b3228a4196dd",
+      "question_text": [
+        "In which of the following vertebrates does the skin function as a respiratory surface"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "Amphibians utilize gills for breathing early in life, and develop primitive lungs in their adult life; additionally, they are able to breathe through their skin.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "rat",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "lizard",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fish",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "frog",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bb065e34-f482-4729-9f22-8ea553537e15",
+      "question_text": [
+        "The process of walking is under the control of the part of the brain called"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "2",
+      "explanation": "Coordination of voluntary movements. Most movements are composed of a number of different muscle groups acting together in a temporally coordinated fashion. One major function of the cerebellum is to coordinate the timing and force of these different muscle groups to produce fluid limb or body movements.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "optic lobe",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "olfactory lobe",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cerebellum",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "medulla oblongata",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b210ab96-b912-4131-a095-01c8c04afbe8",
+      "question_text": [
+        "The ability of the eyes to focus on both near and distance objects is termed"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "The ability of the eye to focus distant as well as nearby objects clearly on the retina of the eye is called accommodation. When our eyes see distant objects then the ciliary muscles relax and the focal length is maximum in this position.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "image formation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hypermetropia",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "accommodation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4422675b-f943-4103-a7d0-49d5b090638b",
+      "question_text": [
+        "A group of organism of different species living in a particular area is described as a"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "A community is formed by populations of different species living together and interacting with each other. A community forms an ecosystem by its interaction with the abiotic environment.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "colony",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "community",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "niche",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "689822c0-69b5-4c5c-8ec8-24b3f3c4ce65",
+      "question_text": [
+        "The biological association that contributes directly to succession in a community is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "competition between species in a particular habitat is a biotic factor of ecological primary succession.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "competition",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "predation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "parasitism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "commensalism",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1553abd4-02ae-4330-923d-7331073d85e4",
+      "question_text": [
+        "Floating microscopic heterotrophs are mostly grouped as"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "Phytoplankton are microscopic marine organisms that sit at the bottom of the food chain, most phytoplankton are buoyant and float in the upper part of the ocean. However, they are not heterotrophic like the zooplanktons.microbes are living organisms around us that we can't see with our naked eyes.nektons are organisms that are able to swim and move independently of current.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "phytoplankton",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zooplankton",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "microbes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "nekton",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa280850-a82d-4467-9610-73ea487e2b0a",
+      "question_text": [
+        "Vaccination is carried out in order to"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "check the production of poison",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the activities of white blood cells",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the number of red blood cells",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "stimulate the production of anti-bodies",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f5b6e1cc-52d7-4901-b737-8c9c39498bb4",
+      "question_text": [
+        "For growth to occur in organisms, the rate of"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "Anabolism centers around growth and building the organization of molecules. In this process, small, simple molecules are built up into larger, more complex ones while Catabolism is what happens when you digest food and the molecules break down in the body for use as energy.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "anabolism must exceed that of catabolism",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "catabolism must exceed that of anabolism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "food storage must be low",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "food storage must be high",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4ec19b34-10c0-495f-84f1-6cd8bd4fa7c3",
+      "question_text": [
+        "The probability of a baby being a boy or a girl depends on the contribution of the"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "father's sex cells",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "father's stomatic chromosome",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "mother's sex cell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "mother's X-chromosome",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "158b3444-b26a-4a1d-a365-2930088a658f",
+      "question_text": [
+        "Both recesssive and dominant characters are found"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "on different chromosome in the cell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "at the same logus of a homologous chromosome",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "at a different loci of a homologous chromosome",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "on the same chromatid in a chromosome",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8698370-bd1b-4424-8718-3787c3846963",
+      "question_text": [
+        "In a population of living things, the parameters of size, height, weight and colours are examples of"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "continuous variation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "non-heritable variation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discontinuous variation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "physiological variation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c98de865-bdb9-4187-bbce-4a664d25bc57",
+      "question_text": [
+        "Use the diagram to answer the question.The process of water loss and intake indicated by the arrows labelled i and ii are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "evaporation and osmosis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "osmosis and exhalation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "osmosis and diffusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "urination and diffusion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a439115-c3f6-480a-afb2-be1209cb6934",
+      "question_text": [
+        "The noticeable adaptation of the animal to it's aquatic habitat is the possession of"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "webbed digits",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "four limb",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "wide mouth",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "large eyes",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f2a19b1-e823-48d1-b9a1-adfbd7f10bf2",
+      "question_text": [
+        "Paternity disputes can most accurately be resolved through the use of"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blood group typing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "finger printing",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tongue rolling",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "DNA Analysis",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fc8c8ddc-0f34-4c5a-baea-0edbfbeb7bb7",
+      "question_text": [
+        "Use the table below to answer the question.High relative humidity will be expected in Zones"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ii and iv",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ii and iii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "i and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i and iv",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "87c17136-9a6a-47a0-af67-6c4f047ed892",
+      "question_text": [
+        "Use the table to answer the question.Which of the zones is likely to be a desert?"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "iv",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d12665b6-15f2-4bb0-a7b1-9a86ceae6939",
+      "question_text": [
+        "When bacteria swim from cold to warm regions, this is known as"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive phototaxis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "negative phototaxis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "positive thermotaxis",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "negative chemotaxis",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a6bc5539-d853-444f-b1c3-4817a7fb9c91",
+      "question_text": [
+        "The only caste in the termite colony whose members can feed themselves are the"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "workers",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "reproductives",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "soldiers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "nymphs",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "504802b2-1f56-45c4-bf78-d3bc97426afb",
+      "question_text": [
+        "Which of the following is the best explanation for a child who is phenotypically short and born of two tall parents"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "both parent possess genes for shortness",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the father possess a gene for shortness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nature makes the child shor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fff543c3-026a-4b87-973d-b2ef38d82212",
+      "question_text": [
+        "Which of the following vertebrates has the most simple structured heart"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reptile",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "fish",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "mammal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amphibian",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fdf7890d-2f3c-4f85-a973-4dd4971f83d5",
+      "question_text": [
+        "Use the diagram to answer the question.The type of protective adaption exhibited by the animal is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "disruptive colouration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "flash colouration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "countershading colouration",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "warning colouration",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aff1cf3a-ab29-4f3c-a32e-96d013674780",
+      "question_text": [
+        "Use the diagram to answer the question.The structure labelled i is"
+      ],
+      "examType": "jamb",
+      "year": "2020",
+      "subject": "biology",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "photosensitive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "radiosensitive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "chemoreceptive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "tactile",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]

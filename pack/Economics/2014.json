@@ -1,0 +1,4244 @@
+[
+    {
+      "id": "51d7db05-7453-4f96-afec-334ea7f63236",
+      "question_text": [
+        "Given that Qd = 40 + 2P and Qs = 6P - 24. Calculate the equilibrium price."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Equilibrium Price and Quantity ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "Qd = 40 + 2P Qs = 6P - 24 At equilibrium price, Qd = Qs 40 + 2P = 6P - 24 40 + 24 = 6P - 2P 64 = 4P P = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1c9a1049-4775-4084-ab44-153e2551a7c1",
+      "question_text": [
+        "The consumer is at equilibrium at point"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Long-Run Shut-down Decision of a Perfectly Competitive Firm ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs70.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80cb386d-f9d1-40b5-804f-1f3e20b409f4",
+      "question_text": [
+        "From the table above, Calculate the price elasticity of supply"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Elasticity"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs69.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3eef74a2-da7e-4aa0-ae01-8ea143800331",
+      "question_text": [
+        "From the table above, find the values of E and F respectively"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Arithmetic Mean ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs68.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27 and 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "68 and 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28 and 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 and 19",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "322fb217-3cdf-4d51-9d46-640fcc068ad1",
+      "question_text": [
+        "What is the percentage contribution of services to the national income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "54%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b92a119e-9f52-4246-b950-f048157b2b79",
+      "question_text": [
+        "If the national income is 360m, the contribution of the manufacturing sector is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "312m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "39m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "318m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "317m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2120aa6-977a-4e72-953e-23c7f02c649b",
+      "question_text": [
+        "The labour force of a country is determined by the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Labour Mobility and Efficiency ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "age structure of the population",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "geographical distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sex distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of people available for work",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d5a5601f-74f7-434a-8e83-b6cfb9b73e41",
+      "question_text": [
+        "An accurate population census is important in other to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Census and it’s Importance ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "produce more food for the growing population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "provide employment opportunities for the people",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "estimate a country's per capita income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fast track industrial development",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fa6d6ef1-77bc-4c18-91e6-c7c780f731ea",
+      "question_text": [
+        "A major determinant of floating exchange rate is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Floating Exchange Rates ",
+        " Exchange Rates and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the highest denomination of the currency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an Act of the parliament",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the system of government",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the forest of demand and supply",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f4cfe1f1-4e5e-4852-bd62-d20e3078cec7",
+      "question_text": [
+        "If the importation of a commodity is limited to a definite quantity, the trade control measure imposed is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Difference Between Level of Trade and the Trade Balance ",
+        " International Trade and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "excise duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "import duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "quotas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6c73d3a-94c5-4210-a6f0-2ca6c6fdb4f5",
+      "question_text": [
+        "The main objective of WTO is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "World Trade Organisation (WTO) ",
+        " International Economic Organisations"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ensure adequate protection of infant industries",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "provide a mechanism for tariff reduction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "assist countries with chronic balance of payments problem",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "assist developing countries to execute developmental projects",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1dae5ace-db55-4fee-a2a3-2f8243f4314c",
+      "question_text": [
+        "The major determinant of the total volume of output in an economy is the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Determining the Highest Profit by Comparing Total Revenue and Total Cost ",
+        " Perfect Competition"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "level of total expenditure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "composition of consumer spending",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "number of farmers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "size of the labour force",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca3634a7-90eb-478a-a494-3639ba19a461",
+      "question_text": [
+        "The loading of crude oil at the terminal is an activity in the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Downstream Oil and Gas Production ",
+        " Natural Resources and the Economy"
+      ],
+      "explanation": "The oil and gas industry is usually divided into three major sectors: upstream, midstream, and downstream. The upstream industry finds and produces crude oil and natural gas. The upstream is sometimes known as the exploration and production (E&P) sector. The downstream sector is the refining of petroleum crude oil and the processing and purifying of raw natural gas, as well as the marketing and distribution of products derived from crude oil and natural gas.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "downstream sector of the oil industry",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "upstream and downstream sector of the oil industry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "upstream sector of the oil industry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "midstream and upstream sectors of the oil industry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44e2cc41-c31a-4351-bcaf-b3dbe3f9e1c6",
+      "question_text": [
+        "The short-run average variable cost of a firm will rise owing to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Average Total Cost, Average Variable Cost, Marginal Cost ",
+        " Cost and Industry Structure"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the expansion of factory space",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the building of new warehouse",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an increase in the cost of labour",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "an increase in the salaries of directors",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fdc097e0-7e11-43ff-b8b2-008dbb213a48",
+      "question_text": [
+        "Firms embark on vertical integration in other to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Internal Economies of Scale ",
+        " Theory of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "take over markets formally controlled by other firms",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "prevent other firms from entering the market",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reduce advertisement and management cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "enjoy economies of large-scale production",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ed6970bd-6f17-4def-8777-d059f86b7c67",
+      "question_text": [
+        "The voting power in co-operative societies is vested on"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Cooperative Societies ",
+        " Business Organisations"
+      ],
+      "explanation": "A cooperative is \"an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise\" (Wikipedia, The Free Encyclopedia). These persons or members are shareholders with equal rights and voting is one person one vote irrespective of the member's contributions or position.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "management",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "members without loan",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "shareholders",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "members with the highest contribution",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c8629ab-7bfe-45e6-be05-d38d854f5add",
+      "question_text": [
+        "An accurate census figure is an important tool for planners in"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Problems Associated with Conducting Census ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "providing employment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "siting industries",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "providing social amenities",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "allocating resources",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "572c37f3-690f-48b7-8696-b1543c52d48f",
+      "question_text": [
+        "An important role of agriculture in Nigeria's economic development is the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Role of Agriculture in Economic Development ",
+        " Agriculture in Nigeria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "processing of raw materials for industries",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "regulation of price system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "provision of infrastructure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "provision of employment",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "40592feb-8abc-4599-9144-0d1e07eb47ff",
+      "question_text": [
+        "An advantage of large-scale farming over peasant farming is in the area of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Meaning and Types of Agriculture ",
+        " Agriculture in Nigeria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "providing research and massive employment of labour",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "redistributing national income to various regions of the country",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "encouraging the use of traditional implements",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "encouraging urban-rural migration",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9f1c3827-39ce-46fc-8ba4-c23828d15db4",
+      "question_text": [
+        "A major disadvantage of localization of industry is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Industrialisation and Industrialisation Strategies ",
+        " Industry and Industrialization"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the risk of structural unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "over-utilization of installed industrial capacity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the risk of seasonal unemployment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "under-utilization of installed industrial capacity",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "89f845c3-e71f-452f-9939-97d54fef7da3",
+      "question_text": [
+        "One major factor that determines the location of an industry is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Marginal Productivity Theory ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "tax exemption grant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "its proximity to the market",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the capital base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the social responsibility of the firm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52aab1c9-7f11-4763-9108-2b1e998dc142",
+      "question_text": [
+        "The major contribution of OPEC to the Nigerian economy is the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "The Organisation of Petroleum Exporting Countries (OPEC) ",
+        " Natural Resources and the Economy"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "provision of social infrastructures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "granting of subsidies on petroleum products",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "stabilization of oil prices",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "building of refineries",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3c192bce-2f24-4b1d-853d-d59e643f854f",
+      "question_text": [
+        "Short-term loans for investment are usually obtained through the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "The Money Market ",
+        " Financial Institutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "stock market",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "development banks",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "money market",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital market",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b8d7995-89ea-4358-bede-1e733bdc86c8",
+      "question_text": [
+        "Given a base year and the price index of 175% the following year, which of the following year will arise?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Inflation"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The cost of living decreases of that year",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "The cost of living remains unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The value of money rises by 75%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The value of money falls by 75%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6fc2e6bc-bf69-411d-a76b-a675cca3abca",
+      "question_text": [
+        "Wage freeze is a policy measure aimed at"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "The Minimum Wage As An Example of a Price Floor ",
+        " Labour and Financial Markets"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "encouraging investors",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "curbing inflation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "regulating standard of living",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "curbing deflation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9527d5c-588c-4250-a7ba-8db6537296f0",
+      "question_text": [
+        "A major obstacle to the development of Nigeria economy is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Problems of Industrialisation ",
+        " Industry and Industrialization"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "low capital formation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "rural-urban migration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "over dependence on oil",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "poor developmental policies",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0c774f11-7b83-49d3-9430-f6bc27bfe91c",
+      "question_text": [
+        "A major feature of an underdeveloped economy is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Does a Rise in GDP Overstate or Understate the Rise in the Standard of Living? ",
+        " The Macroeconomic Perspective"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "excess capacity utilization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low rate of population growth",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "low level of standard of living",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "low level of unemployment",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "831c3860-cb10-408e-8e3e-147f3a17b234",
+      "question_text": [
+        "Which of the following can be used to measure the Gross National product in an open economy?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Measuring the Size of the Economy ",
+        " The Macroeconomic Perspective"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C+I+G+(X+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C+I+G+X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C+I+GD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "10ce2fdd-72b5-4ad4-8e17-01337fb9fdf7",
+      "question_text": [
+        "If MPC = 2/3 and investment is N100 million, the level of national income is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N100 million",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N10 million",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N303 million",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N300 million",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "78bb3608-fc82-4d57-b981-3a1f81d85c95",
+      "question_text": [
+        "The precautionary demand for money is determined by"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "3",
+      "related_lessons": [
+        "The Demand for Money ",
+        " Money and Inflation"
+      ],
+      "explanation": "The precautionary demand is dependent on the size of income, the availability of credit, and the rate of interest.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the rate of interest",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the level of savings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the level of income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "general price level",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19ed1d0f-b407-40f9-909f-ec59f771e749",
+      "question_text": [
+        "An inflation that co-exists with high rate of unemployment is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Any Benefits of Inflation? ",
+        " Inflation"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hyperinflation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "stagflation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "demand-pull inflation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cost-push inflation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f3de379-7186-42d3-b755-214973e48d52",
+      "question_text": [
+        "One of the challenges facing the banking industry in Nigeria is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Challenges Facing Financial Institutions in Nigeria ",
+        " Financial Institutions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ensuring technological security",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "providing employment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "providing loans for investment",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "creating more money",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f2d2dcde-2c81-4e5e-83d6-5444c3904e34",
+      "question_text": [
+        "Given that FC = N500, VC = N1,500, and Q = 50 units. Find the average cost of the product."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Average Total Cost, Average Variable Cost, Marginal Cost ",
+        " Cost and Industry Structure"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N40",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N20",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a68a6bf8-fb32-479b-94b3-8984401e5402",
+      "question_text": [
+        "Rent and administrative expenses are examples of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Public Expenditure ",
+        " Public Finance"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "average fixed costs",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "average variable costs",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fixed costs",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "variable costs",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e654c65-8dee-4742-9232-f43cbda8bfb6",
+      "question_text": [
+        "A perfect competitor will continue to expand output up to the point where"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Short-Run Equilibrium of a Perfect Competitor ",
+        " Market Structures"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "TC > TR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "MR = AR",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "MC < MR",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "MC > MR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e75cf0a-a2b2-4b05-9176-b92560f13a30",
+      "question_text": [
+        "One of the characteristics of a monopolist is that, he can influence"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Monopoly"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "quantity produced by other producers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "prices charged by other producers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "both price and quantity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "price or quantity",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f03b314-a920-4cd7-8e04-af95a5f21b56",
+      "question_text": [
+        "A monopolist can boost up his revenue by"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Total Cost and Total Revenue For a Monopolist ",
+        " Monopoly"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "adjusting both price and output upward",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "reducing total output to match price",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "increasing price",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "reducing price",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2979ee36-47cd-4696-a44e-3e40e28a6054",
+      "question_text": [
+        "Given the supply function P = 1/4(Qs+10) when P = N10, what is Qs?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Aggregate Production Function ",
+        " Economic Growth"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c11d21d-629d-4cc1-8bbd-dcaa6a1cd6cf",
+      "question_text": [
+        "When price is set below equilibrium, this will lead to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Demand and Supply"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an increase in the quantity supplied",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a new equilibrium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a decrease in the quantity supplied",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a fall in price",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7559bed7-4f69-43ae-8da9-bfd095850432",
+      "question_text": [
+        "Price mechanism determines the prices of commodities through"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Concepts of Market and Price ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "auctioning",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "market forces",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the sales of treasury bills",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "government legislation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "325bca6f-f4f3-43a2-82bf-dff43088b662",
+      "question_text": [
+        "If the production of a large firm is higher than that of a small firm, it is experiencing."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Internal Economies of Scale ",
+        " Theory of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "external economies of scale",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "external diseconomies of scale",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "internal economies of scale",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "internal diseconomies of scale",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "393f213a-507f-463f-a27a-bc63abba8515",
+      "question_text": [
+        "Division of labour requires that, the tasks in a production line be performed"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Introduction to Division of Labour ",
+        " Theory of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "by specialists",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "in stages",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "by all workers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "by unskilled labourers",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "43055be9-b0a4-4ac6-9ead-4f9a1953c02a",
+      "question_text": [
+        "In capitalist economies, questions about what to produce are ultimately answered by"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Introducing the Confusion Over Inflation ",
+        " Inflation"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "income level of households",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "available technical skills in the economy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "output decisions of firms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "holding decision of households",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75992d37-282e-44f9-8882-3aa7e4974236",
+      "question_text": [
+        "The best measure of dispersion to determine the tallest tree in a forest is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Measures of Dispersion ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "range",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "variance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "standard deviation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "mean deviation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2ffb0c6b-ea44-4486-adaf-a133b66b0eb4",
+      "question_text": [
+        "A change in demand for a normal goods implies that, there is a"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Income Elasticity of Demand ",
+        " Elasticity"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "change in the quantity demanded as price changes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "shift in the demand curve",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "movement along a given demand curve",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "change in the price elasticity of demand",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c51d231d-1c67-4a27-8d37-3a007aa8ce03",
+      "question_text": [
+        "If a 10% rise in price causes a 5% decrease in the quantity demanded of a commodity, the elasticity of demand is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Elasticity"
+      ],
+      "explanation": "In economics, the Total Revenue Test is a means for determining whether demand is elastic or inelastic. If an increase in price causes an increase in total revenue, then demand can be said to be inelastic, since the increase in price does not have a large impact on quantity demanded. If an increase in price causes a decrease in total revenue, then demand can be said to be elastic, since the increase in price has a large impact on quantity demanded.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "unitary elastic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero elastic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "elastic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "inelastic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11fa88ed-cc26-4038-b54b-58e7a804eed1",
+      "question_text": [
+        "A rightward shift of the budget line is caused by a"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Shifts of the Budget Line ",
+        " Theory of Consumer Behaviour"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "fall in consumer income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "change in consumer taste",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fall in the commodity relative price",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rise in the commodity relative price",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2ece9879-4ed3-436d-864b-f5c27511d806",
+      "question_text": [
+        "The choice of how to produce in a command economy is determined by"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Command-and-Control Regulation ",
+        " Environmental Protection and Externalities"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "government",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "consumer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "industrialists",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "labour unions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4cc2cb9b-42a1-4f31-ac9c-472df8d9a244",
+      "question_text": [
+        "From the graph above the consumer will attain equilibrium at point_______________"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2020/02/econs-176.jpeg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "K",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "L",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "486bdce6-b62c-4df8-86aa-02cf70f996e9",
+      "question_text": [
+        "The best measure of dispersion to determine the tallest tree in a forest is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "range",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "variance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "standard deviation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "mean deviation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c65120e3-90a1-4d5d-82ff-faf588784942",
+      "question_text": [
+        "Price mechanism determines the prices of commodities through"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "auctioning",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "market forces",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the sales of treasury bills",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "government legislation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b644fe13-30c9-4680-9d72-9709e2838ca7",
+      "question_text": [
+        "Given that Qd = 40 + 2P and Qs = 6P - 24. Calculate the equilibrium price."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Equilibrium Price and Quantity ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "Qd = 40 + 2P Qs = 6P - 24 At equilibrium price, Qd = Qs 40 + 2P = 6P - 24 40 + 24 = 6P - 2P 64 = 4P P = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0b562c89-1e72-409f-8aaa-4833e8dd6025",
+      "question_text": [
+        "The consumer is at equilibrium at point"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Long-Run Shut-down Decision of a Perfectly Competitive Firm ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs70.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a61a57b-0da2-40de-93ed-2e8476dfcff7",
+      "question_text": [
+        "From the table above, Calculate the price elasticity of supply"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Elasticity"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs69.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4e6811bf-a957-4273-88b2-46916870f5f3",
+      "question_text": [
+        "From the table above, find the values of E and F respectively"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Arithmetic Mean ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs68.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27 and 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "68 and 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28 and 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 and 19",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26d04969-3e22-4178-8903-5da76cf6163a",
+      "question_text": [
+        "What is the percentage contribution of services to the national income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "54%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b5cded27-0904-40c3-8761-fc2c72b2c42a",
+      "question_text": [
+        "If the national income is 360m, the contribution of the manufacturing sector is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "312m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "39m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "318m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "317m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "368e82b8-1fef-4d74-8aba-df80ad0ec88d",
+      "question_text": [
+        "The labour force of a country is determined by the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Labour Mobility and Efficiency ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "age structure of the population",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "geographical distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sex distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of people available for work",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a3ebcb37-66d5-47b9-9f7a-13a4b291ce47",
+      "question_text": [
+        "An accurate population census is important in other to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Census and it’s Importance ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "produce more food for the growing population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "provide employment opportunities for the people",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "estimate a country's per capita income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fast track industrial development",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "504c255a-725b-4182-8a31-d5124cfd4920",
+      "question_text": [
+        "A major determinant of floating exchange rate is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Floating Exchange Rates ",
+        " Exchange Rates and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the highest denomination of the currency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an Act of the parliament",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the system of government",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the forest of demand and supply",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "77a6c02d-69e1-4093-97ed-b041afcb57c3",
+      "question_text": [
+        "If the importation of a commodity is limited to a definite quantity, the trade control measure imposed is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Difference Between Level of Trade and the Trade Balance ",
+        " International Trade and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "excise duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "import duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "quotas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "331ea664-f4ab-4d9a-a8ca-28d61d75a918",
+      "question_text": [
+        "Given that Qd = 40 + 2P and Qs = 6P - 24. Calculate the equilibrium price."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Equilibrium Price and Quantity ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "Qd = 40 + 2P Qs = 6P - 24 At equilibrium price, Qd = Qs 40 + 2P = 6P - 24 40 + 24 = 6P - 2P 64 = 4P P = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f7a8c225-e5fd-454c-aab8-961eec7fe588",
+      "question_text": [
+        "The consumer is at equilibrium at point"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Long-Run Shut-down Decision of a Perfectly Competitive Firm ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs70.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "01c6d8b9-b54c-42b9-a12f-e00d9916960a",
+      "question_text": [
+        "From the table above, Calculate the price elasticity of supply"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Elasticity"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs69.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aa31c01f-aca7-4e10-a185-a6f6b05bad04",
+      "question_text": [
+        "From the table above, find the values of E and F respectively"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Arithmetic Mean ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs68.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27 and 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "68 and 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28 and 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 and 19",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c7bb232-3de7-4247-a7de-d4f9406ef80c",
+      "question_text": [
+        "What is the percentage contribution of services to the national income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "54%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "07b1e1a9-7124-4ce2-8061-141a4bf32cae",
+      "question_text": [
+        "If the national income is 360m, the contribution of the manufacturing sector is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "312m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "39m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "318m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "317m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8af3523-1f16-4e58-aab3-496843695919",
+      "question_text": [
+        "The labour force of a country is determined by the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Labour Mobility and Efficiency ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "age structure of the population",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "geographical distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sex distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of people available for work",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "699a28b9-9a62-4c5c-8a09-e4f7696c686c",
+      "question_text": [
+        "An accurate population census is important in other to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Census and it’s Importance ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "produce more food for the growing population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "provide employment opportunities for the people",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "estimate a country's per capita income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fast track industrial development",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "10a0d972-6dcb-45e0-95fa-0dea805cf012",
+      "question_text": [
+        "A major determinant of floating exchange rate is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Floating Exchange Rates ",
+        " Exchange Rates and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the highest denomination of the currency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an Act of the parliament",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the system of government",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the forest of demand and supply",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bd69048c-e700-4f37-9cdf-f6324ed2ca6d",
+      "question_text": [
+        "If the importation of a commodity is limited to a definite quantity, the trade control measure imposed is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Difference Between Level of Trade and the Trade Balance ",
+        " International Trade and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "excise duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "import duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "quotas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23227762-e63f-409c-afb2-3cb849750db0",
+      "question_text": [
+        "Given that Qd = 40 + 2P and Qs = 6P - 24. Calculate the equilibrium price."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Equilibrium Price and Quantity ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "Qd = 40 + 2P Qs = 6P - 24 At equilibrium price, Qd = Qs 40 + 2P = 6P - 24 40 + 24 = 6P - 2P 64 = 4P P = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "13d0e730-6d5d-4662-a1b8-116a5f5383e5",
+      "question_text": [
+        "The consumer is at equilibrium at point"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Long-Run Shut-down Decision of a Perfectly Competitive Firm ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs70.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "077b770c-0460-453a-be87-6caec8ae8980",
+      "question_text": [
+        "From the table above, Calculate the price elasticity of supply"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Elasticity"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs69.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "808130c8-1b28-4120-b3f6-9a834695f4dc",
+      "question_text": [
+        "From the table above, find the values of E and F respectively"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Arithmetic Mean ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs68.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27 and 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "68 and 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28 and 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 and 19",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "585ed66e-7895-4ddd-8d01-0a08e3c1b554",
+      "question_text": [
+        "What is the percentage contribution of services to the national income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "54%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "501b9f2c-5813-49c4-9079-997559a32abf",
+      "question_text": [
+        "If the national income is 360m, the contribution of the manufacturing sector is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "312m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "39m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "318m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "317m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a149abc1-a408-49d1-97e8-7f23aa7f4cf6",
+      "question_text": [
+        "The labour force of a country is determined by the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Labour Mobility and Efficiency ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "age structure of the population",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "geographical distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sex distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of people available for work",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dbaf2b45-ea06-4b5b-b905-f6e8587298e1",
+      "question_text": [
+        "An accurate population census is important in other to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Census and it’s Importance ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "produce more food for the growing population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "provide employment opportunities for the people",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "estimate a country's per capita income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fast track industrial development",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1ddc1440-85f9-45f0-8879-e14b6cfc4a25",
+      "question_text": [
+        "A major determinant of floating exchange rate is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Floating Exchange Rates ",
+        " Exchange Rates and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the highest denomination of the currency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an Act of the parliament",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the system of government",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the forest of demand and supply",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5d71b91b-52d5-469f-967b-5515fc6404bd",
+      "question_text": [
+        "If the importation of a commodity is limited to a definite quantity, the trade control measure imposed is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Difference Between Level of Trade and the Trade Balance ",
+        " International Trade and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "excise duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "import duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "quotas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b17e3af-2bc2-477c-8305-645d5ac09223",
+      "question_text": [
+        "Given that Qd = 40 + 2P and Qs = 6P - 24. Calculate the equilibrium price."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Equilibrium Price and Quantity ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "Qd = 40 + 2P Qs = 6P - 24 At equilibrium price, Qd = Qs 40 + 2P = 6P - 24 40 + 24 = 6P - 2P 64 = 4P P = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "36120d56-0cb3-4a54-93e3-e8b93343690c",
+      "question_text": [
+        "The consumer is at equilibrium at point"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Long-Run Shut-down Decision of a Perfectly Competitive Firm ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs70.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "81d003aa-ed60-4707-a6d2-58d768bc8bae",
+      "question_text": [
+        "From the table above, Calculate the price elasticity of supply"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Elasticity"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs69.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "67a7ed45-0711-415c-a806-c492b3df38d2",
+      "question_text": [
+        "From the table above, find the values of E and F respectively"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Arithmetic Mean ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs68.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27 and 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "68 and 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28 and 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 and 19",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98b8cd21-fd1a-49b5-b7c0-222d78505da6",
+      "question_text": [
+        "What is the percentage contribution of services to the national income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "54%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6762d3a-b877-44b3-b502-0498b00f120f",
+      "question_text": [
+        "If the national income is 360m, the contribution of the manufacturing sector is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "312m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "39m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "318m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "317m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "825235c0-deb5-416f-956c-38e2563a2318",
+      "question_text": [
+        "The labour force of a country is determined by the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Labour Mobility and Efficiency ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "age structure of the population",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "geographical distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sex distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of people available for work",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9fbd9ea9-c339-49bb-b9f6-fd9c10d7f146",
+      "question_text": [
+        "An accurate population census is important in other to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Census and it’s Importance ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "produce more food for the growing population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "provide employment opportunities for the people",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "estimate a country's per capita income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fast track industrial development",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4e52a980-a35b-4b0d-b245-ea92185c2efd",
+      "question_text": [
+        "A major determinant of floating exchange rate is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Floating Exchange Rates ",
+        " Exchange Rates and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the highest denomination of the currency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an Act of the parliament",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the system of government",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the forest of demand and supply",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "380835b4-900a-45b0-8674-f2b8bcef213e",
+      "question_text": [
+        "If the importation of a commodity is limited to a definite quantity, the trade control measure imposed is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Difference Between Level of Trade and the Trade Balance ",
+        " International Trade and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "excise duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "import duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "quotas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d70daf30-e248-432e-9ee6-601a108fc12c",
+      "question_text": [
+        "Given that Qd = 40 + 2P and Qs = 6P - 24. Calculate the equilibrium price."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Equilibrium Price and Quantity ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "Qd = 40 + 2P Qs = 6P - 24 At equilibrium price, Qd = Qs 40 + 2P = 6P - 24 40 + 24 = 6P - 2P 64 = 4P P = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8d618002-f28d-40ec-a477-59380a556513",
+      "question_text": [
+        "The consumer is at equilibrium at point"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Long-Run Shut-down Decision of a Perfectly Competitive Firm ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs70.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "86471cdf-966c-4688-84ae-38c74a483aa2",
+      "question_text": [
+        "From the table above, Calculate the price elasticity of supply"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Elasticity"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs69.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee32d898-b739-499d-b316-3442e972967e",
+      "question_text": [
+        "From the table above, find the values of E and F respectively"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Arithmetic Mean ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs68.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27 and 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "68 and 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28 and 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 and 19",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b87db364-8aff-4465-a182-765105678971",
+      "question_text": [
+        "What is the percentage contribution of services to the national income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "54%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "93c96865-7534-4aad-a61c-9a44cb1d5944",
+      "question_text": [
+        "If the national income is 360m, the contribution of the manufacturing sector is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "312m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "39m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "318m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "317m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "92ec8990-e845-4d30-a3bf-3fd30ef01619",
+      "question_text": [
+        "The labour force of a country is determined by the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Labour Mobility and Efficiency ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "age structure of the population",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "geographical distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sex distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of people available for work",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1ba8729c-13e2-4a6b-9967-b19e0dfa6a11",
+      "question_text": [
+        "An accurate population census is important in other to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Census and it’s Importance ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "produce more food for the growing population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "provide employment opportunities for the people",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "estimate a country's per capita income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fast track industrial development",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "787702cf-dd07-40c5-bf66-f144f95db0ac",
+      "question_text": [
+        "A major determinant of floating exchange rate is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Floating Exchange Rates ",
+        " Exchange Rates and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the highest denomination of the currency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an Act of the parliament",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the system of government",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the forest of demand and supply",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ee970a4c-1c50-4941-a9c9-a86a756ae372",
+      "question_text": [
+        "If the importation of a commodity is limited to a definite quantity, the trade control measure imposed is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Difference Between Level of Trade and the Trade Balance ",
+        " International Trade and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "excise duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "import duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "quotas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "tariff",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2c36d58-8ba4-4ac0-8c94-884b0cb949e7",
+      "question_text": [
+        "Given that Qd = 40 + 2P and Qs = 6P - 24. Calculate the equilibrium price."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Equilibrium Price and Quantity ",
+        " Theory of Price Determination"
+      ],
+      "explanation": "Qd = 40 + 2P Qs = 6P - 24 At equilibrium price, Qd = Qs 40 + 2P = 6P - 24 40 + 24 = 6P - 2P 64 = 4P P = 16",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4767939c-410c-4588-97e2-3200d3c0e8c9",
+      "question_text": [
+        "The consumer is at equilibrium at point"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Long-Run Shut-down Decision of a Perfectly Competitive Firm ",
+        " Market Structures"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs70.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "M",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "728958d0-86ce-4e78-a812-2730931cb2d1",
+      "question_text": [
+        "From the table above, Calculate the price elasticity of supply"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Key Concepts and Summary ",
+        " Elasticity"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs69.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a97808d4-9a50-480a-b900-e5c71b094e1b",
+      "question_text": [
+        "From the table above, find the values of E and F respectively"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Arithmetic Mean ",
+        " Methods and Tools of Economic Analysis"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs68.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27 and 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "68 and 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28 and 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 and 19",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c51c6e9c-5ab2-4d27-8568-68f390668d7b",
+      "question_text": [
+        "What is the percentage contribution of services to the national income?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "54%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28c58898-7c79-496a-846e-391850a8ffa7",
+      "question_text": [
+        "If the national income is 360m, the contribution of the manufacturing sector is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Uses of National Income Estimates ",
+        " National Income"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/econs66.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "312m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "39m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "318m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "317m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "99d69e7c-2889-4fad-a22f-8d305392ad26",
+      "question_text": [
+        "The labour force of a country is determined by the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Labour Mobility and Efficiency ",
+        " Factors of Production"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "age structure of the population",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "geographical distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sex distribution of the population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of people available for work",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7af05da7-8e8d-4844-9125-c6669740739b",
+      "question_text": [
+        "An accurate population census is important in other to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Census and it’s Importance ",
+        " Population"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "produce more food for the growing population",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "provide employment opportunities for the people",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "estimate a country's per capita income",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "fast track industrial development",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "578058a5-9a0a-4205-b912-0cd4607a81cc",
+      "question_text": [
+        "A major determinant of floating exchange rate is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Floating Exchange Rates ",
+        " Exchange Rates and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the highest denomination of the currency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an Act of the parliament",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the system of government",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the forest of demand and supply",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4dbb9ea9-9af6-466e-bbee-f9c09f9549d0",
+      "question_text": [
+        "If the importation of a commodity is limited to a definite quantity, the trade control measure imposed is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "economics",
+      "pageNum": "12",
+      "related_lessons": [
+        "The Difference Between Level of Trade and the Trade Balance ",
+        " International Trade and Capital Flows"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "excise duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "import duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "quotas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "tariff",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

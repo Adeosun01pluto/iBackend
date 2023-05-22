@@ -1,0 +1,4216 @@
+
+[
+    {
+      "id": "3971f0f0-9577-471d-b7dd-b55fa1308d8c",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "92db8369-0a56-4d2b-b400-23f267d63212",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d8ffea0-638d-446d-97c8-b6067ebf20b8",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf3b0e74-67cb-426b-953f-3ed83452ba1d",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "536e8c24-a011-4ddf-b299-be58cdadf5d3",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ffcec602-d501-407f-acb1-11fd97cfd828",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "de6d699a-b201-416b-9132-701d09399a95",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19943769-4b3d-4625-a69a-859de29d6fbd",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d77d3d3c-9100-450f-9e7c-1b38fd0af99d",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a460d76-c790-4ae4-b7af-28360a4cd0b7",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eb2ceeb2-3dd8-4987-868c-9fcf2a1e4afc",
+      "question_text": [
+        "Simplify \\(\\frac{(√12-√3)}{(√12+√3)}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\frac{(\\sqrt{12}-\\sqrt{3})}{(\\sqrt{12}+\\sqrt{3})}=\\frac{\\sqrt{4\\times 3}-\\sqrt{3}}{\\sqrt{4\\times 3}+\\sqrt{3}}\\\\=\\frac{2\\sqrt{3}-\\sqrt{3}}{2\\sqrt{3}+\\sqrt{3}}\\\\=\\frac{\\sqrt{3}}{3\\sqrt{3}}\\\\=\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d513102-e9bd-4102-b53d-01e1dd5044a4",
+      "question_text": [
+        "The venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math53.jpg",
+      "explanation": "Two games played only = 5 + 7 + 3= 15",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "19",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3b60d9a-0eee-478e-b9a0-4f3a6b3eeb37",
+      "question_text": [
+        "If m = 3, p = -3, q = 7 and r = 5/2, evaluate m(p+q+r)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "m = 3, p = -3, q = 7 and r = 5/2m(p+q+r) = 3(-3 + 7 + 5/2)= 3(4 + 5/2)= 3(4 + 21/2)= 3 * 61/2= 3 * 13/2= 39/2= 19.50",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "19.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "19.15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18.95",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18.05",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca7de674-c6e7-4f56-b89e-a0ba45d783b1",
+      "question_text": [
+        "A polynomial in x whose zeros are -2, -1 and 3 is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "x = -2, x = -1 and x = 3∴x+2 = 0, x+1 = 0 and x-3 = 0Product of the factors(x+2)(x+1)(x-3) = 0(x2 + 3x + 2)(x-3)x(x2 + 3x + 2) -3(x2 + 3x + 2) = 0x3 + 3x2 + 2x - 3x2 - 9x - 6 = 0x3 - 7x - 6 = 0",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x3 - 7x + 6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x3 + 7x - 6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x3 + 7x + 6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x3 - 7x - 6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bf2f9297-580e-4208-a16f-62dafc18e71d",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "t = time taken and N = number of ment ∝ 1/Nt = K/NK = NtK = 30 * 6K = 180∴t = 180/N4 = 180/N4N = 180 N = 180/445 men",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "59ed4889-4db0-4eb2-a442-877215536582",
+      "question_text": [
+        "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 42/3 and L = 54, find d in terms of W and L."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(W\\infty LD^2\\\\W=KLd^2\\\\K=\\frac{W}{Ld^2}\\\\=\\frac{140}{54}\\times\\left(4\\frac{2}{3}\\right)^2 \\\\=\\frac{140}{54}\\times\\left(\\frac{14}{3}\\right)^2\\\\=\\frac{140\\times 9}{54\\times 14\\times 14}\\\\=\\frac{5}{42}\\\\∴W=\\frac{5}{42Ld^2}\\\\42W=5Ld^2\\\\\\frac{42W}{5L}=d^2\\\\d=\\sqrt{\\frac{42W}{5L}}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\sqrt{\\frac{42W}{5L}}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\sqrt{\\frac{6L}{42W}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64e55c15-3623-4e54-a754-84b69af34dca",
+      "question_text": [
+        "Find the range of values of x for which 7x - 3 > 25 + 3x"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "7x - 3 > 25 + 3x7x - 3x > 25 + 34x > 28x >28/4x > 7",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x >7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x<7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x>-7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "88e5cc9c-fe91-4af4-83df-98dcb0c5d2f0",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determined the range of values of x for which f(x) \\(\\leq\\) 0"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math52.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\leq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f5c2dfa-6593-44c9-aaad-72e50868a7df",
+      "question_text": [
+        "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "U7 = a + (7 - 1)d= a + 6dU3 = a + (3 - 1)d= a + 2dBut U7 = 2(U3)∴a + 6d = 2(a + 2d)a + 6d = 2a + 4d 2a - a + 4d - 6d = 0a - 2d = 0 → eqn1Sn = n/2 (2a + (n - 1)d)42 = 4/2 (2a + (4 - 1)d)42 = 2(2a + 3d)21 = 2a + 3d → eqn2eqn1 * eqn2  0 = 2a - 4d21 = 7d∴d = 21/7d = 3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4318374e-23f9-4d00-b0cb-7831788b2660",
+      "question_text": [
+        "Find the sum of the first 20 terms of the series 8, 12, 16, ....., 96"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "8, 12, 16, .....96a = 8, d = 4, l = 96, n = 20S20 = n/2(a + l)= 20/2(8 + 96)= 10 * 104= 1040",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1040",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "960",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "920",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "143befb1-eea1-4624-8ee2-5b92dd5da31d",
+      "question_text": [
+        "An operation * is defined on the set of real numbers by a * b = ab + 2(a + b + 1). find the identity elements"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "a * b = ab + 2(a + b + 1)let e be the identity element∴ a * e = e * b = a∴ a * eae + 2(a + e + 1) = aae + 2a + 2e + 2 = aae + 2e = a - 2a = 2(a + 2)e = -a - 2e = -(a-2) / (a+2)e = -(a+2) / (a+2)e = -1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5977eac-4367-41ab-bcbc-5d7b4023478f",
+      "question_text": [
+        "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52\\(^{\\circ}\\) and ∠LOH = 85\\(^{\\circ}\\), calculate the size of ∠EOG."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math50.jpg",
+      "explanation": "∠GOK = 85\\(^{\\circ}\\) (vertical opposite angle ∠s)∠EOG + ∠GOK + ∠KOF = 180 (∠s on a straight line)∠EOg + 85\\(^{\\circ}\\) + 52\\(^{\\circ}\\) = 180\\(^{\\circ}\\)∠EOG + 137\\(^{\\circ}\\) = 180\\(^{\\circ}\\)∠EOG = 43\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "26\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "43\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb157b70-86d6-4763-90e8-8c4c092c9178",
+      "question_text": [
+        "The sum of the interior angle of a regular polygon is 1800\\(^{\\circ}\\). Calculate the size of one exterior angle of the polygon"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Sum of interior ∠s = 1800\\(^{\\circ}\\)∴(n - 2) 180\\(^{\\circ}\\) = 1800\\(^{\\circ}\\)180n -360\\(^{\\circ}\\) = 1800\\(^{\\circ}\\)180n = 1800\\(^{\\circ}\\) + 360\\(^{\\circ}\\)180n = 2160\\(^{\\circ}\\)n = 2160\\(^{\\circ}\\)/180\\(^{\\circ}\\)n = 12 sides Each exterior ∠ = 360\\(^{\\circ}\\)/n= 360\\(^{\\circ}\\)/12= 30\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "24\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6cc302ea-94a2-4593-bac3-f44dd1df1164",
+      "question_text": [
+        "A sector of a circle has an area of 55 cm2. If the radius of the circle is 10 cm, calculate the angle of the sector. [π = 22/7]"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Area of a sector = \\(\\frac{\\theta}{360}\\times \\pi r^2\\\\55=\\frac{\\theta}{360}\\times \\frac{22}{7}\\times \\frac{10\\times 10}{1}\\\\\\theta=\\frac{360 \\times 55 \\times 7}{22 \\times 10 \\times 10}\\\\\\theta = 63^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "63\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d1e4068-f3f1-478f-ac68-8340af145497",
+      "question_text": [
+        "Find the curved surface area of a cone with circular base diameter 10 cm and height 12 cm"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "L2 = 122 + 52= 144 + 25= 169L = √169= 13Curved surface Area = πrL= 5/1 * 13/1 * π= 65πcm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25 πcm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "65 πcm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "120 πcm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "156 πcm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e4d1fd2-194a-4610-baed-0f35b350792c",
+      "question_text": [
+        "Two lines PQ and ST intersect at 75\\(^{\\circ}\\). The locus of points equidistant from PQ and ST lies on the"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "perpendicular bisector of PQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "perpendicular bisector of ST",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bisector of the angles between lines PQ and ST",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "bisector of the sngels between lines PT and Qs",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a025274-3401-4fc2-a62b-b709861aa1a8",
+      "question_text": [
+        "Find the equation of the perpendicular at the point (4,3) to the line y +  2x = 5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Gradient of the line y + 2x = 5 = -2Gradient of the line perpendicular to y + 2x + 5 = 1/2equation of a line perpendicular to y + 2x = 5 at the point (4, 3)y - y1 = m(x - x1)y - 3 = 1/2(x - 4)2y - 6 = x -4 2y - x = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2y - x = 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y + 2x = 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y + 2x = 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2y - x = 2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ba195fd3-9b72-4b5a-b400-08af5846fffd",
+      "question_text": [
+        "A chord of a circle subtends an angle of 60\\(^{\\circ}\\) at the length of a circle of radius 14 cm. Find the length of the chord"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Sin 30 = x/14x =14 sin 30 = 14 * 1/2= 7AB = 2x= 2 * 7 = 14cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "21 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "28 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9b57058f-5bff-48aa-baf9-05939b4d0ca0",
+      "question_text": [
+        "From the diagram above, find the bearing of R and S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "he diagram x = 44\\(^{\\circ}\\) (alternate ∠s) the bearing of R from S= 180 + x= 180 + 44= 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3430db0c-ce39-4813-bf7e-96920a742a49",
+      "question_text": [
+        "If y = (1 - 2x)2, find the value of dy/dx at x = -1"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y = (1 - 2x)3let u = 1-2xdu/dx = -2∴y = u3dy/du = 3u2But dy/dx = du/dx * dy/du= -2 * 3u2= -6u2= -6(1-2x)2At x = -1: dy/dx = -6(1 - 2(-1))2dy/dx = -6(1 + 2)2= -6 * 32= -6 * 9= -54",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "57",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "27",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-54",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bfb9c6ff-2df8-441c-955a-e02633181996",
+      "question_text": [
+        "Find the derivative of y = sin(2x3 + 3x - 4)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "y = sin (2x3 + 3x - 4)let u = 2x3 + 3x - 4 ∴du/dx = 6x2y = sin Udy/du = cos Udy/dx = du/dx * dy/dy∴dy/dx = (6x2 + 3) cos U= (6x2 + 3)cos(2x3 + 3x - 4)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cos (2x3 + 3x - ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-cos (2x3 + 3x - ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1ac2efd-38c8-4a26-be87-f2ec43545061",
+      "question_text": [
+        "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Increase in radius dr/dt = 0.5Area of the circular disc = πr2Increase in area: dA/dr = 2πrRate of increase in area: dA/dt = dA/dr * dr/dtwhen r = 6cm= 2πr * 0.5= 2 * π * 6 * 0.52 * π * 6 * 1/2 = 6 π cm2/sec",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36 π cm2/sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "18 π cm2/sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6 π cm2/sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3 π cm2/sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "46cf7de2-48bf-40a1-a924-86b5cf013820",
+      "question_text": [
+        "The maximum value of the functionF(x) = 2 + x - x2 is"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "f(x) = 2 + x - x2dy/dx = 1-2xAs dy/dx = 01-2x = 02x = 1x = 1/2At x = 1/2f(x) = 2 + x - x2= 2 + 1/2 -(1/2)2= 2 + 1/2 - 1/4= (8+2-1) / 4 = 9/4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b255567-bb74-4765-b78a-59b9d8f5e460",
+      "question_text": [
+        "Find the area of the figure bounded by the given pair of curves y = x2 - x + 3 and y = 3"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Area bounded by y = x2 - x + 3 and y = 3x2 - x + 3 = 3x2 - x = 0x(x -1) = 0x= 0 and x = 1\\(\\int^{1}_{0}\\)(x2 - x + 3)dx = [1/3x3 - 1/2x2 + 3x]\\(^1 _0\\)(1/3(1)3 - 1/2(1)2 + 3(1) - (1/3(0)3 - 1/2(0)2 + 3(0))= (1/3 - 1/2 + 3)- 0= \\(\\frac{2-3+18}{6}\\)= 17/6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17/6 units (s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7/6 units (s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c83f46ca-0b8d-4a1e-be39-fd15f8550e04",
+      "question_text": [
+        "Evaluate \\(\\int_0^{\\frac{\\pi}{0}}sin2xdx\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\int_0^{\\frac{\\pi}{2}}\\)sin 2x dx = [-1/2cos 2x + C]\\(_0^{\\frac{\\pi}{2}}\\)=[-1/2 cos 2 * π/2 + C] - [-1/2 cos 2 * 0]= [-1/2 cos π] - [-1/2 cos 0]= [-1/2x - 1] - [-1/2 * 1]= 1/2 -(-1/2) = 1/2 + 1/2 = 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9fb723ef-eeeb-46be-a01d-45224fcc2632",
+      "question_text": [
+        "The histogram above shows the distribution of monthly incomes of the workers in a company. How many workers earn more than ₦700.00?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math49.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c12bc50c-6dc8-40ba-a06f-ea3f718d61b6",
+      "question_text": [
+        "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20Modal height = 1.35Range (r) = 1.50 - 1.20= 0.30∴m + 2r = 1.35 + 2(0.30)= 1.35 + 0.60= 1.95",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.65",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.95",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "be2020b2-33b6-463b-8001-2b952c36bc62",
+      "question_text": [
+        "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(mean(x) = \\frac{20t}{5} = 4t\\\\standard\\hspace{1mm}deviation=\\sqrt{\\frac{10t^2}{5}}\\\\\\sqrt{2}=\\sqrt{\\frac{10t^2}{5}}\\\\\\sqrt{2}=\\sqrt{2t^2}\\\\2 = 2t^2\\\\t^2=1\\\\t=1\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "353516a4-eb7e-43dc-8137-e56bf086c600",
+      "question_text": [
+        "In how many ways can 6coloured chalks be arranged if 2 are same colour?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{6!}{2!}=ways=\\frac{6\\times5\\times4\\times3\\times2!}{2!}\\\\=6\\times5\\times4\\times3\\\\=360\\hspace{1mm}ways\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "120",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "240",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "360",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5261f9ee-4a3e-4cbf-a9b0-0cac59b48ab1",
+      "question_text": [
+        "How many possible ways are there of seating seven people P,Q,R,S,T,U and V at a circular table"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "(n - 1)! = (7 - 1)!= 6!= 6*5*4*3*2*1= 720 ways",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "360",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "720",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2520",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5040",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75e9afb2-9480-42c9-9d5d-2d54b590a138",
+      "question_text": [
+        "A box contains 5 blue balls, 3 red balls and 2 white balls. Two balls are selected from the box with replacement. Find the probability of obtaining two blue or two red balls"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Blue balls = 5 Red balls = 3White balls = 2Total = 10P(Two blue) = 5/10 * 5/10 = 25/100P(Two Red) = 3/10 * 3/10 = 9/100∴P(Two blue or two red balls)= 25/100 + 9/100= 34/100= 17/50",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17/50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3/25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/250",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0df5d19f-4d51-4f0f-bdc8-8e741a860f40",
+      "question_text": [
+        "What is the probability that an integer x,(1 \\(\\leq\\) x \\(\\leq\\) 20) chosen at random is divisible by both 2 and 3?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "U = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}A = {x/x is divisible by 2}A = {2,4,6,8,10,12,14,16,18,20}B = {x/x is divisible by 3}A ∩ B = {6, 12, 18}P(Number divisible by both 2 and 3)= 3/20",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "7/10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3bd2d7d5-56b5-48d9-b299-54448d98b71a",
+      "question_text": [
+        "Find the value of \\(m\\) if \\(13_m + 24_m = 41_m\\)."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(13_m + 24_m = 41_m\\)\\(1 \\times m + 3 \\times m^0 + 2 \\times m + 4 \\times m^0 = 4 \\times m + 1 \\times m^0\\)\\(m + 3 + 2m + 4 = 4m + 1\\)\\(3m + 7 = 4m + 1 \\Rightarrow m = 6\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8550dedb-7c32-4309-994a-119c355d9d8a",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "251b69ff-6442-4e94-ba3d-3a306004e6d5",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f053c0b-f242-405e-91f9-2b59aef8110e",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b0e7700-b88e-4179-91a3-6a2b741db016",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25c19c8a-1a65-42c0-9b38-7a1730abb38e",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "326a697f-b2e2-41f1-bad0-f71beaf1160a",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0622c7f-d8e0-4812-bfce-1f44f7a711ae",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40adc710-9182-416c-978c-346f4ffe2fbd",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "794f7721-30ca-466a-a56c-dda138df6c17",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23588c94-8de9-408e-a80c-03ad760cbd5e",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b20493dd-8f9a-4536-a39a-2a3306bd10ca",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5b77fb6-6d39-492b-8910-6a9efc2bbea3",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "62f4e8e2-ea24-4c94-84ed-40b4a20ce422",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c72277b-8ec8-45ba-9ee1-b3093b9d92cd",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26cd8140-8891-4291-9479-9fc35f77965c",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "285034dd-fba2-46b6-be94-32cad679e59e",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba3c0308-a544-458a-89ff-d9122bc2db1d",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e20e4761-ed1a-44ea-8a87-6258b158e33b",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ba881a7-5e54-44ad-98db-f5e0bd3d8345",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2fa9c067-6b5f-442b-857d-f45e606eda51",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6ec68e75-0bc0-454e-9d21-7b4f964e7904",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "849974ca-fa9c-4e0a-9f34-a758f5e1cdf4",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d978a1f4-7d46-4b98-84f3-208c0fe8b3d8",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79623c86-12da-4f69-8401-9117c6ee6dd4",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "971addd2-89c4-43cd-8cbd-875a5b52cd76",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16a8d8c0-1b3e-4c3a-b921-2168980e48ff",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b920ac0-3272-4a54-a726-3e04f61d4d1d",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "77bc9502-b5d3-47f6-9428-a1f5407a7629",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4ae216a1-bf2a-4bda-93bc-28aa385e7062",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7a37012-b581-468d-9b10-39827ea310d9",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39d7a8c4-8712-459f-8c68-a46a04e604ee",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a7c339a1-8a67-4f1c-96ef-0292427add0c",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "830b7099-dd3d-4c80-b097-867fb5f493e0",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25241788-fc28-409a-a11e-c7cbafc47032",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "705b296f-906e-4993-8934-f2df1bc2ba3c",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85d6516c-8427-4e9a-a705-4ac98f3e1bba",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b7c02fe-cb51-468e-8489-42a889d72afd",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "49ea4284-5d27-44f7-a7e3-d1f064677cbf",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e345b90-b9db-4b7c-8344-e48ea45a9aea",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "41288c7b-436d-416d-bcfd-b6976ab3ead5",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d965568c-da6f-4f25-885e-bd2f718da5a2",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff8e7dcd-b55e-4dde-92ad-ae540eda0be8",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5892808a-69fa-4830-a39c-afe79f059422",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0aac81b1-bb97-40e0-b1be-b9ab7885cc49",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "597955cf-2fb0-44d4-b5ee-c3f327a25f34",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "07bc6836-0a22-4649-b684-f4cb36396234",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8a13c270-6b4b-435c-ba86-e4f109a7ac9b",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd2e3de0-169c-42ad-8c24-968a31a01780",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9cc4efd8-ec90-460c-a278-00fc5764ee90",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75669821-9a2d-4cdc-af00-f5cbc90b8b69",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d9735314-13bc-481f-b7b4-926d3a9b2910",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a04a0b0-95fb-49fc-891f-08c423d72e07",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0df17f9a-28d9-4092-b8cb-3deb3d87a57d",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "549c9d3d-50e7-4205-a15a-ba4eca9a124a",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0701315-86d1-4ba1-a87d-43aae0ce72fd",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f4265a3-7514-4377-b319-bdebafbc61d4",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "827b6f4a-dc51-4dfe-9b93-1c52cdb0e5ee",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "530eb09b-b9f4-421b-aa55-a1f6d0a8af60",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d32fcde0-d7dd-409a-98d7-3f322198ed27",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5892d95e-8ace-424b-a872-c0eba3853a7d",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af3fe32a-f291-4b0b-8aa8-962175173d9e",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d47a2c3e-3857-400b-823c-aaa0c6f2a2f9",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d01be7be-2b20-4167-9bd9-99b7205b631e",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "86dd87aa-67a2-461c-b0c9-a7bfea0884aa",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f87710d-5097-45bd-9752-6b8f83d59fd9",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "630fcfec-c382-4093-a11f-87cbd6b26701",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7b7ba69a-ac7d-46aa-90ff-c36a82403e76",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2bba103-e5ba-43eb-a650-bef06cd80b0b",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef2d4c5b-6288-470b-ba18-11c339616bd9",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c200a9ba-9450-47ab-80a8-3877a58ef9e4",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a5eb959-148f-45c4-8831-50af9de72602",
+      "question_text": [
+        "If x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "x + \\(\\frac{1}{x}\\) = 4, find x2 + \\(\\frac{1}{x^2}\\) = (x + \\(\\frac{1}{x}\\))2 = x2 + \\(\\frac{1}{x^2}\\) + 2 x2 + \\(\\frac{1}{x^2}\\) = ( x + \\(\\frac{1}{x^2}\\))2 - 2 = (4)2 - 2  = 16 - 2 = 14",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "14",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "66a28204-6f8a-4e0c-8b6b-8e9b169195ec",
+      "question_text": [
+        "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) \\(\\geq\\) 0."
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math115.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0 \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " x \\(\\geq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "850f8601-fecc-4100-9a4b-c8d36c2ab97f",
+      "question_text": [
+        "In the diagram above, O is the centre of the circle, If < UOT = 70\\(^{\\circ}\\) and < RST = 100\\(^{\\circ}\\). Calculate < RUO"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math113.jpg",
+      "explanation": "< OUT = < OTU< OUT = \\(\\frac{180^o - 70^o}{2} = \\frac{110^o}{2} = 55^o\\)< RUT = 180\\(^{\\circ}\\) - 100\\(^{\\circ}\\) = 80\\(^{\\circ}\\)< RUO = < RUT - < OUT= 80\\(^{\\circ}\\) - 55\\(^{\\circ}\\)= 25\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d8a8600d-7338-4472-8dae-22efc364a336",
+      "question_text": [
+        "From the diagram given, find the bearing of R from S"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math112.jpg",
+      "explanation": "The bearing of R from S = 180 + 44 = 224\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "224\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9042e97a-10ac-4708-88f3-4ab49d0ee979",
+      "question_text": [
+        "Find the value of m if 13m + 24m = 41m"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "If 13m + 24m = 41m1 * m1 + 3 0 + 2 * m1 + 4 * m0 = 4 * m1 + 1 * m01 * m + 3 * 1 + 2 * m + 4 * 1 = 4 * m + 1 * 1m + 3 + 2m + 4 = 4m + 13m + 7 = 4m + 14m -3m = 7 - 1m = 6",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cda5639c-58b3-4dad-87f4-82ad6b8ed840",
+      "question_text": [
+        "If 3214 is divided by 234 and leaves a remainder r, what is the value of r?"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(\\frac{321_4}{23_4}\\\\=\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\\\=\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\\\=\\frac{48+8+1}{8+3}\\\\=\\frac{57}{11}=5\\hspace{1mm}remainder\\hspace{1mm}2\\\\∴r=2_{10} \\\\ Now\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\\\\\frac{4}{2} = 2\\\\\\frac{4}{0}=0\\hspace{1mm}or\\hspace{1mm}2\\\\∴r=2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9f298591-d58d-44a4-a057-5de6accc6c1d",
+      "question_text": [
+        "Simplify 31/2 - (21/3 * 11/4) + 3/5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "31/2 - (21/3 * 11/4) + 3/5= 7/2 - (7/3 * 5/4) + 3/5= 7/2 - 35/12 + 3/5= L.C.M = 60= (210 - 175 + 36)/60= 71/60= 111/60",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "211/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21/60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "111/60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "11/60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a53b71a5-b89c-4bc6-98d9-7a449b0f4b86",
+      "question_text": [
+        "If the interest on N150.00 for 21/2 years is N4.50, find the interest on N250.00 for 6 months at the same rate"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(I = N4.50, P = N150,T=2\\frac{1}{2}\\hspace{1mm}years\\\\I=\\frac{P\\times T\\times R}{100}\\\\4.50=\\frac{150 \\times 2\\frac{1}{2} \\times R}{100}\\\\\\frac{4.50}{1}=\\frac{150 \\times 5 \\times R}{100\\times 2}\\\\4.50\\times 4 = 15R\\\\R=\\frac{4.50\\times5}{15}\\\\R = \\frac{6}{5}\\\\Again\\hspace{1mm}I\\hspace{1mm}=\\frac{P\\times T \\times R}{100}\\\\=\\frac{250\\times 1 \\times 6}{100\\times 2\\times 5}\\\\=\\frac{3}{2}=N1.50\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1.50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N7.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N18.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2526094c-3fff-449b-8ddd-1d47d4a601f4",
+      "question_text": [
+        "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3} = \\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\\\=\\frac{3^3 - 3}{3 \\times 8}\\\\=\\frac{27-3}{24}\\\\=\\frac{24}{24}\\\\=1\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc55cc75-e03b-4721-bd8b-a9b683fe28cb",
+      "question_text": [
+        "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5"
+      ],
+      "examType": "jamb",
+      "year": "2005",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Log102 = 0.3010 and Log103 = 0.4771Log104.5 = Log1041/2= Log109/2= Log109 - Log102= log1032 - Log102= 2Log103 - Log102= 2(0.4771) - 0.3010= 0.9542 - 0.3010= 0.6532",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.9542",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.6532",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.4771",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.3010",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

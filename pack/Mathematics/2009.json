@@ -1,0 +1,3886 @@
+
+[
+    {
+      "id": "79881f39-40d0-4936-b66b-152b6d8538eb",
+      "question_text": [
+        "Simplify 7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\) Take care of the whole numbers  7 - 4 + 2 = 5  therefore, 5\\(\\frac{1}{12}\\) - \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) LCM = 12  5\\(\\frac{1 - 9 + 6}{12}\\) 4\\(\\frac{13 - 9 + 6}{12}\\) = 4\\(\\frac{10}{12}\\) or = 4\\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4\\(\\frac{1}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4\\(\\frac{5}{6}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a90ab70-764c-4782-a6ea-abf4409eacb2",
+      "question_text": [
+        "Evaluate \\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) correct to 3 significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) = \\(\\frac{181.25}{56.25}\\) = 3.22",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.22",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.78",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.13",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "46818266-1f5d-469a-a47c-7b474a7b2afe",
+      "question_text": [
+        "A student spent \\(\\frac{1}{5}\\) of his allowances on books, \\(\\frac{1}{3}\\) of the remainder on food and kept the rest for contingences. What fraction was kept?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Spent \\(\\frac{1}{5}\\) on books remaining \\(\\frac{4}{5}\\)  spent \\(\\frac{1}{3}\\) of \\(\\frac{4}{5}\\) on food \\(\\frac{4}{5}\\) x \\(\\frac{1}{3}\\) = \\(\\frac{4}{15}\\) therefore, \\(\\frac{4}{5}\\) - \\(\\frac{4}{15}\\) = \\(\\frac{12 - 4}{15}\\) = \\(\\frac{8}{15}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{7}{16}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7f86bc2-a0c6-4fe7-9e4d-d6febdb6446a",
+      "question_text": [
+        "Solve 52(x - 1) x 5x + 1 = 0.04"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "52(x - 1) x 5x + 1 = 0.04  52x - 1 x 5x + 1 = \\(\\frac{1}{25}\\) 53x - 1 = 5-2 3x - 1= -2 3x = -1  therefore, x = -\\(\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a796ece7-3b0f-4a1c-a861-441d405abd2b",
+      "question_text": [
+        "Simplify \\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\) x \\(\\frac{3 + \\sqrt{7}}{3 + \\sqrt{7}}\\) \\(\\frac{15 - 5 \\sqrt{7} + 3\\sqrt{7} - 7}{9 - 3\\sqrt{7} + 3\\sqrt{7} - 7}\\) \\(= 4 - 2\\sqrt{7}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e08886bd-7ed1-4c86-97e5-bce9aca0a33e",
+      "question_text": [
+        "If x = {n2 + 1 : n is positive integer and 1\\(\\leq\\) n \\(\\leq\\) 5}, y = {5n : n is positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x ∩ y."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "X : (n2 + 1) = 2, 5, 10, 17, 26 y : 5n = 5, 10, 15, 20, 25 x ∩ y = (5, 10)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{5, 10}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5, 10, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2, 5 ,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5, 10, 15, 20}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09fe6cd6-1803-4375-aebe-88d1f4867a53",
+      "question_text": [
+        "i. S∩T∩W = S ii. S∪T∪W = W ii. T∩W = SIf S\\(\\subset\\)T\\(\\subset\\)W. Which of the above statements are true?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i and ii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i and iii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iii",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7bdc424-07c5-44e6-aab0-775f4c79d0e4",
+      "question_text": [
+        "If P = \\(\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "P2 = \\(\\frac{rs^3}{t}\\) P2t = rs3 r = \\(\\frac{p^2t}{s^3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{p^2t}{s^3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{p^3t}{s^3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e4a901f-69a2-43d8-b5e4-c5f7979a727b",
+      "question_text": [
+        "A polynomial in x whose roots are \\(\\frac{4}{3}\\) and -\\(\\frac{2}{5}\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "(3x - 4)(5x + 3) = 15x2 - 11x - 12",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15x2 - 11x - 12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "15x2 + 11x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12x2 - x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12x2 + 11x - 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ae6b0b30-7953-44a3-a3a1-db53a9ffa68a",
+      "question_text": [
+        "Find the infinity, the sum of the sequence 1, \\(\\frac{9}{10}\\), (\\(\\frac{9}{10}\\))2, (\\(\\frac{9}{10}\\))3,..."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{10}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09a5bfc4-978a-447b-970f-7b6a5d69ff58",
+      "question_text": [
+        "If m \\(\\ast\\) n = n-(m + 2) for any real numbers m and n, find the value of 3 \\(\\ast\\) (-5)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "If m x n = n = n - (m + 2) 3 \\(\\ast\\) (-5) = -5 - (3 + 2) = -5 - 5  = -10",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5960f718-0060-4660-baa6-19da3ba1836e",
+      "question_text": [
+        "A binary operation \\(plus\\) defined on the set of integers is such that m \\(plus\\) n = n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4624ef18-f53f-4089-ac49-5adac8e9dc60",
+      "question_text": [
+        "If Q = \\(\\begin{pmatrix} 9 & -2 \\\\ -7 & 4 \\end{pmatrix}\\), then |Q| is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "If Q = \\(\\begin{pmatrix} 9 & -2 \\\\ -7 & 4 \\end{pmatrix}\\), then |Q| is  = 9 x 4 - (-2) x (-7) = 36 - 14  = 22",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-22",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "22",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b0544bb-d8e6-4882-b71e-00e032505799",
+      "question_text": [
+        "If p = \\(\\begin{pmatrix} x + 3 & x + 2 \\\\ x + 1 & x - 1 \\end{pmatrix}\\) evaluate x if |p| = -10"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "If p = \\(\\begin{pmatrix} x + 3 & x + 2 \\\\ x + 1 & x - 1 \\end{pmatrix}\\) evaluate x if |p| = -10  |P| = (x + 3)(x - 1) - (x + 2)(x + 1) x2 + 2x - 3 - (x2 + 3x + 2) x2 + 2x - 3 - x2 - 3x - 2 -x - 5 = -10 -x = -10 + 5  x = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7a3f499f-c61e-455d-ad34-a71bbe42cee2",
+      "question_text": [
+        "Find the acute angle between the straight lines y = x and y = \\(\\sqrt{3x}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "x \\(\\leq\\) 90o (acute angle) x2 = 3x  3x = 90o x = \\(\\frac{90^o}{3}\\) = 30o",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "45o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4210d278-117f-44d5-90b3-b188cf3e06d8",
+      "question_text": [
+        "If the hypotenuse of a right-angled isosceles triangle is 2cm , what is the area of the triangle?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "sin45o = \\(\\frac{y}{2}\\) y = 2 sin45o y = 2 (\\(\\frac{1}{\\sqrt{2}}\\)) y = \\(\\frac{2}{\\sqrt{2}}\\) x \\(\\frac{\\sqrt{2}}{\\sqrt{2}}\\) y = \\(\\frac{2\\sqrt{2}}{2}\\) y = \\(\\sqrt{2}\\) Since it is an isosceles triangle  x = \\(\\sqrt{2}\\) Area of \\(\\Delta\\) = \\(\\frac{1}{2}\\)bh = \\(\\frac{1}{2}\\) x \\(\\sqrt{2}\\) x \\(\\sqrt{2}\\) = \\(\\frac{1}{2}\\) x 2 = 1 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{\\sqrt{2}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\sqrt{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9571f29c-c0e1-438a-821d-f43c8bf4d9b5",
+      "question_text": [
+        "A chord is drawn 5 cm away from the centre of a circle of radius 13 cm. Calculate the length of the chord."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "132 = 52 + b2 169 = 25 + b2 b2 = 144  b = \\(\\sqrt{144}\\)  = 12 cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "24 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "65fe11bd-6730-46a3-8f27-04c94ff8bb78",
+      "question_text": [
+        "Find the value of sin 45o - cos 30o"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "sin 45o - cos 30o \\(\\frac{1}{\\sqrt{2}}\\) - \\(\\frac{\\sqrt{3}}{2}\\) = \\(\\frac{2 - \\sqrt{2} \\times \\sqrt{3}}{2\\sqrt{2}})\\) = \\(\\frac{2 - \\sqrt{6} \\times \\sqrt{2}}{2\\sqrt{2} \\sqrt{2}}\\) = \\(\\frac{2\\sqrt{2} - \\sqrt{12}}{4}\\) = \\(\\frac{2\\sqrt{2} - 2\\sqrt{3}}{4}\\) = \\(\\frac{2(\\sqrt{2} - \\sqrt{3})}{4}\\) = \\(\\frac{\\sqrt{2} - \\sqrt{3}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2 + \\sqrt{6}}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{ \\sqrt{2} + \\sqrt{3}}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f67414b7-fa1f-4344-9b87-3c3a12dad329",
+      "question_text": [
+        "A cliff on the bank of a river is 300 meters high. If the angle of depression of a point on the opposite side of the river is 60o, find the width of the river."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Tan 60o = \\(\\frac{300}{x}\\) x Tan 60o = 300 x√3 = 300 x = \\(\\frac{300}{\\sqrt{3}}\\) x \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\) x = \\(\\frac{300\\sqrt{3}}{3}\\) x 100\\(\\sqrt{3}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75√3m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100√3m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "200√3m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "100m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3672bd84-dc50-45d9-8fea-817046d3d0b4",
+      "question_text": [
+        "If y = 3 cos 4x, \\(\\frac{dy}{dx}\\) equals"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "If y = 3 cos 4x, \\(\\frac{dy}{dx}\\) equals  \\(\\frac{dy}{dx}\\) = 3(4 - sin 4x) = -12 sin 4x",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 sin 8x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-24 sin 4x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 sin 4x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-12 sin 4x",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fc931771-8a92-4028-8ece-a70d0f24e0ba",
+      "question_text": [
+        "If s = (2 + 3t)(5t - 4), find \\(\\frac{dy}{dx}\\) when t = \\(\\frac{4}{5}\\) sec"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "s = (2 + 3t)(5t - 4), find \\(\\frac{dy}{dx}\\) when t = \\(\\frac{4}{5}\\) sec  = 10t - 8 + 15t2 - 12t \\(\\frac{ds}{dt}\\) = 15t2 - 2t - 8  = 30t - 2 ; t = \\(\\frac{4}{5}\\) = 30t - 2  = 30 x \\(\\frac{4}{5}\\) - 2 \\(\\to\\) 24 - 2  = 22 sec",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0 units per sec.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 units per seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "22 units per seconds",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "26 units per seconds",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "89ae90ef-7851-4db6-a0a7-93a2c9eb07f0",
+      "question_text": [
+        "The distance travelled by a particle from a fixed point is given as s = (t3 - t2 - t + 5)cm. Find the minimum distance that the particle can cover from the fixed point."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "S = (t3 - t2 - t + 5)cm \\(\\frac{ds}{dt}\\) = 3t2 - 2t - 1 = (3t + 1)(t - 1) t = -\\(\\frac{1}{3}\\) or t = 1 Substitute value of t  s = (13 - 12 - 1 + 5)cm = 4.0 cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.3 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.0cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cea47776-3ca8-4638-b9a9-5f38c2568f54",
+      "question_text": [
+        "Evaluate \\(\\int\\) sec2\\(\\theta\\) d \\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\int\\) sec2\\(\\theta\\) d \\(\\theta\\) = tan\\(\\theta\\) + k",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sec\\(\\theta",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " tan\\(\\theta",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "tan\\(\\theta\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c01ae3f-8d39-41dd-81d4-cf56a95238d1",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{No. of days} & 1 & 2 & 3 & 4 & 5 & 6\\\\ \\hline \\text{No. of students} & 20 & 2x & 60 & 40 & x & 50 \\end{array}\\)The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "3x + 170 = 260  3x = 260 - 170 3x = 90 \\(\\to\\) x = 30 therefore, 20 + 2x + 60 + 40  = 180",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "180",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "120",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "110",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1fe7674b-1a19-4cb8-a238-f4d2cf05e88d",
+      "question_text": [
+        "The probability of a student passing any examination is \\(\\frac{2}{3}\\). If the student takes three examinations, what is the probability that he will not pass any of them?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "p(pass) = \\(\\frac{2}{3}\\) p(fail) = \\(\\frac{1}{3}\\) p(pass at 5 marks) = \\(\\frac{1}{3}\\) x \\(\\frac{1}{3}\\) x \\(\\frac{1}{3}\\) = \\(\\frac{1}{27}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5a7e870e-29fb-4714-afb5-3aa2b6ff9daa",
+      "question_text": [
+        "\\(\\begin{array}{c|c} \\text{Marks} & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9\\\\ \\hline \\text{No. of students} & 3 & 4 & 1 & 0 & 4 & 5 & 2 & 1\\end{array}\\)The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "p (pass at 5mark) = \\(\\frac{12}{20}\\) = \\(\\frac{3}{5}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{3}{5}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "673b1890-0e6a-4406-af11-6b3421fe8711",
+      "question_text": [
+        "What is the locus of the mid-points of all chords of length 6cm within a circle of radius 5cm and with centre 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A circle of radius 4 cm and with centre O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "The perpendicular bisector of the chords",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a straight line passing through centre O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A circle of radius 6 cm and with centre O",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "17c2f03d-e162-461b-8fd3-86c011a799ab",
+      "question_text": [
+        "In the figure above, TS//XY and XY = TY, "
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math93.jpg",
+      "explanation": "TXY = XTY = 47\\(^{\\circ}\\)(Basa angle of an isosceles \\(\\bigtriangleup\\))< TYZ = 94\\(^{\\circ}\\)n\\(^{\\circ}\\) = 180 - (94\\(^{\\circ}\\) + 34\\(^{\\circ}\\))= 180\\(^{\\circ}\\) - 128\\(^{\\circ}\\)= 52\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "47\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "52\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0bc594d7-5788-4387-893d-cf408d6dfc9a",
+      "question_text": [
+        "The histogram above represents the number of candidates that sat for Mathematics examination in a school. How many candidate scored more than 50 marks?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math92.jpg",
+      "explanation": "\\(\\begin{array}{c|c} Mark & No. of Candidate\\\\\\hline 60 & 40\\\\ 70 & 25\\\\ 80 & 15\\\\ 90 & 10 \\\\100 & 5 \\\\\\hline   & 95 \\end{array}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "80",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "95",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "100",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "115",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c714832d-c410-4e19-bd48-b611b9432070",
+      "question_text": [
+        "The cumulative frequency curve above shoes the distribution of the scores of 50 students in an examination. Find the 36th percentile scores"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math90.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "18%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "36%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "63d25031-fbc6-4074-8e69-9c1ab1ff1d80",
+      "question_text": [
+        "Substract 164189 from 186309"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11219",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "21129",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "21139",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "22119",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "819d6d2a-e6c0-40c4-ac0a-ec92478bcd89",
+      "question_text": [
+        "If 55x + 52x = 7710 find X"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "5*X1 + 5*X\\(^{\\circ}\\) + 5*X1 + 2*X\\(^{\\circ}\\) = 77 (change to base 10)5*X + 5*1 + 5*X + 2*1 = 775X + 5 + 5X + 2 = 7710X + 7 = 7710X = 77-710X = 70X = 70/10X =  7",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e8acb50-24aa-4546-a80f-4d34d3a446c5",
+      "question_text": [
+        "Simplify \\(7\\frac{1}{12}-4\\frac{3}{4}+2\\frac{1}{2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(7\\frac{1}{12}-4\\frac{3}{4}+2\\frac{1}{2}=5\\left(\\frac{1-9+6}{12}\\right)\\\\5\\left(\\frac{-2}{12}\\right)\\\\=4\\left(\\frac{12-2}{12}\\right)\\)(carry one from 5 and call it 12)\\(4\\frac{10}{12}\\\\=4\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "41/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45/6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "51/6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9052bc0d-3dd8-44b4-8b09-ea2419d7cecb",
+      "question_text": [
+        "Evaluate \\(\\frac{81.81+99.44}{20.09+36.16}\\) correct to 3 significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\\\=\\frac{181.25}{56.25}\\\\=\\frac{18125}{5625}\\\\\\frac{29}{9}\\\\=3\\frac{2}{9}\\\\≅ 3.22\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.22",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.78",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.13",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6215b44-ba89-4eec-9586-f3affe384b11",
+      "question_text": [
+        "A man bought a second-hand photocopying machine for N34,000. He serviced is at a cost od N2,000 and then sold it i profit of 15%. What was the selling price?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "C.P = N34000 + N2000 = N36000Gain = 100 + 15 = 115%S.P = \\(\\frac{115}{100}\\times \\frac{N3600}{1}\\)= N41400",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N37,550",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N40,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N41,400",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N42,400",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f1374d07-286d-429e-bf96-c041e1a2c86b",
+      "question_text": [
+        "A student spent 1/5of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69635e6a-d28c-453b-baff-8ce6c56c40c4",
+      "question_text": [
+        "Solve 52(x-1) x 5(x-1) = 0.04"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "52(x-1) x 5(x-1) = 0.0452x-2 x 5x-1 = 4/10052x-2 + x-1 = 1/2553x-1 = 1/5253x-1 = 5-2 (Equating the indices)3x-1 = -23x = -2+13x = -1X = -1/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6c1bbe60-8d3b-4d92-8876-c14546492272",
+      "question_text": [
+        "If log102 = 0.3010 and log107 = 0.8451, evaluate log10280"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Log 2 = 0.3010, Log 7 = 0.8451∴Log 280 = Log 28 x 10= Log 7x4x10=Log7 + Log4 + Log10= Log7 + Log22 + Log10= Log7 + 2Log2 + Log10= 0.8451 + 2(0.3010) + 1= 0.8451 + 0.6020 + 1= 2.4471",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.4471",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.4471",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.4471",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.4071",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8806fd87-e436-42b6-a5f0-28441bfa6a04",
+      "question_text": [
+        "Simplify \\(\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}=\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}\\times \\frac{3-\\sqrt{7}}{3-\\sqrt{7}}\\\\=\\frac{(5+\\sqrt{7})(3-\\sqrt{7})}{3^2 - \\sqrt{7}^2}\\\\=\\frac{15-5\\sqrt{7}+3\\sqrt{7}-7}{9-7}\\\\=\\frac{8-2\\sqrt{7}}{2}\\)Factorize then divide by 2\\(=\\frac{2(4-\\sqrt{7}}{2}\\\\=4-\\sqrt{7}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17-√7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4-√7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "15+√7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7-√7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "152610ec-53f4-466d-975a-dfd5a876e2d1",
+      "question_text": [
+        "If x = {n2+1:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, y = {5n:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x \\(\\cap\\) y."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "X = {n2+1:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}Implies X = {2, 5, 10, 17, 26} i.e. put n= 1, 2, 3, 4 and 5Y = {5n:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}Put X = 1, 2, 3, 4, and 5Y = {5, 10, 15, 20, 25}X \\(\\cap\\) Y = {2, 5, 10, 17, 26} \\(\\cap\\) {5, 10, 15, 20, 25}= {5, 10}",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{5,10}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5, 10, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2, 5, 10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5, 10, 15, 20}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "38220d57-7bb2-4400-b7c9-312e4baed446",
+      "question_text": [
+        "I.S∩T∩W=S II. S∪T∪W=SIII. T∩W=SIf S⊂T⊂W, which of the above statements are true?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "S∩T∩W = S(This means that all the elements of s are in T and also in W.)S∪T∪W = W (imply W is a universal set for S and T) T∩W = S  imply all the elements of S are in T and W)  S ⊂ T ⊂ W∴ I, II, and III",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I, II and III",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b5040a96-e8b8-495c-99e0-31415331d554",
+      "question_text": [
+        "If  \\(P=\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(P=\\sqrt{\\frac{rs^3}{t}}\\\\=P^2 =\\frac{rs^3}{t}\\\\tp^2 = rs^3\\\\r = \\frac{p^2 t}{s^3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{p^2 t}{s^3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{p^3 t}{s^3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09e4bcd1-de14-4bbb-8824-2d71a72c18d2",
+      "question_text": [
+        "A polynomial in x whose roots are 4/3 and -3/5 is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "If 4/3 and -3/5 are roots of a polynomial Imply x = 4/3 and - 3/53x = 4 and 5x = -3∴3x-4 = 0 and 5x+3 = 0 are factors(3x-4)(5x+3) = 0 product of the factors 15x2 + 9x – 20x – 12 = 0 By expansion15x2 - 11x – 12 = 0",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15x2 - 11x – 12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "15x2 + 11x – 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12x2 - x – 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12x2 + 11x – 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b94c0f92-8bb3-457b-b0d6-d6c41aea927c",
+      "question_text": [
+        "Which of the following equations represent the graph above?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math28.jpg",
+      "explanation": "x = -2 and x = 1/4x = -2 and 4x = 1x+2 and 4x-1(x+2)(4x-1) = 04x2 - x + 8x -2 = 04x2 + 7x – 2 = 0 but y intercept is positive. Multiply the equation by -1-4x2 - 7x + 2 = 0∴y = 2 – 7x – 4x2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 2+7x+4x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 2-7x+4x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 2+7x-4x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 2-7x-4x2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c2087aaf-25b0-4aef-b105-489587af2752",
+      "question_text": [
+        "W is directly proportional to U. If w = 5 when U = 3, find when W = 2/7"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(W ∝ U\\\\W = KU\\\\K = \\frac{W}{U}\\\\K = \\frac{5}{3}\\\\W = \\frac{5}{3}U\\\\\\frac{2}{7} =  \\frac{5}{3}U\\\\U = \\frac{2}{7} \\times \\frac{3}{5}\\\\U =  \\frac{6}{35}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6/35",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10/21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "21/10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "35/6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1910133-778d-44af-957b-4e9e760056c3",
+      "question_text": [
+        "Determine the value of x for which (x2 - 1) > 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "x2 > 0(x+1)(x-1) > 0x > -1 or -1x < -1 or x > 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x < -1 or x > 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1 < x < 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x > 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < -1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd2e113d-8984-4750-b708-09cacb7afeb9",
+      "question_text": [
+        "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "a = 5, d = 6, n = nSn = n/2(2a + (n-1)d)= n/2(2(5) + (n-1)6)= n/2(10 + 6n-6)= n/2(6n+4)= 6n2/2 + 4n/2= 32 + 2n= n(3n + 2)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "n(3n - 0.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "n(3n + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c9d6fbd-2600-40d2-9664-6863e9b60739",
+      "question_text": [
+        "Find to infinity, the sum of the sequence \\(1, \\frac{9}{10}, \\left(\\frac{9}{10}\\right)^2, \\left(\\frac{9}{10}\\right)^3,.....\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "\\(a=1, r=\\frac{9}{10}\\\\S_n = \\frac{a}{1-r}\\\\S_n = \\frac{1}{1-\\frac{9}{10}}\\\\=1\\div \\frac{1}{10}\\\\=1\\times \\frac{10}{1}\\\\10\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10/9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9/10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3fbf73fc-0135-4a49-9417-f96d68077980",
+      "question_text": [
+        "If m * n = n - (m+2) for any real number m and n find he value of 3*(-5)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "m * n = n - (m+2)= -5 - (3+2)= -5-5= -10",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d8dda8a-acdd-4ddf-a4aa-5707eed4c180",
+      "question_text": [
+        "A binary operation ⊗ defined on the set of integers is such that m⊗n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "m⊗n = m + n + mnfor inverse -5-1 x -5 = e-5-1 + -5 + (-5-1)(-5) = 0-5 + (-5-1(-5)) = 5-5-1.(1 + -5) = 5-5-1(-4) = 5-5-1 = -5/4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5/4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-5/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e1eef988-6b8a-4718-b362-65c5da3edff9",
+      "question_text": [
+        "If Q is\\( \\left[ \\begin{array}{cc} 9 & -2 \\\\ -7 & 4 \\\\ \\end{array} \\right]\\), then |Q| is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Q = \\( \\left[ \\begin{array}{ccc}9 & -2 \\\\-7 & 4 \\\\ \\end{array} \\right]\\) |Q| = 9x4 - (-2x7)= 36 - 14= 22",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-22",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "22",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1abddcbc-e099-49e3-af61-7f28c2593af4",
+      "question_text": [
+        "If P \\(=\\left[\\begin{array}{cc}x+3 & x+2 \\\\ x+1 & x-1\\end{array}\\right]\\) evaluate x if |P| = -10"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(P=\\left[\\begin{array}{cc}x+3 & x+2\\\\x+1 & x-1\\end{array}\\right]\\) evaluate x if |P| = -10(x+3)(x-1) - {(x+1)(x+2)} = -10x2 - x + 3x - 3 - {x2 + 2x + x + 2} = -10x2 + 2x - 3 - {x2 + 3x + 2} = -10-x - 5 = -10-5 + 10 = x5 = x∴x = 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "692d5da5-8ce5-44fc-a98d-de6897206347",
+      "question_text": [
+        "Find the acute angle between the straight lines y = x and y = √3x"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "y = x, Gradient (m1) = 1y = √3x gradient (m2) = √3\\(tan\\theta = \\frac{m_2 - m_1}{1+m_2 m_1}\\\\tan\\theta = \\frac{\\sqrt{3}-1}{1+\\sqrt{3}\\times 1}\\\\=\\frac{1.73 -1 }{1+1.73}=\\frac{0.73}{2.73}=0.268\\)θ = Tan-1 (0.268)= 15\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35199ee9-de39-4020-9156-8ac1345609fd",
+      "question_text": [
+        "A regular polygon has 150\\(^{\\circ}\\) as the size of each interior angle. How many sides does it have?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Sum of interior angles of a polygon = each interior ∠ x n(n-2)180 = 150 x n180n - 360 = 150n180n-150n = 36030n = 360n = 360/30n = 12 sides",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4bec9aab-fffd-4838-a0d4-ae66a519cf1e",
+      "question_text": [
+        "In the figure above , Ts//xy and XY = TY, ∠SYZ = 34\\(^{\\circ}\\), ∠TXY = 47\\(^{\\circ}\\), find the angle marked n"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math27.jpg",
+      "explanation": "In Δ TYXXY = TY ∴y =47\\(^{\\circ}\\) base ∠s of ISCΔBut y+x+34+47 = 180 interioropposite ∠s are supplementary47 + x + 34 + 47 = 180x + 128= 180x = 180- 128x = 52\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "47\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "52\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1840a9f6-eb0d-4ccd-bcca-b3282c33b7f7",
+      "question_text": [
+        "If the hypotenuse of a right angle-triangle isosceles triangle is 2cm. What is the area of the triangle?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "X2 + x2 = 222x2 = 4 x2 = 4/2x2 = 2x = +/-√2Area of Δ = 1/2bh= 1/2 x √2 x √2= 2/2= 1 cm2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/√2 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "√2 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2√2 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6d4d559-f8a8-45e7-a32f-b90c99f078b2",
+      "question_text": [
+        "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "x2 + 52 = 132x2 + 25 = 169x2 = 144x = √ 144 = 12Length of the chord AB = 2x2*12= 24cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "73894545-54e0-452a-baaf-dc4704a52c5e",
+      "question_text": [
+        "Find the radius of a sphere whose surface area is 154 cm2"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "154 = 4 x22 x r27154x7 = r24x22√ 49/4  = r7 = r2∴r = 3.50",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7.00 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.00 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.75 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f2f4efdd-ee41-4c58-90fc-87f022dfc8f2",
+      "question_text": [
+        "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Locus of a particle which moves in the first quadrant so that it  is equidistant from the linesX = 0 and Y = 0 and x = 0 and y = 0 are the x  and y axes is the lines bisecting the angle between x and y axes",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x + y = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x - y = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x + y + k = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x - y - k = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd5bb235-fb42-422d-b92a-6f3797afd509",
+      "question_text": [
+        "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is23?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": " Gradient =y2 - y1x2 - x123 =4-pp-(-1)23 =4-pp+13(4-p) = 2(p+1)12 - 3p = 2p + 212 – 2 = 2p + 3p10 = 5pp =105= 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "550c788a-21e7-4d88-91ea-2f3b3c3a13e5",
+      "question_text": [
+        "What is the value of r if  the distance between the point (4,2) and (1,r) is 3 units?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "A(4,2) and B(1,r), AB = 3 units3 = √ (x2- x1)2 + (y2-y1)23 = √ (4-1)2 + (2-r)23 = √ 32 + (2-r)23 = √ 9 + 4 – 4r + r23 = √ r2 - 4r + 13 9 = r2 - 4r + 13 By squaring both sidesr2 - 4r + 4 = 0(r-2)(r-2) = 0r = 2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "690aa73f-6136-45f0-b880-e978319eccbc",
+      "question_text": [
+        "If y = 3 cos 4x, dy/dx equals"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "y = 3 cos 4xdy/dx = 3x -4 sin 4x= -12sin 4x",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6 sin 8x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-24 sin 4x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12 sin 4x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-12 sin 4x",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "66e62917-4226-4a6a-8cec-2e4fac2d7c4d",
+      "question_text": [
+        "Find the value of sin 45\\(^{\\circ}\\) - cos 30\\(^{\\circ}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(Sin 45 - cos 30\\\\\\frac{\\sqrt{2}}{2}-\\frac{\\sqrt{3}}{2}\\\\=\\frac{\\sqrt{2}-\\sqrt{3}}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2+\\sqrt{3}}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{\\sqrt{2}+\\sqrt{3}}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bcb9b821-225b-48ec-95b8-4851dbbdb4d9",
+      "question_text": [
+        "If s = (2 + 3t)(5t - 4), find s/dt when t = 4/5 secs"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "x = (2+3t)(5t-4)Let u = 2+3t ∴du/dt = 3and v = 5t-4 ∴dv/dt = 5dx/dt = Vdu/dt + Udv/dt= (5t-4)3 + (2+3t)5= 15t - 12 + 10 + 15t= 30t - 2= 30x4/5 - 2= 24 - 2= 22",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0 units per sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15 units per sec",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "22 unit per sec",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "26 units per sec",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ef650c5-f3c7-4016-9fb5-19a7d6d98ed9",
+      "question_text": [
+        "What value of s will make the function x(4-x) a maximum"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "x(4-x) = 4x-x2dy/dx = 4-2xAs dy/dx = 04-2x = 02x = 4x = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f06e5840-2610-4080-8652-c8642da3f334",
+      "question_text": [
+        "The distance travelled by a particle from a fixed point is given as s = (t3 - t2 - t + 5)cm. Find the minimum distance that the particle can cover from the fixed point."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "S = t3 - t2 - t + 5ds/dt = 3t2 - 2t - 1As ds = 03t2 - 2t - 1 = 0(3t+1)(t-1) = 0∴ t = 1 or -1/3At min pt t = -1/3S = t3 - t2 - t + 5 put t = -1/3= (-1/3)3 - (-1/3)2 - (-1/3) + 5= -1/27 - 1/9 + 1/3 + 5= 140 / 27= 5.2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.3 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.2 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "966da147-0f27-4242-b7eb-26be8ca21ddc",
+      "question_text": [
+        "Evaluate ∫sec2θ dθ"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "∫sec2θ dθ = ∫ 1/cos2 dθ∫(cos)-2 dθ,let u = cos θ∴∫u-2 = 1/u + c∫cos θ = sin θ + c∫sec-2θ = 1/u sin θ + c= (sinθ / cosθ) + c= Tan θ + c",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sec θ tan θ + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "tan θ + k",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2sec θ + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sec θ + k",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "170cfb00-9308-4970-9a1c-1d58c2a49ab5",
+      "question_text": [
+        "No. of Days123456No. of students202x6040x50The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for t least four days in the term"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "20 + 2x + 60 + 40 + x + 50 = 250170 + 3x = 2603x = 260 - 1703x = 90 x = 90/3 = 30At least 4 days4 days = 405 days = 306 days = 50Total = 120",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "180",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "120",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "110",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d17c63c-9a4f-4db1-9619-bdb4b8a2eaa7",
+      "question_text": [
+        "The pie chart above represents 400 fruits on display n a grocery store. How many apples are in the store"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math26.jpg",
+      "explanation": "Sectorial angle of apple 100 + 100 + 115 + x = 30\\(^{\\circ}\\)315 + x = 360x = 360 - 315x = 45\\(^{\\circ}\\)360\\(^{\\circ}\\) represents 400 1\\(^{\\circ}\\) represents 400 / 36045\\(^{\\circ}\\) represents (400/360) x (45/1)= 50 apples",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "75",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05fab6ce-b212-4c63-8db8-81836671cb25",
+      "question_text": [
+        "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively an d have a mean of 5.7. Find the value of k"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "xffx531582166424kik∑f=10∑fx=55+kMean =∑fx∑fx5.7 =55+k1057 = 55 + kk = 57 - 55k = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c36ea0a8-24a3-48ec-95be-d653684535a7",
+      "question_text": [
+        "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "x∴xx-X/x-X/x1-112x200x+12003x311∑/x-X/=2Mean  =x+2x+x+1+3x____42  =7x+1_48 = 7x+17x = 8-17x = 7x = 1Mean deviation =∑/x-X/__n=24=12= 0.5",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea466373-732d-47df-a6cb-c0507deb39f7",
+      "question_text": [
+        "In how many ways can 9 people be seated if 3 chairs are available"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "9P3 =_9!ways(9-3)!=9!6!=9x8x7x6!___6!= 504 ways",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "720",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "504",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "336",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "210",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a4cdb804-9fc7-47a4-a0d1-547e4e5037b4",
+      "question_text": [
+        "Each of the interior angles of a regular polygon is 140o. Calculate the sum of all the interior angles of the polygon"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Each interior angle = 140\\(\\frac{(n - 2) \\times 180}{n} = 140\\)(n - 2) x 180 = 140n150 - 360 = 140n180m - 140n = 36040n - 360n = \\(\\frac{360}{40}\\)n = 9Sum of all interior angles = (n - 2) x 180= (9 - 2) x 180= 7 x 180= 1260",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1080o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1260o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1800o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2160o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d63c9c77-b5f2-43bb-8517-f9415deed858",
+      "question_text": [
+        "Find the value of x in the diagram."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/09/maths244.jpg",
+      "explanation": "30 + x = 100x = 100 - 30= 70o",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "60o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "70o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "80o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f444647-20c1-4c91-8961-5139f011108b",
+      "question_text": [
+        "Simplify 7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\) Take care of the whole numbers  7 - 4 + 2 = 5  therefore, 5\\(\\frac{1}{12}\\) - \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) LCM = 12  5\\(\\frac{1 - 9 + 6}{12}\\) 4\\(\\frac{13 - 9 + 6}{12}\\) = 4\\(\\frac{10}{12}\\) or = 4\\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4\\(\\frac{1}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4\\(\\frac{5}{6}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24823939-34b9-4c63-93f2-39661f1d47ac",
+      "question_text": [
+        "Evaluate \\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) correct to 3 significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) = \\(\\frac{181.25}{56.25}\\) = 3.22",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.22",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.78",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.13",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "676eb417-5fb0-4b13-b859-344ab2c50743",
+      "question_text": [
+        "A student spent \\(\\frac{1}{5}\\) of his allowances on books, \\(\\frac{1}{3}\\) of the remainder on food and kept the rest for contingences. What fraction was kept?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Spent \\(\\frac{1}{5}\\) on books remaining \\(\\frac{4}{5}\\)  spent \\(\\frac{1}{3}\\) of \\(\\frac{4}{5}\\) on food \\(\\frac{4}{5}\\) x \\(\\frac{1}{3}\\) = \\(\\frac{4}{15}\\) therefore, \\(\\frac{4}{5}\\) - \\(\\frac{4}{15}\\) = \\(\\frac{12 - 4}{15}\\) = \\(\\frac{8}{15}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{7}{16}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27065937-490c-43c7-a18c-433136ee5e43",
+      "question_text": [
+        "Solve 52(x - 1) x 5x + 1 = 0.04"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "52(x - 1) x 5x + 1 = 0.04  52x - 1 x 5x + 1 = \\(\\frac{1}{25}\\) 53x - 1 = 5-2 3x - 1= -2 3x = -1  therefore, x = -\\(\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9fb05eb9-323c-4329-a455-8ac0b4faf4f4",
+      "question_text": [
+        "Simplify \\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\) x \\(\\frac{3 + \\sqrt{7}}{3 + \\sqrt{7}}\\) \\(\\frac{15 - 5 \\sqrt{7} + 3\\sqrt{7} - 7}{9 - 3\\sqrt{7} + 3\\sqrt{7} - 7}\\) \\(= 4 - 2\\sqrt{7}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d18a0185-2d5c-4343-b95a-1144f4925a04",
+      "question_text": [
+        "If x = {n2 + 1 : n is positive integer and 1\\(\\leq\\) n \\(\\leq\\) 5}, y = {5n : n is positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x ∩ y."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "X : (n2 + 1) = 2, 5, 10, 17, 26 y : 5n = 5, 10, 15, 20, 25 x ∩ y = (5, 10)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{5, 10}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5, 10, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2, 5 ,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5, 10, 15, 20}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26a45a67-70c9-4287-9339-826171c5c70e",
+      "question_text": [
+        "i. S∩T∩W = S ii. S∪T∪W = W ii. T∩W = SIf S\\(\\subset\\)T\\(\\subset\\)W. Which of the above statements are true?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i and ii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i and iii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iii",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d6bc2a0-cc78-4800-b351-6de0777a3614",
+      "question_text": [
+        "If P = \\(\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "P2 = \\(\\frac{rs^3}{t}\\) P2t = rs3 r = \\(\\frac{p^2t}{s^3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{p^2t}{s^3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{p^3t}{s^3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f6401e1-c34b-488d-8396-26637d110f1e",
+      "question_text": [
+        "A polynomial in x whose roots are \\(\\frac{4}{3}\\) and -\\(\\frac{2}{5}\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "(3x - 4)(5x + 3) = 15x2 - 11x - 12",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15x2 - 11x - 12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "15x2 + 11x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12x2 - x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12x2 + 11x - 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24b2ca5a-bdd2-41db-9794-519981a86ddd",
+      "question_text": [
+        "Find the infinity, the sum of the sequence 1, \\(\\frac{9}{10}\\), (\\(\\frac{9}{10}\\))2, (\\(\\frac{9}{10}\\))3,..."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{10}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f19b6db0-9ac7-48b3-97ea-0e4f23ce025c",
+      "question_text": [
+        "Simplify 7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\) Take care of the whole numbers  7 - 4 + 2 = 5  therefore, 5\\(\\frac{1}{12}\\) - \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) LCM = 12  5\\(\\frac{1 - 9 + 6}{12}\\) 4\\(\\frac{13 - 9 + 6}{12}\\) = 4\\(\\frac{10}{12}\\) or = 4\\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4\\(\\frac{1}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4\\(\\frac{5}{6}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e11b37f8-935e-4341-8930-5f41c6ba3981",
+      "question_text": [
+        "Evaluate \\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) correct to 3 significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) = \\(\\frac{181.25}{56.25}\\) = 3.22",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.22",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.78",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.13",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8d55286b-5e92-4093-b0e9-f4ba0655d0c6",
+      "question_text": [
+        "A student spent \\(\\frac{1}{5}\\) of his allowances on books, \\(\\frac{1}{3}\\) of the remainder on food and kept the rest for contingences. What fraction was kept?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Spent \\(\\frac{1}{5}\\) on books remaining \\(\\frac{4}{5}\\)  spent \\(\\frac{1}{3}\\) of \\(\\frac{4}{5}\\) on food \\(\\frac{4}{5}\\) x \\(\\frac{1}{3}\\) = \\(\\frac{4}{15}\\) therefore, \\(\\frac{4}{5}\\) - \\(\\frac{4}{15}\\) = \\(\\frac{12 - 4}{15}\\) = \\(\\frac{8}{15}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{7}{16}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "512955f8-074d-406d-9515-f2b4306990bc",
+      "question_text": [
+        "Solve 52(x - 1) x 5x + 1 = 0.04"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "52(x - 1) x 5x + 1 = 0.04  52x - 1 x 5x + 1 = \\(\\frac{1}{25}\\) 53x - 1 = 5-2 3x - 1= -2 3x = -1  therefore, x = -\\(\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "617eeeae-a4ec-4dc7-adfc-34fd2c191b07",
+      "question_text": [
+        "Simplify \\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\) x \\(\\frac{3 + \\sqrt{7}}{3 + \\sqrt{7}}\\) \\(\\frac{15 - 5 \\sqrt{7} + 3\\sqrt{7} - 7}{9 - 3\\sqrt{7} + 3\\sqrt{7} - 7}\\) \\(= 4 - 2\\sqrt{7}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b61f9517-587c-4358-a671-d82d456b092e",
+      "question_text": [
+        "If x = {n2 + 1 : n is positive integer and 1\\(\\leq\\) n \\(\\leq\\) 5}, y = {5n : n is positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x ∩ y."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "X : (n2 + 1) = 2, 5, 10, 17, 26 y : 5n = 5, 10, 15, 20, 25 x ∩ y = (5, 10)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{5, 10}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5, 10, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2, 5 ,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5, 10, 15, 20}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "63884239-cf0c-418f-8b85-a5ce931455d2",
+      "question_text": [
+        "i. S∩T∩W = S ii. S∪T∪W = W ii. T∩W = SIf S\\(\\subset\\)T\\(\\subset\\)W. Which of the above statements are true?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i and ii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i and iii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iii",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b7abea0-0a0a-4a9a-b534-74d51db1419f",
+      "question_text": [
+        "If P = \\(\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "P2 = \\(\\frac{rs^3}{t}\\) P2t = rs3 r = \\(\\frac{p^2t}{s^3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{p^2t}{s^3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{p^3t}{s^3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39be86fc-2e65-42e7-9a04-978e4f9c335f",
+      "question_text": [
+        "A polynomial in x whose roots are \\(\\frac{4}{3}\\) and -\\(\\frac{2}{5}\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "(3x - 4)(5x + 3) = 15x2 - 11x - 12",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15x2 - 11x - 12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "15x2 + 11x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12x2 - x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12x2 + 11x - 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d497641-6928-458c-be3a-36a758c39ca7",
+      "question_text": [
+        "Find the infinity, the sum of the sequence 1, \\(\\frac{9}{10}\\), (\\(\\frac{9}{10}\\))2, (\\(\\frac{9}{10}\\))3,..."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{10}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "694094bd-d5a5-42e6-8386-7594d31b883f",
+      "question_text": [
+        "Simplify 7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\) Take care of the whole numbers  7 - 4 + 2 = 5  therefore, 5\\(\\frac{1}{12}\\) - \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) LCM = 12  5\\(\\frac{1 - 9 + 6}{12}\\) 4\\(\\frac{13 - 9 + 6}{12}\\) = 4\\(\\frac{10}{12}\\) or = 4\\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4\\(\\frac{1}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4\\(\\frac{5}{6}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d534f885-c363-4ee9-9a4e-0b249ed6450b",
+      "question_text": [
+        "Evaluate \\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) correct to 3 significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) = \\(\\frac{181.25}{56.25}\\) = 3.22",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.22",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.78",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.13",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b086040-8a31-4d0a-874a-49fad1c15ff1",
+      "question_text": [
+        "A student spent \\(\\frac{1}{5}\\) of his allowances on books, \\(\\frac{1}{3}\\) of the remainder on food and kept the rest for contingences. What fraction was kept?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Spent \\(\\frac{1}{5}\\) on books remaining \\(\\frac{4}{5}\\)  spent \\(\\frac{1}{3}\\) of \\(\\frac{4}{5}\\) on food \\(\\frac{4}{5}\\) x \\(\\frac{1}{3}\\) = \\(\\frac{4}{15}\\) therefore, \\(\\frac{4}{5}\\) - \\(\\frac{4}{15}\\) = \\(\\frac{12 - 4}{15}\\) = \\(\\frac{8}{15}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{7}{16}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4442e53a-2406-4030-a321-7998e2c75b98",
+      "question_text": [
+        "Solve 52(x - 1) x 5x + 1 = 0.04"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "52(x - 1) x 5x + 1 = 0.04  52x - 1 x 5x + 1 = \\(\\frac{1}{25}\\) 53x - 1 = 5-2 3x - 1= -2 3x = -1  therefore, x = -\\(\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4409e54d-5649-4c48-af49-d6c76a7ee9fb",
+      "question_text": [
+        "Simplify \\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\) x \\(\\frac{3 + \\sqrt{7}}{3 + \\sqrt{7}}\\) \\(\\frac{15 - 5 \\sqrt{7} + 3\\sqrt{7} - 7}{9 - 3\\sqrt{7} + 3\\sqrt{7} - 7}\\) \\(= 4 - 2\\sqrt{7}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "67dd77c7-e214-4f60-b0f8-64aca4469e29",
+      "question_text": [
+        "If x = {n2 + 1 : n is positive integer and 1\\(\\leq\\) n \\(\\leq\\) 5}, y = {5n : n is positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x ∩ y."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "X : (n2 + 1) = 2, 5, 10, 17, 26 y : 5n = 5, 10, 15, 20, 25 x ∩ y = (5, 10)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{5, 10}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5, 10, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2, 5 ,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5, 10, 15, 20}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "537d4aa4-6e2a-4ca5-9531-004d0ed51338",
+      "question_text": [
+        "i. S∩T∩W = S ii. S∪T∪W = W ii. T∩W = SIf S\\(\\subset\\)T\\(\\subset\\)W. Which of the above statements are true?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i and ii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i and iii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iii",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0232c795-ec02-42a5-83b7-f85898194edf",
+      "question_text": [
+        "If P = \\(\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "P2 = \\(\\frac{rs^3}{t}\\) P2t = rs3 r = \\(\\frac{p^2t}{s^3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{p^2t}{s^3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{p^3t}{s^3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4be7a167-b99f-49cd-aaa8-526791f05ac7",
+      "question_text": [
+        "A polynomial in x whose roots are \\(\\frac{4}{3}\\) and -\\(\\frac{2}{5}\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "(3x - 4)(5x + 3) = 15x2 - 11x - 12",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15x2 - 11x - 12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "15x2 + 11x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12x2 - x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12x2 + 11x - 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22a50c35-9229-4127-ab05-a25e3caaa86c",
+      "question_text": [
+        "Find the infinity, the sum of the sequence 1, \\(\\frac{9}{10}\\), (\\(\\frac{9}{10}\\))2, (\\(\\frac{9}{10}\\))3,..."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{10}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eafc862b-e762-4897-8b9d-ef8481fd429a",
+      "question_text": [
+        "Simplify 7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "7\\(\\frac{1}{12}\\) - 4\\(\\frac{3}{2}\\) + 2\\(\\frac{1}{2}\\) Take care of the whole numbers  7 - 4 + 2 = 5  therefore, 5\\(\\frac{1}{12}\\) - \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) LCM = 12  5\\(\\frac{1 - 9 + 6}{12}\\) 4\\(\\frac{13 - 9 + 6}{12}\\) = 4\\(\\frac{10}{12}\\) or = 4\\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4\\(\\frac{1}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4\\(\\frac{5}{6}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b902a784-aa7f-4234-bbdf-094eb67e7b73",
+      "question_text": [
+        "Evaluate \\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) correct to 3 significant figures."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\) = \\(\\frac{181.25}{56.25}\\) = 3.22",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.21",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.22",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.78",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.13",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6446983-b63b-4d16-ae7d-88bf7516ef39",
+      "question_text": [
+        "A student spent \\(\\frac{1}{5}\\) of his allowances on books, \\(\\frac{1}{3}\\) of the remainder on food and kept the rest for contingences. What fraction was kept?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Spent \\(\\frac{1}{5}\\) on books remaining \\(\\frac{4}{5}\\)  spent \\(\\frac{1}{3}\\) of \\(\\frac{4}{5}\\) on food \\(\\frac{4}{5}\\) x \\(\\frac{1}{3}\\) = \\(\\frac{4}{15}\\) therefore, \\(\\frac{4}{5}\\) - \\(\\frac{4}{15}\\) = \\(\\frac{12 - 4}{15}\\) = \\(\\frac{8}{15}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{7}{16}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cdaeb641-826e-4292-9105-7e94afae112a",
+      "question_text": [
+        "Solve 52(x - 1) x 5x + 1 = 0.04"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "52(x - 1) x 5x + 1 = 0.04  52x - 1 x 5x + 1 = \\(\\frac{1}{25}\\) 53x - 1 = 5-2 3x - 1= -2 3x = -1  therefore, x = -\\(\\frac{1}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "93140451-2c4a-42ec-83d2-b5acf224191c",
+      "question_text": [
+        "Simplify \\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(\\frac{5 + \\sqrt{7}}{3 + \\sqrt{7}}\\) x \\(\\frac{3 + \\sqrt{7}}{3 + \\sqrt{7}}\\) \\(\\frac{15 - 5 \\sqrt{7} + 3\\sqrt{7} - 7}{9 - 3\\sqrt{7} + 3\\sqrt{7} - 7}\\) \\(= 4 - 2\\sqrt{7}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "17 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4 - \\(\\sqrt{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d040fded-9585-4c88-83c1-d257c34d590c",
+      "question_text": [
+        "If x = {n2 + 1 : n is positive integer and 1\\(\\leq\\) n \\(\\leq\\) 5}, y = {5n : n is positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x ∩ y."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "X : (n2 + 1) = 2, 5, 10, 17, 26 y : 5n = 5, 10, 15, 20, 25 x ∩ y = (5, 10)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{5, 10}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "{5, 10, 15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2, 5 ,10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{5, 10, 15, 20}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7039d6cb-de3a-4684-8391-b4f8fe49c181",
+      "question_text": [
+        "i. S∩T∩W = S ii. S∪T∪W = W ii. T∩W = SIf S\\(\\subset\\)T\\(\\subset\\)W. Which of the above statements are true?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i and ii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i and iii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iii",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6886067e-e027-4576-8383-1266107760d2",
+      "question_text": [
+        "If P = \\(\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "P2 = \\(\\frac{rs^3}{t}\\) P2t = rs3 r = \\(\\frac{p^2t}{s^3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{p^2t}{s^3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{p^3t}{s^3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "56c044ad-eb00-40a6-a8db-348b9e86f163",
+      "question_text": [
+        "A polynomial in x whose roots are \\(\\frac{4}{3}\\) and -\\(\\frac{2}{5}\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "(3x - 4)(5x + 3) = 15x2 - 11x - 12",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15x2 - 11x - 12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "15x2 + 11x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12x2 - x - 12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12x2 + 11x - 15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8f9e7917-4423-4169-b907-e661cb220968",
+      "question_text": [
+        "Find the infinity, the sum of the sequence 1, \\(\\frac{9}{10}\\), (\\(\\frac{9}{10}\\))2, (\\(\\frac{9}{10}\\))3,..."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{10}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

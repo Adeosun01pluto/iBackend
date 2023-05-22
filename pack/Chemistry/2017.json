@@ -1,0 +1,1866 @@
+
+[
+    {
+      "id": "d5f1068a-06e4-4654-b40c-6482e289ce4f",
+      "question_text": [
+        "X(g) + 3Y(g) ---- 2z(g) H = +ve. if the reaction above takes place at room temperature, the G will be"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Effect of Temperature on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "\\(\\begin{array}{c|c}\\text{Enthalpy Change [ΔH]} & \\text{Entropy Change [ΔS]} & \\text{Gibbs free Energy[ΔG]} \\\\\\hline\\text{Positive} & \\text{Positive} & \\text{depends on T, may be + or -} \\\\ \\hline \\text{Negative} & \\text{Positive} & \\text{always negative} \\\\ \\hline \\text{Negative} & \\text{Negative} & \\text{depends on T, may be + or -} \\\\ \\hline \\text{Positive} & \\text{Negative} & \\text{always positive} \\end{array}\\)ΔG= ΔH − TΔS. To determine whether ΔG will be positive or negative, the value of ΔH(change in enthalpy) and ΔS (change in entropy) must be given. Likewise the temperature.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "negative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "indeterminate",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cd28196e-719c-48f4-ac26-04af273413d9",
+      "question_text": [
+        "If 100cm3 of oxygen pass through a porous plug is 50 seconds, the time taken for the same volume of hydrogen to pass through the same porous plug is? [O = 16, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Chemical Reaction Rates ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "Rate of diffusion \\(\\frac{\\alpha_1}{Density}\\) or \\(\\frac{1}{\\sqrt{Mm}}\\)Rate = \\(\\frac{1}{time}\\)\\(\\frac{1}{time}\\) \\(\\frac{\\alpha_1}{Density}\\) or \\(\\frac{1}{\\sqrt{Molarmass}}\\)Time \\(\\alpha \\sqrt{Density}\\) or \\(\\sqrt{Molarmass}\\)At constant volume of 100cm3\\(\\frac{t_{o2}}{\\sqrt{Mn_{o2}}}\\) = \\(\\frac{t_{n2}}{\\sqrt{1 \\times 2}}\\)\\(\\frac{50}{4 \\sqrt{2}}\\) = \\(\\frac{t_{n2}}{\\sqrt{2}}\\)tn2= 12.5s",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10.0s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12.5s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "17.7s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "32.0s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "89ca80f6-8478-434d-96fc-ff740de7bd8c",
+      "question_text": [
+        "Due to the high reactivity of sodium, it is usually stored under"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Group 1: The Alkali Metals ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Na is kept under kerosene (paraffin) to avoid reactivity with air.Paraffin is also known as Kerosene.Na(sodium) is kept in kerosene to prevent it from coming in contact with oxygen and moisture. If this happens, it will react with the moisture present in air and form sodium hydroxide.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "mercury",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "paraffin",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "phenol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "10745755-12f6-4e24-bd8f-0ef9ebd98607",
+      "question_text": [
+        "The furring of kettles is caused by the presence in water of"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Electrolysis of Aqueous Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "Furring of kettles is caused by the temporary hardness in water. Temporary hardness in water is caused by calcium and magnesium trioxocarbonate (IV) CaCO3 causes the furring of kettles",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "calcium hydrogentrioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "calcium trioxocarbonate (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24b2a590-c2a2-40d0-8d69-2ec67c8927f0",
+      "question_text": [
+        "Water for town supply is chlorinate to make it free from"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Electrolysis of Molten Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "Chlorine helps to keep water from germs and bacteria.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bad colour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bacteria",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "temporary hardness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "permanent hardness",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b8dec69-8380-4fb8-acf4-5e2f73d11c1a",
+      "question_text": [
+        "Ca(OH)2(s) + 2NH4Cl(g) → CaCl2(s) + 2H2O2(l) + X. In the reaction above X is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Balancing the chemical equation.Ca[OH]2 + 2NH4Cl → CaCl2 + 2H2O + 2NH3X = NH3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NH3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NO2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21aa36a4-3304-4169-8db5-8fa31e30545b",
+      "question_text": [
+        "The gas that can be collected by downward displacement of air is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Catalysts Do Not Affect Equilibrium ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "Upward delivery works well for hydrogen and ammonia, which are both less densed than air. Sometimes, they are collected over water.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sulphur (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon (IV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c5d3cb6a-69a6-4b16-8eca-75b2c22142a2",
+      "question_text": [
+        "In the laboratory preparation of trioxonitrate (V) acid the nitrogen(iv) oxide formed as a by-product is removed by"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Acid and Metal Oxide ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "Bubbling of air through the acid solution removes deposited oxides of nitrogen.Nitric acid is prepared in the laboratory by heating a nitrate salt with the concentrated acid. NaNO3 + H2SO4 → NaHSO4 + HNO3Vapours of nitric acid are condensed to a brown liquid in a receiver cooled under cold water. \"Dissolved oxides of nitrogen\" e.g NO2 are removed by redistillation or blowing a current of carbondioxide or dry air through the warm acid",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "further heating",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "adding concentrated H2SO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cooling the acid solution with cold water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bubbling air through the acid solution",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1a605ec0-ca34-4097-a6d4-51c00ed7d213",
+      "question_text": [
+        "Ethene is prepared industrially by"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Alkanes as Fossil Fuels ",
+        " Organic Molecules"
+      ],
+      "explanation": "Ethene is produced from cracking which involves breaking up large hydrocarbon molecules into smaller and more useful bits. This is achieved by using high temperatures and pressures without a catalyst.C15H32 →     2C2H4 +    C3H6 +      C8H14......Δheat...ethene........propene.........octane",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Reforming",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Polymerization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Cracking",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dccf71cd-0632-4173-9624-ad5d91b4bae9",
+      "question_text": [
+        "Calculate the amount in moles of a gas which occupies 10.5 dm3 at 6 atm and 30oC [R = 082 atm dm3 K-1 mol-1]"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Calculating Moles and Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "For an ideal gas PV = nRTAmount in moles = nVolume v = 10.5dm3Pressure P = 6atmTemperature T = 30°C + 273 = 303kR, Gas constant = 0.082 atmdm3k-1 molRecall from ideal gas equationpv = nRTn = \\(\\frac{RV}{RT}\\)n = \\(\\frac{6 \\times 105}{0.082 \\times 303}\\)n= 2.536mol",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.536",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.623",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.736",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.394",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "100ab45c-71f8-4d51-828f-c1dbd3e04c91",
+      "question_text": [
+        "The reddish–brown rust on ion roofing sheets consists of"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Iron [Fe] reacts with H2 in the presence of oxygen to form a rust.4Fe + 3O2 →  2 Fe2O2Fe2O3 + H2O → Fe2O3.H2O",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fe3 + (H2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "FeO.H2O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Fe2O3.3H2OD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6142aa2-c346-4bea-97cc-95de89f5cc35",
+      "question_text": [
+        "The densities of two gases, X and Y are 0.5gdm-3 and 2.0gdm-3 respectively. What is the rate of diffusion of X relative to Y?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Effusion and Diffusion of Gases ",
+        " Gases"
+      ],
+      "explanation": "The rate of dimension of a gas inversely proportional to the square root of its molecular mass or its density, which is Graham's Law of diffusion of gas.R ∝ \\(\\frac{1}{\\sqrt{Mm}}\\) or R ∝ \\(\\frac{1}{\\sqrt{D}}\\)Dx = 0.5gdm-3, Dy = 2gdm-3R= \\(\\frac{K}{\\sqrt{D}}\\)R\\(\\sqrt{D}\\) = kR1\\(\\sqrt{D_1}\\) =  R1\\(\\sqrt{D_2}\\)Rx\\(\\sqrt{D_x}\\) =   Ry\\(\\sqrt{D_y}\\)\\(\\frac{R_x}{R_y}\\) =  \\(\\frac{\\sqrt{D_y}}{\\sqrt{D_x}}\\)= \\(\\frac{\\sqrt{2}}{\\sqrt{0.5}}\\)= 2.0",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3dcc6d04-e905-4a7c-9a35-789bb2887c83",
+      "question_text": [
+        "The carbon atoms on ethane are"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "sp3 Hybridization ",
+        " Advanced Theories of Covalent Bonding"
+      ],
+      "explanation": "Alkane's family are sp3 hybridized",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sp2 hybridized",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sp3 hybridized",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "sp4 hybridized",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sp hybridized",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "83c60100-2fb6-48c6-a0b3-dbb28da5f4aa",
+      "question_text": [
+        "According to Charle's law, the volume of a gas becomes zero at"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Volume and Temperature: Charles’s Law ",
+        " Gases"
+      ],
+      "explanation": "Where −273°c = OKi.e −273°c + 273 = OKAt zero kelvin, the volume of a gas becomes zero.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "−100°c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "−273°c",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "−373°c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0°c",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42a7aad8-5da6-4af4-8864-960e8368e5a9",
+      "question_text": [
+        "An oxide XO2 has a vapour density of 32. What is the atomic mass of X?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Atomic Mass and Diameter ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "Molecular mass = vapour density X2Mm of XO2 = x + 16(2) = x + 32vapour density = 32∴    x + 32 = 32 × 2x + 32 = 64x = 64 - 32x = 32∴ the relative molecular mass of X is 32Relative molecular mass = vapour density × 2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7aebfb70-3083-416c-be56-c29ec56879f6",
+      "question_text": [
+        "CH2S(g) + O2(g) → 2Cn + SO2(g)What is the change in the oxidation number of copper in the reaction?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "In the reactant;Cu2S2 Cu - 2(1) = 02 Cu = 2Cu = \\(\\frac{2}{2}\\)Cu = +1In the product, CuCu = OThe oxidation number of Cu in Cu2S and Cu respectively is +1 and 0 respectively",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0 to + 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0 to + 1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C + 1 to 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "+ 2 to + 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "90ea7e18-e038-4014-b2e5-91b35fd58314",
+      "question_text": [
+        "In the diagram above. X is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Liquids and Solids"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem156.jpg",
+      "explanation": "The setup represents the production of sulfur dioxide. And the cylinder marked X is SO2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "SO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "H2S",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29d3566d-b56f-4c01-a590-48a1d4085d2d",
+      "question_text": [
+        "In the diagram above, Y is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "In the preparation of sulphur dioxide by the action of dilute acids on sulphates and bisulphites. conc H2SO4 helps to release SO2 from the mixture. The setup represents the production of sulphur dioxide",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "fused CaO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "H2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NaOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Concentrated H2SO4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "08a12020-0e54-450e-838d-6711ed39c699",
+      "question_text": [
+        "Calculate the mass of copper deposited when a current of 0.5 ampere was passed through a solution of copper(II) chloride for 45 minutes in an electrolytic cell. [Cu = 64, F = 96500Cmol-1]"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Electrolytic Cells ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "M = \\(\\frac{\\text{Molar mass × Quantity of Electricity}}{\\text{96500 × no of charge}}\\)= \\(\\frac{MmIT}{96500n}\\)Copper II Chloride = CuCl2CuCl2 → Cu2+ +  2Cl2Mass of compound deposited = \\(\\frac{\\text{Molar mass × Quantity of Electricity}}{\\text{96500 × no of charge}}\\)Q = ITI = 0.5AT = 45 × 60T = 2700sQ = 0.5 × 2700= 1350cMolarmass = 64gmol-1no of charge = + 2Mass = \\(\\frac{64 \\times 1350}{96500 \\times 2}\\)Mass = 0.448g",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.300g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.250g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.2242g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.448g",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "31915190-bdde-499f-9952-e5ed96dd2bcb",
+      "question_text": [
+        "C3H5 - COH3 =CH2The IUPAC nomenclature of the structure above is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Naming Alkenes ",
+        " Organic Molecules"
+      ],
+      "explanation": "CH2CH2 - CCH3CH2Start the numbering from the terminal carbon.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3-methybut-3-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2-methylbut-1-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2-ethylprop-1-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2-methylbut-2-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "93ac2a19-f9ca-42ea-b81f-2c278ce78782",
+      "question_text": [
+        "Tin is unaffected by air at ordinary temperature due to its"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Group 14 ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Tin has a melting point of 232° which enables it to be unaffected by air at ordinary temperature coupled with the fact that it also helps in making a good metal for alloying.Tin is relatively unaffected by both water and oxygen at room temperature due to its low melting point. It does not rust, corrode, or react in any other way. This explains one of its major uses: as a coating to protect other metals.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Low melting point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Weak electropositive character",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "High boiling point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "White lustrous appearance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e5e25ecd-c3d7-4895-9142-2bc15a85a338",
+      "question_text": [
+        "Calculate the amount in moles of silver deposited when 9650C of electricty is passed through a solution of silver salt [= 96500 Cmol-1]"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Electroplating ",
+        " Electrochemistry"
+      ],
+      "explanation": "m = \\(\\frac{Mm \\times Q}{96500n}\\)where Q = ITM = Mm × \\(\\frac{Q}{96500n}\\)where m = massMm = Molar massQ = Quantity of electricityn = number of change= +1\\(\\frac{M}{Mm}\\) = mole = \\(\\frac{mass}{Molarmass}\\)\\(\\frac{M}{Mm}\\) = \\(\\frac{Q}{96500n}\\)= \\(\\frac{9650}{96500n}\\) × 1= \\(\\frac{1}{10}\\) = 0.1mol",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10.80",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.10",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "07ba9464-100f-444c-9f3f-6baa60408309",
+      "question_text": [
+        "The reaction of halogens in the presence of sunlight is an example of"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Addition, Elimination and Substitution Reactions ",
+        " Organic Molecules"
+      ],
+      "explanation": "Alkanes undergoes substitution reaction and it is an example of halogenation substitution reaction.Reaction of halogen with alkane in the presence of sunlight (ultraviolet) is termed halogenation. Halogenation is an example of substitution reaction. In addition, alkanes only undergo substitution reaction but not addition reaction.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxidation reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "addition reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hydrogenation reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "substitution reaction",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "76ee33ad-cbf2-4c1f-b376-360b9584f11d",
+      "question_text": [
+        "The enzyme used in the hydrolysis of starch to dextrin and maltose is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Enzyme Structure and Function ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "This is any amylase or a mixture of amylases that converts starch to dextrin and maltose.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "amylase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "diastatse",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "invertase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "zymase",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "be8a3b1c-a9dc-416c-9dfb-29e6bb8100b2",
+      "question_text": [
+        "The alkyl group is represented by the general formula"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Alkyl Halides ",
+        " Organic Molecules"
+      ],
+      "explanation": "Alkyl group has the general formula CnH2n + 1.This formed when one hydrogen is removed from the alkane family. It has the general formula CnH2n + 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CnH2n",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CnH2n − 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CnH2n + 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "CnH2n + 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c255588-d5b9-40fe-8619-10e1e5e4e3de",
+      "question_text": [
+        "The ideal gas laws and equations are true for all gases at"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Ideal Gases and Non-Ideal Gases ",
+        " States of Matter"
+      ],
+      "explanation": "At high temperature and low pressure, the vanderwaal equation is reduced to ideal gas equation.i.e, [P + \\(\\frac{a}{v^2}\\)]  [v - b] = RT is reduced to PV = nRTGenerally, a gas behaves more like an ideal gas at higher temperature and lower pressure as the potential energy due to intermolecular forces, it becomes less significant compared with the particles kinetic energy and the size of the molecules, then it becomes less significant compared to the empty space between them.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "low pressures and lower temperatures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low temperatures and high pressures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high pressures and high temperatures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "low pressure and high temperatures",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1ee1d820-095c-406f-9504-357c600ab9f0",
+      "question_text": [
+        "When ΔH is negative, a reaction is said to be"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Exothermic and Endothermic Reactions ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "When ΔH is negative, heat is liberated to the surrounding and it connotes an exothermic reaction. ΔH = −ve",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "endothermic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "exothermic",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "reversible",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "166eef36-5b1a-465a-8355-5dec83660652",
+      "question_text": [
+        "\\(^{226}_{88}Ra\\) → \\(^x_{86}Rn\\) + alpha particle"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Rutherford’s Alpha-Particle Scattering ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "\\(^{226}_{88}Ra\\) → \\(^x_{86}Rn\\) + \\(^4_{2}He\\)\\(^4_{2}He\\) = alpha particleconsidering the summation of the mass number226 = x + 4x = 226 + 4x = 222",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "226",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "220",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "227",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "222",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b2978534-1de8-4bf0-a51a-4bf120b010c5",
+      "question_text": [
+        "The shape of ammonia molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Determining Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "Ammonia = NH3It has three bonds of hydrogen to the Nitrogen.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "trigonal planar",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "octahedral",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "square planar",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "tetrahedral",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "313b1539-2e09-44cb-89ec-21a265fc3e3d",
+      "question_text": [
+        "The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s is – (Ag = 108 F = 96500(mol-1)"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Isolation of Silver ",
+        " Transition Metals"
+      ],
+      "explanation": "Recall thatm = \\(\\frac{MmIt}{96500n}\\)Mm =108, t = 4830sI = 10A, n = 1m = 108 × 10 × (\\(\\frac{4830}{96500}\\)) × 1m = 54.0gMass deposited = Mm × \\(\\frac{It}{96500n}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "54.0g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "27.0g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "13.5g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "108.0g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e6bf19a-1211-4c2c-8217-d89357793d05",
+      "question_text": [
+        "An isomer of C5H12 is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Coordination Chemistry of Transition Metals ",
+        " Transition Metals"
+      ],
+      "explanation": "C5H12 has 5 carbons acid 12 hydrogens.2–methyl butane No of carbon=5 No of hydrogen=12",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2–ethyl butane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "butane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2–methyl butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2–methyl propane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd110c96-780b-4faf-a7e5-58d0c1a83e56",
+      "question_text": [
+        "When few drops of concentrated trioxonitrate(V) acid is added to an unknown sample and wanned an intense yellow colouration is observed. The likely functional group present in the sample is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Functional Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "Xanthopreitic test for the presence of protein, when conc nitric acid is added to the drop, an intense yellow colouration is observed.It contains all the functional group of protein which includes the amino, alkanol and the carboxylic group. Adding few drops of conc HNO3 to a protein, gives an intense yellow colouration.It is called Xanthopreitic test.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NH3—C—C=O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "CHO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CNH2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b66efc54-4d08-42e4-a499-45121fb4cc54",
+      "question_text": [
+        "A sample of orange juice is found to have a PH of 3.80. What is the concentration of the hydroxide ion in the juice?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Acid-Base Indicators ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "PH = - Log[ H+ ]PH + POH =14POH = 14 - 3.8POH = 10.2POH = - Log[ OH- ]10.2 = - Log[ OH- ]10-10.2 = [ OH- ][ OH- ] = 6.3 x 10-11",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.6 \\(\\times",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 10-4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.3 \\(\\times",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " 10-11C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95c74a07-af9a-4bbd-98dd-1eccfca3a7f1",
+      "question_text": [
+        "Incomplete oxidation of ethanol yields"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "C2H5OH → CH3CHO → CH3COOH Ethanol.....oxidation Ethanal........Ethanoic AcidPrimary alcohol oxidises to aldehyde and later to carboxylic acid. Secondary alcohol oxidises to ketones. Ethanol is an example of primary alcohol and primary alcohol can be oxidised to aldehyde and carboxylic acid. Wherein, incomplete oxidation of primary alcohol yields aldehyde also known as alkaline while complete oxidation of primary alcohol yields carboxylic acid.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CH3COOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CH3COCH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CH3CH2OCH2CH3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH2CHO",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3e6b9ec8-3837-4782-b4da-3dc7cd7d3f0d",
+      "question_text": [
+        "The salt formed from a weak acid and a strong base hydrolyzes in water to form"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Acid-Base Reactions Continued ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "This is a solution formed from the hydrolyses of an alkali in water.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A saturated solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an acidic solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a buffer solution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an alkaline solution",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d4f6e8b8-b004-4800-a592-651e40c744c1",
+      "question_text": [
+        "In the laboratory preparation of ethyl ethanoate, the water present in the mixture is removed using a solution of"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "General Lab Safety Rules ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "This is used in the preparation of ethyl ethanoate to remove the water present since it serves as a dehydrated agent.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an hydrous CaCl4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "concentrated NaCO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dilute NaOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "concentrated H4SO4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0c2704fa-bd4c-484b-8440-0ac232e91a3c",
+      "question_text": [
+        "The constituent of air necessary in the rusting process are"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Rate and Extent of Reaction ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "The constituent of air includes O2, CO2, N2 and Noble gases. While for a rusting process to take place, the presence of O2, H2O and CO2 is important.The constituent of air includes O2, CO2, N2 and Noble gases and for rusting process to take place.The presence of O2 and CO2 as a constituent of air is indispensable",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2 and H2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ar and CO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "CO2 and H2O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "O2 and CO2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f4610364-df07-4639-8977-ef6132d1fff8",
+      "question_text": [
+        "For a general equation of the nature xP + yQ → mR + nS, the expression for the equilibrium constant is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Calculations Involving Equilibrium Concentrations ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "Expression for equilibrium constantk = \\(\\frac{\\text{concentration of product}}{\\text{concentration of reactant}}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "k [P]x [Q]y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{[P]^x [Q]^y}{[R]^m [S]^n}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{[R]^m [S]^n}{[P]^x [Q]^y}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3295d40c-49eb-44fb-a032-767839a50b50",
+      "question_text": [
+        "A given mass of gas occupies 2dm3 at 300k. At what temperature will its volume be doubled, keeping the pressure constant?"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Pressure and Temperature: Amontons’s Law ",
+        " Gases"
+      ],
+      "explanation": "At constant pressure connotes Charle's law\\(\\frac{V_1}{T_1}\\) = \\(\\frac{V_2}{T_2}\\)\\(\\frac{2dm^3}{300k}\\)  = 2 x \\(\\frac{2dm^3}{T_2}\\)T2= 600k",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "400k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "480k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "550k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "600k",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2a4b1e12-e116-4409-bab2-0f0d0294c4d0",
+      "question_text": [
+        "The oxidation number of iodine in KIO3 is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "Oxidation number of \\(\\text{K}\\) is \\(=+1\\) while \\(\\text{O}=-2\\) \\(1+x+(-2 \\times 3)=0\\) \\(1+x-6=0\\) \\(1+x=6\\) \\(x=6-1\\) \\(x=5\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "+3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "+5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "+6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a190a89-37d0-4dc0-ad0d-3a581c972a93",
+      "question_text": [
+        "Aluminium hydroxide is used in the dyeing industry as a"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "Aluminium hydroxide is used in the dyeing industry as a mordant. It combines with a dye and thereby fixes it in a material.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dye",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dispersant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "salt",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "mordant",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f9c4efa7-8b37-4339-a46a-7de6d2afb1ff",
+      "question_text": [
+        "The tincture of iodine means iodine dissolved in"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "It is also called weak iodine solution. Tincture solutions are characterized by the presence of alcohol.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bromine chloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "chlorine water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c078355d-3028-4690-ab5a-e2b7277fdf08",
+      "question_text": [
+        "Temporary hard water is formed when rain water containing dissolved carbon(IV) oxide flows over deposits of"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Ions in Aqueous Solution ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "Permanent hardness in water= Mg & Ca Sulphate. Temporary hardness in water= Mg & Ca Carbonate.Temporary hardness of water is caused by Magnesium and calcium hydrogencarbonate. It is formed when rainwater containing dissolved CO2 flows over deposit of CaCO3i.e CaCO3 + CO2 + H2O → Ca(HCO3)2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CaCO3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na2SO4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CaSO4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "69e511b2-80b0-4cad-8f52-d0d7059f9e15",
+      "question_text": [
+        "The acid anhydride that will produce weak acid in water is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Salts of Weak Bases and Strong Acids ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "H2CO3 is an example of a weak acid while H2SO4 and HNO3 are examples of a strong acid.CO2 combines with water to give a weak trioxocarbonate (IV) acid.CO2 + H2O → H2CO3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "SO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "SO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CO2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ec112112-a9ee-4400-85a0-b0409b299bb3",
+      "question_text": [
+        "The process that occurs when two equivalent forms of a compound are in equilibrium is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Resonance ",
+        " Chemical Bonding"
+      ],
+      "explanation": "Resonance involves two forms of a compound. Isomerism involves two or more forms of an element. Reforming involves the rearrangement of molecule.This deals with a two forms of a molecule where the chemical connectivity is the same but the electrons are distributed differently around the structure.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Isotopy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Resonance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Reforming",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b9717016-141d-482a-a3a2-3a2dc83f3f68",
+      "question_text": [
+        "The general formula of alkanones is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "Alkanones also known as ketones have the general formula R2CO",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "RCHO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "R2CO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "RCOOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "RCOOR",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "301f6d38-b364-4c0b-8ef2-90fd6d630567",
+      "question_text": [
+        "The constituent common to duralumin and alnico is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Electrolytes ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Constituents of duralumin are: Al, Cu, Mg, Mn. Constituents of Alnico are: Al, Ni and CoIn 1909, the alloy of duralumin was discovered by Alfred Wilon consisting of 94% Al, 4% Cu, 1% Mg and 1% Mn(Manganese) Alnico is an acronym referring to a family of iron alloys which in addition to iron are composed primarily of Al, Ni and Co.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Co",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Mn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Al",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cf3fd8d5-f5b7-4b50-8790-e9d953f53f4f",
+      "question_text": [
+        "The shape of the S-orbital is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Molecular Shape ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "The shape of the S-orbital is spherical.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "elliptical",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "spiral",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "circular",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "spherical",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "be86674b-6238-4082-b74f-a8a807ecbd10",
+      "question_text": [
+        "The enzyme used in the hydrolysis of starch to dextrin and maltose is"
+      ],
+      "examType": "jamb",
+      "year": "2017",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Enzyme Structure and Function ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Zymase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Sucrase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Amylase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lactase",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

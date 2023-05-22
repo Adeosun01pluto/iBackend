@@ -1,0 +1,5325 @@
+
+[
+    {
+      "id": "022cff51-cbf2-4a0f-a262-9a27043b3fdf",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a360a589-7ee4-447c-bbf8-556e06904270",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "13f695a4-87f1-4fc6-b064-9ad422321f62",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ca6da2bc-9047-4408-bde1-05ef69927e72",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dff66951-96cc-4e71-ab22-447a50aafbf0",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "73ba7911-1709-419c-8b53-16a75b2e18ed",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "db7c64a3-5087-47b6-91d9-c28cb1bd2f67",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a165785-8c09-4cbd-a025-af466b877e36",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0bea6a88-e9c3-4fce-afd2-22a1ea2930fc",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c192fda-9fe8-4a29-bb66-51a049a2fa37",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d6d8c498-f37e-401d-8d98-85e2b98dd9b8",
+      "question_text": [
+        "A body of mass 12kg traveling at 4.2ms-1 collides with a second body of mass 18kg at rest. Calculate their common velocity if the two bodies coalesce after collision"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "Sum of momentum before collision M1 U1 + M2M212 x 4.2 + 18 x 012 x 4.2= 50.4Sum of momentum after collision (m1 + m2)v= (12 + 18)v= 30vV = 50.4/30= 1.7ms-1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.5 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.4 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.1 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.7 ms-1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b4412592-6d14-4902-a5cb-4fccbcb3e879",
+      "question_text": [
+        "The terminal velocity of a ball-bearing falling through a viscous fluid reached when the"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Motion of an Object in a Viscous Fluid ",
+        " Fluid Dynamics and Applications"
+      ],
+      "explanation": "At vt = terminal velocity = zero acceleration = uniform velocity",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "upthrust is equal to the weight of the ball",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ball accelerate uniformly",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "upthrustis equal to the velocity of the ball",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "velocity is uniform",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c2b21ba5-7ae0-4d12-85fd-d52efe9c9f29",
+      "question_text": [
+        "The pressure of two moles of an ideal gas at a temperature of 27oC and volume 10-2m3 is[R = 8.313 J mol-1K-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Ideal Gas Law Restated Using Moles ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "PV = nRT∴ P =nRT =2 x 8.313 x 300_V___10-2= 4.987 x 105 Nm-2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.99 x 105 Nm-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "9.80 x 103 Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.98 x 103 Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.80 x 105 Nm-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0f448dd7-500c-405b-9ad7-8977c0067ff7",
+      "question_text": [
+        "The value of x, y and z respectively in the expression MxLyTz for the universal gravitational constant G are"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Newton’s Universal Law of Gravitation ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "F ∝M1M2__r2=> F =GM1M2__r2where F is the force of attraction M1 and M2 are masses of the two bodies, r is the distance between them, and G is the universal gravitational constant ∴ G =_Fr2M1M2∴ dimension for force, F =ML = MLT-2T.TThe dimension for G =MLT-2L2 =L3T-2_MM_M= M-1L3T-2In comparison with MxLyTz, the values for x, y and z = -1, 3, -2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2, -3, -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1, 3, -2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 2, -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-2, -1, 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98e4b6be-86a4-433e-aab1-06e0ad183c2b",
+      "question_text": [
+        "When a pentavalent impurity is added to a pure semiconductor, it becomes"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "When a pentavalent (5 outer electron)atom is added to a pure semiconductor, there is an extra electrons which does not take part in the covalent bonding resulting in an n-type semiconductor.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a p-type semiconductor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an n-type semiconductor",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "an insulator",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an intrinsic semi-conductor",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "99ff42e8-91f7-40c1-97e5-1fea5b3cf726",
+      "question_text": [
+        "Cancerous cells can be destroyed by"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Solar Cells ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "Canorous cells can be destroyed with a high penetrating radiation which is x - rays",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ultraviolet rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alpha particules",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x - rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "infrared rays",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd0a53de-e930-450b-8a69-6e04f402420b",
+      "question_text": [
+        "If the decay constant of a radioactive substance is 0.231s1, the half-life is?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Half-Life and Activity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "Half-life, T (1)/2 = (0.693)/∆ = (0.693)/ 0.231 = 3.0sec",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.00 s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.12 s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.33 s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.50 s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "13653865-2422-4aa0-98ff-3e15e616463e",
+      "question_text": [
+        "A piece of radioactive material contains 1020 atoms.If the half life of the material is 20 seconds, the number of disintegration in the first second is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Half-Life ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "The number of disintegration,∆N in time interval At, is given by - ∆N = N∆tWhere N is the number of atoms present at the time t But ^ = (0.693)/T∴ ∆N = (0.693)/1(1)/2 N∆t = (0.693 x 10)20 x 10/20 = 3.47 x 1018",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.47 x 1018",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.93 x 10 20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.47 x 1020",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.93 x 1018",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f7d47f8b-d3ab-452c-9a5d-78d40c54578e",
+      "question_text": [
+        "Thermionic emission is the process whereby"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Emission and Absorption Spectra ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "Thermionic emission is ejection of electron from a metal surface as a result of heating.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "β - rays are produced",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "holes are produced",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x - rays are produced",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "electrons leave a hot element",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "76de4768-2dd3-4f89-bf85-df15a2fdb227",
+      "question_text": [
+        "Which of the following can conduct electricity owing to the presence of free mobile electrons?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Metals are good conductors due to the presence of free electrons",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "germanium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "silicon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "grapefruit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "copper",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c7678f33-a73a-426f-ac57-5104f80869c9",
+      "question_text": [
+        "The ability of the human eye to focus object on the retina is referred to as the power of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Physics of the Eye ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "The leaves collapse as the position charges on the rod neutralize the negative charges on the electroscope",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "interference",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "diffraction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "accomodation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "superposition",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da123242-7ef5-42ce-9cc0-57db27de458a",
+      "question_text": [
+        "Which of the following is a secondary colour"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Transformers ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "Primary colours are red, blue and green ∴ orange is a secondary colour",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "green",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53293d57-4c66-47fb-8aef-c0d91925c36a",
+      "question_text": [
+        "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Charging by Contact ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "The leaves collapse as the positive charges on the rod neutralize the negative charges on the electroscope.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "close up",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "become positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "become negatively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "open further",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eae28ceb-865a-4848-81af-0d7cd1e2b40a",
+      "question_text": [
+        "An electric lamp marked 240v, 60 W is left to operate for an hour. How much energy is generated by the filament?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Energy generated = power X time  = 60w x 1h = 60 x 60 x 60 ws = 216000j = 2.16 x 105J",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.86 x 105J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.56 x 105J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.80 x 104J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.16 x 105J",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "90daf6a6-019d-44b7-b996-8e40c44644ad",
+      "question_text": [
+        "A band of 500 rectangular loops of wire of area 20 cm by 20 cm, encloses a region of magnetic field which charges from 1.0T to 0.4T within 5 seconds, calculate the induced e.m.f."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Faraday’s Law of Electromagnetic Induction ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "Number of tunes, n = 500Area, A = 0.2m + 0.2m = 0.4m2change of flux density A B = 1.0 - 0.4 = 0.6TTune, t = 5 su Induced emf, ξ = (AB AN)/AT(0.6 x 0. 04 x 500)/5= 2.4v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.60 v",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24.00 v",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.24 v",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.40 v",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "44dd9216-6a12-4813-9db5-970d39e0a993",
+      "question_text": [
+        "I. Moon.II. Sun.III.street light.IV. stars.Which of these above is a natural source of light?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Light Rays ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "The sun and stars are self luminous object.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "II, III, and IV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I, II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "III and IV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "II and IV only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dad98c76-9290-42cc-82db-92c101a66a28",
+      "question_text": [
+        "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "u = 5 cm , f = 10 cm, v = ?(1)/v + (1)/u = (1)/f(1)/v + (1)/5 = (1)/10 = (1)/v = (1)/10 = (1)/5 = (1 - 2)/10 = (1)/10 ∴ v = - 10 cm  ∴ The image is 10 cm behind the mirror",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 cm in front of the mirror.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 cm in front of the mirror",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 cm behind the mirror",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "5 cm behind the mirror",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27ac5054-505e-4abd-8bc9-2617990fc869",
+      "question_text": [
+        "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "f = -12 cm, v = - 6 cm(1)/v + (1)/u =(1)/f(1)/-6 + (1)/u = (1)/-12(1)/u = (1)/-12 + (1)/6 = (1 + 2)/12 = (1)/12 ∴ u = 12 cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4. 0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3. 0 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12.0 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "9.0 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e99b0e33-f5c6-4bf9-a203-7c01a3b381b8",
+      "question_text": [
+        "If the refractive index of crown glass is 1.51, its critical angel is."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Refractive Index ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "Sin c = (1)/n= (1)/1.51 = 0.6622∴ c = sin +0.6622 = 41.47",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "48.6°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "22.5°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "41.5°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "45.0°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c7990ac8-0e80-4fc4-9b42-d8d0abe244c8",
+      "question_text": [
+        "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing the Law of Refraction ",
+        " Geometric Optics"
+      ],
+      "explanation": "Since 1.51, the refractive index of X is greater than 1.33, the refractive index of y, the speed of light in y is higher than that in X",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x is same as in y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x and y is same as in vacuum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x is higher than in y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y is higher than in x",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1310044b-075e-4e08-9095-24bd357ba122",
+      "question_text": [
+        "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. the time required to boil of the water is_______[Special latent heat of Vaporization of water = 2.3 x 106 Jkg-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Phase Change and Latent Heat ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Heat supplied = Heat gained pt = mlT = (ml)/p = (2 x 2.3 x 106)/1000 = 4.6 x 103 sec",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.15 x 104s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.15 x 103s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.6 x 104s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.6 x 103s",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "34f5f9c1-bddc-444f-a4fe-bbf0155fc019",
+      "question_text": [
+        "It is observed that water will wet a clean glass because the"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "When the adhesion of liquid molecules to the glass is more than the cohesion of the liquid, the liquid will wet glass.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cohesion of water to glass is stronger than the cohesion of water molecules",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "adhesion of water molecules is weaker than the cohesion of water to glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cohesion of water to glass is weaker than the cohesion of water molecules",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "adhesion of water molecules is stronger than the cohesion of water molecules",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bc5ae7e6-6e3f-4912-a83c-2b53b86c1703",
+      "question_text": [
+        "A man standing 2 m from a charcoal fire is warmed mainly by"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Radiation Detection and Detectors ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "Radiation is the method of heat transfer without any unit ervening venue",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "convection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "radiation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "conduction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3dff6506-e271-4450-afd9-8f5cccfbd33a",
+      "question_text": [
+        "Metal cables are used as telephone wires because"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Sound Waves ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "The speed of sound is highest in solid, being about 500, units in steel rod",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "they are cheap",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "they are sourced locally",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the speed of sound in them is very low",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the speed of sound in them is very high",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8f632cbd-db4a-438d-b718-12538365d548",
+      "question_text": [
+        "Musical instruments playing the same note can be distinguished from one another owing to the differences in their"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Introduction to Vision and Optical Instruments ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "The quality of a note is a characteristic that distinguishes it from note of the same frequency played by another musical instrument.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "quality",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "pitch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "intensity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "loudness",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9336d290-9b0c-47e5-8afa-ce39a1368640",
+      "question_text": [
+        "A plastic sphere floats in water with 50% of its volume submerged. if it floats in glycerine with 40% of its volume submerged,the density of the glycerine is?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Density and Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "Weight of glycerine displaced = weight of water dispalcedMgh glycerine  = Mgh waterPvgh glycerine = Pvgh water0.4V P glycerine = (0.5v)/v.4v P water = 1.25(Polycerine)/p water = But density of substance = relative density x density of water = 1. 25 x 1000kgm3 = 1250kgm-3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1400 kgm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1250 kgm-3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "500 kgm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1000 kgm-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7fced7fe-c699-4201-bac4-dcffefa002dc",
+      "question_text": [
+        "The thermometer whose reading is indicated by a change in colour of its thermometric property is the?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Optical Density ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "A pyrometer is instrument for measuring high temperature.The optical pyrometer is one in which the luminous radiation from the hot body is compared with that from a known source.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bi-metalic strip thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "thermocouple",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "platinium resistance thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "optical pyrometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1deaac79-32b6-4547-9aae-f44904448495",
+      "question_text": [
+        "At 4°c, the volume of a fixed mass of water is?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Momentum ",
+        " Momentum and Impulse"
+      ],
+      "explanation": "Anomalous expansion of water is at temperature ranges 0°c to 4°c u. water contract when heated from 0°c to 4°c. thus the volume of water is least at 4°c",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "minimum",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "maximum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b76273d8-0f48-4393-8e9e-349dc30f5c32",
+      "question_text": [
+        "An electric heater rated 220v, 1000 w is immersed into a bucket full of water, calculate the mass of water if the temperature changes from 30°c to 100°c and the current flows for 300seconds.[specific heat capacity of water = 4200 jkg-1 K-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Energy supplied bythe heater = heater gained by water pt = MCAθ 1000 x 300 = m x 4200(100 - 30)m = (1000 x 300)/4200 x 70 = 1.02 kg",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.28 kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "42.86 kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.02 kg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.14 kg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5eafbee-f76a-49ab-8a11-fa999854cc22",
+      "question_text": [
+        "If the pressure of the vapour on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Phase Changes ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Liquid boils when its sup. is equal to the atmospheric pressure.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "room temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "boiling point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "freezing point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "standard temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "32caf023-d4d0-4762-8b6b-6334129f9a2d",
+      "question_text": [
+        "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 ms2]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "What is Power? ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Power = (work done)/time taken = (mgh)/t = (750 x 10 x 90)/60 = 11250w = 11.25kw",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11.50 kw",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12.60 kw",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11.25 kw",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "12.10 kw",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c8ccbb2-4ccf-4dd6-b050-4941b98a3b47",
+      "question_text": [
+        "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction.[g = 10 ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "More Static Friction Examples ",
+        " Newton's Laws"
+      ],
+      "explanation": "coefficient of friction = (F)/R = (F)/ mg = (500)/80 x 10= 0.625",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ca133d7c-aace-4988-b5e8-3ea55930a288",
+      "question_text": [
+        "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal. its velocity ratio will be"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Resolving Forces Into Components ",
+        " Newton's Laws"
+      ],
+      "explanation": "V.R = (1)/sinθ = (1)/sin 30 = (1)/(1)/2 = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.0",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e73dbfd8-4f78-4ac5-b66d-2db3adf998a9",
+      "question_text": [
+        "I. Density of the liquid.II. Acceleration due to gravity.III. Type of container of the liquid.IV. The constituents of the liquid.Which of the above conditions will NOT affect the pressure of fluid?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Vapor Pressure, Partial Pressure, and Dalton’s Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "pressure in fluid is given by P = hlg.∴ fluid pressure depends on height of liquid column, h, density of liquid p and acceleration of free fall 8. it is therefore independent of type of container and constituents of the liquid",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "III and IV only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27ca4924-1b1e-4adf-a8bc-b7303dfc7ea0",
+      "question_text": [
+        "If a load of mass 10N stretched a cord by 1.2cm, what is the total work done?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "How the Work-Energy Theorem Applies ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Work done on a stretched cord = Average force x extension = (10 + 0)/2 x 1.2 x 10-2= 6.0 x 10-2J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.0 x 10-2J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.6 x 10-2J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.8 x 10-2J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.6 x 10-2J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c85775f-68fa-405b-b500-b5d8a256776e",
+      "question_text": [
+        "I. Diameter of a small ball bearing.II. Thickness of a pieces of paper.III. Diameter of a measuring cylinder.IV. Length of a piece of wire.Which of the above can be measured using a micrometer screw gauge?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Material and Shape Dependence of Resistance ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Of all the instruments used in measuring length,the micrometer screw gauge has the highest reading accuracy (0.01 mm), and is therefore used in measuring very small length such as diameter of a small ball bearing, and thickness of a piece of paper.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I, II and IV only .",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and II only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "III and IV only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0fb9a0cd-55a4-404b-be27-02564e28d5fe",
+      "question_text": [
+        "What is the acceleration between two points on a velocity time graph which has coordinates(10s, 15 ms-1)And (20 s, 35 ms-1)?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Describing Projectile Motion ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "Acceleration = (AV)/At = (V2) - U1)/t2 - t1 = (35 - 15)/20 - 10 = (20)/10 = 2m5-2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.7 ms-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.50 ms-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00 ms-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.00 ms-2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "87c09909-4a10-4102-be17-f4478b7436f7",
+      "question_text": [
+        "A bullet fired vertically from upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0s. calculate its initial velocity.[g = 10ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Height of a Projectile Example ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "At maximum height, the final velocity, v = 0thus from v = u + at  0 = u - at  ∴ U = at = 10 x 4 = 40 mls",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "40 ms-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "20 ms-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "88ad930c-c55c-4e47-a1c1-884c1a1324aa",
+      "question_text": [
+        "I. The motion of the tyres of a moving car.II. The motion of a loaded test tube oscillated vertically.III. The beating of the heart.IV. A stone tied to a string and whirled round.V. The motion of the pistons in a gasoline engine.Which of the motions above is simple harmonic?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summarizing Simple Harmonic Motion ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Simple harmonic motion is the motion of a body whose acceleration is directed towards a fixed point and is directly proportional to its displacement from point.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "III, IV and V only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II, III and V only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "II, III and IV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I,II and III only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "83e73adc-736f-42e7-bde6-2ec2a0e988bf",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b68f7015-90df-46eb-801e-1f64d4c949fe",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1a6f7f0e-f946-44bb-ac73-8ad91655ec65",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bf6cfd6c-3a8e-4234-bd14-56d74a8e1f4b",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da4fb8e9-ddeb-4a93-a577-68c14d0225ce",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40a7642b-a15c-409b-92b1-2a96143f243a",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b64a15a-2e21-4aab-93fb-4fca0d0c6c27",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cee65317-98c5-40d6-ada7-98604d4aec78",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ede7f86e-fda4-453c-a006-fe93f2659227",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8029049a-9aee-499a-bd0f-eb7459a1d635",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "903864fb-7f37-471d-b840-2dbf7721a228",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "841afb3e-7421-4c85-8c4f-ae926d5aaa46",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78fb84ce-5381-40d9-8fc4-8271ebe45b8e",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f48157c3-c6f1-4451-bd70-5214d403cf6a",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f34a4205-9d74-4317-b62b-55e500bba50c",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "81d0ef22-9f3c-4f1f-822b-c132031e71fb",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e6caa29-c8e2-459d-bd06-413181233457",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a08b7442-d85b-4b46-add1-a0947ca6b136",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7b05f502-b5da-4bb5-ac5d-35c16f6f8dcb",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6803048d-3097-4fb4-ac00-e5769f1e083e",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2eb23a06-7451-443b-86bd-71b5302cc207",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2aecdc9-bfbe-4204-b05b-5f2fcca52447",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79f61be8-9c53-4819-8854-ebb45224458f",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "529b002d-6e10-4e5c-b20e-8ca105ca065e",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "818ca97f-b595-4bde-9b76-8cc0df81df2d",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b634aa49-fdf5-4e79-ae4d-8aacd1f0b8a9",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef5d863f-655b-478e-95e2-1172406eff4c",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a2d972a-450e-4e4c-9c6a-8dcb871db263",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "12bf57b5-ad92-4e97-8182-a80b16a90942",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8407972d-1152-4920-a854-85f619b3cbe5",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f8e59c59-e55f-4551-9fa5-d1ecb30da633",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "504b207e-174e-4b4e-bf28-1110a1176922",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "efd64b65-dfee-4215-836e-849321c19050",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9def932f-e6de-47e5-8bc8-c7487f393c1f",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce407d0f-156d-41ab-91bb-fde57efc10aa",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee900a80-f441-4649-8068-2bd9381fff11",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0a4b1936-99c0-4f0b-92c8-008cee0136d7",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b3d1f69-8c87-4820-a40a-e2ff549c48ac",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3de99171-a49a-4b84-84bf-bec3a671926e",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ffd25c4f-6831-4a27-8f88-bcca0fbcd727",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d0046c4a-370a-4c96-adfd-0726820a3ba5",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e72c889c-e9db-46f8-b083-0bfb191b1ae7",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3275fdf3-8ffa-4b96-be3c-131f6d133642",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "145a4d26-f5e9-4c9f-8492-7a5c4b0a1d4f",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "913cf556-18f5-4bfe-aace-b1e5cdd6545c",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fbde6bf1-c519-4820-8b6c-a15c384b1a05",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dbba14b2-6b96-4a0c-a328-0a4c8313814d",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "229ec4ef-336d-4664-b15b-81e2a12ccb95",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "62b0e0f4-ccd3-4125-8e7c-0ebe12aa072d",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0196b131-890d-4d11-9e70-e1c223639333",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "891733a9-8987-4f05-806b-962f93fcb660",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "841382d7-5825-4c25-8913-1aa6f5421b7e",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "761f609e-32d6-4f2a-87f1-e207b4915222",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "67943cda-3e37-4f8f-9858-3fbf53334d6d",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5564274c-aca4-482c-9ffe-dced02b140eb",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a564ea8f-0983-49df-81bf-2fe7cb6387de",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1646781a-c9f4-4c0d-93e1-fda364a8df6f",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ac80db4-35f0-4504-a213-6dc3b70e03fe",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "935c7983-7b2f-413c-9913-607c6d4d2e6c",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26d87392-3349-48af-90c9-2b89931d890d",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "11",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3b8eb1bd-35e1-463b-9171-22d5584fb7c2",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d135751-4789-4606-a81d-2af983a99066",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0761eae5-7040-4ef1-93e8-8253fccc46b8",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8dac3969-5465-4252-9ec9-c7f8d5c09488",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bdc815f7-0b8f-4317-b490-04baca24a8a2",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16b6797d-a983-479b-8cd9-0ed3d8d5b18e",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d936f48-46f2-4a7f-a754-39618ae0f1a3",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8dff1c9d-c31d-4fa0-8657-1feb0dd8176d",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "da5e3489-e62e-42fc-ba5c-7c772d0115a8",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ad47d02-5de7-4dcf-a982-00c635d5f6f3",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "12",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "06821b7e-9e4e-4f1f-a6a4-b09ea386dd9c",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "105964c1-1e64-4188-9596-c1ad44242252",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "294212c8-3cc8-40ac-994e-f57b05b2b9bd",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "65819c1b-9b03-4fd9-846c-9927e7ae1dda",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e5990d36-0f4b-429b-bf1d-eed07fdd3e51",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a8d621f-5a43-49ec-8ddb-8336f302cd63",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "17e30303-2047-46ed-84d0-dbf5ae52133d",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ccf2c83f-9568-44db-bbc0-ccdf90216819",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f1e9e0b0-a125-4440-a975-9a8f3102eb82",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "97916fa1-2dd2-46b0-b6a8-f8b3f548f0f4",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "13",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8963ad4f-a339-4e82-a6c3-7f9f4d472a88",
+      "question_text": [
+        "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\\\text{With } y = a \\text{Sin }(net - kx)\\\\K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\\\text{But} \\pi rad = 180^0 \\\\\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\=8.1^0 \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "450",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1800E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b8f86637-4590-42c3-8ea4-da6067933e5d",
+      "question_text": [
+        "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Image Formation by Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\\\text{therefore } u = 10cm = 0.1m \\)",
+      "explanationMsg": "The correct answer is E.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.000m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.125m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.100mE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd7860f6-765d-48f2-8aea-63c9cfe371be",
+      "question_text": [
+        "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8a4859a6-07b3-4aaf-bdeb-c039890b3386",
+      "question_text": [
+        "The wave phenomenon demonstrated in the diagram above is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Introducing Electromagnetic Waves"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy188.jpg",
+      "explanation": "Diffraction is spreading of wave after passing through a slit",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "reflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "deflection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "diffraction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "refraction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e332fc7e-1c3a-432e-9976-858b3630dfba",
+      "question_text": [
+        "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy187.jpg",
+      "explanation": "F = Ke (Hooks law)K = F/e = 80/4= 20 Nm-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30 Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10 Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78daff8c-f078-4ad4-9ce6-ecf1eb94c072",
+      "question_text": [
+        "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?[c = 3 x 108 ms-1]"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing the Wave Aspect of Light ",
+        " Wave Optics"
+      ],
+      "explanation": "f = c/λ ∴ f =c =3 x 108λ500 x 109=6.0  x 1014 Hz",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.0 x 1014 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 1014 Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 1012 Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5 x 1014 Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "59c8a1b2-7bda-4c63-b800-4dfaee2ed2e9",
+      "question_text": [
+        "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible."
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy186.jpg",
+      "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6∴ R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8 V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36 V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "284b34ff-76f2-4a7a-948a-9e7396a6dc60",
+      "question_text": [
+        "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Electric Potential Energy: Potential Difference ",
+        " Electric Potential and Electric Field"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy185.jpg",
+      "explanation": "V = √ (v1 + v2)2 + VR2 V = √ (40 + 110)2 + 802 V = √ (-70)2 + 802  = √ 4900 + 6400  = √ 11300 = 106.3v",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "116.3 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230.0 V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "106.3 V",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4859dec6-cde7-4596-9c31-9a9dfdace716",
+      "question_text": [
+        "An air craft attempt too fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Resolving a Vector Into Components ",
+        " Two-Dimensional Kinematics"
+      ],
+      "explanation": "R2 = 1002 + 60210000 + 3600 = 13600R = √13600 = 117km60kml & = tan = 60/100tan-1 0.6= 31o west of the North 117km N31ow",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "117 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "127 kmh-1, N31oE",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "117 kmh-1, N31oW",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "127 kmh-1, N31oW",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "13b6c0e6-0c51-409e-8657-9a4cd6435e4e",
+      "question_text": [
+        "A car accelerate uniformly from rest at 4 ms-2. How far will it travel in the fifth complete second?"
+      ],
+      "examType": "jamb",
+      "year": "2009",
+      "subject": "physics",
+      "pageNum": "14",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds  = 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "18 m",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]

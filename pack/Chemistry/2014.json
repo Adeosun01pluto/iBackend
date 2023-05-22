@@ -1,0 +1,3745 @@
+
+[
+    {
+      "id": "3b5471f9-0375-4ecd-aacb-da9ed2ecfbba",
+      "question_text": [
+        "Z in diagram above represents"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Calorimetry ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem143.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "heat of reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "free energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "entropy of reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1ad3a456-9b7f-4955-a124-6de752b51030",
+      "question_text": [
+        "In the diagram, the function of the concentrated H2SO4 is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purify the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dry the gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "liquefty the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "remove odour",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98223416-6c2f-434c-8efa-2e5d04e83e64",
+      "question_text": [
+        "The gas that is removed by the water in the flask is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Titration Experiments ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HCI.",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "H2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d282a635-328a-44fe-afc2-d2176aed5427",
+      "question_text": [
+        "The petroleum fraction that is used in heating furnaces in industries is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Distillation of Solutions ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diesel oil",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "gasoline",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lubricating oil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "241527b4-68c6-49dc-a203-4db3517792b1",
+      "question_text": [
+        "The polymer used in making car rear lights is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "What is a polymer? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "perspex",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bakeelite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polystyrene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyacrylonitrile",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a41e5b9d-5edf-4507-aeaf-0bf42c68e064",
+      "question_text": [
+        "CH3COOC2H5(1) + H2O(1) ⇌ CH 3COOH (aq) + C 2H 5OH (aq)The purpose of H+ in the reaction above is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the yield of products",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maintain the solution at a constant PH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the rate of the hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "decrease the rate of the reverse reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4be37678-0237-40d3-bd4c-44a845937116",
+      "question_text": [
+        "A hydrocarbon has an empirical formula CH and a vapour density of 39. Determine its molecular formula.[C = 12, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "molecular mass = 2 x vapour density = 2 x 39 = 79∴ Cn Hn = 7812n + 1n = 7813n = 78n = \\(\\frac{78}{13}\\) = 6∴ Cn Hn = C 6H 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C2H6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C3H4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8a4036b5-b745-4b51-9322-f40740467689",
+      "question_text": [
+        "Polystyrene is widely used as packaging materials for fragile objects during transportation because of its"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Materials ",
+        " Classification of Matter"
+      ],
+      "explanation": "EPS is known as one of the world’s most effective and lightweight insulation and packaging materials. It has low thermal conductivity and is moisture resistant, so it is often used as insulation against changing temperatures. Its high compressive strength gives it excellent shock absorption properties, making it an efficient packaging material.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ligjtness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "high compressibility",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e777360a-c481-472b-ae9c-602c52fe7ca8",
+      "question_text": [
+        "The process of converting linear alkanes to branched chain and cyclic hydrocarbons by heating in the presence of a catalyst to improve the quality of petrol is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "refining",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "craching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reforming",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "blending",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d05e7a7-f697-4ffd-b5ed-d937ca92492f",
+      "question_text": [
+        "The alkanol obtained from the production of soap is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "glycerol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "methanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "07e9906b-484c-4c0d-8cfd-bacbd5ef6fe0",
+      "question_text": [
+        "Ethyne is passed through a hot tube containing organo-nickel catalyst to produce"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Effect of a Catalyst on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "isoprene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "polythene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "benzene",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "379c82f2-14da-4a20-b6d8-511ebcd06666",
+      "question_text": [
+        "Due to the unstable nature of ethyne, it is stored by dissolving in"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "The Chemical Nature of the Reacting Substances ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethane-1,2-diol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "propanone",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "665a5766-50c0-49c7-8b3f-acd622abad1c",
+      "question_text": [
+        "The process of converting starch to ethanol is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Carbohydrate Molecules ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cracking",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fermentation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "oxidation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42a2f172-70de-4593-91b3-ade97bda7ed0",
+      "question_text": [
+        "Fluorine does not occur in the free state in nature because"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Free Energy ",
+        " Thermodynamics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it is a poisonous gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "it belongs to the halogen family",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "it is inert",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "of its high reactivity",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d4aee9f1-8bb5-458d-b611-6ea0dee436bc",
+      "question_text": [
+        "In the extraction of sodium from fused sodium chloride, the anode is made of platinum because"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Redox Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "Platinum is used at the anode  because the chlorine gas liberated at the anode will not attach Platinum but will react or attach steel at the cathode",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium is formed at the anode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine is formed at the anode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium does not react with platinum",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "chlorine does not react with platinum",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e5fb45ff-3008-47f7-8ef6-0d024b4f95a7",
+      "question_text": [
+        "In the electrolytic extraction of cacium from calcium chloride, the cathode is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Introducing Electrolysis ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "graphite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "platinum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "iron",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a97d7847-0194-4b63-8cdb-f7786201fdb2",
+      "question_text": [
+        "A compound that gives a brick-red colour to a non-luminous flame is likely to contain"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Importance of Understanding Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "copper ions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sodium ions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "calcium ions",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "aluminium ions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b804e27-2574-4b8d-86a6-47e08178bddb",
+      "question_text": [
+        "A few drops of NaOH solution was added to an unknown salt forming a white precipitate which is insoluble in excess solution. The cation likely present is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Equilibrium in a Solution of a Salt of a Weak Acid and a Weak Base ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Zn2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Pb2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ca2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Al3+",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1ebd77c-f78a-4e5d-8877-3e3ffb0aa9d9",
+      "question_text": [
+        "In an equilibrium reaction, which of the following conditions indicates that maximum yield of the product will be obtained?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Calculations Involving Equilibrium Concentrations ",
+        " Fundamental Equilibrium Concepts"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Equilibrium constant is very large",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "∆H - T∆S = O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "∆ H > T ∆ S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Equilibrium constant is less than zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5dde2043-675d-440c-9883-b88a376b584d",
+      "question_text": [
+        "In a chemical reaction, the change in concentration of a reactant with time is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Chemical Reaction Rates ",
+        " Chemical Kinetics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "entropy of reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "enthalpy of reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "rate of reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "order of reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "87f127e1-8843-425f-9259-8a902c336e24",
+      "question_text": [
+        "Cr2O\\(\\frac{2 -}{7}\\) (aq) + H2O(1)⇌ 2CrO \\(\\frac{2 -}{4}\\) (aq) + 2H + (aq)What happens to the reaction above when the hydrogen ion concentration is increased?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Ion Exchange Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "more of the products will be formed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the reaction will not proceed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the equilibrium position will shift to the right",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the equilibrium position will shift to the left.",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4876ca79-3ca9-40b5-90d1-61f95daf9ffb",
+      "question_text": [
+        "Which of the following will shift to the left from dilute tetraoxosulphate (VI) acid?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Lead",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Magnesium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cpper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Gold",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d83b2d2-f542-44cf-963f-2c2ed99556c7",
+      "question_text": [
+        "The gas that is removed by the water in the flask is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Titration Experiments ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HCI",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "H 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fcbf5a17-9f1a-465a-8b81-55c7738a8ad6",
+      "question_text": [
+        "Zn (s) + CuSO 4(aq) → ZnSO 4(aq) + Cu (s)In the reaction above, the oxidation number of the reducing agent changes from"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Describing Redox Reactions ",
+        " Chemical Reactions and Stoichiometry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0 to + 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0 to + 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "+ 1 to + 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "+ 1 to + 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c0eff9cb-f4e2-415a-8c2c-e19544b0dd7c",
+      "question_text": [
+        "H 2O (g) + C (s) → H2(g) + CO(g)The oxidizing agent in the reaction above is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Properties of the Halogens ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CO(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "851a719b-3e12-40bc-9d6b-3d4e3fd63e03",
+      "question_text": [
+        "Calculate the quantity of electricity in coulombs required to liberate 10g of copper from a copper compound[Cu=64, F = 96500 Cmol-1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Isolation of Copper ",
+        " Transition Metals"
+      ],
+      "explanation": "Cu → Cu2++ 2e 64g Cu requires 2 x 96500 coloumbs 10g Cu requires x columbsx = 10x2x96500/64 =30156.3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "32395.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30156.3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "60784.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15196.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c52f556-8d76-484a-a159-436c62c8bae1",
+      "question_text": [
+        "How many faraday of electricity is required to produce 0.25 mole of copper?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Quantitative Aspects of Electrolysis ",
+        " Electrochemistry"
+      ],
+      "explanation": "Cu → Cu2+ + 2e1mole Cu requires 2f0.25 mole Cu requires xx = 0.25x2/1 = 0.50f",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.00F",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01F",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.05F",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.50F",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8ae5a5d7-b845-419b-9099-6eb49684fe5e",
+      "question_text": [
+        "If the change in free energy of a system is -899 Jmol-1 and the entropy change is 10Jmol-1k-1 at 250C, calculate the enthalpy change."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Free Energy ",
+        " Thermodynamics"
+      ],
+      "explanation": "∆G = ∆H - T∆S -899 = ∆H - 2980 ∆H = -899 + 2980 = + 2081 Jmol-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+2081 Jmol-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2081 Jmol-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-649 Jmol-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "+649 Jmol-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ccf6229b-e00f-44f1-bfc3-aa9e3aa130f9",
+      "question_text": [
+        "The major and most effective way of controlling pollution is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Photochemical Smog ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "improve machinery so that the substances released from combustion are less harmful",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "pass strict laws against it by individuals and companies",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "educate people on the causes and effects of pollution",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "convert chemical wastes to harmless substances before releasing them into the environment",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "106dca65-067e-41fd-be79-5e06e8cbef33",
+      "question_text": [
+        "The colour of litmus in a neutral medium is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Gels ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purple",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "pink",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "orange",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8fe57201-1220-4b32-9a87-4992ab9c5940",
+      "question_text": [
+        "The mathematical expression of PH is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "pH Calculations ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "log 10[OH-]",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "log 101/[H 3 O+]",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "log 10[H 3 O+]",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "log 101/[OH -]",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "81fe5e20-f736-4aa8-b1a1-679f58ae0dba",
+      "question_text": [
+        "Which of the following salts will turn blue litmus red?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Potash ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Sodium tetrahydroxozincate (l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Potassium hydrogentetraoxosulphate (l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "31f8245b-bb37-4fff-b63f-e9ad4d235eb1",
+      "question_text": [
+        "The nitrogen obtained from air has a density higher than the one from nitrogen-containing compounds because the one from air is contaminated with"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Occurrence, Preparation, and Properties of Nitrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water vapour",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "oxgyen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "rare gases",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "carbon (IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7acdf692-a3ca-45de-886b-275a1aabf4b3",
+      "question_text": [
+        "Water is said to be temporarily hard when it contains"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Chemical Symbols and Isotopes ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ca (HCO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2 and Mg (HCO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 salts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ca (HCO3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b9b62ee-efef-4c1a-a84d-0f7912e40fdc",
+      "question_text": [
+        "On exposure to the atmosphere, a hydrated salt loses its water of crystallization to become anhydrous. This phenomenon is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Ionization of Hydrated Metal Ions ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "efflorescence",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "diliquescence",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "hygroscopy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrolysis",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28053e90-d4f1-47ae-9c7b-1ef249c2e801",
+      "question_text": [
+        "16.55g of lead (ll) trioxonitrate (V) was dissolved in 100g of distilled water at 20oC, calculate the solubility of the solute in moldm-3[Pb = 207, N = 14, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "molar mass of pb (N0 3) 2 = 331Mole = \\(\\frac{16.55}{331}\\)= 0.05 mole∴0.05mole pb (No3)2 dissolved in 1000g H2O x = \\(\\frac{0.05x1000}{100}\\)= 0.05 mole /dm 3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05 g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.00 g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.00 g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "none of the above",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b01a9c06-9efe-4632-a5ad-675a94ff9171",
+      "question_text": [
+        "The dispersion of a liquid in a liquid medium will give"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Colloids ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an emulsion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "a fog",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a gel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an aerosol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22c1db67-dbbc-4111-8a3e-82f55129e01f",
+      "question_text": [
+        "Beryllium and aluminium have similar properties because they"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Extraction of Aluminium ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "At the beginning of periods 2 and 3 of the Periodic Table, there are several cases where an element at the top of one group has some similarities with an element in the next group.For example, boron is a non-metal with some properties rather like silicon. Unlike the rest of Group 2, beryllium has some properties resembling aluminium. And lithium has some properties which differ from the other elements in Group 1, and in some ways resembles magnesium.There is said to be a diagonal relationship between these elements.There are several reasons for this, but each depends on the way atomic properties like electronegativity vary around the Periodic Table.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "are both metals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "belong to the same group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "belong to the same period",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "are positioned diagonally to each other",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4b7d35d4-c33b-435b-8517-03556a665f69",
+      "question_text": [
+        "If the difference in electronegativity of elements P and Q is 3.0. The bond that will be formed between them is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Electronegativity ",
+        " Chemical Bonding"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "metallic",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "co-ordinate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3e449ddb-16e8-4274-9646-e84993ca93b0",
+      "question_text": [
+        "How many protons, neutrons and electrons respectively are present in the element 60/27 Co?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Atomic and Atomic Mass Number ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "27, 33 and 33",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "33, 27 and 27",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "27, 33, and 27",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60, 33 and 60",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5053a829-ddf3-4d92-99ad-16fcee32f12f",
+      "question_text": [
+        "The radio active radiation used in studying the arrangement of particles in giant organic molecules is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "What are Organic Molecules? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\gamma",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "- rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\alpha",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "- particlesC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "45d52f8c-4663-49c5-a0f7-76f6ed5f68e0",
+      "question_text": [
+        "A silicon -containing ore has 92% 28Si, 5% 29Si and 3% 30Si. Calculate the relative atomic mass of the silicon."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Size of Nucleus ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "(\\(\\frac{92}{100}\\) x 28) + (\\(\\frac{5}{100}\\) x 29) + (\\(\\frac{3}{100}\\) x 230) = 28.11",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "29.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "28.11",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "28.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b3a2235e-df38-4b58-97a8-5807907d79c8",
+      "question_text": [
+        "A mixture is different from a compound because"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Compounds ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the properties of a compound are those of its individual constituents while those of a mixture differ from its constituents",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a mixture is always homogeneous while a compound is not",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the constituent of a compound are chemically bound together while those of a mixture are not",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a mixture can be represented by a chemical formula while a compound cannot",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc125f2b-fbd4-4b8c-bc1d-f066b5706859",
+      "question_text": [
+        "What is the percentage of sulphur in sulphur (IV) oxide?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Atomic Mass and the Mole ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "molar mass of SO 2=64 :.%S=32/64 x 100 = 50%",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "66%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "40%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50%",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c3f5e17f-3275-45bc-b2af-04c733372841",
+      "question_text": [
+        "A gas X diffuses twice as fast as gas Y. if the relative molecular mass of X is 32, calculate the relative molecular mass of Y."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "\\(\\frac{RY}{RX}\\) = \\(\\frac{\\sqrt{My}}{\\sqrt{My}}\\) 1/2 = \\(\\frac{\\sqrt{32}}{\\sqrt{y}}\\) \\(\\frac{32}{y}\\) = 1/4 Y = \\(\\frac{32x4}{1}\\) = 128",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "128",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19c402e8-c742-475f-9655-a0cbe34f4b78",
+      "question_text": [
+        "200 cm3 of a gas at 25oC exerts a pressure of 700 mmHg. Calculate its pressure if its volume increase 350 cm3 at 75oC."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "\\(\\frac{p 1V 1}T 1\\) = \\(\\frac{P 2V 2}{T 2}\\) \\(\\frac{700x200}{298}\\) = \\(\\frac{P2X 350}{348}\\) P2 = \\(\\frac{700x200x348}{298x350}\\) = 467.11mmHg",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "342.53 mmHg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1430.54 mmHg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "467.11 mmHg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "400.00 mmHg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9989728f-37c1-449b-87ac-c930f50f84f7",
+      "question_text": [
+        "An element X has electron configuration 1s2 2s2 2p6 3s2 3p5. Which of the following statements is correct about the element?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Spectroscopic Electron Configuration ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "lt has a completely filled p-orbital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "lt has 5 electrons in its outermost shell.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lt belongs to group ll on the periodic table",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lt is a halogen",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "439c3b2e-16fc-49ce-a564-9894a5be88fc",
+      "question_text": [
+        "The general formula of an alkyl halide (where X represents the halide) is?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Alkyl Halides ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "CnH2n2X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "CnH2n + 1X",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "CnH2n + 2X",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CnH2nX",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aea52a29-010c-4dba-9f3b-606215fcc3ed",
+      "question_text": [
+        "Z in diagram above represents"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Calorimetry ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem143.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "heat of reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "free energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "entropy of reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b655a7cb-d1b5-4c85-970c-2b4a0c2f9a23",
+      "question_text": [
+        "In the diagram, the function of the concentrated H2SO4 is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purify the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dry the gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "liquefty the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "remove odour",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c2f2d03-8c8b-43fa-be52-7a06d26014ef",
+      "question_text": [
+        "The gas that is removed by the water in the flask is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Titration Experiments ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HCI.",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "H2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00d491c2-efc8-4017-9ec6-b80476c9753f",
+      "question_text": [
+        "The petroleum fraction that is used in heating furnaces in industries is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Distillation of Solutions ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diesel oil",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "gasoline",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lubricating oil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aa160234-11f2-4045-9b6a-6105df867f39",
+      "question_text": [
+        "The polymer used in making car rear lights is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "What is a polymer? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "perspex",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bakeelite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polystyrene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyacrylonitrile",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4557c542-d226-457b-a9cf-faec785c02d5",
+      "question_text": [
+        "CH3COOC2H5(1) + H2O(1) ⇌ CH 3COOH (aq) + C 2H 5OH (aq)The purpose of H+ in the reaction above is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the yield of products",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maintain the solution at a constant PH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the rate of the hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "decrease the rate of the reverse reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b948a54-1214-428f-8fc7-5ce83a6d3273",
+      "question_text": [
+        "A hydrocarbon has an empirical formula CH and a vapour density of 39. Determine its molecular formula.[C = 12, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "molecular mass = 2 x vapour density = 2 x 39 = 79∴ Cn Hn = 7812n + 1n = 7813n = 78n = \\(\\frac{78}{13}\\) = 6∴ Cn Hn = C 6H 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C2H6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C3H4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "50178797-d275-4fb8-a94d-b09df76fb790",
+      "question_text": [
+        "Polystyrene is widely used as packaging materials for fragile objects during transportation because of its"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Materials ",
+        " Classification of Matter"
+      ],
+      "explanation": "EPS is known as one of the world’s most effective and lightweight insulation and packaging materials. It has low thermal conductivity and is moisture resistant, so it is often used as insulation against changing temperatures. Its high compressive strength gives it excellent shock absorption properties, making it an efficient packaging material.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ligjtness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "high compressibility",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "64c83d4a-1410-42ea-853d-d542909808b0",
+      "question_text": [
+        "The process of converting linear alkanes to branched chain and cyclic hydrocarbons by heating in the presence of a catalyst to improve the quality of petrol is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "refining",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "craching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reforming",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "blending",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c3f897c-8537-4f72-b121-c11ce77a5899",
+      "question_text": [
+        "The alkanol obtained from the production of soap is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "glycerol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "methanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6925a4a3-ca80-4f7b-b0b6-ef7676516833",
+      "question_text": [
+        "Z in diagram above represents"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Calorimetry ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem143.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "heat of reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "free energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "entropy of reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ad791cb8-6232-4ad3-9d07-d30055558d66",
+      "question_text": [
+        "In the diagram, the function of the concentrated H2SO4 is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purify the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dry the gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "liquefty the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "remove odour",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc3bc8fb-a40b-4fcb-a9c3-681781b5fc3a",
+      "question_text": [
+        "The gas that is removed by the water in the flask is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Titration Experiments ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HCI.",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "H2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af9a7f45-c199-41fa-90d1-1aabe4969868",
+      "question_text": [
+        "The petroleum fraction that is used in heating furnaces in industries is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Distillation of Solutions ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diesel oil",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "gasoline",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lubricating oil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7fa6753-2568-47c1-94c1-917654b3cf5a",
+      "question_text": [
+        "The polymer used in making car rear lights is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "What is a polymer? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "perspex",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bakeelite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polystyrene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyacrylonitrile",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a642ae04-9361-4c08-9800-a7e504c07ef0",
+      "question_text": [
+        "CH3COOC2H5(1) + H2O(1) ⇌ CH 3COOH (aq) + C 2H 5OH (aq)The purpose of H+ in the reaction above is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the yield of products",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maintain the solution at a constant PH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the rate of the hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "decrease the rate of the reverse reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc755bd3-9518-4cc6-b5c7-5a6992aa9835",
+      "question_text": [
+        "A hydrocarbon has an empirical formula CH and a vapour density of 39. Determine its molecular formula.[C = 12, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "molecular mass = 2 x vapour density = 2 x 39 = 79∴ Cn Hn = 7812n + 1n = 7813n = 78n = \\(\\frac{78}{13}\\) = 6∴ Cn Hn = C 6H 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C2H6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C3H4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0a290a5d-fde7-4468-ba5c-7f3e13fd8e73",
+      "question_text": [
+        "Polystyrene is widely used as packaging materials for fragile objects during transportation because of its"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Materials ",
+        " Classification of Matter"
+      ],
+      "explanation": "EPS is known as one of the world’s most effective and lightweight insulation and packaging materials. It has low thermal conductivity and is moisture resistant, so it is often used as insulation against changing temperatures. Its high compressive strength gives it excellent shock absorption properties, making it an efficient packaging material.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ligjtness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "high compressibility",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bdf11a83-f70c-4e29-bb89-fe5bae67892d",
+      "question_text": [
+        "The process of converting linear alkanes to branched chain and cyclic hydrocarbons by heating in the presence of a catalyst to improve the quality of petrol is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "refining",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "craching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reforming",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "blending",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "275a66d2-e7c9-40f9-9752-e949044749c3",
+      "question_text": [
+        "The alkanol obtained from the production of soap is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "glycerol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "methanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a3e5b7d3-520a-4f0f-b035-b473df34ee4e",
+      "question_text": [
+        "Z in diagram above represents"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Calorimetry ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem143.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "heat of reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "free energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "entropy of reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "57e5d06e-4f2d-4c50-85df-55de9a5fdd62",
+      "question_text": [
+        "In the diagram, the function of the concentrated H2SO4 is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purify the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dry the gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "liquefty the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "remove odour",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0f82a420-39d9-43c3-8532-510d504bc689",
+      "question_text": [
+        "The gas that is removed by the water in the flask is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Titration Experiments ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HCI.",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "H2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a073dbc1-b351-41df-98d5-63169408a030",
+      "question_text": [
+        "The petroleum fraction that is used in heating furnaces in industries is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Distillation of Solutions ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diesel oil",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "gasoline",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lubricating oil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "095512ba-6a32-4a39-bc20-4fc166194581",
+      "question_text": [
+        "The polymer used in making car rear lights is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "What is a polymer? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "perspex",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bakeelite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polystyrene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyacrylonitrile",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "92bcc018-7445-4d54-9241-be025b4eeedb",
+      "question_text": [
+        "CH3COOC2H5(1) + H2O(1) ⇌ CH 3COOH (aq) + C 2H 5OH (aq)The purpose of H+ in the reaction above is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the yield of products",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maintain the solution at a constant PH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the rate of the hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "decrease the rate of the reverse reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b844a09e-6f49-436c-b522-5804ff7a0c83",
+      "question_text": [
+        "A hydrocarbon has an empirical formula CH and a vapour density of 39. Determine its molecular formula.[C = 12, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "molecular mass = 2 x vapour density = 2 x 39 = 79∴ Cn Hn = 7812n + 1n = 7813n = 78n = \\(\\frac{78}{13}\\) = 6∴ Cn Hn = C 6H 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C2H6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C3H4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "08a92bc7-04cb-4ad1-97cb-335da143ef7a",
+      "question_text": [
+        "Polystyrene is widely used as packaging materials for fragile objects during transportation because of its"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Materials ",
+        " Classification of Matter"
+      ],
+      "explanation": "EPS is known as one of the world’s most effective and lightweight insulation and packaging materials. It has low thermal conductivity and is moisture resistant, so it is often used as insulation against changing temperatures. Its high compressive strength gives it excellent shock absorption properties, making it an efficient packaging material.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ligjtness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "high compressibility",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7303f83f-3081-485e-8e1b-a8a9c0f5589a",
+      "question_text": [
+        "The process of converting linear alkanes to branched chain and cyclic hydrocarbons by heating in the presence of a catalyst to improve the quality of petrol is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "refining",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "craching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reforming",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "blending",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "606de283-77fd-4c9f-94ab-6b9b56390385",
+      "question_text": [
+        "The alkanol obtained from the production of soap is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "glycerol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "methanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "904e1ee9-b85f-49bb-a681-3c47b74cb22f",
+      "question_text": [
+        "Z in diagram above represents"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Calorimetry ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem143.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "heat of reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "free energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "entropy of reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9de99487-17af-435d-ba9d-0a4d2ea1fc54",
+      "question_text": [
+        "In the diagram, the function of the concentrated H2SO4 is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purify the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dry the gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "liquefty the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "remove odour",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e1b1135-abc4-496c-a411-64ab2cc9193b",
+      "question_text": [
+        "The gas that is removed by the water in the flask is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Titration Experiments ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HCI.",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "H2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f0a6774c-fef0-45b6-8888-d5dbff1710a2",
+      "question_text": [
+        "The petroleum fraction that is used in heating furnaces in industries is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Distillation of Solutions ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diesel oil",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "gasoline",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lubricating oil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85660f96-5c58-4367-92b7-a9d8b4079995",
+      "question_text": [
+        "The polymer used in making car rear lights is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "What is a polymer? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "perspex",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bakeelite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polystyrene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyacrylonitrile",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cadea9c9-29e8-47d7-8b1a-09f5f473bb89",
+      "question_text": [
+        "CH3COOC2H5(1) + H2O(1) ⇌ CH 3COOH (aq) + C 2H 5OH (aq)The purpose of H+ in the reaction above is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the yield of products",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maintain the solution at a constant PH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the rate of the hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "decrease the rate of the reverse reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e4aa6d32-adbe-47b5-8c30-34bd855b9718",
+      "question_text": [
+        "A hydrocarbon has an empirical formula CH and a vapour density of 39. Determine its molecular formula.[C = 12, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "molecular mass = 2 x vapour density = 2 x 39 = 79∴ Cn Hn = 7812n + 1n = 7813n = 78n = \\(\\frac{78}{13}\\) = 6∴ Cn Hn = C 6H 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C2H6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C3H4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1828c086-a7ae-48b0-8c57-1c48340da926",
+      "question_text": [
+        "Polystyrene is widely used as packaging materials for fragile objects during transportation because of its"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Materials ",
+        " Classification of Matter"
+      ],
+      "explanation": "EPS is known as one of the world’s most effective and lightweight insulation and packaging materials. It has low thermal conductivity and is moisture resistant, so it is often used as insulation against changing temperatures. Its high compressive strength gives it excellent shock absorption properties, making it an efficient packaging material.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ligjtness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "high compressibility",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "aa0e43e6-d22f-4105-8398-5de018e5c94b",
+      "question_text": [
+        "The process of converting linear alkanes to branched chain and cyclic hydrocarbons by heating in the presence of a catalyst to improve the quality of petrol is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "refining",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "craching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reforming",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "blending",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "45d8d914-05b3-40ce-bdb1-dbf63a8f090e",
+      "question_text": [
+        "The alkanol obtained from the production of soap is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "glycerol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "methanol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71992164-4d10-470d-9682-357c121569c6",
+      "question_text": [
+        "Z in diagram above represents"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Calorimetry ",
+        " Thermochemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem143.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "heat of reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "activation energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "free energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "entropy of reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "640b0a12-52de-46b6-9f32-8eefb9f170af",
+      "question_text": [
+        "In the diagram, the function of the concentrated H2SO4 is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Dilute and Concentrated Solutions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purify the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dry the gas",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "liquefty the gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "remove odour",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8259b08a-4a1b-4549-a0bf-51afb74c03ad",
+      "question_text": [
+        "The gas that is removed by the water in the flask is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Titration Experiments ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem139.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "O2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SO2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "HCI.",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "H2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a3e3d71e-8859-466d-ac90-7ceae5cfc19c",
+      "question_text": [
+        "The petroleum fraction that is used in heating furnaces in industries is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Distillation of Solutions ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "diesel oil",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "gasoline",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "lubricating oil",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c0a6ce6c-40e5-460b-96d8-303f57bdc283",
+      "question_text": [
+        "The polymer used in making car rear lights is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "What is a polymer? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "perspex",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bakeelite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polystyrene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyacrylonitrile",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b5ae7d1d-09d3-4fe9-9bd1-b2b1bb3b778e",
+      "question_text": [
+        "CH3COOC2H5(1) + H2O(1) ⇌ CH 3COOH (aq) + C 2H 5OH (aq)The purpose of H+ in the reaction above is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the yield of products",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "maintain the solution at a constant PH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase the rate of the hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "decrease the rate of the reverse reaction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "73d5b9f9-57c7-4cbc-a079-d5d06e515b36",
+      "question_text": [
+        "A hydrocarbon has an empirical formula CH and a vapour density of 39. Determine its molecular formula.[C = 12, H = 1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Derivation of Molecular Formulas ",
+        " Composition of Substances and Solutions"
+      ],
+      "explanation": "molecular mass = 2 x vapour density = 2 x 39 = 79∴ Cn Hn = 7812n + 1n = 7813n = 78n = \\(\\frac{78}{13}\\) = 6∴ Cn Hn = C 6H 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C2H6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C3H4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C6H6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e2458bbf-cee8-429a-8d7b-7888761ddac7",
+      "question_text": [
+        "Polystyrene is widely used as packaging materials for fragile objects during transportation because of its"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Materials ",
+        " Classification of Matter"
+      ],
+      "explanation": "EPS is known as one of the world’s most effective and lightweight insulation and packaging materials. It has low thermal conductivity and is moisture resistant, so it is often used as insulation against changing temperatures. Its high compressive strength gives it excellent shock absorption properties, making it an efficient packaging material.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ligjtness",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high density",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "high compressibility",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cc9402b8-9604-4f32-ae60-0be85f729d2b",
+      "question_text": [
+        "The process of converting linear alkanes to branched chain and cyclic hydrocarbons by heating in the presence of a catalyst to improve the quality of petrol is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "refining",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "craching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "reforming",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "blending",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a538286f-572b-4f67-9e24-d931c92d0672",
+      "question_text": [
+        "The alkanol obtained from the production of soap is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Soaps and Detergents ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "glycerol",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "methanol",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

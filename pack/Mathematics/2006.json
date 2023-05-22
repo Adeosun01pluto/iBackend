@@ -1,0 +1,4949 @@
+
+[
+    {
+      "id": "a5753c64-dab4-4c30-8be2-adfa7daacbe6",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe64bcdd-2c50-4495-9486-d751bf874a69",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "32048bed-e507-4066-aeac-5cf510434983",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5742ac81-c8c9-44ca-a03d-0889dba58003",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e96b1c06-d5d9-4ec3-91e1-934e4500126b",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "05df8061-0fe2-4ac6-8cb1-3e4b2c667ed0",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "10f5a660-d9cf-4a46-9793-1adee73f0f04",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc945f42-74c6-47a0-a004-01423e88fe48",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00e5df35-c16f-430e-b454-f8cc7ae25992",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "da344b5f-0fcb-4203-9f35-b9e48f83cebe",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "66d54cc5-3882-4b4e-a68c-2b3e5f09d826",
+      "question_text": [
+        "Find the roots of x3 - 2x2 - 5x + 6 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, -2, 3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 2, -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, -2, 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1, 2, -3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "77e92d57-9eb1-446f-ab7d-258e705536e8",
+      "question_text": [
+        "What must be added to 4x2 - 4 to make it a perfect square?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-1}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9500ced2-5348-4c0a-b45f-cefdb935a0dd",
+      "question_text": [
+        "In the diagram above, |QR| is the diameter of the semicircle QR. Find the area of the figure to the nearest whole number. {\\(\\pi = \\frac{22}{7}\\)}"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math109.jpg",
+      "explanation": "Area of PQRS = length x breath(7 x 10)cm2 = 70Area of semi-circle \\(\\frac{1}{2} \\pi r^2 = \\frac{1}{2} \\times \\frac{22}{7} \\times \\frac{7}{2}\\)= 19.5cm2 = 20cm2(appr.)Area of the figure = (70 + 20)cm2= 90cm2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "90cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "89cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "70cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "68d38e41-ef5f-4a3f-80d7-2dd0ad0f712d",
+      "question_text": [
+        "In the parallelogram PQRS given, find angle < SQR"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math108.jpg",
+      "explanation": "< QRS = 30\\(^{\\circ}\\)(corresponding < ), < QSR = 50\\(^{\\circ}\\)< SQR = 180\\(^{\\circ}\\) - (30 + 50)\\(^{\\circ}\\) (Sum of < S in a \\(\\bigtriangleup\\))180\\(^{\\circ}\\) - 80\\(^{\\circ}\\) = 100\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "50\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a7d319a6-f307-4cb4-9c1b-b1dc7b0e5d6d",
+      "question_text": [
+        "In the diagram given PQ = 10cm, PS = 8cm and < PSR is 60 while < SRQ is a right angle. Find SR"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math106.jpg",
+      "explanation": "Draw a line perpendicular to |SR| to form |PT| in   \\(\\bigtriangleup\\) PST, cos 60 = \\(\\frac{|ST|}{8}\\(|PT| = 8 cos 6 = 4cmSince |TR| = |PQ|SR = ST + TR= (4 + 10)cm= 14cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 \\(\\sqrt{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "45cmD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "35d347d8-0803-4192-bfc4-c48c177d517b",
+      "question_text": [
+        "The solution set of the shaded area above is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math104.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y + x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 4, y \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "y \\(\\leq\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f559bc3-c706-48c5-b6f1-78ff487f14fc",
+      "question_text": [
+        "The pie chart above shows the expenditure of a family whose income is N30.000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math103.jpg",
+      "explanation": "school fees is 90\\(^{\\circ}\\)Transport = 45\\(^{\\circ}\\)Housing and food = 360 - (90 + 45) = 225food \\(\\frac{2}{3} \\times 225 = 150\\)expenses on food = \\(\\frac{150}{360} \\times 30000\\)= N12500",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N28,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N12,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "N15,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N25,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "404525ee-76dc-4176-99d7-45975582d46e",
+      "question_text": [
+        "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English English and Health education as the their favourite subjects?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math102.jpg",
+      "explanation": "(\\(\\frac{52}{160} = \\frac{36}{160}\\))% = \\(\\frac{88}{160}\\)%= 55%",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "55%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "52%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "22%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8cdcdd12-ae71-4b7d-b49f-d8f45242c5f9",
+      "question_text": [
+        "The table above shows the scores of a group of students in a physics test. If the mode is m and the number of students who scored 4 or more is n, what is (n, m)?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math46.jpg",
+      "explanation": "n = 12 + 10 + 6 + 4 + 1 = 33 m = 4 (score with the highest frequency of 12)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(33, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(22, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d5be719-0f10-4663-bb1b-c509ebf10009",
+      "question_text": [
+        "A final examination requires that a student answer any 4 out of 6 questions. In how many ways can this be done?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "The question will be answered in \\(^5C_4 = \\frac{6!}{(6-4)!4!}\\\\=\\frac{6!}{2!4!}\\\\=\\frac{6\\times5\\times4!}{2\\times1\\times4!}\\\\=15\\hspace{1mm}ways\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "45",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6ba9b107-1b5c-4e95-a572-ecca68302888",
+      "question_text": [
+        "If the mean of five consecutive integers is 30, find the largest of the numbers"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Let the consecutive numbers be a, a+1, a+2, a+3, a+4Mean = \\(\\frac{(a+a+1+a+2+a+3+a+4)}{5}\\\\30 = \\frac{5a+10}{5}\\\\30 \\times 5 = 5a + 10\\\\5a = 150 - 10\\\\5a = 140\\\\a = 28 \\\\∴ a + 4 = 28 + 4\\\\= 32\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "28",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "34",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9247eafd-91a4-439f-abb3-906767d8d5ae",
+      "question_text": [
+        "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/3, find the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Black = 5White = 4Red = xTotal = 9+xP(red) = 2/3x / (9+x) = 2/55x = 2(9+x)5x = 18+2x5x-2 = 183x = 18x = 6",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3786b2a3-b536-4880-bd58-b07f042bb57b",
+      "question_text": [
+        "Find the variance of 2x, 2x-1 and 2x+1"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\sum x = 6x\\\\\\sum(x-\\bar{x})^2 = 2\\\\\\bar{x} = \\frac{\\sum x}{n}\\\\= \\frac{6x}{3}\\\\= 2x\\\\Variance = \\frac{\\sum(x-\\bar{x})^2}{n}\\\\= \\frac{2}{3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "√(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa4fd40d-da3e-471b-9e72-46f1db539cb1",
+      "question_text": [
+        "The table above shows the distribution of recharge cards of four major GSM operators. What is the probability that a recharge card selected at random will be GTN or Qtel?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math45.jpg",
+      "explanation": "P(GTN) = 5/20P(Qtel) = 3/20∴P(GTN or Qtel) = (5/20) + (3/20)= 8/20= 2/5",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2/5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e9ce0787-9954-44cc-9ad3-da4b7aad9835",
+      "question_text": [
+        "The pie chart above shows the expenditure of a family whose income is ₦30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math44.jpg",
+      "explanation": "Expenditure on housing = xExpenditure on food = 2xExpenditure on school fees = 90\\(^{\\circ}\\)Expenditure on transport = 45\\(^{\\circ}\\)x + 2x + 90 + 45 = 360\\(^{\\circ}\\)3x + 135 = 360\\(^{\\circ}\\)3x = 360 - 1353x = 225x = 225/3 = 75\\(^{\\circ}\\)∴∠ for food = 2x = 2 * 75= 150360\\(^{\\circ}\\) = N30,0001\\(^{\\circ}\\) = ?1\\(^{\\circ}\\) = 30,000/360150\\(^{\\circ}\\) = (30000/360) * (150/1)= N12500",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦28,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦25,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦15,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦12,500",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "47bcaa7d-ebfd-4443-8172-50d5973039ae",
+      "question_text": [
+        "For what of n is n+1C3 = 4(nC3)?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(^{n+1}C_3 = 4(^nC_3)\\\\\\frac{(n+1)!}{(n+1-3)!3!} = 4\\left(\\frac{n!}{(n-3)!3!}\\right)\\\\\\frac{(n+1)n!}{(n-2)(n-3)!}=4\\left(\\frac{n!}{n-3!}\\right)\\\\=\\frac{n+1}{n-2}=\\frac{4}{1}\\\\n+1 = 4(n-2)\\\\n+1 = 4n-8\\\\-3n = -9\\\\\\frac{-9}{-3}\\\\n=3\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b8b504bc-798e-4688-9533-faa9dddeae77",
+      "question_text": [
+        "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve."
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "dy/dx = 2x + 7y = ∫2x + 7y = x2 + 7x + C at (2,0)0 = 22 + 7(2) + C0 = 4 + 14 + C0 = 18 + CC = -18∴ The equation is y = x2 + 7x - 18",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = x2 + 7x + 9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = x2 + 7x - 18",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = x2 + 7x + 18",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = x2 + 14x + 11",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8363aae5-a397-4a22-99ad-72520f466003",
+      "question_text": [
+        "Differentiate (x2 - 1/x)2 with respect to x"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y = (x2 - 1/x)2y = (x2 - 1/x)(x2 - 1/x)y = x4 - x - x + 1/x2y = x4 - 2x + 1/x2y= x4 - 2x + x-2dy/dx = 4x2 - 2 - 2x-3= 4x2 - 2 - 2/x3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4x2 - 4x - 2/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4x2 - 2 + 2/x3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4x2 - 2 - 2/x3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4x2 - 3x + 2/x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75f7de66-ab23-4225-a170-fec0880a9fe3",
+      "question_text": [
+        "Find the value of x for which the function 3x3 - 9x is minimum"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y = 3x3 - 9x2dy/dx = 9x2 - 18xAs dy/dx = 09x2 - 18x = 09x(x-2) = 09x = 0 which implies x = 0x-2 = 0 implies x = 2d2y/dx2 = 18x - 18when x = 0d2y/dx2< 0 ∴ x is is minimumwhen x = 2d2y/dx2 = 18∴ > 0 x is minimum",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ddbb541-ba25-40a8-8396-dedd1da0480b",
+      "question_text": [
+        "If dy/dx = x + cos x, find y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "dy/dx = x + cos xy = ∫(x + cos x)dxy = 1/2x2 + sin x + C",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x2 - sin x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x2 + sin x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x2/2 - sin x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x2/2 + sin x + c",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "44bc033a-ff45-419e-9dc7-d4048a52448b",
+      "question_text": [
+        "Differentiate (cos θ - sin θ)2"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "y = (cosθ - sinθ)dy/dx = 2(cosθ - sinθ)(-sinθ - cosθ)dy/dx = 2(-cosθsinθ - cos2θ + sin2θ)dy/dx = 2(- cos2θ + sin2θ)= -2(cos2θ - sin2θ)= -2(1 - sin2θ)= -2cos2θ",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-2 cos 2θ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2 sin2θ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 - 2 cos 2θ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1 - 2 sin 2θ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c50752d9-d8ef-4e39-8e18-0b9f81051cb5",
+      "question_text": [
+        "Evaluate \\(\\int_{-4}^0(1 - 2x)dx\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\int_{-4}^0(1 - 2x)dx=[x-x^2]_{-4}^0\\\\= (0 - 0 + C) - (-4(-4)^2 + C)\\\\= C - (-4-16+C)\\\\= C-(-20+C)\\\\= C+20-C\\\\= 20\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cdf937e9-4e8b-40f2-a637-27ec9ec1122e",
+      "question_text": [
+        "simplify \\(\\frac{\\frac{7}{9}-\\frac{2}{3}}{\\frac{1}{3}+\\frac{\\frac{2}{5}}{\\frac{4}{5}}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{\\frac{7}{9}-\\frac{2}{3}}{\\frac{1}{3}+\\frac{\\frac{2}{5}}{\\frac{4}{5}}}\\\\=\\frac{\\frac{7-6}{9}}{\\frac{1}{3}+\\frac{\\frac{2}{5}}{\\frac{4}{5}}}\\\\=\\frac{\\frac{1}{9}}{\\frac{1}{3}+\\left(\\frac{2}{5}\\times \\frac{5}{4}\\right)}\\\\=\\frac{\\frac{1}{9}}{\\frac{1}{3}+\\frac{1}{2}}\\=\\frac{\\frac{1}{9}}{\\frac{2+3}{6}}\\\\=\\frac{\\frac{1}{9}}{\\frac{5}{6}}\\\\=\\frac{1}{9}\\times\\frac{6}{5}\\\\=\\frac{2}{15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{11}{12}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "83dd164b-ce0d-405b-9525-16c5c0a66c8e",
+      "question_text": [
+        "If m:n = 13:111, find m2 - n2 : (m + n)2"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "m : n  = 13 : 11m2 - n2 = (m - n)2= 132 - 112 : (13 + 11)2= 169 - 121 : 242= 48 : 576= 1 : 12",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1:10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1:12",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "267e81b2-67e5-44d5-b98b-4696e259ab79",
+      "question_text": [
+        "Calculate the logarithm to base 9 of 3-4 * 92 * (81)-1"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(3^{-4}\\times 9^2 \\times 81^{-1}\\\\=log_9 (3^{-4}\\times 9^2 \\times 81^{-1})\\\\=log_9 \\left(\\frac{1}{3^4}\\times 9^2 \\times \\frac{1}{81}\\right)\\\\=log_9 \\left(\\frac{1}{81}\\times \\frac{81}{1}\\times \\frac{1}{81}\\right)\\\\=log_9 \\frac{1}{81}\\\\=log_9 \\frac{1}{9^2}\\\\=log_9 9^{-2}\\\\=-2log_9 9\\\\-2 \\times 1\\\\=-2\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1dac3914-a99b-4aa9-bb7a-a3325550ec67",
+      "question_text": [
+        "If (K2)6 * 36 = 35(K4)5, what is the value of k?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "(K2)6 * 36 = 35(K4)5k*61 + 2*60 + 3*50 = 3*50 + K*51 + 4*506K + 2 = 5K + 46K - 5k = 4 - 2K = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "679ccbb3-b49b-4f0b-b4a5-d80cdb0b4793",
+      "question_text": [
+        "In a small village of 500 people, 350 speak the local language while 200 speak pidgin English. What percentage of the population speak both."
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Let n(L∩P) = xn(L) only = 350 - xn(P) only = 200 - x∴350 - x + x + 200 - x = 500550 - x = 500x = 550 - 500x = 50 speak both∴x% = (50/500) * (100/1)= 10%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "50%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39277ee7-13d8-4e96-9b37-cbfac22975c8",
+      "question_text": [
+        "Find the tax on an income of N20,000 if no tax is paid on the first N10,000 and tax is paid at N50 in N1000 on the next N5000 and at N55 in N1000 on the remainder"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "N20,000 - N10,000 = N10,0001st tax on N5000 at N50 per N1000= 5*50 = N2502nd tax on the remaining N5000 at N55 per N1000 = 5*55 = N275Total tax paid = N250 + N275= N525",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N552",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N255",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N525",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "44596e2b-47d0-4d74-aaf6-d025cb010954",
+      "question_text": [
+        "Evaluate \\(\\frac{2}{6-5\\sqrt{3}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{2}{6-5\\sqrt{3}} = \\frac{2}{6-5\\sqrt{3}} \\times \\frac{6+5\\sqrt{3}}{6+5\\sqrt{3}}\\\\=\\frac{2(6+5\\sqrt{3})}{(6-5\\sqrt{3})(6+5\\sqrt{3})}\\\\=\\frac{12+10-\\sqrt{3}}{36-25(3)}\\\\=\\frac{12+10-\\sqrt{3}}{36-75}\\\\=\\frac{12+10-\\sqrt{3}}{-39}\\\\=-\\left(\\frac{12}{39}-\\frac{10\\sqrt{3}}{39}\\right)\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(-\\left(\\frac{12}{39}-\\frac{10\\sqrt{3}}{39}\\righ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{12}{39}-\\frac{10\\sqrt{3}}{39}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dab32c3e-292e-4910-8658-60e58ca459f4",
+      "question_text": [
+        "Compute 1100112 + 111112"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "1100112 + 111112 = 10100102",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10010102",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10100102",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10001102",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10001002",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e06e8a42-51ba-4e34-a946-d640002b1128",
+      "question_text": [
+        "Simplify (25)-1/2 x (27)1/3 + (121)-1/2 x (625)-1/4"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "25)-1/2 x (27)1/3 + (121)-1/2 x (625)-1/452x-1/2 x 33x1/3 + 112x-1/2 x 54x-1/45-1 x 31 x 11-1 x 5-11/5 x 3/1 + 1/11 x 1/53/5 + 1/5 = 33+1/55=34/55",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "34/55",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "9/11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "14/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/275",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "828bf8af-8633-4379-95a5-03f661fa72e4",
+      "question_text": [
+        "Convert 22324 to base six"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "1st convert to base 10 22324 = 2x43 + 2x42 + 3x41 + 2x40= 2x64 + 2x16 + 3x4 + 2x1= 128 + 32 + 12 + 2= 174 convert to base 66/174 6/29 R 06/4 R 56/0 R 5 = 4506",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4506",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2546",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5536",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5406",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8230349-7842-41f1-a3aa-5a72621c09ba",
+      "question_text": [
+        "In the diagram above, QR is in the diameter of the semicircle QR. Find the areas of the figure to the nearest whole number."
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math43.jpg",
+      "explanation": "Area of rectangle PQRS = 10 x 7 = 70 cm2Area of semi circle QR = Dπ = 7 x 22/7 = 22cm2∴Area of the figure = 70 + 22= 92cm2= 90cm2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "89 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "90 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "80 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5a01c56-b679-4c90-961a-adc7309af4d7",
+      "question_text": [
+        "If tan θ = 5/4, find sin2θ - cos2θ."
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Tan θ = 5/4x2 = 52 + 42= 25 + 16= 41x = √41sin2θ - cos2θ = (5/√41)2 - (4/√41)2= 25/41 - 16/41= 9/41",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "41/9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9/41",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6bca4d1d-debb-4c8c-ba02-2444be06581e",
+      "question_text": [
+        "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Gradient PQ, P(1,q) and Q(3,2)\\(=\\frac{(2-q)}{(3-1)} = \\frac{(2-q)}{2}\\)Gradient of RS : R(3,4) and S(5,2q)\\(= \\frac{(2q-4)}{(5-3)}= \\frac{(2q-4)}{2} = \\frac{2(q-2)}{2}\\)= q-2Since PQ and RS are parallel, their generation are equal \\(∴ \\frac{(2-q)}{2} = q-2\\)2-q = 2(q-2)2-q = 2q-4 2+4 = 2q+q6 = 3qq = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "05fc6f49-04cc-4a51-a8e5-7fb7f88f3524",
+      "question_text": [
+        "In triangle XYZ, ∠XYZ = 15\\(^{\\circ}\\), ∠XZY = 45\\(^{\\circ}\\) and lXYl = 7 cm. Find lYZl."
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "∠yxz = 180 - (45 + 15)= 180 - 60 = 120\\(^{\\circ}\\)Using sine rule \\(\\frac{x}{sinx}=\\frac{7}{sinz}\\\\\\frac{x}{sin 120}=\\frac{7}{sin 45}\\\\x=\\frac{7 sin 120}{sin45}\\\\x=\\frac{7sin(180-120)}{sin 45}\\\\x=\\frac{7 sin 60}{sin 45}=\\left(7\\left(\\frac{\\sqrt{3}}{2}\\right)\\div \\frac{1}{\\sqrt{2}}\\right)\\\\x =\\left(7\\left(\\frac{\\sqrt{3}}{2}\\right)\\div \\frac{1}{\\sqrt{2}}\\right)\\\\x = 7\\left(\\frac{\\sqrt{6}}{2}\\right)\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14√2 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(7\\left(\\frac{\\sqrt{6}}{2}\\righ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85caee85-8a73-450d-ad39-da0bdddecba9",
+      "question_text": [
+        "In the diagram above, find the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math41.jpg",
+      "explanation": "y = 55 (alternate angles)x = x (same reason)260 + y + x = 360 (∠s at a point)260 + 55 + x = 360315 + x = 360x = 360 - 315x = 45\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "55\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b116ca5-0d0d-4610-bd51-17169385d521",
+      "question_text": [
+        "What is the locus of points equidistant from the lines ax + bc + c = 0?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Locus of point equidistant from a given straight is the perpendicular bisector of the straight line ∴Gradient of the line ax + by + c = 0implies by = -ax - cy = -a/bx - cthe gradient (m) = a/b∴Gradient of the perpendicular (m) = b/aIf P(x,y) is the point intersection of the two lines equation of the perpendicular becomes y - y1 = m(x - x1)y - y1 = b/a(x - x1)ay - ay1 = bx - bx1ay - bx + bx1 - ay1 = 0ay - bx + b(x1 - y1) = 0implies ay - bx + q",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A line bx - ay +q = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "A line ax - ay +q = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "A line bx + ay +q = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A line bx + ay +q = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c53aaba8-ff5e-4bfc-8686-1048b3d3319b",
+      "question_text": [
+        "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate ∠TVS"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Each ∠of a regular polygon \\(=\\frac{(n-2)180}{n}\\\\=\\frac{(6-2)180}{6}\\\\=\\frac{(4)180}{6}\\)= 120\\(^{\\circ}\\)ΔQSR is isosceles∴ Q = S = 30\\(^{\\circ}\\)Also ΔTSR is isosceles∴ T = R = 30\\(^{\\circ}\\)∠TSV + ∠VSR = 120∠TSV + 30 = 120∠TSV = 120 - 30∠TSV = 90\\(^{\\circ}\\)∴∴VTS + ∴VST + ∴TVS = 180 (sum of ∠s of a Δ)30 + 90 + ∠TVS = 180120 + ∠TVS = 180 ∠TVS = 180 - 120∠TVS = 60\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "120\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "90\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "67b5b697-6d6d-46b4-bf99-14a35d8ba80d",
+      "question_text": [
+        "If the locus of the points which are equidistant from point P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Locus of point equidistant from points P and q is a perpendicular bisector of the straight joining P and Q ∴PN = NQ",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/4NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/2NQ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b2a5c36-8a39-4060-896e-e05d173587f8",
+      "question_text": [
+        "In the diagram above, PQ = 10 cm, PS = 8 cm and ∠PSR is 60\\(^{\\circ}\\) while ∠SRQ is a right angle. Find SR"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math39.jpg",
+      "explanation": "In ΔPST; cos 60 = ST/8ST = 8cos 60ST = 8 x 1/2 = 4TR = 10 cm (opp. sides of a rectangle PQRT)SR = ST + TRSR = 4 + 10SR = 14 cm",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "14√3 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10√3 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "365c1523-d2a4-4f19-be04-632824ea7c4b",
+      "question_text": [
+        "The solution set of the shaded area above is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math38.jpg",
+      "explanation": "Y = x implies y ≤ xY + x = 4 implies y = 4 – x∴y = 4 – x∴y ≤ x, y + x ≤ 4 and y ≥ 0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Y ≥ 0, y ≥ x and y + x ≤ 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Y ≤ x, y + x ≤ 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y + x ≥ 4, y ≤ x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y ≤ x, y + x ≤ 4 and y ≥ 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1f68c2a-907b-4467-83da-be5f06d4a682",
+      "question_text": [
+        "A binary operation θ defined on the  set of real number is such that xθy = xy/6 for all x, y ∈ R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "X ⊕ y = xy/6 = xe/6 = xXe = 6xe = 6X ⊕ y =  xx1/6 where x1 = 20Xx20/6 = 6X = 36/20X = 9/5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9/5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a2c549bd-35fa-4ee8-902c-3319d2aeefc3",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "P ∝ 1/q3P = K/q3q3 = K/Pq = K/p1/3But q ∝ r2q = Kr2K/p1/3 = Kr2r2 = K/p1/3 x 1/Kr2 = 1/p1/3r = (1/p1/3)2r = 1/p1/6r ∝ 1/p1/6∴ r varies inversely as 6√P",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies inversely as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies inversely as 6√P",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f53cb76-8ee6-41ab-9258-bd2b23ba0d30",
+      "question_text": [
+        "A binary operation * on the set of rational numbers is defined as \\(x \\times y = \\frac{x^2 - y^2}{2xy}find -5 \\times 3\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(x \\times y = \\frac{x^2 - y^2}{2xy}find -5 \\times 3\\\\=\\frac{(x+y)(x-y)}{2xy}\\\\=\\frac{(-5+3)(-5-3)}{2(-5\\times3)}\\\\=\\frac{-2 \\times -8}{2(-5\\times3)}\\\\=\\frac{-8}{15}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{-8}{15}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35b6be76-9b5d-4679-a205-81c466698774",
+      "question_text": [
+        "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "F(x) = Q x D + RKx3 + x2 - 5x – 2 = Q(2x+1)+RIf 2x+1 = 0 implies x = -1/2∴k(-1/2)3 + (-1/2)2 -5(-1/2) -2= Q(2(-1/2) + 1) +2K(-1/8) + 1/4 + 5/2 - 2 = Q(-1+1)+2-k/8 + 1/4 + 5/2 - 2 = 0+2(-k+2+20-16) / 8 = 2(-k+6) / 8 = 2-k+6 = 2*8-k+6 = 16-k = 16-6-k = 10∴k = -10",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ea4c432-8810-44f3-975e-8da3f8faacf6",
+      "question_text": [
+        "Solve the inequalities for which \\(\\frac{x+4}{3}-\\frac{x-3}{2} < 4\\)."
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\frac{x+4}{3}-\\frac{x-3}{2} < 4\\\\\\frac{(2(x+4))-(3(x-3))}{6}<4\\)2(x+4) – 3(x-3) < 4 x 62x + 8 – 3x+9 < 24-x + 17 < 24-x < 24 – 17-x < 7X > -7",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x < 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < -7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x > 7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f81bbcc-9f84-4198-9cba-f5f401821fef",
+      "question_text": [
+        "THe cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Cost of removing a 6m2 room = N540Cost of renovating a 1m2 room = 540 / 6Cost of removing a 9m2 room = (540 / 6) * 9= N810",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N1215",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N720",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N1620",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N810",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "280ff39f-f6fc-4be8-af50-d94c05c340a7",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Let the positive integers be 1, 2, ,3,  4, .....n∴ a = 1, d = 1 and n = n Sn = n/2(2a + (n-1)d)= n/2 (2 + n – 1)= 1/2n(n + 1)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1/2 n(n-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "n(n+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6a769a43-ceda-4717-9579-62b3cb24b60f",
+      "question_text": [
+        "If T = 2 π √1/g, make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "T = 2 π √1/gT/2π = √1/g(T/2π)2 = (√1/g)2T2/4π2 = 1/gT2 x g = 4π2 x lG = (4π2 x l) / T2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(4π l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " / T",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(4π2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " / T2C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ff5dd8a-c704-4da6-8961-27bfffa3e948",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\( \\geq \\)  0"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "y = x2 - x - 12= (x - 4)(x - 3)∴ x = 4 or x = -3-3 < x < 4But y \\( \\geq \\) 0∴ -3 < x \\( \\leq \\) 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x < -3 0r x > 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x \\( \\leq ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " -3 or x \\( \\geq ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " 4C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9059a2a2-5336-4d99-9ff7-9879044081c9",
+      "question_text": [
+        "How many terms of the series 3, -6, +12, - 24, + ..... are needed to make a total of 1-28?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "3, -6, +12, -24a = 3, r = -2\\(8n = \\frac{a(1-r^n)}{1-r}\\\\∴1-2^8 = \\frac{3(1-(-2^{n-1}))}{1-(-2)}\\\\1-2^8 = \\frac{3(1-(-2^{n-1}))}{3}\\)1-28 = 1-(-2)n-1-28 = -2n-18 = n-1n = 9",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "941a8ce3-9865-48d5-8f2c-608150e61258",
+      "question_text": [
+        "In the parallelogram PQRS above, find angle SQR"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math33.jpg",
+      "explanation": "x = 30\\(^{\\circ}\\) (alternate ∠s b/c PQ//Sr)Y = 50\\(^{\\circ}\\) (vertical opposite ∠s)r = 30\\(^{\\circ}\\) (alternate ∠s b/c PQ//SR)But = y + q + t = 180\\(^{\\circ}\\) (∠s on a straight line)50 + q + 30 = 180 q + 80 = 180q = 180 -80q = 100\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58c18bd7-dce2-495e-bfd8-9b84f9aa65b5",
+      "question_text": [
+        "In the diagram P, Q, R, S are points on the circle RQS = 30o. PRS = 50o and PSQ = 20o. What is the value of xo + yo?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/09/maths220.jpg",
+      "explanation": "Draw a line from P to Q< PQS = < PRS (angle in the sam segment)< PQS = 50oAlso, < QSR = < QPR(angles in the segment)< QPR = xox + y + 5= = 180(angles in a triangle)x + y = 180 - 50x + y = 130o",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "260o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "130o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "100o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e71dc379-3454-45e7-8c0f-8be3db194413",
+      "question_text": [
+        "In the diagram, P, Q and R are three points in a plane such that the bearing of R from Q is 110o and the bearing of Q from P is 050o. Find angle PQR."
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/09/maths219.jpg",
+      "explanation": "Q1 = 50(alternate angle)Q2 = 180o - 110o (straight line angle)Q2 = 70PQR = Q1 + Q2= 50o + 70o= 120o",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "70o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "160o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1980a019-6918-486d-87f4-1229e3553f32",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3174cf02-5f73-435b-9524-bbb4df6ad869",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "adc0455e-d69c-4f2a-acd1-648fc402b7e8",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f42d9fc9-67bd-4692-b393-b88db4274ade",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21164b38-8b03-401d-865a-5bab9a53c7e5",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e5103a8d-26d9-463a-aa72-2b81a9be6b00",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5c9a370a-b351-4885-987f-7609c768c733",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f956e10-c8e0-4d5b-a9a2-b7933212f763",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a0d62728-c4b2-4f9f-870e-ea6e9a9fcc54",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1de7fb7-6a44-41b5-9b36-feba7cb68aff",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "06dbba52-e602-4df2-a846-862a26103b7e",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fae579a5-677e-4a5e-83c5-c25d3faf5c96",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00f4145a-366e-4b93-b142-a719a8ae65fd",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ae82c4cb-c887-4958-8c17-319b55558318",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "90feca3b-25c7-47d7-ac74-5e7b7b9cf5a8",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "efd0a2b7-9d35-4573-953f-fe65f7219bb0",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fa8176d3-95d4-4edb-9840-3a3227242d58",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e81dac6-adf9-4f9b-a1ec-1962827ac1fc",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40426a34-e631-482a-b77a-4723048ede49",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "654f438b-5682-4667-a7a9-e5fa30faaa11",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cfa902a5-0689-4b52-b0a0-30a5cc847d81",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2aa8e42b-b486-48b3-9f9c-4c5eaa4020a3",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1be7d003-083f-43b2-8a73-b162fc167524",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "49d72712-7851-460b-9568-a6abc436074e",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "697e7825-5138-4e44-8430-add44c73edb9",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c6957d7b-b8e6-490e-9b10-908f9c45a40e",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "12293a4b-a0ee-4ff0-a9d3-360a08f368dd",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5aee3fc3-d7a1-43c8-90b6-b14ca5151db8",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "370cbbea-b1f4-401e-8d34-2f6c82f0b32d",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1ac0e4d3-37c5-4d99-9f8d-a24b54d9812a",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d7c3e81d-52d9-4d7d-96bb-f05b270727c8",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a0f22b04-300b-42a0-b33a-fe1275f09c76",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36ffcf03-f59b-46c2-8ad3-c28b6a8f3b3b",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f5c2adaf-8330-4abd-80c9-3a1f05517fb2",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2100fa46-0f4f-4718-b3f4-b381394adb53",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ef35debf-b049-430a-b622-2b16a2e6534a",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bbde1613-c63d-44f4-9b0e-f0fdfa584953",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8ead3bd-0470-478a-9ffc-534229f21e11",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7571add1-eca5-4681-af60-c506000532be",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b3965d7-5dab-415b-91ae-85c3b2d2f73d",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f7d1a84b-bcc5-4b56-be2a-3f4265ab2285",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f5adfd44-34c2-4a08-a35b-4c6dbeed53d4",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8212f935-3a4b-49dd-a520-72fdc257f462",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7ff3d93a-6b29-4fe4-a7ee-e9ca5b2148b7",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a41743c1-3030-4bfc-a53f-4e1c1fda39ca",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7f6893e3-e2d3-4402-863f-b7d58496ce45",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f8bcbce3-beec-4104-8b2b-51d053b9a4fd",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4053e76-88d6-461a-a3a9-1aff1ca282c4",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb8bccdb-546b-472e-9a91-df05fff25763",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c4e23e24-b07f-44a2-bc02-a07c72d85782",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d22c2ae-c608-4d42-a61f-89fa45623088",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3f2ac3d-7349-4aa0-91a8-5af68000f946",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "febbcddb-693b-44ce-8341-bbbc4c54aa52",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "36d98d36-5fe2-4969-a2de-30f75000de8c",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac1b0399-a7f8-416a-ae4a-7c5fa6f83320",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "be68d9dc-cc52-4bbc-b79b-2d178b89e5d3",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "89e98b79-0562-46c7-a5dc-9461bb2f1df1",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd51b577-9e8a-4c70-9ee4-dfec83ddf665",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d836b62b-a99b-46e4-83a0-3d63bd861408",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1509b1b7-3987-4123-9cd6-6c208244223c",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b972d66-3846-4807-9f56-1f59bed28487",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85f6c2cb-0e86-47c3-91d3-9ce178a1d497",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "26d666a0-ee45-4002-a028-d2715710c4b4",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f813ea7a-32d7-440b-ab0a-501e72878e11",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6263bd74-84bc-4713-8ed2-61780e3ee68e",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d1bb4737-c154-4a34-bb69-5ed013b7a709",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8771a85d-2cc9-402d-89ff-f7ed6dc785aa",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52a597a7-e9a4-42b6-8238-f3eccd3bbc84",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e48fe63b-913f-41f1-8b1b-49742872fb8b",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "572724c2-9773-4234-95dd-4768d20a4f59",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "771f8005-262a-415e-954c-3c7869f31a05",
+      "question_text": [
+        "If tan \\(\\theta\\) = \\(\\frac{5}{4}\\) find sin2\\(\\theta\\) - cos2\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "(tan \\(\\theta\\) = \\(\\frac{opp}{adj}\\)) |AB|2 = 52 + 42 \\(\\to\\) |AB|2 = 41 \\(\\to\\) AB = \\(\\sqrt{41}\\) sin2\\(\\theta\\) - cos2\\(\\theta\\) \\(\\to\\) \\(\\frac{5^2}{\\sqrt{41}}\\) - (\\(\\frac{4}{\\sqrt{41}}^2\\)) = \\(\\frac{25}{41}\\) - \\(\\frac{16}{41}\\)  = (\\(\\frac{9}{41}\\))",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{41}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "903480ac-612e-4854-bf33-153e2a19688d",
+      "question_text": [
+        "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "PN = NQ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2NQ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NQ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "NQD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "202878e5-3b26-493c-be54-8bfce7c4fb34",
+      "question_text": [
+        "Find p, q for which \\(\\begin{pmatrix} 2p & 8 \\\\ 3 & -5q \\end{pmatrix}\\)\\(\\begin{pmatrix} 1 \\\\ 2\\end{pmatrix}\\)\\(\\begin{pmatrix}24 \\\\ -17\\end{pmatrix}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "2p x 2 + 8 x 1 = 24  \\(\\to\\) 4p = 24 - 8 = 16, p = 4 3 x 1 + -5q x 2 = -17  \\(\\to\\) -10q = -17 - 3 -10q = -20 q = 2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4,2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "25772f97-eec2-4de7-8838-f2e11786b05b",
+      "question_text": [
+        "The binary operation \\(\\oplus\\) defined on the set of real numbers is such that x \\(\\oplus\\) y = \\(\\frac{xy}{6}\\) for all x, y \\(\\epsilon\\) R. Find the inverse of 20 under this operation when the identity element is 6"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "\\(\\frac{\\frac{1}{20} \\times 6}{6}\\) = \\(\\frac{6}{20}\\) x \\(\\frac{1}{6}\\) = \\(\\frac{1}{20}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{20}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cfc37439-9ed5-4cda-a51c-b642ecb98638",
+      "question_text": [
+        "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between P and r?"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "p \\(\\alpha\\) \\(\\frac{1}{q^3}\\), q \\(\\alpha\\) r2, p \\(\\alpha\\) (r2)3, p \\(\\alpha\\) \\(\\frac{1}{r^6}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p varies directly as r3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p varies directly as r6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "p varies as 6\\(\\sqrt{r}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "32054777-3524-4587-9fea-20a8ab5425bf",
+      "question_text": [
+        "a binary operation \\(\\oplus\\) o the set of rational numbers is defined as x \\(\\oplus\\) y = \\(\\frac{x^2 - y^2}{2xy}\\). Find -5 \\(\\oplus\\) 3"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "\\(\\frac{(-5)^2 - (3^2)}{2(-5)(+3)}\\) = \\(\\frac{25 - 9}{-30}\\)  = \\(\\frac{16}{-30}\\) = \\(\\frac{8}{-15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{8}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-\\(\\frac{17}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "406ac3c8-cc2c-4fa0-8687-81b5b16b4043",
+      "question_text": [
+        "If T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\), make g the subject of the formula"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "T = 2\\(\\pi\\) \\(\\sqrt{\\frac{L}{g}}\\) T2 = 4\\(\\pi^2 \\frac{L}{g}\\)  g = \\(\\frac{4\\pi ^2 L}{T}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4\\pi L^2}{T}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4\\pi^2 L^2}{T}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a68db592-d39f-4bcc-be73-a7668106f65d",
+      "question_text": [
+        "The sum of the first n positive integers is"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "Sn = \\(\\frac{n}{2}\\)(a(n - d)d)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(n + ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n \\(\\frac{1}{2}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7990cf99-2b6e-4961-b6f4-9774f77cdc0c",
+      "question_text": [
+        "If x = \\(\\begin{vmatrix} 1 & 0 & 1 \\\\ 2 & -1 & 0 \\\\ -1 & 0 & 1\\end{vmatrix}\\) and y = \\(\\begin{vmatrix} -1 & 1 & 2 \\\\ 0 & -1 & -1 \\\\ 2 & 0 & 1\\end{vmatrix}\\) find 2x - y"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "2(10 - (-1) = 3 2(2) - (0) = 4 2(-1) - (2) = -4 2(0) - (1) = -1 2(-1) - (-1) = -1 2(0) - (-1) = 1 2(10 - (20) = 0 2(0) - (-1) = 1 2(1) - (1) = 1 \\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -3 & -1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\begin{vmatrix} 3 & -1 & 0 \\\\ 4 & -1 & 1 \\\\ -4 & 1 & 1\\end{vmatrix}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c55f62ca-f83b-4a0b-9056-37696752e8d9",
+      "question_text": [
+        "If y = x2 - x - 12, find the range of values of x for which y \\(\\geq\\) 0,"
+      ],
+      "examType": "jamb",
+      "year": "2006",
+      "subject": "mathematics",
+      "pageNum": "15",
+      "explanation": "y = x2 - x - 12, let y = 0 x2 - x - 12 = 0, (x + 3)(x - 4) = 0 x = -3 or 4  ranges are -3 and 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3 \\(<",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " x \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x \\(<\\",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

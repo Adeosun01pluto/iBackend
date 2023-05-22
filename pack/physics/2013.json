@@ -1,0 +1,3727 @@
+
+[
+    {
+      "id": "61f35d43-9a67-49d0-a528-6c6d26604047",
+      "question_text": [
+        "When a brick is taken from the earth's surface to the moon, its mass"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f1d2acd8-8ad0-4805-83c2-53120873a172",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Covalent and Metallic Bonding in Solids ",
+        " Condensed Matter Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22545a45-acfc-465c-80ad-1ec24941b29b",
+      "question_text": [
+        "The energy of a photo having a wavelength of 10-10m is(h= 6.63 x 10 -34Js, c =3.0 x 10 8ms-1)"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "E = \\(\\frac{hc}{\\lambda}\\)E = \\(\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^18}{10^{-10}}\\)E = 2 x 10-15J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 x 10 -15J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.7 x 10 -13J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0 x 10 -12J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.7 x 10 -12J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2153b2ee-5d50-4c0e-8acc-536523954fb1",
+      "question_text": [
+        "Induced emfs are best explained using"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Faraday’s and Lenz’s Law ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ohm's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Faraday's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Colomb's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lenz's law",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0c9aca94-ab6a-44d3-aba5-3b8da0ce10d5",
+      "question_text": [
+        "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "First let's find zz = \\(\\frac{M}{It}\\)z = \\(\\frac{1.8}{2.5 \\times (3 \\times 60 \\times 60)}\\)Therefore, the new M equalsM = zItM = \\(\\frac{1.8 \\times 4 \\times 4.8 \\times 60 \\times 60}{2.5 \\times 3 \\times 60 \\times 60}\\)M = 4.6g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.4g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.2g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.6g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.8g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e401ea60-c9d5-4f3a-aed5-f0c0122d4c31",
+      "question_text": [
+        "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Bohr’s Solution For Hydrogen ",
+        " Atomic Physics"
+      ],
+      "explanation": "\\(E_3 = \\frac{E}{n^2}\\)\\(E_3 = \\frac{-24.8}{3^2}\\)\\(E_3 = 2.75eV\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-9.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-8.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2.75eV",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1.75eV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7324bc68-4d09-486e-b505-8e794217030c",
+      "question_text": [
+        "In photo-emission, the number of photo-electrons ejected per second depends on the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "frequency of the beam",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "work function of the metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "threshold frequency of the metal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intensity of the beam",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "150fb111-e1cd-42d5-9f0d-cb9f192aedf3",
+      "question_text": [
+        "The particle nature of light is demonstrated by the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "photoelectric effect",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "speed of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colours of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "diffraction of light",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee87c9fd-c9e5-4d33-8ace-7a53523517dd",
+      "question_text": [
+        "Which of the following obeys ohms laws?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Using Ohm’s Law ",
+        " Electric Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroytes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "diode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "797a5a49-c1a1-4e7c-b60b-de4b743426a4",
+      "question_text": [
+        "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P = 40 x 10 + 100 x 5P = 400 + 500 = 900WCost = \\(\\frac{900 \\times 10 \\times 5}{1000}\\)Cost = N45",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N90",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N45",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52b20916-7bdc-47f6-8d21-2f518090e09c",
+      "question_text": [
+        "An electric device is rated 2000W, 250V. Calculate the maximum current it can take"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Electric Power and Energy ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "I = \\(\\frac{P}{v}\\)I = \\(\\frac{2000}{250}\\)I = 8A",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "7A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b0843af9-38e1-42ff-b993-6c7fe7b54237",
+      "question_text": [
+        "When a charge moves through an electric circuit in the direction of an electric force, it"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Electric Field ",
+        " Electric Charges and Fields"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gains both potential and kinetic energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "gains potential energy and lose kinetic energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "loses potential energy and gains kinetic energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "loses both potential and kinetic energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98fabbe5-0a39-458c-ae30-f7197603780d",
+      "question_text": [
+        "To convert a galvanometer to a voltmeter, a"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Analog Meters: Galvanometers ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "high resistance is connected to it in series",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "high resistance is connected to it in parallel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "low resistance is connected to it in parallel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "low resistance is connected to it in series",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c9674e1-196a-4619-b95a-9fe358492170",
+      "question_text": [
+        "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "M = M1 x M2 = 4 x 7 = 28",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "28",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "da6a2760-1cba-424e-adda-e284e60ac0f4",
+      "question_text": [
+        "The angle of deviation of light of various colours passing through a triangular prism increases in the order"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Dispersion: The Rainbow and Prisms ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "red → green → blue",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "green → violet → blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "blue → red → green",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "blue → green → red",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "921e15b0-6a91-4592-bdea-f38adeefb089",
+      "question_text": [
+        "Calculate the force acting on an electron of charge 1.5 x 10-19C placed in an electric field of intensity 105Vm-1"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Concept of a Field ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "F = qEF = 1.5 x 10-19 x 105F = 1.5 x 10-14N",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.5x10-11N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.5x10-12N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.5x10-13N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.5x10-14N",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c8de0b00-d72c-48ef-b962-4013cd3e28a6",
+      "question_text": [
+        "Capacitors are used in the induction coil to"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Applications of Electromagnetic Induction ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "control circuits",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "prevent distortion of electric fields",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "prevent electric sparks",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "dissipate energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5061435c-d776-491d-9124-c04b73cf88e3",
+      "question_text": [
+        "A cell of emf 1.5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "explanation": "r = \\(\\frac{E}{I} - R\\)r = \\(\\frac{1.5}{0.3} - 1\\)r = 4\\(\\Omega\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.0Ω",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.0Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.5Ω",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.0Ω",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ff5af6c-2fb2-4251-86b5-55e77d111caf",
+      "question_text": [
+        "What is the velocity of sound at 100 oC if the velocity of sound at 0 oC is 340ms -1?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Characteristics of a Sound Wave ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "497m-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "440m-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "397m-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "240m-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "15b0ba3a-6963-490d-a98b-75d4a5962fac",
+      "question_text": [
+        "If a sonometer has a fundamental frequency of 450HZ, what is the frequency of the fifth overtone?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Sound Interference and Resonance ",
+        " Sound and the Physics of Hearing"
+      ],
+      "explanation": "5th Overtone = 6fo = 6 x 450 = 2700Hz",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2700Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "456Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "444Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "75Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2642585a-c360-4cc7-9167-f4ef8cdd5d7b",
+      "question_text": [
+        "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Hot Air Balloon ",
+        " One-Dimensional Motion"
+      ],
+      "explanation": "\\(h_i = \\frac{h_o \\times V}{u}\\)\\(h_i = \\frac{1.5 \\times 0.1}{3}\\)= 0.05m",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.05m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.15m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.30m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.00m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24079d7d-db6a-4aad-9d85-04b48286e9a7",
+      "question_text": [
+        "A ray of light passing through the centre of curvature of a concave mirror is reflected by the mirror at"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "45o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "90o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "180o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2b6171c-a1a8-44e9-b728-67c71d902865",
+      "question_text": [
+        "Total internal reflection will not occur when light travels from"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Total Internal Reflection ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water to air",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "water into glass",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "glass to air",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glass into water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bea37b3f-f8fe-4424-b84c-47ffd9ff917b",
+      "question_text": [
+        "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "It will be more than 100 oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "It will be last than 100 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "It will still be at 100 oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "It will be fluctuating",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d93d934-b9ed-46ab-814d-11462678d806",
+      "question_text": [
+        "The rise or fall of a liquid in a narrow tube is because of the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Adhesion and Capillary Action ",
+        " Fluid Statics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "viscosity of the liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "surface tension of the liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "friction between the walls of the tube and the liquid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "osmotic pressure of the liquid",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c7c8e15e-226b-48c5-b45a-aa27d2f521d5",
+      "question_text": [
+        "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Heat Transfer Methods ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covection",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "conduction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "radiation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "diffusion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba96c155-c86c-476d-89f1-d45917f9a386",
+      "question_text": [
+        "A wave that travels through stretched strings is known as"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electromagnetic wave",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "micro wave",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "mechanical wave",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "seismic wave",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64d939cd-1a80-4fcf-9f75-87c4f8d7f71a",
+      "question_text": [
+        "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Introducing Longitudinal Waves ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "frequency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "amplitude",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "direction of vibration of the particles of the medium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "period of vibration of the particles of the medium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78788ea3-fc41-4ec9-82b7-93cd31440c0a",
+      "question_text": [
+        "A wire of length 100.0m at 30o has linear expansive of 2x10-5K-1 Calculate the length of the wire at a temperature of - 10oC"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Magnetic Field Created by a Long Straight Current-Carrying Wire ",
+        " Magnetism"
+      ],
+      "explanation": "\\(L_2 = L_1 + \\alpha(\\theta_2 - \\theta_1)\\)= 100 + 0.00002(-10-30) = 99.92",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100.08m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100.04m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "99.96m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "99.92m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e77eda4b-f14c-4f91-835b-71a74c398666",
+      "question_text": [
+        "A gas at a pressure of 105Nm-2expands from 0.6m-3 to 1.2m3 at constant temperature, the work done is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "pv Diagrams and Their Relationship to Work Done On Or by a Gas ",
+        " Thermodynamics"
+      ],
+      "explanation": "W = \\(\\frac{W_1 \\times V_1}{V_2}\\)W = \\(\\frac{10 \\times 0.6}{1.2}\\)W = 6.0 x 10 4J",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7.0 x 106J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0 x 10 6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0 x 10 5J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.0 x 10 4J",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "450d8309-0fa7-4834-b4d3-d90d9dc515f5",
+      "question_text": [
+        "Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of X to that of Y is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "MC\\(x \\theta\\) = MC\\(y \\theta\\)2C = C2 : 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2:1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1:4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0888f962-0f11-4991-a7d0-f7ab6c48a916",
+      "question_text": [
+        "Food cook quicker in salt water than in pure water because of the effect of"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "Water impurities (such as salt water) boils at higher temperature than pure water. This helps to cook the food quicker.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "dissolved substances on the boiling point",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "atmospheric pressure on the boiling point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "food nutrients on the thermal energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "salts on the thermal conductivity of water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "001c2ca0-22eb-49db-9b7d-a30b27107872",
+      "question_text": [
+        "Steam from boiling water causes more damage on the skin than does boiling water because"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Equilibrium ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "water has a high specific heat",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "steam has latent heat of fusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the steam is at a highter temperature than the water",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "steam brings heat more easily by convection",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23a57cd6-d947-4709-9214-862e7281c03f",
+      "question_text": [
+        "What effort will a machine of efficiency 90% apply to lift a load of 180N if its efforts arm is twice as long as its load arm?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Normal Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "M.A. = \\(\\frac{Eff \\times V.R.}{100}\\)M.A. = \\(\\frac{90 \\times 2}{100}\\)M.A. = 1.8E = \\(\\frac{L}{M.A.}\\)E = \\(\\frac{180}{1.8}\\)E = 100N",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "80N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "90N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "100N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "120N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c7bf624-a6d4-4c91-a468-e39c744f17bf",
+      "question_text": [
+        "Calculate the work done when a force of 20N stretches a spring by 50mm."
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Potential Energy of a Spring ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "W = \\(\\frac{1}{2}Fe\\)W = \\(\\frac{1}{2}\\times 20 \\times 0.05\\)W = 0.5J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.5J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.5J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3defa0d-ddac-48f0-9bd3-dec10b26028a",
+      "question_text": [
+        "At what depth below the sea-level would one experience a change of pressure equal to one atmosphere? Density of sea water = 1013kg-3, one atmosphere = 0.01 x 105Nm-2, g = 10ms-2"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Variation of Pressure With Depth in a Fluid ",
+        " Fluid Statics"
+      ],
+      "explanation": "H = \\(\\frac{P}{e_g}\\)H = \\(\\frac{1.01 \\times 10^5}{1013 \\times 10}\\)H = 9.97",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.1m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10.0m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "100.0m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "369a27f5-6128-4f53-b874-0caa7c9889b6",
+      "question_text": [
+        "What volume of alcohol will have same mass as 4.2m-3 of petrol?Density of alcohol = 8.4 x 102kgm-3, density of petrol =7.2x103kgm-3"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Density ",
+        " Fluid Statics"
+      ],
+      "explanation": "Mp = ep x VpMp = 7.2 x 102 x 4.2 = 3024VA = \\(\\frac{M}{e_A}\\)VA = \\(\\frac{3024}{8.4 \\times 10^2}\\)VA = 3.6",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.8m3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.4m3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.6m3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "49.m3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4624063e-5501-405f-a494-62f566b0d972",
+      "question_text": [
+        "Calculate the length which corresponds to a temperature of 20oC if the ice and steam points of an unguarded thermometer are 400 mm apart"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Temperature ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "At 100oC = 400Therefore,At 20oC = \\(\\frac{400}{100} \\times \\frac{20}{1}\\) = 80",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "60mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80mm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2bb7e46c-affa-4d3d-8239-4491055d0123",
+      "question_text": [
+        "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5ms-2. [g = 10ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Further Applications of Newton’s Laws of Motion ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "Wt loss = mg - m (g - a)= 70 x 10 - 70 (10 - 1.5) = 105N",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "686N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "595N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "581N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "105N",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8b4fb421-5c07-4078-bd1b-3488411c439e",
+      "question_text": [
+        "A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid? [Density of the cork = 0.25 x 103kgm-3, Density of the liquid = 1.25 x 103kgm-3]"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Density and Archimedes’ Principle ",
+        " Fluid Statics"
+      ],
+      "explanation": "\\(\\frac{0.25 \\times 10^3} {1.25 \\times 10^3}\\) = 0.2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "60e5eec1-7d04-45d4-962f-874133b04bf4",
+      "question_text": [
+        "An object is moving with a velocity of 5m-1. At what height must a similar body be situated to have a potential energy equal in value with kinetic energy of the moving body?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Converting Between Potential Energy and Kinetic Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "P.E = K.ETherefore, h = \\(\\frac{v^2}{2g} = \\frac{5^2}{2 \\times 10}\\)= 1.25Approx 1.3 (C)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.3m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.0m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94d37b5d-0aaf-4952-b1ed-1f9b5bf54456",
+      "question_text": [
+        "If a pump is capable of lifting 5000kg of water through a vertical height of 60m in 15 min, the power of the pump is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Power in Fluid Flow ",
+        " Fluid Dynamics and Applications"
+      ],
+      "explanation": "P = \\(\\frac{mgh}{t}\\)P = \\(\\frac{5000 \\times 10 \\times 60}{(15 \\times 60)s}\\)P = 3333.3333P = 3.3 x 103js-1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.2.5 x 10 5js-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5 x 104js-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.3 x 103js-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.3 x 102js-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dfaaf9a6-51fd-47f7-8afd-c6bbb8478e9b",
+      "question_text": [
+        "The coefficient of friction between two perfectly smooth surface is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "More Static Friction Examples ",
+        " Newton's Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "infinity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "one",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "half",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "zero",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "52969505-8ebb-4498-bbef-7cf0b012d806",
+      "question_text": [
+        "When a brick is taken from the earth's surface to the moon, its mass"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Earth’s Magnetic Field Continued ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "remains constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "becomes zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "83bcaf0e-b01a-47e2-8f31-429cf7a745c2",
+      "question_text": [
+        "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle 0f 30o with the resultant, find its magnitude."
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Resultant Vector ",
+        " Vectors and Scalars"
+      ],
+      "explanation": "F = 50Cos30o = 43.3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100.0N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "57.7N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "43.3N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25.0N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c7cfeaa5-d834-4d21-b694-8cb34e9dde76",
+      "question_text": [
+        "The pair of physical quantities that are scalar only are ?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Scalars and Vectors ",
+        " Vectors and Scalars"
+      ],
+      "explanation": "This is because volume and the area have only magnitude but no direction",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "volume and area",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "moment and momentum",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "length and displacement",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Impulse and time",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "318476b2-c408-4a05-98b6-956d03c5ad96",
+      "question_text": [
+        "A simple pendulum of length 0.4m has a period of 2s. What is the period a similar pendulum of length 0.8m at the same place?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "T2 = \\(\\sqrt{\\frac{L^2  \\times  T_1^2}{L_1}}\\)= \\(\\sqrt{\\frac{0.8  \\times  2^2}{0.4}}\\)= 2\\(\\sqrt{2}s\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2\\(\\sqrt{2}s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "464ce6cf-4519-4a8a-956f-0bf405c84038",
+      "question_text": [
+        "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2m-2. The time required to bring the train to a complete halt is?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "More Examples on Subway Train Motion ",
+        " One-Dimensional Kinematics"
+      ],
+      "explanation": "t = \\(\\frac{v - u}{a}\\)  = \\(\\frac{0 - 20}{-2}\\) = 10s",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df6abfbd-4da8-4423-8f78-377cffda3cdb",
+      "question_text": [
+        "When a brick is taken from the earth's surface to the moon, its mass"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19eef227-1e51-40a5-a467-27c9a0d4e6be",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Covalent and Metallic Bonding in Solids ",
+        " Condensed Matter Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "88830862-6745-4cd5-8f16-f88ada492881",
+      "question_text": [
+        "The energy of a photo having a wavelength of 10-10m is(h= 6.63 x 10 -34Js, c =3.0 x 10 8ms-1)"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "E = \\(\\frac{hc}{\\lambda}\\)E = \\(\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^18}{10^{-10}}\\)E = 2 x 10-15J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 x 10 -15J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.7 x 10 -13J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0 x 10 -12J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.7 x 10 -12J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a7e4616b-fee9-4359-bb6e-fea6cd655a5b",
+      "question_text": [
+        "Induced emfs are best explained using"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Faraday’s and Lenz’s Law ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ohm's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Faraday's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Colomb's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lenz's law",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "116de2eb-1e9c-4b60-a222-621f9182bbf9",
+      "question_text": [
+        "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "First let's find zz = \\(\\frac{M}{It}\\)z = \\(\\frac{1.8}{2.5 \\times (3 \\times 60 \\times 60)}\\)Therefore, the new M equalsM = zItM = \\(\\frac{1.8 \\times 4 \\times 4.8 \\times 60 \\times 60}{2.5 \\times 3 \\times 60 \\times 60}\\)M = 4.6g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.4g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.2g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.6g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.8g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4cfbee08-1815-4b14-9923-529c91d6b304",
+      "question_text": [
+        "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Bohr’s Solution For Hydrogen ",
+        " Atomic Physics"
+      ],
+      "explanation": "\\(E_3 = \\frac{E}{n^2}\\)\\(E_3 = \\frac{-24.8}{3^2}\\)\\(E_3 = 2.75eV\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-9.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-8.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2.75eV",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1.75eV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba314392-ad99-4da6-bdf5-8b25364010cc",
+      "question_text": [
+        "In photo-emission, the number of photo-electrons ejected per second depends on the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "frequency of the beam",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "work function of the metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "threshold frequency of the metal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intensity of the beam",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ef74a17-7416-4d5c-a514-93a7fb4ac7b4",
+      "question_text": [
+        "The particle nature of light is demonstrated by the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "photoelectric effect",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "speed of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colours of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "diffraction of light",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b0b74277-ae0e-4cb0-80d8-a37e0d37051a",
+      "question_text": [
+        "Which of the following obeys ohms laws?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Using Ohm’s Law ",
+        " Electric Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroytes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "diode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee59124a-182d-417f-b39e-f539c81abf3d",
+      "question_text": [
+        "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P = 40 x 10 + 100 x 5P = 400 + 500 = 900WCost = \\(\\frac{900 \\times 10 \\times 5}{1000}\\)Cost = N45",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N90",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N45",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eff72ce6-57d7-452d-b95e-8af66f15d38f",
+      "question_text": [
+        "When a brick is taken from the earth's surface to the moon, its mass"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "efa1dc15-5f8a-42f3-a3fc-d14eee214d08",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Covalent and Metallic Bonding in Solids ",
+        " Condensed Matter Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "47d6334f-4568-408e-a453-5d13b6a32d17",
+      "question_text": [
+        "The energy of a photo having a wavelength of 10-10m is(h= 6.63 x 10 -34Js, c =3.0 x 10 8ms-1)"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "E = \\(\\frac{hc}{\\lambda}\\)E = \\(\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^18}{10^{-10}}\\)E = 2 x 10-15J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 x 10 -15J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.7 x 10 -13J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0 x 10 -12J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.7 x 10 -12J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8c535d0d-e4a2-4fb4-b448-5ecd8435119a",
+      "question_text": [
+        "Induced emfs are best explained using"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Faraday’s and Lenz’s Law ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ohm's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Faraday's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Colomb's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lenz's law",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "70e2c46a-cb75-42f0-a597-907cf8ead4ef",
+      "question_text": [
+        "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "First let's find zz = \\(\\frac{M}{It}\\)z = \\(\\frac{1.8}{2.5 \\times (3 \\times 60 \\times 60)}\\)Therefore, the new M equalsM = zItM = \\(\\frac{1.8 \\times 4 \\times 4.8 \\times 60 \\times 60}{2.5 \\times 3 \\times 60 \\times 60}\\)M = 4.6g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.4g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.2g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.6g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.8g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "039a5637-add4-4472-8aae-d703f4c5e3b0",
+      "question_text": [
+        "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Bohr’s Solution For Hydrogen ",
+        " Atomic Physics"
+      ],
+      "explanation": "\\(E_3 = \\frac{E}{n^2}\\)\\(E_3 = \\frac{-24.8}{3^2}\\)\\(E_3 = 2.75eV\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-9.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-8.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2.75eV",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1.75eV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aea5350f-0a05-4f71-9f59-64afc20ec1a7",
+      "question_text": [
+        "In photo-emission, the number of photo-electrons ejected per second depends on the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "frequency of the beam",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "work function of the metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "threshold frequency of the metal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intensity of the beam",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2962fbc-ae3e-4876-afef-942f9664b4a3",
+      "question_text": [
+        "The particle nature of light is demonstrated by the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "photoelectric effect",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "speed of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colours of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "diffraction of light",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "10183745-8511-4550-8318-84403b273c17",
+      "question_text": [
+        "Which of the following obeys ohms laws?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Using Ohm’s Law ",
+        " Electric Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroytes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "diode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ed6f1f92-fe81-4ccb-8c41-2004cf9e0c2d",
+      "question_text": [
+        "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P = 40 x 10 + 100 x 5P = 400 + 500 = 900WCost = \\(\\frac{900 \\times 10 \\times 5}{1000}\\)Cost = N45",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N90",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N45",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30383b3e-daf0-41a2-8a85-0db58704a453",
+      "question_text": [
+        "When a brick is taken from the earth's surface to the moon, its mass"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e465887-10d0-473f-83ac-eb85020646bc",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Covalent and Metallic Bonding in Solids ",
+        " Condensed Matter Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b4ffaca-970c-49e0-a2b0-705092dbbea4",
+      "question_text": [
+        "The energy of a photo having a wavelength of 10-10m is(h= 6.63 x 10 -34Js, c =3.0 x 10 8ms-1)"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "E = \\(\\frac{hc}{\\lambda}\\)E = \\(\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^18}{10^{-10}}\\)E = 2 x 10-15J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 x 10 -15J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.7 x 10 -13J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0 x 10 -12J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.7 x 10 -12J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca12665b-351a-45d8-8139-f11bdd6ccb46",
+      "question_text": [
+        "Induced emfs are best explained using"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Faraday’s and Lenz’s Law ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ohm's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Faraday's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Colomb's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lenz's law",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fd9dde1f-4133-4e4a-a6c5-9442f93a115e",
+      "question_text": [
+        "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "First let's find zz = \\(\\frac{M}{It}\\)z = \\(\\frac{1.8}{2.5 \\times (3 \\times 60 \\times 60)}\\)Therefore, the new M equalsM = zItM = \\(\\frac{1.8 \\times 4 \\times 4.8 \\times 60 \\times 60}{2.5 \\times 3 \\times 60 \\times 60}\\)M = 4.6g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.4g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.2g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.6g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.8g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf8c9c35-aaa1-48cd-98b4-cd23464334ad",
+      "question_text": [
+        "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Bohr’s Solution For Hydrogen ",
+        " Atomic Physics"
+      ],
+      "explanation": "\\(E_3 = \\frac{E}{n^2}\\)\\(E_3 = \\frac{-24.8}{3^2}\\)\\(E_3 = 2.75eV\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-9.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-8.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2.75eV",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1.75eV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e5355d1-0df3-4a9c-b6ff-95f752eb47cd",
+      "question_text": [
+        "In photo-emission, the number of photo-electrons ejected per second depends on the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "frequency of the beam",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "work function of the metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "threshold frequency of the metal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intensity of the beam",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb8c1d5e-aa83-4ceb-a1bc-21e376f75559",
+      "question_text": [
+        "The particle nature of light is demonstrated by the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "photoelectric effect",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "speed of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colours of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "diffraction of light",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ead31f3-9401-4b23-b399-0f6235b840fa",
+      "question_text": [
+        "Which of the following obeys ohms laws?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Using Ohm’s Law ",
+        " Electric Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroytes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "diode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a404547-b0fa-4871-9f6e-52ab4f7a1a00",
+      "question_text": [
+        "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P = 40 x 10 + 100 x 5P = 400 + 500 = 900WCost = \\(\\frac{900 \\times 10 \\times 5}{1000}\\)Cost = N45",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N90",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N45",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b245c870-0a70-4b8b-922a-9e19b647ef54",
+      "question_text": [
+        "When a brick is taken from the earth's surface to the moon, its mass"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "04328153-863a-48d9-b33a-1a794e62d8d6",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Covalent and Metallic Bonding in Solids ",
+        " Condensed Matter Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fef7194e-e839-4d16-a716-da2313d0325a",
+      "question_text": [
+        "The energy of a photo having a wavelength of 10-10m is(h= 6.63 x 10 -34Js, c =3.0 x 10 8ms-1)"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "E = \\(\\frac{hc}{\\lambda}\\)E = \\(\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^18}{10^{-10}}\\)E = 2 x 10-15J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 x 10 -15J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.7 x 10 -13J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0 x 10 -12J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.7 x 10 -12J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2ba397e-53e8-4c07-a28a-32485fc88983",
+      "question_text": [
+        "Induced emfs are best explained using"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Faraday’s and Lenz’s Law ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ohm's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Faraday's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Colomb's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lenz's law",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a95eddce-393d-4558-8125-e7543a438a9e",
+      "question_text": [
+        "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "First let's find zz = \\(\\frac{M}{It}\\)z = \\(\\frac{1.8}{2.5 \\times (3 \\times 60 \\times 60)}\\)Therefore, the new M equalsM = zItM = \\(\\frac{1.8 \\times 4 \\times 4.8 \\times 60 \\times 60}{2.5 \\times 3 \\times 60 \\times 60}\\)M = 4.6g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.4g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.2g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.6g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.8g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "473a8ab1-e0c7-49fd-9b13-63a40e76837e",
+      "question_text": [
+        "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Bohr’s Solution For Hydrogen ",
+        " Atomic Physics"
+      ],
+      "explanation": "\\(E_3 = \\frac{E}{n^2}\\)\\(E_3 = \\frac{-24.8}{3^2}\\)\\(E_3 = 2.75eV\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-9.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-8.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2.75eV",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1.75eV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8c945fa-a2b3-4adb-98b0-62fc15805678",
+      "question_text": [
+        "In photo-emission, the number of photo-electrons ejected per second depends on the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "frequency of the beam",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "work function of the metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "threshold frequency of the metal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intensity of the beam",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3daafe70-e464-468b-b6ea-d8d36361c682",
+      "question_text": [
+        "The particle nature of light is demonstrated by the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "photoelectric effect",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "speed of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colours of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "diffraction of light",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0afa1e3a-3a0d-4ccd-80c3-4404f94bede5",
+      "question_text": [
+        "Which of the following obeys ohms laws?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Using Ohm’s Law ",
+        " Electric Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroytes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "diode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a7b6268f-54b5-466b-bb78-fba6463f18f1",
+      "question_text": [
+        "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P = 40 x 10 + 100 x 5P = 400 + 500 = 900WCost = \\(\\frac{900 \\times 10 \\times 5}{1000}\\)Cost = N45",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N90",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N45",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5372db71-05de-48f5-a607-00c43a295624",
+      "question_text": [
+        "When a brick is taken from the earth's surface to the moon, its mass"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains constant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Reduces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7db72beb-cbf5-42ea-a9ef-aaf537eda33d",
+      "question_text": [
+        "The bond between silicon and germanium is"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Covalent and Metallic Bonding in Solids ",
+        " Condensed Matter Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "trivalent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "dative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ionic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00f26417-f0c1-4b89-832d-c628c0089bed",
+      "question_text": [
+        "The energy of a photo having a wavelength of 10-10m is(h= 6.63 x 10 -34Js, c =3.0 x 10 8ms-1)"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Scientific Notation ",
+        " Skills for Science"
+      ],
+      "explanation": "E = \\(\\frac{hc}{\\lambda}\\)E = \\(\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^18}{10^{-10}}\\)E = 2 x 10-15J",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 x 10 -15J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.7 x 10 -13J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0 x 10 -12J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.7 x 10 -12J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "caf21d50-4cff-4460-b542-72ec54480190",
+      "question_text": [
+        "Induced emfs are best explained using"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Faraday’s and Lenz’s Law ",
+        " Electromagnetic Induction and AC Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ohm's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Faraday's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Colomb's law",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Lenz's law",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f2544996-05e4-4822-8f32-5e0357c5b0b1",
+      "question_text": [
+        "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "First let's find zz = \\(\\frac{M}{It}\\)z = \\(\\frac{1.8}{2.5 \\times (3 \\times 60 \\times 60)}\\)Therefore, the new M equalsM = zItM = \\(\\frac{1.8 \\times 4 \\times 4.8 \\times 60 \\times 60}{2.5 \\times 3 \\times 60 \\times 60}\\)M = 4.6g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.4g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.2g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.6g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.8g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc282061-1760-481d-85cf-c9adc2284bf2",
+      "question_text": [
+        "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Bohr’s Solution For Hydrogen ",
+        " Atomic Physics"
+      ],
+      "explanation": "\\(E_3 = \\frac{E}{n^2}\\)\\(E_3 = \\frac{-24.8}{3^2}\\)\\(E_3 = 2.75eV\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-9.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-8.20eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2.75eV",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-1.75eV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2127693e-0704-494d-bf27-f710d85fc8f7",
+      "question_text": [
+        "In photo-emission, the number of photo-electrons ejected per second depends on the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Introduction to Quantum Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "frequency of the beam",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "work function of the metal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "threshold frequency of the metal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intensity of the beam",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b83fcc6-ab4c-41ba-a3fe-f44fcd8bc4f2",
+      "question_text": [
+        "The particle nature of light is demonstrated by the"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Photoelectric Effect ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "photoelectric effect",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "speed of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "colours of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "diffraction of light",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09247c74-b652-4004-be64-410f5af7768b",
+      "question_text": [
+        "Which of the following obeys ohms laws?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "Using Ohm’s Law ",
+        " Electric Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electroytes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "metals",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "diode",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "glass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9cbcf5a9-28da-4133-b36b-4266ffeafa5b",
+      "question_text": [
+        "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?"
+      ],
+      "examType": "jamb",
+      "year": "2013",
+      "subject": "physics",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Cost of Electricity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "P = 40 x 10 + 100 x 5P = 400 + 500 = 900WCost = \\(\\frac{900 \\times 10 \\times 5}{1000}\\)Cost = N45",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N90",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N45",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N5",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

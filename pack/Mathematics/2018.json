@@ -1,0 +1,2287 @@
+
+[
+    {
+      "id": "20e609e2-4479-4148-8b1c-7e9d9f9a7e56",
+      "question_text": [
+        "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "No of students in class = 40 (M) No of students who offer mathematics = 32 - x (P) No of students who offer physics = 24 - x (N) No of students who offer neither mathematics nor physics = 4 (B) No of student who offer both = x Total no of students = M + P + N + B 40 = 32 - x + 24 - x + 4 + x 40 = 32 + 24 + 4 - x 40 = 60 - x x = 60 - 40 x = 20",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "388aa6e7-0968-459c-bd43-6b0b985489ba",
+      "question_text": [
+        "Find the values of x for which\\(\\cfrac {x+2}{4} - \\cfrac{2x - 3}{3} < 4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\cfrac {x+2}{4} - \\cfrac{2x - 3}{3} < 4\\) \\(\\cfrac {3x+6-(8x-12)}{12} < 4\\) \\(\\cfrac {-5x+18}{12} < 4\\) \\(-5x + 18 < 48\\) \\(-5x < 30\\) \\(x > -6\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b725c8ab-cb74-472c-8235-b73f9a057ebe",
+      "question_text": [
+        "If \\(\\text{N} = \\begin{pmatrix} 3 & 5 & -4 \\\\ 6 & -3 & -5 \\\\ -2 & 2 & 1 \\\\ \\end{pmatrix}\\), find |N|."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "3[(-3 × 1) - (2 × -5)] - 5[(6 × 1) - (-5 × -2)] + (-4)[(6 × 2) - (-3 × -2)] 3(-3 + 10) - 5(6 - 10) - 4(12 - 6) 3(7) - 5(-4) - 4(6) = 17",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "65",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "23",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "17",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "91",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f19c4931-5a92-4ea2-a3d0-f49b0ccc510e",
+      "question_text": [
+        "If X, Y can take values from the set (1, 2, 3 ,4), find the probability that the product of X and Y is not greater than 6."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Each multiplication of elements gives 16 results out of which the ones that are not greater than 6 are asterisked (*) and they are 8 in numbersPr(product of x and y NOT > 6) = \\(\\frac{8}{16}\\) = \\(\\frac{1}{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{5}{8}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{16}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9cfea47d-5cad-45b7-a75a-e8175b452107",
+      "question_text": [
+        "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is ₦7200?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "No pie chart given.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦1000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦3000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦4000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e2a5f82-eea9-42f6-b07b-2f312cdf8ed1",
+      "question_text": [
+        "Evaluate 5\\(^{-3}\\) log\\(^2\\) \\(\\times\\) 2 \\(^{2 \\log 3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{1}{8}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1\\(\\frac{1}{8}\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3025a8c8-d584-4601-b464-53d91a2ba70e",
+      "question_text": [
+        "A trader realises 10x - x\\(^2\\) Naira profit from the sale of x bags of corn. How many bags will give him the maximum profit?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Profit (P) = \\(10x - x^2\\)Maximum profit can be achieved when the differential of profit with respect to number of bags(x) is 0i.e. \\(\\cfrac{\\delta p}{\\delta x}\\) = 0\\(\\cfrac{\\delta p}{\\delta x}\\) = 10 - 2x = 010 = 2xThen x = \\(\\cfrac{10}{2}\\) = 5",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc74293c-0f93-463d-a5e2-9cf18abd106f",
+      "question_text": [
+        "If y = 23\\(_{\\text{five}}\\) + 101\\(_{\\text{three}}\\), find y, leaving your answer in base two"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "23\\(_{\\text{five}}\\) + 101\\(_{\\text{three}}\\) = 13\\(_{\\text{ten}}\\) + 10\\(_{\\text{ten}}\\) = 23\\(_{\\text{ten}}\\) = 10111\\(_{\\text{two}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1110",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10111",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "11101",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "111100",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc56a666-4dff-438d-bec0-4abdf66c1c51",
+      "question_text": [
+        "Find the value of x in the diagram."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/math_1.jpeg",
+      "explanation": "The diagram shows angles at a point, the total angle at a point is 360x - 10 + 4x - 50 + 2x + 3x + 20 = 36010x - 40 = 36010x = 360 + 4010x = 400x = \\(\\cfrac{400}{10}\\)x = 40",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "28°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "40°",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1f070c03-6884-4eb7-9a3d-7d88bd878099",
+      "question_text": [
+        "Solve for t in the equation \\(\\frac{3}{4}\\)t + \\(\\frac{1}{3}\\)(21 - t) = 11"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{3}{4}\\) t + \\(\\frac{1}{3}\\) (21 - t) = 11Multiply through by the LCM of 4 and 3 which is 1212 x(\\(\\frac{3}{4}\\) t) + 12 x (\\(\\frac{1}{3}\\) (21 - t)) = (11 x 12)9t + 4(21 - t) = 1329t + 84 - 4t = 1325t + 84 = 1325t = 132 - 84 = 48t = \\(\\frac{48}{5}\\)t = 9 \\(\\frac{3}{5}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{13}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{7}{13}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dd71d5eb-e3c5-4bc5-a304-5ca40466db04",
+      "question_text": [
+        "A school girl spends \\(\\frac{1}{4}\\) of her pocket money on books and \\(\\frac{1}{3}\\) on dress. What fraction remains?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\cfrac{1}{4} + \\cfrac{1}{3} + \\cfrac{x}{1} = 1\\) \\(\\cfrac{3+4+12x}{12} = 1\\) \\(7+12x=12\\) \\(12x = 12 - 7 = 5\\) \\(x = \\cfrac{5}{12}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{5}{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{7}{12}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18c8e9b4-d63d-4a92-9d78-ff6c5646b0f0",
+      "question_text": [
+        "If \\(\\frac{x}{a + 1}\\) + \\(\\frac{y}{b}\\) = 1. Make y the subject of the relation."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\cfrac{x}{a+1}+\\cfrac{y}{b} = 1\\) \\(\\cfrac{bx+y(a+1)}{b(a+1)} = 1\\) \\(bx + y(a+1) = ba+b\\) \\(y(a+1) = ba+b-bx\\) \\(y = \\cfrac{ba+b-bx}{a+1}\\) \\(y = \\cfrac{b(a+1-x)}{a+1}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{b(a + 1 - ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "}{a + 1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{a + 1}{b(a - x + 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d84bf008-0922-453a-8b2e-22af1f465c75",
+      "question_text": [
+        "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Total surface area of a cupboard is given by the equation A = 2(lb + bh + lh) L = 12, b = 10, h = 8A = 2((12 \\(\\times\\) 10) + (10 \\(\\times\\) 8) + (12 \\(\\times\\) 8))A = 2(120 + 80 + 96)A = 2 \\(\\times\\) 296A = 592cm\\(^2\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1920cm\\(^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "592cm\\(^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4679b5cc-d039-49e6-a07d-d319fe1913f0",
+      "question_text": [
+        "Convert 0.04945 to two significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "0.04945 to two significant figures is 0.049.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.040",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.049",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.050",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.49",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c53a84a-0286-4986-adb7-9c8eb0461c1f",
+      "question_text": [
+        "From a point R, 300m north of P, a man walks eastward to a place Q which is 600m from P. Find the bearing of P from Q, correct to the nearest degree"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\sin y = \\cfrac{300\\text{ m}}{600\\text{ m}} = \\cfrac{1}{2}\\) \\(y = \\sin^{-1} 0.5\\) \\(y = 30^{\\circ}\\) \\(x = 180^{\\circ} + (90^{\\circ} - 30^{\\circ})\\) \\(x = 180^{\\circ} + 60^{\\circ}\\) \\(x = 240^{\\circ}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "026°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "045°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "210°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "240°",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b3b3b352-479b-4bd0-b7e3-4596bb20e9f5",
+      "question_text": [
+        "The probabilities that John and James pass an examination are \\(\\frac {3}{4}\\)and \\(\\frac {3}{5}\\) respectively. Find the probability of both boys failing the examination."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Pr(both John and James passed)= \\(\\frac {3}{4}\\) x \\(\\frac {3}{5}\\)= \\(\\frac {9}{20}\\)Pr(John and James failed)= 1 - Pr(John and James passed)1 – \\(\\frac {9}{20}\\)= \\(\\frac {11}{20}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac {1}{10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac {2}{10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "001f3801-90c7-4e6e-aded-5e3698292cb6",
+      "question_text": [
+        "An arc of a circle of radius 14cm subtends angle 300° at the centre. Find the perimeter of the sector formed by the arc (take π = \\(\\frac{22}{7}\\))"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Perimeter of sector = \\(\\left(\\cfrac{\\theta}{360^{\\circ}} \\times 2\\pi r\\right) + 2r\\) = \\(\\left(\\cfrac{\\theta}{360^{\\circ}} \\times 2 \\times \\cfrac{22}{7} \\times 14\\right) + 28\\) = \\(\\left(\\cfrac{5}{6} \\times 2 \\times \\cfrac{22}{7} \\times 14\\right) + 28\\) = 73.33 + 28 = 101.33cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14.67cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "42.67cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "101.33cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "513.33cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9eb848b0-c048-42ac-9b07-2793ac17c599",
+      "question_text": [
+        "Simplify\\(\\frac {25 \\frac{2}{3} +  25 \\frac{1}{6}} {(\\frac{1}{5}) \\frac{7}{6} \\times (\\frac{1}{5}) \\frac{1}{6}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19aabb61-d07f-42da-aeb5-cdcede39a044",
+      "question_text": [
+        "\\(\\text{P} = \\left[\\cfrac{\\mathrm{Q(R - T)}}{15}\\right]^\\frac{1}{3}\\)Make T the subject of the relation."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\text{P} = \\left[ \\cfrac{\\mathrm{Q(R-T)}}{15} \\right]^{\\frac{1}{3}}\\) \\(\\text{P}^3 = \\cfrac{\\mathrm{Q(R-T)}}{15}\\) \\(15\\text{P}^3 = \\mathrm{Q(R-T)}\\) \\(\\cfrac{15\\text{P}^3}{\\text{Q}} = \\mathrm{R-T}\\) \\(\\text{T} = \\text{R}-\\cfrac{15\\text{P}^3}{\\text{Q}}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\text{T} = \\frac{\\text{R} + \\text{P3}}{15\\text{Q}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\text{T} = \\frac{\\text{R} - 15\\text{P}^3}{\\text{Q}}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "014025df-f757-434f-b306-ee140b5c1975",
+      "question_text": [
+        "What is the place value of 9 in the number 3.0492?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Place value is the numerical value that a digit has by virtue of its position in a number.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{9}{10000}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{9}{1000}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "82b521da-3d3c-4087-bef6-207b1fe08a09",
+      "question_text": [
+        "If the simple interest on a sum of money invested at 3% per annum for 2\\(\\frac{1}{2}\\)  years is ₦123, find the principal."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\text{S.I} = \\cfrac{\\text{PTR}}{100}\\) \\(\\text{P} = \\cfrac{100 \\times \\text{S.I}}{\\text{TR}}\\) \\(\\text{P} = \\cfrac{100 \\times ₦123}{2.5 \\times 3}\\) \\(= ₦1640\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦676.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦820",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,640",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦4,920",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85b8cd48-7351-4d30-bfd5-75f92fc1256a",
+      "question_text": [
+        "A machine valued at N20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Since it depreciates by 10% At the end of first year, its value = 90% of 20000= \\(\\frac{90}{100}\\) x 20000 =18000At the end of second year, its value = 90% of 18000= \\(\\frac{90}{100}\\) x 18000 = ₦16,200",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N16,200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "N14,200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N12,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N8,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42408905-5275-48bd-b44b-e6e537dcecf2",
+      "question_text": [
+        "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.Mark012345Frequency127543What is the median mark?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Total frequency = 1 + 2 + 7 + 5 + 4 + 3 = 22Median is the middle number= \\(\\frac{Nth}{2}\\)Term = \\(\\frac{22th}{2}\\) = 11th termGoing in ascending order, 11th term is 3, going in descending order 11th term is 3Median = 3 + \\(\\frac{3}{2}\\) = \\(\\frac{6}{2}\\) = 3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "02d2c8c2-ed17-4089-a6bf-fe4485474ad3",
+      "question_text": [
+        "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.Mark012345Frequency127543What is the probability of selecting a student from the group that scored 2 or 3?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Pr(group that scored 2 or 3) \\(= \\cfrac{7+5}{1+2+7+5+4+3}\\) \\(= \\cfrac{12}{22} = \\cfrac{6}{11}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{11}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{5}{22}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9a10aa4e-ca2c-4546-913c-b0a7c1221111",
+      "question_text": [
+        "A boy walks 800m in 20 minutes. Calculate his average speed in km/h."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\require{cancel}\\cfrac{800\\text{ m}}{20\\text{ minutes}} = \\cfrac{8\\cancel{00\\text{m}}}{20\\cancel{\\text{min}}} \\times \\cfrac{1\\text{km}}{10\\cancel{00\\text{m}}} \\times \\cfrac{60\\cancel{\\text{min}}}{1\\text{ hr}}\\) \\(= \\cfrac{480\\text{ km}}{200\\text{ hr}}\\) \\(= 2.4\\text{km/hr}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a0032f5-3f73-4b9a-83cc-3f6d59e76ab7",
+      "question_text": [
+        "A car uses one litre of petrol for every 14km. If one litre of petrol cost ₦63.00, how far can the car go with ₦900.00 worth of petrol?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Since 1 litre cost ₦63So ₦900 is the cost of \\(\\frac{900}{63}\\) litres= 14.2857litres of petrolThe car uses 1 litre for 14kmSo 14.2857 litres will be used for (14.2857 x 14)= 200km",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "420km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "405km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "210km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "200km",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bdb12db2-0521-40c7-852e-808fe96ad7cf",
+      "question_text": [
+        "In the diagram, GI is a tangent to the circle at H. If EF||GI, calculate the size of ∠EHF."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/math_7.jpeg",
+      "explanation": "∠FHI = 54° = ∠EFH (alternating angles) ∠FEH = ∠EFH (isosceles triangle) ∠EHF + ∠FEH + ∠EFH = 180° (sum of the angles in a triangle) ∠EHF = 180° - (∠FEH + ∠EFH) ∠EHF = 180° - (54° - 54°) = 180° - 108° ∠EHF = 72°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "126°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "72°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "54°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "28°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1761074c-5431-4a73-9978-e0697683140d",
+      "question_text": [
+        "How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "In terms of distance, a circle has a total distance or perimeter of 2π or πWhere r is radius and D is the diameterSo perimeter = \\(\\frac{22}{7}\\) x 100= 314.2857mTo cover a distance of 1000m, he is going to round the circular track for \\(\\frac{1000}{314.2857}\\) = 3.18It means it is on the number 4 round after the third round he is going to cover up to 1000m",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2417aa71-3ece-46de-98b2-9079d41eb1a6",
+      "question_text": [
+        "Use the cumulative frequency curve to answer the question.Estimate the median of the date represented on the graph."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/math_6.jpeg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "35.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "36.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "37.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "38.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4c68eb11-aff6-4c0c-876b-7e52b4c94299",
+      "question_text": [
+        "Use the cumulative frequency curve to answer the question.What is the 80th percentile?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/math_6.jpeg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "46.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "47.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "48.5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30f07019-8fd4-4ead-b4a8-b50c2f09968a",
+      "question_text": [
+        "\\(\\cfrac{0.00256 \\times 0.0064}{0.025 \\times 0.08}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\cfrac{0.00256 \\times 0.0064}{0.025 \\times 0.08}\\) \\(= \\cfrac{0.000016384}{0.002}\\) \\(= 0.008192\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.8 x 10\\(^{-1}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.8 x 10\\(^{-2}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "429197e7-1dbb-46fc-a503-ac138693e296",
+      "question_text": [
+        "Two sisters, Taiwo and Kehinde, own a store. The ratio of Taiwo's share to Kehinde's is 11:9. Later Kehinde sells \\(\\frac{2}{3}\\) of her share to Taiwo for ₦720.00. Find the value of the store"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Total ratio = 11 + 9 = 20 Taiwo's share = 11/20 Kehinde's share = 9/20 2/3 × 9/20 = 3/10 (percentage of total shares sold to Taiwo) 3x/10 = ₦720 3x = ₦7200 x = ₦2400",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦1,080.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2,400.00",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦3,000.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦3,600.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f743b0f-5e3c-43cd-a629-8fb8e07318b7",
+      "question_text": [
+        "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(a^2 = 12^2 + 9^2\\) \\(a = \\sqrt{12^2 + 9^2}\\) \\(a = 15\\text{ m}\\) \\(b^2 = 15^2 + 8^2\\) \\(b = \\sqrt{15^2 + 8^2}\\) \\(b = 17\\text{ m}\\) \\(\\cos \\theta = \\cfrac{a}{b} = \\cfrac{15}{17}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{15}{17}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{9}{17}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1483e5a-692c-4faa-9e63-bcf16c4b3984",
+      "question_text": [
+        "Divide the L.C.M of 48, 64 and 80 by their H.C.F."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "LCM of 80, 64, 48 = 960 HCF of 80, 64, 48 = 16 960 \\(\\div\\) 16 = 60",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "48",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "18824095-7ada-4127-8b2b-169d31033bc5",
+      "question_text": [
+        "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "For parallel lines: \\(m_1 = m_2\\) (slopes are equal) \\(7x + 5y = 12\\); make y the subject of the formula \\(5y = 12 - 7x\\) \\(y = \\cfrac{12-7x}{5} = \\cfrac{12}{5} - \\cfrac{7x}{5}\\) \\(m_1 = -\\cfrac{7}{5}\\) Line 2: \\(y = mx + c\\); since \\(m_1 = m_2\\) \\(y = -\\cfrac{7}{5}x + c\\) Using point (5, 7), solve for c: \\(7 = -\\cfrac{7}{5}(5) + c\\) \\(c = 14\\) \\(y = -\\cfrac{7}{5}x + 14\\) \\(5y = -7x + 70\\) \\(7x + 5y = 70\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5x + 7y = 20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7x + 5y = 70",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "xy = 7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15x + 17y = 90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9b1658e7-fc65-46bc-8335-0c5481a5ebfd",
+      "question_text": [
+        "A man's initial salary is ₦540.00 a month and increases after each period of six months by ₦36.00 a month. Find his salary in the eight month of the third year."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Since the salary increases by 36 after every 6 monthsEvery 6 months that can be counted on the eight month of the third year is 5(i.e. 2 times in the first year, 2 times in the second year and once in the third year)His salary then = initial salary + increment= 540 + 5(36)= 540 + 180= ₦720.00It can also be solves using a sequence in form of an AP",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦828.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦756.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦720.00",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦684.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d99522d0-0d81-4278-8330-a079e6ee2c07",
+      "question_text": [
+        "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\tan 74 = \\cfrac{150}{x}\\)\\(x = \\cfrac{150}{\\tan 74}\\)= 43.01cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "52cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "43cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "40cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a123af19-04b4-4fef-ae69-0a13f6a6580c",
+      "question_text": [
+        "Integrate the expression 6x\\(^2\\) - 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\int 6x^2 - 2x + 1 = \\cfrac{6x^{2+1}}{2+1} - \\cfrac{2x^{1+1}}{1+1} + x + c\\) \\(\\cfrac{6x^3}{3} - \\cfrac{2x^2}{2} + x + c\\) \\(2x^3 - x^2 + x + c\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3x\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " - 2x\\(^2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " + x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x\\(^3\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d88ab22-d54c-4762-a423-5dbb1106d777",
+      "question_text": [
+        "In how many ways can the letters LEADER be arranged?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "The word LEADER has 1L 2E 1A 1D and 1R making total of 6! \\(\\frac{6}{1!2!1!1!1!}\\) = \\(\\frac{6!}{2!}\\)= \\(\\frac{6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1}{2 \\times 1}\\)= 360",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "72",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "144",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "360",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "720",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d515008a-2f16-4c88-871a-210f7e20a1a3",
+      "question_text": [
+        "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/math_3.jpeg",
+      "explanation": "From the figure,∠ XMN = ∠ XZYAngle X is commonSo, ∠ XNM = ∠ XYZThen from the angle relationship\\(\\frac{XM}{XZ}\\) = \\(\\frac{XN}{XY}\\) = \\(\\frac{MN}{ZY}\\)XM = 8, XZ = 12 + 4 = 16,XN = 12, XY = 8 + YM\\(\\frac{8}{16}\\) = \\(\\frac{12}{(8 + YM) }\\)Cross multiply8(8 + YM) = 19264 + 8YM = 1928YM = 128YM = \\(\\frac{128}{8}\\)= 16cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "32 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24 cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "12 cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5733da84-9c8a-4625-a6f1-4f2c8594aa35",
+      "question_text": [
+        "Express 495g as a percentage of 16.5kg"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "The two numbers must be expressed in the same unit. To convert 495g to kg, it will be divided by 1000495g = \\(\\frac{495}{1000}\\)= 0.495kgTo express in percentage, 0.495 will be divided by 16.5 and then multiplied by 100% will be added to the answer \\(\\frac{0.4950}{16.5}\\) x 100= 3%",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3 \\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15%D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd498f70-2b45-4dbf-be35-15cd4eedec85",
+      "question_text": [
+        "Evaluate (2√3 - 4) (2√3 + 4) "
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "2√3 - 4) ( 2√3 + 4)= 12 + 8√3 - 8√3 – 16= 12 – 16= -4The two expressions in the bracket are conjugate of each other",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a69c5b3f-1f9b-4c8c-9c9c-29cba8a05653",
+      "question_text": [
+        "Find the equation of the tangent at the point (2, 0) to the curve y = x\\(^2\\) - 2x"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "The gradient to the curve is found by differentiating the curve equation with respect to xSo \\(\\frac{dy}{dx}\\) 2x - 2The gradient of the curve is the same with that of the tangent.At point (2, 0) \\(\\frac{dy}{dx}\\) = 2(2) - 2= 4 – 2 = 2The equation of the tangent is given by (y - y1) \\(\\frac{dy}{dx}\\) (x – x1)At point (x1, y1) = (2, 0)y - 0 = 2(x - 2)y = 2x - 4",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 2x - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 2x + 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 2x - 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 2x + 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "725b397b-cb5a-4d61-b88a-746b6f20ba56",
+      "question_text": [
+        "Use the quadratic equation curve to answer this question.What is the 80th percentile?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "The minimum value is the lowest value of the curve on y axis which gives a value of -5.3.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-5.3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8e02d8e3-e7d0-4418-87b9-76b3992524f5",
+      "question_text": [
+        "Evaluate log\\(_2\\) 8 – log\\(_3\\) \\(\\frac{1}{9}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "log\\(_2\\) 8 – log\\(_3\\) \\(\\frac{1}{9}\\)= log \\(_2\\) 2\\(^3\\) – log\\(_3\\) 9\\(^{-1}\\)= log\\(_2\\) 2\\(^3\\) – log\\(_3\\) 3\\(^{-2}\\)Based on law of logarithm= 3 log\\(_2\\) 2 – (-2 log\\(_3\\) 3)But log\\(_2\\) 2 = 1,log\\(_3\\) 3 = 1So, = 3 + 2= 5",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1 1\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a9f97683-0dc1-4b5c-833e-cbb30c4b92c9",
+      "question_text": [
+        "Tanθ is positive and Sinθ is negative. In which quadrant does θ lies"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "First quadrant: Sin, Cos and Tan are all positiveSecond quadrant: Sin is positive, Cos is negative and Tan is negativeThird quadrant: Tan is positive, Sin is negative and Cos is negativeFourth quadrant: Cos is positive, Sin is negative and Tan is negativeThe correct option is the third quadrant only where Tanθ is positive and Sinθ is negative",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Second only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Third only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fourth only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "First and third only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b83704b-9129-4910-b2a7-a21449c1e143",
+      "question_text": [
+        "The table below shows the frequency of children of age x years in a hospital:x12345678f34567654Use the table to answer the question below:How many children are in the hospital"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "The total number of students is ∑ f = 3 + 4 + 5 + 6 + 7 + 6 + 5 + 4= 40",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "44",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "50",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ec681ae3-65b3-43cb-bec0-75f40a40005a",
+      "question_text": [
+        "The figure below is a Venn diagram showing the elements arranged within sets A, B, C, \\(\\epsilon\\).Use the figure to answer this questionWhat is n(A U B)c ?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/math_4.jpeg",
+      "explanation": "A = (p, q, r, t, u, v)B = (r, s, t, u)A U B = Elements in both A and B = (p, q, r, s, t, u, v)(A U B)1 = elements in the universal set E but not in (A U B)= (w, x, y, z)n(A U B) 1 = number of the elements in (A U B)1 = 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8191ae3-4d2b-44a4-907b-d99fb9dd37c0",
+      "question_text": [
+        "What is the loci of a distance 4cm from a given point P?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Locus is the path traced at by a point which moves in accordance with a certain law. It is also the set of all possible position occupied by an object The path traced from all possible location of 4cm from a given point P form a circle of radius 4cm with centre P.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A straight line of length 4cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a circle of radius 4cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "perpendicular to point P at 4cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a circle of diameter 4cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ede0987-faa8-4fd6-b4a6-251693f0bcc6",
+      "question_text": [
+        "Given that sin (5\\(x\\) − 28)\\(^o\\) = cos(3\\(x\\) − 50)\\(^o\\), O\\(x\\) < 90\\(^o\\)Find the value of \\(x\\)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Sin(5x - 28) = Cos(3x - 50)………..iBut Sinα = Cos(90 - α)So Sin(5x - 28) = Cos(90 - [5x - 28])Sin(5x - 28) = Cos(90 - 5x + 28)Sin(5x - 28) = Cos(118 - 5x)………iiCombining i and iiCos(3x - 50) = Cos(118 - 5x)3x - 50 = 118 - 5xCollecting the like terms3x + 5x = 118 + 508x = 168x = \\(\\frac{168}{8}\\)x = 21\\(^o\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14\\(^o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "21\\(^o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b68b99e-7add-4853-85de-15599ea167f0",
+      "question_text": [
+        "Find the average of the first four prime numbers greater than 10"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Prime numbers are numbers that has only two factors (i.e 1 and itself). They are numbers that are only divisible by 1 and their selves. First four prime numbers greater than 10 are 11, 13, 17 and 19\\(\\text{Average} = \\cfrac{\\text{Sum of numbers}}{\\text{number}}\\)= \\(\\cfrac{(11 + 13 + 17 + 19)}{4}\\)= \\(\\cfrac{60}{4}\\)= 15",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "19",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "17",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e0aba584-a00a-4d5f-8906-610d47f8e29b",
+      "question_text": [
+        "The table below shows the frequency of children of age x years in a hospital:x12345678f34567654Use the table to answer the question below:What is the modal age?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "The modal age is the age with the highest frequency, and that is age 5 years with f of 7",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79de6028-3b3d-4826-b118-5867d96c62cc",
+      "question_text": [
+        "Convert 0.04945 to two significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "0.04945 to 2s.f is 0.05",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.040",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.049",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.050",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.49",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c2bc1fa-fccb-464f-9c11-e701f77eac26",
+      "question_text": [
+        "Calculate 243\\(_{six}\\) – 243\\(_{five}\\) expressing your answer in base 10."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Since they are of different base, convert to base 10243\\(_{six}\\) = (2 x 62) + (4 x 61) + (3 x 60)= 72 + 24 + 3 = 99 base 10243\\(_{six}\\) = 2 x 52 + 4 x 51 +3 x 5050 + 20 + 3 = 73 base 10Subtracting them, 99 - 73= 26",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "26",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "70dfcc61-4490-4514-9e66-f61b4c53bef3",
+      "question_text": [
+        "Evaluate ∫\\(^2_1\\) \\(\\frac{5}{x}\\) dx"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "∫\\(\\frac{5}{x}\\) dx = 5 ∫\\(\\frac{1}{x}\\) = 5InxSince the integral of \\(\\frac{1}{x}\\) is Inx∫\\(^2\\) \\(_1\\)∫ \\(\\frac{5}{x}\\) dx = 5dx = 5 (In<2 – InIn1)= 3.4657= 3.47",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.47",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.67",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.23",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.47",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "22abcd10-4a4d-4015-9db5-9d68307a75a2",
+      "question_text": [
+        "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "P( tail on a coin) = \\(\\frac{1}{2}\\)Even numbers on a care 2, 4 and 6P( even number on a die) = \\(\\frac{3}{6}\\) = \\(\\frac{1}{2}\\)P( tail on a coin and even number on a die) = \\(\\frac{1}{2}\\) x \\(\\frac{1}{2}\\) = \\(\\frac{1}{4}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{16}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "337f1f58-afa8-4f13-87c5-0c6b4ad49871",
+      "question_text": [
+        "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "To form words having 3 consonants and 2 vowels out of 7 consonants and 4 vowels, the number of such words is 7/3C x 4/2C = 35 x 6= 210",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "210",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1050",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "21400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "25200",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "117406de-65d8-45a8-a925-f8c61cc32244",
+      "question_text": [
+        "From a point P, R is 5km due West and 12km due South. Find the distance between P and R'."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Using Pythagoras theoremPR\\(^2\\) = 5\\(^2\\) + 12\\(^2\\)25 + 144 = 169PR = √(169)= 13km",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "13km",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "17km",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b0f95c45-4626-4281-abcc-7c8b88ac5041",
+      "question_text": [
+        "if y = 23\\(_{five}\\) + 101\\(_{three}\\) find y leaving your answer in base two"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "First we convert the numbers to base ten23\\(_{five}\\)= 2 x 51 + 3 x 50= 10 + 3 = 13101\\(_{five}\\) = (1 x 32) + (0 x 31) + (1 x 30)= 9 + 0 + 1 = 10So, y = 13 + 10 = 23To convert 23 to base 2 (as in the diagram above)y = 23= 10111\\(_{five}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1110",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10111",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "11101",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "111100",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b3d74642-24de-4c1a-bf1e-485855b91472",
+      "question_text": [
+        "A box contains two red balls and four blue balls. A ball is drawn at random from the box and then replaced before a second ball is drawn. Find the probability of drawing two red balls."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Total number of balls = 2 + 4 = 6P(of picking a red ball) = \\(\\frac{2}{6}\\) = \\(\\frac{1}{3}\\)P(of picking a blue ball) = \\(\\frac{4}{6}\\) = \\(\\frac{2}{3}\\)With replacement,P( picking two red balls) = \\(\\frac{1}{3}\\) × \\(\\frac{1}{3}\\) = \\(\\frac{1}{9}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ab0431d8-d40e-4a10-9ba5-edb7ad870d54",
+      "question_text": [
+        "Which one of the following gives the members of the set Ac \\(\\cap\\) B \\(\\cap\\) C?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2019/02/math_4.jpeg",
+      "explanation": "A1 = Elements in the universal set but not in A = {s, w, x, y, z}B = {r, s. t, u}C = {t, u, v, w, x}A1 n B n C = elements common to the three sets = none = empty set = Φ",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Φ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "{s}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "{t, u}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{y, z}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5da1a27-aec4-4045-8610-8e031d6f4f0a",
+      "question_text": [
+        "If P = [\\(\\frac{Q(R - T)}{15}\\)] \\(^{\\frac{1}{3}}\\) make T the subject of the relation"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Taking the cube of both sides of the equation giveP\\(^3\\) = \\(\\frac{Q(R - T)}{15}\\)Cross multiplying15P\\(^3\\) = Q(R - T)Divide both sides by Q\\(\\frac{15P^3}{Q}\\) = R - TRearranging givesT = R - \\(\\frac{15P^3}{ Q}\\)= \\(\\frac{RQ - 15P^3}{Q}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "T = \\(\\frac{R + P^3}{15Q}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "T = \\(\\frac{R - 15P^3}{Q}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f4e8e00-1b50-45f0-aecf-12cabe727358",
+      "question_text": [
+        "Calculate the area of an equilateral triangle of side 8cm"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "An equilateral triangle has all sides equal and all angles equal as 600Area = \\(\\frac{1}{2}\\) absinθArea = \\(\\frac{1}{2}\\) x 8 x 8 x sin60= \\(\\frac{1}{2}\\) x 64 x \\(\\sqrt{\\frac{3}{2}}\\)= 16√3 cm\\(^2\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8√3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4√3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16√3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "25754943-8fc0-4a44-b05b-1b0dab3d02cf",
+      "question_text": [
+        "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is ₦7200?"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Let the monthly expenditure angle for school fees is x, then that of housing will be 2x. Since the total angle in the circle is 360.Using 90 as the angle for transportSo, x + 2x + 120 + 90 = 3603x + 210 = 36053x = 360 - 210= 150x = \\(\\frac{150}{3}\\) = 50So the angle for housing is 2x = 2 × 50= 100Amount spent on housing = \\(\\frac{100}{360}\\) × 7200= ₦2000",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦1000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦3000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦4000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "33caf402-455d-4b90-bbfa-b16ff8ce5900",
+      "question_text": [
+        "Approximate 0.9875 to 1 decimal place."
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "9 is on one decimal place, the next number to it is 8 which will be rounded up to 1 because it is greater than 5 and then added to 9 to give 10, 10 cannot be written, it will then be rounded up to 1 and added to 0.So the answer is 1.0",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d24c0b97-5ec7-4777-9a72-7f8a35b76925",
+      "question_text": [
+        "Simplify 25\\(^\\frac{1}{2}\\) × 8\\(^\\frac{-2}{3}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Using law of indices:25\\(\\frac{1}{2}\\) × 8\\(\\frac{-2}{3}\\)= √25 x (\\(\\sqrt[3]{8}\\)) -2= 5 x 2-2= 5 x \\(\\frac{1}{2^2}\\) =\\(\\frac{5}{4}\\) = \\(\\frac{11}{4}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1\\(\\frac{1}{4}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2\\(\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f7510feb-0a3c-4deb-afe1-e49d651b1dbc",
+      "question_text": [
+        "Add 54 \\(_{eight}\\) and 67\\(_{eight}\\) giving your answers in base eight"
+      ],
+      "examType": "jamb",
+      "year": "2018",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "54 \\(_{eight}\\) and 67\\(_{eight}\\) = 1438Starting with normal addition, 4 + 7 gives 11(it is more than the base, 8) 8 goes in 11 just 1 time, remaining 3, the remainder will be written, and the 1 will be added to the sum of 5 and 6 which gives 12 altogether, 8 goes in 12 one time remaining 4, the remainder 4 was written and then the 1 that was the quotient was then written since nothing to add the 1 to.So answer is 143 in base eight",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "123",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "143",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]

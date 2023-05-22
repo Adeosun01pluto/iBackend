@@ -1,0 +1,3063 @@
+
+[
+    {
+      "id": "6d49f291-c613-482b-9d39-47e993fc0c05",
+      "question_text": [
+        "A secondary alkanol can be oxidized to give an"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "When an secondary alcohol is treated with acidified KMnO4, or K2Cr2O7, they yield an alkanone Explanation provided by Jor Jagaba",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkyne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "alkanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "97c77570-fd43-46c6-bbd7-c32aa7b7b042",
+      "question_text": [
+        "Which of the following will give a precipitate with an aqueous solution of copper (I) chloride?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "But-2-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "But-1-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "But-2-yne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "But-1-yne",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ad809632-ca3a-4b5f-b3fc-8d356dac478b",
+      "question_text": [
+        "The IUPAC name for CH\\(_3\\)CH\\(_2\\)COOCH\\(_2\\)CH\\(_3\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methylpropanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethylethanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethylpropanoate",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "methylethanoate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "457fb9a4-7a76-4f7f-b107-1538bfc0a03c",
+      "question_text": [
+        "A certain hydrocarbon on complete combustion at s.t.p produced 89.6dm\\(^3\\) of CO\\(_2\\) and 54g of water. The hydrocarbon should be"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "In the question above an Hydrocarbon combust to give CO2 and H20 Let Hydrocarbon be CxHy + x+Y/4O2= xCO2 + Y/2H2O Mass of C0=44g and H2O=18g at STP vol= 22.4 Therefore, 1mole of CO2 contains 44g and 22.4dm³ at STP 1mole = 22.4dm³ xmole = 89.6dm³ Cross multiplying x=89.6/22.4 =4mole of CO2 produce 1mole of H2O = 18g Xmole = 56g Cross multiplying X = 56/18 = 3mole of H20 Then.... CxHy + X + y/4O2 = 4CO2+ 3H2O Balancing C4H6 + 6O2 = 4CO2 + 3H2O",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C\\(_6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "H\\(_6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C\\(_4\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "103bb139-3de4-4a6a-9002-db2b6f59be10",
+      "question_text": [
+        "2-methylprop-1-ene is an isomer of"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3-methyl but-1-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2-methyl but-1-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "but-2-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "pent-2-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "47e45391-6a7c-4f78-bfd4-825420dd25cf",
+      "question_text": [
+        "Hydrocarbons which will react with Tollen's reagent conform to the general formula"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C\\(_n",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "H\\(_{2n}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C\\(_n\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1906d8d5-bf6a-4a75-978b-5e8488728b2a",
+      "question_text": [
+        "The IUPAC name of the compound CF\\(_3\\)CHBrCl is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-chloro-2-bromo-1,1,1-trifluoroethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2-bromo-2-chloro-1,1,1-trifluoroethane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1-bromo-1-chloro-2,2,2-trifluoroethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1,1,1-trifluoro-2-bromo-2-chloroethane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc9e5092-256e-4c5a-a37c-649cd6009ac5",
+      "question_text": [
+        "A synthetic rubber is obtained from the polymerization of"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "neoprene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "isoprene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "butandiene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "propylene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aee4b42f-ede6-42b0-a1c4-aa0b9ea1e46e",
+      "question_text": [
+        "Burning magnesium ribbon in air removes which of the following(i) oxygen (ii) nitrogen (iii) argon and (iv) carbon(iv)oxide?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i and iv only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i, ii, iii and iv only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "i only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "i and ii only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce075216-d427-4283-892c-6c6a49dc9b3b",
+      "question_text": [
+        "Which of the following is the best starting material for the preparation of oxygen? Heating of trioxonitrate (v) with"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Zn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ca",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Na",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b3ec3674-d7fd-4884-baa8-7b7a8bd5010a",
+      "question_text": [
+        "A secondary alkanol can be oxidized to give an"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "When an secondary alcohol is treated with acidified KMnO4, or K2Cr2O7, they yield an alkanone Explanation provided by Jor Jagaba",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkanone",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkyne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanoic acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "alkanal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e647de31-5b4f-4bb3-b76c-bf7134082f7a",
+      "question_text": [
+        "Which of the following will give a precipitate with an aqueous solution of copper (I) chloride?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "But-2-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "But-1-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "But-2-yne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "But-1-yne",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d141c1a6-cfe2-4496-b8a6-7e82ecb8d4cd",
+      "question_text": [
+        "The IUPAC name for CH\\(_3\\)CH\\(_2\\)COOCH\\(_2\\)CH\\(_3\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "methylpropanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethylethanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ethylpropanoate",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "methylethanoate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b71f9557-646b-447e-a798-9d6dc6c1b770",
+      "question_text": [
+        "A certain hydrocarbon on complete combustion at s.t.p produced 89.6dm\\(^3\\) of CO\\(_2\\) and 54g of water. The hydrocarbon should be"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "In the question above an Hydrocarbon combust to give CO2 and H20 Let Hydrocarbon be CxHy + x+Y/4O2= xCO2 + Y/2H2O Mass of C0=44g and H2O=18g at STP vol= 22.4 Therefore, 1mole of CO2 contains 44g and 22.4dm³ at STP 1mole = 22.4dm³ xmole = 89.6dm³ Cross multiplying x=89.6/22.4 =4mole of CO2 produce 1mole of H2O = 18g Xmole = 56g Cross multiplying X = 56/18 = 3mole of H20 Then.... CxHy + X + y/4O2 = 4CO2+ 3H2O Balancing C4H6 + 6O2 = 4CO2 + 3H2O",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C\\(_6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "H\\(_6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C\\(_4\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1f1d3a65-8b0d-485a-af28-4eea21056a16",
+      "question_text": [
+        "2-methylprop-1-ene is an isomer of"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3-methyl but-1-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2-methyl but-1-ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "but-2-ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "pent-2-ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e8c2632-f1da-4458-a82f-d8190921170c",
+      "question_text": [
+        "Hydrocarbons which will react with Tollen's reagent conform to the general formula"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C\\(_n",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "H\\(_{2n}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C\\(_n\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7202e550-17ec-4446-a644-09642a875f64",
+      "question_text": [
+        "The IUPAC name of the compound CF\\(_3\\)CHBrCl is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2-chloro-2-bromo-1,1,1-trifluoroethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2-bromo-2-chloro-1,1,1-trifluoroethane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1-bromo-1-chloro-2,2,2-trifluoroethane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1,1,1-trifluoro-2-bromo-2-chloroethane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "41fef1b6-8b90-4e81-8229-6b7124deda07",
+      "question_text": [
+        "A synthetic rubber is obtained from the polymerization of"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "neoprene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "isoprene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "butandiene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "propylene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d9f83f6-81c7-48df-a9ec-7e51d0c3bb23",
+      "question_text": [
+        "Burning magnesium ribbon in air removes which of the following(i) oxygen (ii) nitrogen (iii) argon and (iv) carbon(iv)oxide?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "i and iv only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i, ii, iii and iv only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "i only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "i and ii only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8a3359e-7842-4e81-8e2b-fe1004dca879",
+      "question_text": [
+        "Which of the following is the best starting material for the preparation of oxygen? Heating of trioxonitrate (v) with"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Zn",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ca",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Na",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b6d3f97-f8c3-4ab3-8f05-339ff42e5fb7",
+      "question_text": [
+        "Which of the following metals is the most essential in the regulation of blood volume, blood pressure and osmotic equilibrium?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Zinc",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Manganese",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Sodium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Iron",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "acf1df40-8ed5-4fdc-bb7e-97d4dc6abce4",
+      "question_text": [
+        "Which of the following alkaline metals react more quickly spontaneously with water?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "The alkaline earth metals (Be, Mg, Ca, Sr, Ba, and Ra) are the second most reactive metals in the periodic table, and, like the Group 1 metals, have increasing reactivity in the higher periods. Beryllium (Be) is the only alkaline earth metal that does not react with water or steam, even if metal is heated to red heat. Additionally, beryllium has a resistant outer oxide layer that lowers its reactivity at lower temperatures.Magnesium shows insignificant reaction with water, but burns vigorously with steam or water vapor to produce white magnesium oxide and hydrogen gas:Mg(s) + 2 H2O(l) ⟶ Mg(OH)2(s) + H2(g)A metal reacting with cold water will produce metal hydroxide. However, if a metal reacts with steam, like magnesium, metal oxide is produced as a result of metal hydroxides splitting upon heating.The hydroxides of calcium, strontium and barium are only slightly water-soluble but produce sufficient hydroxide ions to make the environment basic, giving a general equation of:M(s) + 2 H2O(l) ⟶ M(OH)2(aq) + H2(g)Order of reactivityMetalReactions with water or steammost reactivepotassium (K)very vigorous reaction with cold water↑sodium (Na)vigorous reaction with cold water↓calcium (Ca)less vigorous reaction with cold waterleast reactivemagnesium (Mg)slow reaction with cold water, vigorous with steamIf metals react with cold water, hydroxides are produced.Metals that react with steam form oxides.Hydrogen is always produced when a metal reacts with cold water or steam.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Calcium",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Beryllium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Magnesium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Strontium",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40e94d0a-1561-4436-912c-6e5f3deeff25",
+      "question_text": [
+        "When chlorine water is exposed to bright sunlight, the following products are formed"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HCl\\(_{(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " and Cl\\(_2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6e35e4cd-05c7-4d97-85f7-4522d385fc12",
+      "question_text": [
+        "Which process(es) is/are involved in the turning of starch iodide paper blue-black by chlorine gas?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorine attacks the starch to give the blue-black color",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine attacks the iodide ion to give the blue-black color",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "chlorine oxidizes the iodide ion to produce iodine which attacks the starch to give the blue-black color",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "iodine attacks the starch to give the blue-black color",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b6944c2-4bc6-4b37-9a6a-188d291f5600",
+      "question_text": [
+        "Which of the following is a set of neutral oxides?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N\\(_2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "O, H\\(_2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "O, CO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N\\(_2\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "83d15e34-21f2-4266-b754-c7ad9b12122b",
+      "question_text": [
+        "SO\\(_3\\) is not directly dissolved in water in the industrial preparation of H\\(_2\\)SO\\(_4\\) by the contact process because"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "SO\\(_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " is an acidic gas",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Acid is usually added to water and not water to acid",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "The reaction between SO\\(_3\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "577a0ef5-f46f-4b54-a6cb-32c95630b9fc",
+      "question_text": [
+        "Which of the following statements does not show Rutherford's account of Nuclear Theory? An atom contains a region"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "Rutherford's account of Nuclear theory does not include the fact that atoms contain a massive region and cause deflection of from projectiles.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "which contains protons and neutrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "which is positively charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "which is massive and can cause deflection of a few projectiles",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "which is very large and in which close to 98% of projectiles pass undeflected",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "98183354-deb9-43cf-8086-1f27ec2b5215",
+      "question_text": [
+        "Elements X and Y have electronic configurations 1s\\(^2\\)2s\\(^2\\)2p\\(^4\\) and 1s\\(^2\\)2s\\(^2\\)2p\\(^6\\)3s\\(^2\\)3p\\(^1\\) respectively. When they combine, the formula of the compound formed is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "XY",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "X\\(_2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Y",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Y\\(_2\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6a90c579-4a39-4e0e-b4bd-7b3c15f02e4f",
+      "question_text": [
+        "By what amount must the temperature of 200cm\\(^3\\) of Nitrogen at 27°C be increased to double the pressure if the final volume is 150cm\\(^3\\) (Assume ideality)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "Using the ideal gas law and equation: \\(\\cfrac{P_1V_1}{T_1} = \\cfrac{P_2V_2}{T_2}\\) \\(\\cfrac{P_1 \\times 200\\text{cm}^3}{300\\text{K}} = \\cfrac{2P \\times 150\\text{cm}^3}{T_2}\\) Cross multiply: \\(T_2 = \\cfrac{300 \\times 150 \\times 2P}{200 \\times P}\\) \\(= 450\\text{K}\\) or \\(177^{\\circ}\\text{C}\\) Don't forget to convert to \\(^{\\circ}\\text{C}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "150°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "177°C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "75°C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "120°C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ae15a18b-09eb-4f4f-a67e-37634e81cccb",
+      "question_text": [
+        "The combustion of carbon(ii)oxide in oxygen can be represented by equation.2CO + O\\(_2\\) → 2CO\\(_2\\)Calculate the volume of the resulting mixture at the end of the reaction if 50cm\\(_3\\) of carbon(ii)oxide was exploded in 100cm\\(_3\\) of oxygen"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "125cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30d6c27e-153b-4350-932a-c7a35c3081c5",
+      "question_text": [
+        "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "When ammonia and hydrogen ion go into bonding, they form ammonium ion by combining with a dative/coordinate covalent bond.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electrovalent bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "co-ordinate bond",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ionic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "covalent bond",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "71713ddb-7655-4ede-a6fd-35c36cb359a5",
+      "question_text": [
+        "Which of the following represents the kind of bonding present in ammonium chloride?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ionic only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "covalent only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ionic and dative covalent",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "dative covalent",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c46778c-dd43-4ee4-b715-523dac3e6fee",
+      "question_text": [
+        "Consider the reactionA\\(_{(s)}\\) + 2B\\(_{(g)}\\) → 2C\\(_{(aq)}\\) + D\\(_{(g)}\\)What will be the effect of a decrease in pressure on the reaction?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "Given: The equation below A\\(_{(s)}\\) + 2B\\(_{(g)}\\) → 2C\\(_{(aq)}\\) + D\\(_{(g)}\\) Since we have a higher number of moles of gaseous species on the LHS, i.e 2, a decrease in pressure will favor the forward reaction.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the equilibrium will shift",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "rate of forward reaction will increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "rate of backward reaction will increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rates of forward and backward reaction are not affected",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "36cdc6d9-5f2b-4c56-96d3-9e4cfd6ec75d",
+      "question_text": [
+        "For the general equation of the natureXP + yQ ⇌ mR + nS, the expression for the equilibrium constant is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "Given: xP + yQ ⇌ mR + nS Let us assume they are all in aqueous solution k = \\(\\frac{[R]^m[S]^n}{[P]^x[Q]^y}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "k[P]\\(^x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "[Q]\\(^y",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{m[R][S]}{x[P]y[Q]}\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3650442d-2734-4403-a2a2-c302193e83c0",
+      "question_text": [
+        "Which of the following reactions is an oxidation process?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2H\\(^+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + 2e\\(^-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " \\(\\to",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " H\\(_2\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3be92387-89dd-44be-8a27-bcd843e3ed3d",
+      "question_text": [
+        "If acidified Potassium Dichromate(VI) (K\\(_2\\)Cr\\(_2\\)O\\(_7\\)) acts as oxidizing agent, color changes from"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "Potassium dichromate is an oxidising agent in organic chemistry. It is used to oxidize alcohols. In an aqueous solution the color change exhibited can be used to test for distinguishing aldehydes from ketones. Aldehydes reduce dichromate from the +6 to the +3 oxidation state, changing color from orange to green. This color change arises because the aldehyde can be oxidized to the corresponding carboxylic acid.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "yellow to green",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange to green",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "yellow to red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "orange to red",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc95594e-1efc-4d9e-82df-2b5a7cff647a",
+      "question_text": [
+        "The heat of formation of ethene, C\\(_2\\)H\\(_4\\) is 50 kJmol\\(^{-1}\\), and that of ethane, C\\(_2\\)H\\(_6\\) is -82kJmol\\(^{-1}\\). Calculate the heat evolved in the process:C\\(_2\\)H\\(_4\\) + H\\(_2\\) \\(\\to\\) C\\(_2\\)H\\(_6\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-122kJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-132kJ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-88kJ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-60kJ",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ed9d78e-dae9-42d8-b354-09c1d128be1f",
+      "question_text": [
+        "Which of the following statements about catalyst is false?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "biological catalysts are called enzymes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "catalyst do not appear in the balanced equation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "catalyst reduce the activation energy for a reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "catalysts do not alter the mechanism of the reaction and never appear in the rate low",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "02b0bf91-fd8f-4408-ae78-0703e3db8e60",
+      "question_text": [
+        "Which of the following does not support the fact that air is a mixture?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the constituents of air are in a fixed proportion by mass",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "it cannot be represented with a chemical formula",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the constituents of air can be separated by physical by physical means",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "none of the above",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ee8aaa7d-9e5f-4fb2-a17e-2af3668f7780",
+      "question_text": [
+        "What technique is suitable for separating a binary solution of potassium chloride and potassium trioxochlorate (V)?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fractional crystallization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fractional distillation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Filtration",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Evaporation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21079186-3a10-4df9-a29f-feb95b2f0a76",
+      "question_text": [
+        "At 27°C, 58.5g of sodium chloride is present in 250cm\\(^3\\) of a solution. The solubility of sodium chloride at this temperature is?(molar mass of sodium chloride = 111.0gmol\\(^{-1}\\))"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "Given the Mass of the salt = 58.5g Volume = 250 cm\\(^3\\) = 0.25 dm\\(^3\\) Mass concentration = \\(\\frac{Mass}{Volume}\\) = \\(\\frac{58.5}{0.25}\\) = 234 gdm\\(^{-3}\\) Solubility (in moldm\\(^{-3}\\) = \\(\\frac{234}{111} \\) = 2.11 moldm\\(^{-3}\\) \\(\\approxeq\\) 2.0 moldm\\(^{-3}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0 moldm\\(^{-3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.25 moldm\\(^{-3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0a4154f2-c415-4bf6-bced-3a17c07999ab",
+      "question_text": [
+        "Which of the following properties increases from left to right along the period but decreases down the group in the Periodic Table?I. Atomic Number   ii. Ionization energy  iii. Metallic character  iv. Electron affinity"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "Ionization energy and electron affinity increase across a period, and decrease down a group.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ii and iii only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ii and iv only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "iii and iv only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i and ii only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8da3d7ca-a8e9-4e94-8f22-5f43d6ce3873",
+      "question_text": [
+        "The molecular shape and bond angle of water are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": " The shape of water molecule = Bent/ V- shaped The bond angle of water = 104.5°/ 105°",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "linear, 180°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bent, 109.5°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tetrahedral, 109.5°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bent, 105°",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6cf2e16c-eb2a-4d19-9c2b-57c3fe82221b",
+      "question_text": [
+        "Na\\(_2\\)CO\\(_3\\) + 2HCl \\(\\to\\) 2NaCl + H\\(_2\\)O + CO\\(_2\\)The indicator most suitable for this reaction should have a pH equal to"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "Methyl orange is the best indicator for the reaction with range 3.1 - 4.4.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d034f70-ab26-441d-af1d-b6e0f721ac24",
+      "question_text": [
+        "A radioactive nucleus has a half-life of 20 years, starting with 100,000 particles, how many particles will be left exactly at the end of 40 years"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "Given: t\\(_{\\frac{1}{2}\\) = 20 years After the first 20 years, half of the substance (\\(\\frac{1}{2} \\times 100,000 = 50,000\\)) will have decayed. Hence, we have 100,000 - 50,000 = 50,000 particles left. After the second 20 years (being 40 years in all), half of the remaining substance (\\(\\frac{1}{2} \\times 50,000 = 25,000\\)) will have decayed.  Remaining particles after 40 years = 50,000 - 25,000 = 25,000 particles.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "75,000 particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "35,000 particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "25,000 particles",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "50,000 particles",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "370972de-69de-4654-b320-846ec6664422",
+      "question_text": [
+        "Which two gases can be used for the demonstration of the fountain experiment?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "Two gases that can be used in the study of fountain experiment is ammonia gas and hydrogen chloride gas. The experiment introduces concepts like solubility and the gas laws at the entry level.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "SO\\(_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " and NH\\(_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "SO\\(_2\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "78ce78e8-d8dd-4ede-ba2e-a61974422003",
+      "question_text": [
+        "Which of the following pollutants will lead to the depletion of ozone layer?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "chlorofluorocarbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon (i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen sulphideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c72850f-4dfc-4a67-a8a6-08f7457f9408",
+      "question_text": [
+        "Which of the following describes the chemical property of acids?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "None of the above",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Acid + XCO\\(_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " \\(\\to",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " Salt + H\\(_2\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dd8f36b9-312d-4b27-a570-7eebb7b505b3",
+      "question_text": [
+        "Which of the following pairs cannot be represented with a chemical formula?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "air and bronze",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bronze and sodium chloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "copper and sodium chloride",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "caustic soda and washing soda",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d3109e2-5fb7-4365-b401-0899fdbfd4d5",
+      "question_text": [
+        "Consider the equation below:Cr\\(_2\\)O\\(_7 ^{2-}\\) + 6Fe\\(^{2+}\\) + 14H\\(^{+}\\) \\(\\to\\) 2Cr\\(^{3+}\\) + 6Fe\\(^{3+}\\) + 7H\\(_2\\)O.The oxidation number of chromium changes from"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "explanation": "Cr\\(_2\\)O\\(_7 ^{2-}\\) + 6Fe\\(^{2+}\\) + 14H\\(^{+}\\) \\(\\to\\) 2Cr\\(^{3+}\\) + 6Fe\\(^{3+}\\) + 7H\\(_2\\)O The oxidation of Cr in Cr\\(_2\\)O\\(_7 ^{2-}\\) : Let the oxidation of Cr = x;  2x + (-2 x 7) = -2 \\(\\implies\\) 2x - 14 = -2 2x = 12 ; x = +6 Hence, the change in oxidation of Cr = +6 to +3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "+5 to +3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "+6 to +3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2 to +3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "+7 to +3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ed01c36c-890b-4d4a-a711-8dd71b3dd9c5",
+      "question_text": [
+        "Which of the following is a physical change?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Exposing white phosphorus to air",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Burning kerosene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dissolving calcium in water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Freezing ice cream",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2d6632b6-0fc8-4a32-b2db-4544586eca87",
+      "question_text": [
+        "In the reaction between sodium hydroxide and tetraoxosulphate (VI) solutions, what volume of 0.5 molar sodium hydroxide would exactly neutralize 10cm\\(^3\\) of 1.25 molar tetraoxosulphate (vi) acid?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "Equation of reaction : 2NaOH + H\\(_2\\)SO\\(_4\\) → Na\\(_2\\)SO\\(_4\\) + 2H\\(_2\\)O Concentration of a base, CB = 0.5M Volume of acid, V\\(_A\\) = 10cm\\(^3\\) Concentration of an acid, C\\(_A\\) = 1.25M Volume of base, V\\(_B\\) = ? Recall: \\(\\frac{C_A V_A}{C_B V_B} = \\frac{n_A}{n_B}\\) ... (1) N.B: From the equation, \\(\\frac{n_A}{n_B} = \\frac{1}{2}\\) From (1) \\(\\frac{1.25 \\times 10}{0.5 \\times V_B} = \\frac{1}{2}\\) \\(\\frac{12.5}{0.5V_B} = \\frac{1}{2}\\) 25 = 0.5V\\(_B\\) VB = 50.0 cm\\(^3\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "10cm\\(^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a4596fc8-d5ac-452d-ae49-15b964dd989c",
+      "question_text": [
+        "Sulphur exists in six forms in the solid state. This property is known as"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Allotropy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Isotopy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Isomorphism",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c863a1fb-aaae-4fff-b903-6217b712e706",
+      "question_text": [
+        "In the reaction:M + N → PΔH = +Q kJWhich of the following would increase the concentration of the product?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Adding a suitable catalyst",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increasing the concentration of P",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increasing the temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Decreasing the temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "acb0f169-831e-41d2-808b-7e7113883df0",
+      "question_text": [
+        "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180. Find the molecular formula.[H = 1, C = 12, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C\\(_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "H\\(_6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "O\\(_3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3bdc9eac-e9fc-431d-9b83-66c3ef01beca",
+      "question_text": [
+        "The IUPAC nomenclature of the compoundH\\(_3\\)C - CH(CH\\(_3\\)) - CH(CH\\(_3\\)) - CH\\(_2\\) - CH\\(_3\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3,4- dimethylhexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2,3- dimethyl pentane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2- ethyl hexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2,3- dimethylhexane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f471aa35-eadc-4c9e-b125-c7165c085272",
+      "question_text": [
+        "Which of the following gases contains the least number of atoms at s.t.p?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "4 moles of chlorine gas = 4Cl\\(_2\\) = 8 atoms of chlorine 3 moles of ozone = 3O\\(_3\\) = 9 atoms of oxygen 1 mole of butane = C\\(_4\\)H\\(_{10}\\) 7 mole of argon = 7Ar = 7 atoms of argon Butane has the least number of atoms.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 mole of butane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 moles of chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 moles of ozone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7 moles of argon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a836d989-26fb-450a-8a47-28ea9266f4a8",
+      "question_text": [
+        "What mass of magnesium would be obtained by passing a current of 2 amperes for 2 hours, through molten magnesium chloride?[1 faraday = 96500C, Mg = 24]"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "Given: Current (I) = 2A; Time (t) = 2 hours = 7200 secs Q = It = 2 x 7200 = 14400C 1 F = 96500C x = 14400C x = \\(\\frac{14400}{96500}\\) = 0.15F Mg\\(^{2+}\\) + 2e\\(^-\\) \\(\\to\\) Mg 2F \\(\\to\\) 24g 0.15F \\(\\to\\) x 2x = 24 x 0.15 x = \\(\\frac{24 \\times 0.15}{2}\\) = 1.8g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.12g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.48g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.80g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.00g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "938e67a1-f745-4d0a-99cb-8f598aba07c9",
+      "question_text": [
+        "Which important nitrogen-containing compound is produced in Haber's process?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NH\\(_3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NO\\(_2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecc1fae0-3695-4835-b83a-10282ad5c61b",
+      "question_text": [
+        "Elements in the periodic table are arranged in the order of their"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "atomic numbers",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "metallic character",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "mass number",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "relative atomic mass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f3fd82f-0c04-4d34-8798-4859f874fff3",
+      "question_text": [
+        "What volume of 0.100M sodium trioxonitrate (V) solution contains 5g of solute.[Na = 23, N = 14, O = 16]"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "Moles=5/86 Moles=0.0588 Molar conc.=moles/vol. 0.100=0.0588/vol Vol=0.588litres",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.7 litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.420 litres",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.588 litres",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.35 litres",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f35cdf72-30c9-448d-9c5a-ad1476fc4d2e",
+      "question_text": [
+        "The two ions responsible for hardness in water are"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "Hardness of water is caused by the presence of calcium and magnesium ions ....",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ca\\(^{2+}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " and / or Mg\\(^{2+}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K\\(^+\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1512569-10bc-4bd6-9e08-b34c1ac5de42",
+      "question_text": [
+        "Which of the following could not be alkane?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C\\(_4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "H\\(_{10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C\\(_5\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e540faf-69cd-40bb-ad13-0fd0f12e5d41",
+      "question_text": [
+        "The electronic configuration of element Z is 1s\\(^2\\) 2s\\(^2\\) 2p\\(^6\\) 3s\\(^2\\) 3p\\(^1\\). What is the formula of the compound formed between Z and tetraoxosulphate (VI) ion."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "Z = 1s\\(^2\\) 2s\\(^2\\) 2p\\(^6\\) 3s\\(^2\\) 3p\\(^1\\) \\(\\therefore\\) We have Z\\(^{3+}\\) and SO\\(_4 ^{2-}\\) The reaction : Z\\(^{3+}\\) + SO\\(_4 ^{2-}\\) \\(\\to\\) Z\\(_2\\)(SO\\(_4\\))\\(_3\\).",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Z\\(_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(SO\\(_4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(_2\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f5020f5a-75e8-4aca-bb28-32b2732b9840",
+      "question_text": [
+        "The hybridization in the compound \\(CH_3 - CH_2 - C \\equiv H\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": " The hybridization in a and b is sp\\(^3\\) hybridization while in c and d is sp hybridization.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sp\\(^3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": " and sp",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sp",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sp\\(^2\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "82feda2a-330c-4507-91bf-7bc082a0c391",
+      "question_text": [
+        "The following are isoelectronic ions except"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "Two or more ions are said to be isoelectronic if they have the same electronic structure and the same number of valence electrons. Na\\(^+\\) = 10 electrons = 2, 8 Mg\\(^{2+}\\) = 10 electrons = 2,8 O\\(^{2-}\\) = 10 electrons = 2,8 Si\\(^{2+}\\) = 12 electrons = 2,8,2 \\(\\implies\\) Si\\(^{2+}\\) is not isoelectronic with the rest.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Na\\(^+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Mg\\(^{2+}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1aca8f41-f6f0-4eff-8d12-33724ed56b23",
+      "question_text": [
+        "Consider the reaction: A + 2B\\(_{(g)} \\rightleftharpoons \\) 2C + D\\(_{(g)}\\) (\\(\\Delta\\)H = +ve)What will be the effect of decrease in temperature on the reaction?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "The given reaction is endothermic, hence, a decrease in temperature will favor the exothermic side which is the backward reaction.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Rate of backward reaction will increase",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "The equilibrium constant will shift",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rates of forward and backward reactions are not affected",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Rate of forward reaction will increase",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2396d45-68dd-4392-b641-d98f4b05ec6a",
+      "question_text": [
+        "A cell shorthand notation can be written as A / A\\(^+\\) // B\\(^{2+}\\) /B. The double slash in the notation represents the "
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "electrolyte",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "electrodes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "salt bridge",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "solid - liquid interface",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c9290a9-0790-49fc-a8be-d690a6bbfda5",
+      "question_text": [
+        "The shapes of water, ammonia, carbon (iv) oxide and methane are respectively"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "linear, tetrahedral, angular and pyramidal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "angular, pyramidal, linear and tetrahedral",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "pyramidal, linear, tetrahedral and angular",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "tetrahedral, angular, pyramidal and linear",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58a356bc-b38f-43ea-bc7e-4136c15cc33c",
+      "question_text": [
+        "Which quantum divides shells into orbitals?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "explanation": "The azimuthal quantum number determines an atom's orbital angular momentum and the shape of the orbital. The principal quantum number determines its number of shells. Magnetic quantum number determines how many orbitals there are as well as their orientation within a subshell.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Spin",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Principal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Azimuthal",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Magnetic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ebcfa09d-6822-4ba6-a6cc-e124375117e8",
+      "question_text": [
+        "The oxidation state(s) of nitrogen in ammonium nitrite is/are"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "Ammonium nitrite = NH\\(_4\\)NO\\(_2\\) NH\\(_4 ^+\\): Let the oxidation number of Nitrogen = x x + 4 = 1 \\(\\implies\\) x = 1 - 4 x = -3 NO\\(_2 ^-\\): x - 4 = -1 x = -1 + 4 \\(\\implies\\) x = +3. The oxidation numbers for Nitrogen in Ammonium Nitrite = -3, +3.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-3, +3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "+5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-3, +5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a44f4bd2-efeb-4faf-b8da-7a1cc139d15b",
+      "question_text": [
+        "Hydrogen bond is a sort of"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "Hydrogen bond is a covalent intermolecular bond that exists between hydrogen and highly electronegative elements like nitrogen, oxygen and fluorine.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "van der waals force",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "dative bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ionic bond",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a covalent bond",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8a5e5439-111d-41ab-90ca-b5b77f1e8f0b",
+      "question_text": [
+        "Methane is prepared in the laboratory by heating a mixture of sodium ethanoate with soda lime. The chemical constituent(s) of soda lime is/are"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "Soda lime is a mixture of caustic soda (NaOH) and lime water (Ca(OH)\\(_2\\)).",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ca(O",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "\\(_2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " and NaOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Na\\(_2\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "026a4df8-8fef-4eb1-abde-fa0da2b0aa37",
+      "question_text": [
+        "Which of the following sets of operation will completely separate a mixture of sodium chloride, sand and iodine?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "Process: Add water to the mixture and then filter. The resultant is a salt solution as your filtrate and a mixture of iodine and sand as your residue. Evaporate the filtrate to dryness to get your sodium chloride (salt). Heat the residue to sublime the iodine from the sand. Addition of water \\(\\to\\) Filtration \\(\\to\\) Evaporation \\(\\to\\) Sublimation.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "addition of water, filtration, evaporation to dryness and sublimation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "filtration, evaporation to dryness, addition of water and sublimation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sublimation, filtration, evaporation and addition of water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sublimation, addition of water, filtration and evaporation to dryness",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d2474e3-36d0-439d-9fb9-f300f5b6a4af",
+      "question_text": [
+        "200cm\\(^3\\) of 0.50mol/dm\\(^3\\) solution of calcium hydrogen trioxocarbonate (IV) is heated. The maximum weight of solid precipitated is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "Equation: Ca(HCO\\(_3\\))\\(_2\\) \\(\\to\\) CaCO\\(_3\\) (precipitate) + H\\(_2\\)O + CO\\(_2\\) (in the presence of heat) V = 200 cm\\(^3\\) = 0.2 dm\\(^3\\) C = 0.5 mol/dm\\(^3\\) = 0.5M N = CV \\(\\implies\\) N = 0.5 \\(\\times\\) 0.2 = 0.1 mole From the equation 1 mole of Ca(HCO\\(_3\\))\\(_2\\) gives 100g of CaCO\\(_3\\) (1 mole CaCO\\(_3\\) = 40 + 12 + (3 x 16) = 100g\\) 0.1 mole of Ca(HCO\\(_3\\))\\(_2\\) gives x g of CaCO\\(_3\\). \\(\\frac{1}{0.10} = \\frac{100}{x}\\) \\(x = 100 \\times 0.10 = 10 g\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "25g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21857b8c-e03a-4ed6-a89d-de166f48e0cd",
+      "question_text": [
+        "Which of the following conditions will most enhance the spontaneity of a reaction?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\Delta",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "H is negative and greater than T\\(\\Delta",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\Delta\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "457d6bba-c488-404e-acae-a36d9690c3bf",
+      "question_text": [
+        "X is a substance which liberates CO\\(_2\\) on treatment with concentrated H\\(_2\\)SO\\(_4\\). A warm solution of X can decolorize acidified KMnO\\(_4\\). X is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "It should be noted that for X to liberate CO\\(_2\\), X must be a carbonate or an oxalate. Since X decolorizes KMnO\\(_4\\), X must be an oxalate.  Therefore, X is H\\(_2\\)C\\(_2\\)O\\(_4\\).",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "HCOOH",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "NaHCO\\(_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "FeCO\\(_3\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d345b6a1-17b5-4c2b-be57-f7611b892e32",
+      "question_text": [
+        "The velocity, V of a gas is related to its mass, M by (k = proportionality constant)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "Recall: V = \\(\\sqrt{\\frac{3RT}{M}}\\) \\(\\therefore V \\propto \\frac{1}{\\sqrt{M}}\\) \\(V = \\frac{k}{\\sqrt{M}}\\) V = \\(\\frac{k}{M^{\\frac{1}{2}}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "V = \\(\\frac{k}{M}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "V = \\(\\frac{k}{M^{\\frac{1}{2}}}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b2fffc8-bcae-4527-8464-08870ae35efc",
+      "question_text": [
+        "The emission of two successive beta particles from the nucleus \\(^{32} _{15} P\\) will produce"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "\\(^{32} _{15}\\)P \\(\\to\\) 2\\(^{0} _{-1}\\)e + \\(^{a} _{b}\\)X 32 = 2(0) + a a = 32 15 = 2(-1) + b b = 15 + 2 b = 17 \\(\\therefore\\) \\(^{a} _{b}\\)X = \\(^{32} _{17}\\)Cl",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(^{30} _{14}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Si",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(^{32} _{13}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "AlC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d15276e-66ad-481a-ba09-2775a9b67b55",
+      "question_text": [
+        "Hydrogen diffused through a porous plug"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "explanation": "Using Graham's Law of Diffusion, \\(\\frac{R_1}{R_2} = \\sqrt{\\frac{m_2}{m_1}}\\) \\(\\frac{R_H}{R_O} = \\sqrt{\\frac{m_O}{m_H}}\\) \\(\\frac{R_H}{R_O} = \\sqrt{\\frac{32}{2}}\\) \\(\\frac{R_H}{R_O} = \\sqrt{16} = 4\\) \\(\\therefore R_H = 4 \\times R_O\\) Therefore, hydrogen diffuses 4 times faster than oxygen.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "thrice as fast as oxygen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "at the same speed as oxygen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "four times as fast as oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "twice as fast as oxygen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "530d23a0-6b91-4aa0-b3e3-dd159ab33bbc",
+      "question_text": [
+        "If the cost of electricity required to discharge 10g of an ion X\\(^{3+}\\) is N20.00, how much would it cost to discharge 6g of ion Y\\(^{2+}\\)?[1 faraday = 96,500C, atomic masses are X = 27, Y = 24]"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "X\\(^{3+}\\) + 3e\\(^-\\) \\(\\to\\) X 3F = 27g xF = 10g \\(\\frac{x}{3} = \\frac{10}{27} \\implies x = \\frac{10}{9} F\\) \\(\\frac{10}{9}\\)F \\(\\equiv\\) N20.00 1F is equivalent to x \\(\\frac{1}{\\frac{10}{9}} = \\frac{x}{20}\\) \\(\\frac{9}{10} = \\frac{x}{20} \\implies x = N18.00\\) 1F is equivalent to N18.00. Y\\(^{2+}\\) + 2e\\(^-\\) \\(\\to\\) Y 2F = 24g xF = 6g x = \\(\\frac{6 \\times 2}{24} = \\frac{1}{2} F\\) 1F = N18.00 \\(\\frac{1}{2}\\)F = \\(\\frac{1}{2} \\times N18.00\\) = N9.00",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N10.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N6.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N20.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "N9.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "29458ce8-6203-4be7-8a07-5a25d73d783f",
+      "question_text": [
+        "The cost of discharging 6.0g of a divalent metal, X from its salt is ₦12.00. What is the cost of discharging 9.0g of a trivalent metal, Y from its salt under the same condition?[X = 63, Y = 27, 1F = 96,500C]"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "For X:  X\\(^{2+}\\) + 2e\\(^-\\) \\(\\to\\) X 2F = 63g xF = 6g x = \\(\\frac{6 \\times 2}{63} = \\frac{4}{21} F\\) \\(\\frac{4}{21}\\)F = N12.00 1F = \\(\\frac{12}{\\frac{4}{21}}\\) = N63.00 1F is equivalent to N63.00. For Y: Y\\(^{3+}\\) + 3e\\(^-\\) \\(\\to\\) Y 3F = 27g  xF = 9g x = \\(\\frac{3 \\times 9}{27}\\) = 1F 1F = N63.00",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "N12.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "N27.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "N63.00",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "N95.00",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d067c280-6ffa-4f59-ae38-6b2f35762b69",
+      "question_text": [
+        "How many alkoxyalkanes can be obtained from the molecular formula C\\(_4\\)H\\(_{10}\\)O?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": " ethoxlethane methoxylpropane propoxylmethane",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "670bace5-b4c7-4e16-a28a-0cbcd23c631e",
+      "question_text": [
+        "The reaction \\(2H_2 S + SO_2 \\to 3S + 2H_2 O\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "not a redox reaction because there is no oxidant in the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "not a redox reaction because there is no reductant in the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a redox reaction in which H\\(_2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "S is the oxidant and SO\\(_2\\",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "774ca0bb-948e-4fe9-a7b7-5ca472422766",
+      "question_text": [
+        "A solution X, on mixing with AgNO\\(_3\\) solution gives a white precipitate soluble in aqueous NH\\(_3\\), a solution Y, when also added to X, also gives a white precipitate which is soluble when heated solutions X and Y respectively contain"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Al\\(^{3+}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": ", Cl\\(^-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Hg\\(^+\\",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "681db4fe-30f4-4db3-acb2-99d47b54e986",
+      "question_text": [
+        "How many electrons will be found in the nucleus of an atom with mass number 23 and 17 neutrons?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "Mass number = number of protons + number of neutrons Recall also that number of protons = number of electrons for a neutral atom. \\(\\implies\\) 23 = protons + 17 protons = 23 - 17 = 6 \\(\\therefore\\) Number of electrons = 6.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "none",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d06c7a2-dad1-4179-b88c-f1df0597215d",
+      "question_text": [
+        "An element Z contains 80% of \\(^{16} _8\\)Z and 20% of \\(^{18} _8\\)Z. Its relative atomic mass is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "R.A.M of Z = \\(16(\\frac{80}{100}) + 18(\\frac{20}{100})\\) = \\(12.8 + 3.6\\) = 16.4",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "17.6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "16.4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fa8fd6b2-9632-4f36-813a-c17ce3ed3081",
+      "question_text": [
+        "When the end alkyl groups of ethyl ethanoate are interchanged, the compound formed is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "The structural formula for ethyl ethanoate isAfter interchanging, we haveWhich is the structural formula for ethyl propanoate.",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "propylmethanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ethylpropanoate",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "methyl ethanoate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "methyl propanoate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5b3d3c78-6715-40ac-9c54-f035bf29e396",
+      "question_text": [
+        "The part of the total energy of a system that accounts for the useful work done in a system is known as"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "Gibb's free energy is the fraction of the total energy of a system that accounts for how much useful work can be done in a system.",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Enthalpy change",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "None of the above",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Gibb's free energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Entropy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0f578dad-c238-4e0d-8a9b-5170bae4b3cb",
+      "question_text": [
+        "Which of the following factors will speed up the rate of evolution of carbon (iv) oxide in the reaction below?2HCl + CaCO\\(_3\\) → CaCl\\(_2\\) + H\\(_2\\)O + CO\\(_2\\)"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "explanation": "The following factors increase a reaction rate - Increase in concentration of reactants - Increase in temperature - Addition of catalyst - Increase in the surface area of reactant(s)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increasing the concentration of the acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increasing the surface area of CaCO\\(_3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "A and BD",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

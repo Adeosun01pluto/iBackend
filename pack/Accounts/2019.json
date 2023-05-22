@@ -1,0 +1,2553 @@
+
+[
+    {
+      "id": "30ee13df-60a5-4d33-bbbe-ce3547638449",
+      "question_text": [
+        "Transactions are recorded or posted to the ledger in line with"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Accounting Concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Source document",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Double Entry Principle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Data collection",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3c98a9d-10d0-478a-bdfb-db93ce13336f",
+      "question_text": [
+        "Show how the following transaction will be recorded applying the double entry principle:Rent ₦50,000 was paid by Mr. Roi to his landlord on 1st July, 20 × 7 by cheque."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Dr Rent A/c; Dr Bank A/c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Dr Bank A/c; Cr Rent A/c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Dr Rent A/c; Cr Bank A/c",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dr Rent A/c; Cr Mr. Roi",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a487b694-79a9-42d8-9c9a-ff14c3c59288",
+      "question_text": [
+        "A statement in a double entry system in which are recorded all the transactions of one specific class, which takes place during the period is called"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Double entry system",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ledger",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Cash Book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Petty Cash Book",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "89cac73c-32f4-40a2-ba76-c537afffd35f",
+      "question_text": [
+        "The advantage of double entry is that"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it is easy to prepare the final account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "it increase assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "has cash and bank column",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "It disburses cash",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e51c8525-f296-4f9e-ae0f-7bb724126f59",
+      "question_text": [
+        "Accounts can be classified into"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash and credit transactions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash and credit accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "personal and private account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "personal and impersonal account",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ab02d876-6cee-4989-9ef0-8d275e2e8f15",
+      "question_text": [
+        "Goods were purchased for resale on credit costing ₦150,000 on 30th September 20X8 from Tosanwumi International. The entry to record these transaction is debit"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Tosanwumi International, credit purchase Account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Purchase Account ₦150,000, credit Tosanwumi International Account ₦150,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Credit Account ₦150,000, Credit Tosanwumi International ₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Tosanwumi International ₦150,000, credit credit Account ₦150,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "899b2f38-f899-4788-a7d6-56b9bf38035f",
+      "question_text": [
+        "If only wages is shown on the trial balance, it should be charged to the"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "profit and loss account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "trading account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "balance sheet",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "wages account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79d8f460-302b-4b08-bf6a-b85b165f67fa",
+      "question_text": [
+        "Use the following information to answer this question The following are the final accounts of a trading organisation Wazobi ventures, for the year ended 30th June, 19x8 ₦₦SalesLess: cost of goods sold 233,000170,000  63,000less: Overhead ExpensesAdmin expensesSelling expensesOther overhead expenses16,80015,0006,200 Net profit 25,000What is the Gross Profit on percentage of sale?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.7%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.27%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "27.0%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "29.8%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "76918aea-27f9-42c0-905c-7b8d0cf28beb",
+      "question_text": [
+        "Use the following information to answer this question The following are the final accounts of a trading organisation Wazobi ventures, for the year ended 30th June, 19x8 ₦₦SalesLess: cost of goods sold 233,000170,000  63,000less: Overhead ExpensesAdmin expensesSelling expensesOther overhead expenses16,80015,0006,200 Net profit 25,000Calculate the net profit on percentage of expenses."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "13%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "65.7%",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ad32e276-5d70-4304-a5cf-663438fcccd1",
+      "question_text": [
+        "Mr Ojo gives you the following information on 31st July 2017Opening Stock         7,000Closing Stock         12,000Purchases         60,000Expenses         4,500Uniform margin of 33 \\(\\frac{1}{3}\\) %You are required to calculate the sales"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#55,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#82,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "#27,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#50,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a0dd994-5fe2-488d-b4bf-add021ba9f5f",
+      "question_text": [
+        "Use the following to answer this question. Industry ltd, issued 100,000 shares at ₦1 each out of its Authorized share capital of ₦200,000 at ₦1 each. At the of the first call, all shareholders paid in full, except for two shareholder who owes ₦20,000.The company's paid-up capital is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦70,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦80,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦220,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦120,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "32ee43f1-c7ca-4ed1-925b-330eff16b096",
+      "question_text": [
+        "Use the following to answer this question. Industry ltd, issued 100,000 shares at ₦1 each out of its Authorized share capital of ₦200,000 at ₦1 each. At the of the first call, all shareholders paid in full, except for two shareholder who owes ₦20,000.The Unissued capital of the company is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦310,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦200,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦210,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦100,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "af464461-f061-4484-bccb-5b07a9208857",
+      "question_text": [
+        "Given:Ordinary share dividend ₦100,000, General reserve ₦4,100, Net profit b/d ₦27,370, corporation tax ₦2,500, Profit and loss ₦28,200, Interim ordinary dividend ₦4,050, Goodwill 20,50 provide for preference Dividend ₦2100 and Final ordinary Dividend of 5% and also write off Goodwill at ₦1500.The retained profit in the Appropriation account is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦55,570",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦36,320",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦30,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4b7faee-85b2-4308-87e6-0e4a7efd7971",
+      "question_text": [
+        "Retained profits is an example of"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Revenue reserve",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Capital reserves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "General reserves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Loan capital",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a964166d-7981-46fe-9055-61c578128d50",
+      "question_text": [
+        "Use the information below to answer this question. Ojo, Sam and Ade are in partnership sharing profit in the ratio 4 : 3 : 1 respectively.Extract from their books for the year ended areInterest on drawings and capital is allowed 5% respectively and profit for the year amounted to ₦4,950Ojo's share of profit is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2475",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1322.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "424b1a3f-7dc9-46c7-a98b-828d40df5e1d",
+      "question_text": [
+        "Use the information below to answer this question. Ojo, Sam and Ade are in partnership sharing profit in the ratio 4 : 3 : 1 respectively.Extract from their books for the year ended areInterest on drawings and capital is allowed 5% respectively and profit for the year amounted to ₦4,950Sam's share of profit is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4921",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "991.8",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6d6ba24f-21b8-4b92-bdf8-bdde4257869a",
+      "question_text": [
+        "The rate of interest on capital for Ade is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "400",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a732be8-3894-4555-9406-e7288e5718c8",
+      "question_text": [
+        "Use the information to answer this questionReceipts and Payment Account (Extract)                               NBal b/f                   3650       Insurance   900Subscription   (99) 7500       Rate          11,700                   (2000) 1000      Bal c/d        8,050Fees                      8500                            20,650                       20,650The following information were given:Rates owingInsurance prepaidSubscription in arrears1/1993,6005070031/12/9920001000600Calculate the subscriptions in the Income and expenditure account"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7400",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7200",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "90c99e55-8d39-415d-ac22-64cdda792904",
+      "question_text": [
+        "Use the information to answer this questionReceipts and Payment Account (Extract)                               NBal b/f                   3650       Insurance   900Subscription   (99) 7500       Rate          11,700                   (2000) 1000      Bal c/d        8,050Fees                      8500                            20,650                       20,650The following information were given:Rates owingInsurance prepaidSubscription in arrears1/1993,6005070031/12/9920001000600The figure ₦1000 represent what in the balance sheet."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Liability",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "capital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Subscription",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58e2c2ec-4b80-441b-874e-5a9230c195c7",
+      "question_text": [
+        "Use the information to answer this questionReceipts and Payment Account (Extract)                               NBal b/f                   3650       Insurance   900Subscription   (99) 7500       Rate          11,700                   (2000) 1000      Bal c/d        8,050Fees                      8500                            20,650                       20,650The following information were given:Rates owingInsurance prepaidSubscription in arrears1/1993,6005070031/12/9920001000600What is the opening cash balance"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦20,600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦8,050",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦3,650",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦8,500",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d0267fa-1882-4598-b3c7-b7fd07df96ba",
+      "question_text": [
+        "Which of these will not appear in the preparation of control account.I. Bad debtsII. DiscountsIII. ReturnsIV. Provision for bad debts"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "IV only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "688f96c0-4092-4f59-be8f-0afbaebb48f9",
+      "question_text": [
+        "Use the following Information to answer this question.Stock of finished goods: Jan 1stDec 31stStock of Raw materials: Jan 1stDec 31stPurchase of Raw MaterialsManufacturing WagesDepreciation: Factory equipmentDirect expensesFactory FuelCarriage inwards on Raw Materials₦50,64071,38032,16029,640145,00052,00016,50012,5007,0007,000Cost of raw materials consumed is "
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦53,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦152,120",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦148,120",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c8d45f85-78ca-4ab8-bfc4-cf60a6487f2c",
+      "question_text": [
+        "Use the following Information to answer this question.Stock of finished goods: Jan 1stDec 31stStock of Raw materials: Jan 1stDec 31stPurchase of Raw MaterialsManufacturing WagesDepreciation: Factory equipmentDirect expensesFactory FuelCarriage inwards on Raw Materials₦50,64071,38032,16029,640145,00052,00016,50012,5007,0007,000"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "220,480",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "213,480",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "200,480",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "190,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa47e4b2-a7d8-46ba-9ed2-ec37169ab84c",
+      "question_text": [
+        "A fall or decrease in the economic service potential of an asset as a result of wear, tear and obsolescence is referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Estimate",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Depreciation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Asset",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Useful Life",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8e0abdf-1ac1-4a22-a361-c6b1b02364e9",
+      "question_text": [
+        "The cost of a machine is ₦10,000. The residual value is ₦4,000. It is expected to last for 4 years. Using the straight line method, what is the amount of depreciation charged per annum?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2500",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "47555d2f-7acd-4317-8521-c3f0da93ad05",
+      "question_text": [
+        "Use the question to answer this questionThe following information were extracted from the books of Miliki stateSinking of bore holesPurchase of Motor carStationeryElectricityPurchase of drugsPurchase of beds₦2,900,000920,000300,00045,00076,000425,000Recurrent expenditure is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦345,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦3,245,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦421,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦4,245,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e6e0170-a333-468f-8a11-17edb291197d",
+      "question_text": [
+        "Use the question to answer this questionThe following information were extracted from the books of Miliki stateSinking of bore holesPurchase of Motor carStationeryElectricityPurchase of drugsPurchase of beds₦2,900,000920,000300,00045,00076,000425,000Capital expenditure is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦345,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦3,245,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦421,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦4,245,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d00e2f87-69be-42a2-9d6c-4e64f0291f49",
+      "question_text": [
+        "Goods can be charged to branches using any of these pricing methods except"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cost price",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cost plus percentage",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "selling price",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "selling plus percentage",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e0700fe6-741e-4439-b8c9-7fac447614ee",
+      "question_text": [
+        "Abelawo ltd operates a retail branch at Aba. All purchases are made by the head office in Onitsha and goods are charged to the branch at cost plus 50%. During the year ended. Goods sent to branch at invoiced price is ₦30,870, cash sales ₦13,020 and Bad debt amounted to 129. From the following, what is the profit?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20,580",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10,290",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "7980",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "30,870",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85353016-b622-485b-9a1c-08ef141d1912",
+      "question_text": [
+        "Use the question to answer this question:Opening stock₦DepartmentAB100800Purchases:ABWages of workersSalaries1500200050100SalesAB30005000Expenses are to be shared in the ratio of sales.The cost of goods for department B is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4,120",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2800",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8346602e-74c1-4371-878e-c06f9f1317b5",
+      "question_text": [
+        "Use the question to answer this question:Opening stock₦DepartmentAB100800Purchases:ABWages of workersSalaries1500200050100SalesAB30005000Expenses are to be shared in the ratio of sales.The net profit for departmental A is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1880",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1600",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "880",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "425",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6f21dcb2-d5af-415a-9703-37480eec8b53",
+      "question_text": [
+        "Every economic unit, regardless of its legal form of existence, is treated as a separate entity from parties having economic interest is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "realisation concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "entity concept",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "going concern concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "matching concept",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9733fa9b-5fd0-426e-95ec-8803db788b2f",
+      "question_text": [
+        "The two recognised accounting bases are"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash and credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "personal and impersonal",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Accrual and Cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Drawings and Private",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d735c8b-aee7-4702-8dbf-c1b2c1aa2338",
+      "question_text": [
+        "Given:Additional capitalCapitalClosing capitalNet profit₦40008000120001500The drawings for the period stand at"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "3000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10,500",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ca3fbe2-dbfe-4c2d-b9dd-d5c74b475cbb",
+      "question_text": [
+        "The importance of bank statement is all except"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "verifies the accuracy of balances of cash book and cheque book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "helps to detect and rectify any error",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "helps to debit an account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "helps to update the cash book",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "70faa512-7f11-414d-9e4c-98a40bd3701b",
+      "question_text": [
+        "Accounting standards are issued at the International level by the"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Standards Advisory Council",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "International Accounting Standards Board",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Nigerian Accounting Standards Board",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Standing Interpretations Committee",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e61a67fb-99f3-4149-a572-9db4e1176c53",
+      "question_text": [
+        "The method of stock valuation in which the issue price is obtained by dividing the value of stock in hand by unit of stock in hand is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "FIFO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "LIFO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "SAP",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "WAP",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "76f63cb5-8d15-4de4-a1d9-530fd888c812",
+      "question_text": [
+        "One of these is not a similarity between Joint Venture and Partnership."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "AIM is profit making",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "It is for a specific venture",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Involves two people",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "have rights and duties",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e9590af8-89b0-4711-b17a-1e7332fe3880",
+      "question_text": [
+        "Majority of commercial transactions are termed credit transactions, which means"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The buyers pay immediately for goods bought",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Settlement is deferred to a future date",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "No account will be opened",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Item of expenditure increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "28d1901b-e2f1-4338-9b16-5ad99197c2eb",
+      "question_text": [
+        "Bought motor vehicle ₦60 paying by cheque. The effect of the transaction will be"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Increase in assets of motor vehicle account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decrease in assets of motor vehicle account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increase in assets of bank account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Increase in liabilities of bank account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea451b03-06cf-437c-93ca-5f5cb828b80c",
+      "question_text": [
+        "A proprietor withdraws cash from the business for private use, he"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "credits cash account and debits bank account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credits cash account and debits drawing A/C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "debits cash account and credits drawings account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debits bank account and credits drawings account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "532df968-15d1-41de-886e-6efb8b3637c6",
+      "question_text": [
+        "The rules of double entry states that"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "for every debit entry, there must be a corresponding debit entry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "for every credit entry, there must be a corresponding credit entry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "all transactions must be recorded in two accounts, one account is debited and another is credited",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "all transaction must be credited",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "50df5de3-14a0-4dc5-a032-d82f0219ac69",
+      "question_text": [
+        "The difference between double entry and single entry is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "double entry is based on the dual concept while single entry is not based on dual concept",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "double entry is an account while single entry is not an account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "double entry keeps personal account while single does not",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "double entry is useful for business enterprise while single entry is not",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "14a9a8ec-44cc-4194-947f-338b59f9b8ba",
+      "question_text": [
+        "A rent of ₦50,000 was paid by samson to his landlady by cheque. The double entry in Samson's book is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Debit rent account, Credit bank account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Debit Rent account, Credit Samson's account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Debit Bank account, Credit Rent account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Debit Samson's account, Credit Rent account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ad1e6b2-721c-45eb-8642-9272ac32f744",
+      "question_text": [
+        "The purpose of profit and loss account is to ascertain"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Gross profit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Capital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Expenses",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Net profit",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7cbfb84e-af07-4e6e-8e26-b26ba0a029e0",
+      "question_text": [
+        "Discount received is charge to"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "current account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "profit and loss",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "trading account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "862dbf94-2d8b-49cd-a38f-d537a73344ff",
+      "question_text": [
+        "Use the question to answer this question:Opening stock₦DepartmentAB100800Purchases:ABWages of workersSalaries1500200050100SalesAB30005000Expenses are to be shared in the ratio of sales.What was the cost of goods sold?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦25,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦75,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e4039b85-2169-41da-a6b4-d87fe64dbcf8",
+      "question_text": [
+        "Use the following to answer this questionOpening stockPurchasesSalesClosing Stocks₦20,00070,000100,00015,000What was the gross profit?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦75,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦25,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b6037843-a795-4cbf-af1e-f8ab49f167fb",
+      "question_text": [
+        "An ordinary share of ₦100 was issued at ₦80. The share was issued at"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "premium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "par",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "loss",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "27960244-b944-4f26-9941-160c703ace84",
+      "question_text": [
+        "Shares that are offered to existing shareholders at a price is called"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "par",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "premium",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "right issue",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "bonus issue",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "649b6bc5-c07e-4fe5-8611-011cf34c7baa",
+      "question_text": [
+        "Use the following information to answer this questionYear₦199119921993199414,00024,00010,00016,000It has been decided to value goodwill at 2 years purchase of average profit for the past 4 years. The value of goodwill is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "32,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "16000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "30000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4cc34b01-08cd-48f2-9860-f7a2316951d1",
+      "question_text": [
+        "Where there is no agreement made by the partners, the following provisions takes place except"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "No salary for partners acting in the business",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "There is interest on capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "No interest to be charged on drawings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Profit and loss are to be shared equally",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "48281614-1e3f-44eb-954b-fa696ec0fa77",
+      "question_text": [
+        "In the absence of partnership agreement, a loan by a partner attracts interest at"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f349c899-e4c0-4fef-8206-e4c4d21403fb",
+      "question_text": [
+        "In a non-profit making organisation, the excess of Assets over liabilities equals"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "capital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "capital employed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "capital owned",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "accumulated funds",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1fe5dfb5-5a16-4cc8-bb1d-2ad904c7fca9",
+      "question_text": [
+        "The similarities between Receipts and payments and income and expenditure account is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Both accounts follows the principle of double entry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "They are summaries of financial statements",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Both include capital items",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Both are prepared by non-profit making concern",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bdf88156-c934-4738-9cad-febd48518ff4",
+      "question_text": [
+        "Given:EquipmentMotor VehicleLoanCreditorsSub in advanceSub in arrears₦10,00015,0004,5003,0001503500What is the accumulated fund?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦14,150",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦20,850",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦21,850",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦14,200",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18198825-84f4-4203-a497-0da38c218866",
+      "question_text": [
+        "Use the information to answer this questionPayment to creditors ₦12,250Creditors at start ₦550Creditors at end ₦830What is the amount of purchase"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦11,970",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦11,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,250",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦12,053",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f0c1834-507b-4f67-be1d-1daf7dcbed2f",
+      "question_text": [
+        "Use the information to answer this questionPayment to creditors ₦12,250Creditors at start ₦550Creditors at end ₦830What is the creditors amount in the balance sheet?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦550",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦12,250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦12,530",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦830",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "da562d48-7707-4073-89c9-b58478be9853",
+      "question_text": [
+        "In the preparation of statement of profit, if the opening capital is greater than closing capital, there will be"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "profit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "capital",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "loss",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "74a29476-5ee5-4ee8-a846-25327a505798",
+      "question_text": [
+        "The manufacturing account is prepared to ascertain"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cost of goods sold",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cost of production",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Gross profit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Finished goods",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5eb90278-110c-4668-8cd5-6cfe36da276c",
+      "question_text": [
+        "Which of the following is not charged to manufacturing account?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Direct expenses",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Factory wages",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Distribution expenses",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Raw materials",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ffcdbd17-90da-452a-b06b-3513d8a358a9",
+      "question_text": [
+        "Which of the following cannot depreciate?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "plant and machinery",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "motor van",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "premises",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "land",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c0c5704a-c3ed-4b83-9c14-867fff393a81",
+      "question_text": [
+        "A machine cost ₦12,500 it will be kept for 4 years and then sold at a scrap value of ₦5,120. Using the diminishing balance method, what is the amount of depreciation for second year?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦5,120",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦6,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦8,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦12,500",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "38be87f1-6439-42f4-a49d-8ffbcd1b0765",
+      "question_text": [
+        "An officer that is charged with the responsibility of carrying out investigations on the book of accounts to show the true and fair view is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ministry of Finance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Accountant General",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Revenue office",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Auditor General",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6bddf710-19a8-424a-af0e-eb85e6291b99",
+      "question_text": [
+        "The instrument isued by the Minister who authorized an officer to incure expenditure is a/an"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "warrant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "budget",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "imprest",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "consolidated fund",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8158d99e-049a-47fb-982c-db9596800bf4",
+      "question_text": [
+        "One of the objective of maintaining the account of a branch at the head office is to"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "to access the performance of the branches",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "check the excesses of customers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "record charges in shareholdings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "record charges in liabilities",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b52f67f5-3206-44f6-972d-eedae7b061ba",
+      "question_text": [
+        "A company goods sent to branch at invoiced price is ₦30,870 at cost plus 25%. The mark-up is"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦20,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦6,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦6,174",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦10,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "47e0e927-b896-48c4-8bd9-6883eef6a444",
+      "question_text": [
+        "The objective of departmentalization is to"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ensure that departmental managers are adequately monitored",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "record transactions for each department for better documentation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "tackle any recording problem as a result of expansion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "evaluate the profit of different departments",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "310fda51-4f92-43d7-b935-440dd3c5c17d",
+      "question_text": [
+        "Discount received is apportioned to each department on the basis of"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Floor area",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Turnover",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Purchases",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Horse power",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "33a5a6ce-d2ee-4638-bc0e-6132ed965fea",
+      "question_text": [
+        "Given:Fixed assetsLiabilitiesCurrent assets₦55,00020,00013,000What is the capital?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦88,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦48,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦62,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦55,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2d71d479-f01f-43ab-9290-a61abbbc15da",
+      "question_text": [
+        "One of the limitations of accounting is that"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "it ascertain financial position",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "it prevent fraud",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "transactions are recorded in monetary terms",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "it monitor the progress of the enterprise",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94ab204a-436d-4812-9100-d2729eb534d7",
+      "question_text": [
+        "Capital at start was ₦250,000, while capital at the end of the year was ₦400,000. Drawings during the year amounted to ₦15,000. What is the profit?"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦165,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦635,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦600,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦156,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "54195fe5-fc33-4539-8855-087b75ae5a0c",
+      "question_text": [
+        "In the preparation of account, the owners of the business and the business concerned are treated as:"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "partners",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "joint venture",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the same person",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "separate legal entities",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ffc74a2d-f7ec-413b-92a8-6c3b2040edeb",
+      "question_text": [
+        "From the following, determine the value of closing stock using:Feb 1 purchased 200 units @ ₦2.00 eachFeb 3 purchased 100 units @ ₦1.00 eachFeb 4 issued 120 units @ ₦5.00 eachFeb 5 purchased 50 units @ ₦3.00 eachFeb 6 issued 100 units @ ₦4.00 each"
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "330",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "420",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "230",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "320",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40f3956f-06b4-4f25-b678-9c5cf250ba44",
+      "question_text": [
+        "A sent B a cheque for ₦2000 to provide him with friends. They agreed to share profits in ratio 3 : 2 and settlement is by cheque.SalesAdvertWagesPurchasesA₦3200327851600B₦2100463701100The profit and loss in joint venture with B account in the ledger of A."
+      ],
+      "examType": "jamb",
+      "year": "2019",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦1000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦900",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦993",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦883",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

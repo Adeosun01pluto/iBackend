@@ -1,0 +1,3347 @@
+
+[
+    {
+      "id": "4412dff1-0894-4760-aa7a-cb8b4bdce271",
+      "question_text": [
+        "Find the average stock for the period"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦27 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦23 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦20 500",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4d67ece3-170c-4ff6-85c7-69940529d1c9",
+      "question_text": [
+        "Calculate the cost of goods sold."
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦61 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦58 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦62000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦57 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb1472ff-444b-4b67-89e9-1f485abaadee",
+      "question_text": [
+        "The historical development of accounting reveals that it?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "deals with debit and credit of items",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is a product of financial development",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "is a product of its own evironmnent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "is an ideal subject for finacial development",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f4827c2-9cc9-4fb8-bed3-e9508096bdfa",
+      "question_text": [
+        "In a trial balance, income and liabilities are?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited and credited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credited",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "credited and debited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debited",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5cb5c918-7692-4282-9e28-8dad5ae92a6f",
+      "question_text": [
+        "The principle of double entry system ensures?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "mathematical accuracy in trial balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "balances at the bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase in the assets and liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance of cash account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22ad8045-3d95-4966-87fd-d724e936b151",
+      "question_text": [
+        "Ii) Add up both sideIii)Take the difference to the smaller and add to the smaller figure The correct procedure for balancing account is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ii, i and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i, iii and ii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii, iii and i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iiiE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ffdb1597-400b-414e-acfd-287b972cc646",
+      "question_text": [
+        "Given:Light expenses...................₦400Purchases........................₦3,000Sales............................₦1,200Creditors........................₦2,250Debtors..........................₦50Calculate the total of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦4,250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦3,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦4,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦3,450",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2b841e97-ccee-488d-baa8-5457bed6f3a3",
+      "question_text": [
+        "The major feature of a journal is that it has?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "six columns, date, particulars, folio, amount, debit and credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "five columns, date particulars, folio, debit and credit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "three columns, date particulars and folio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "four columns, date particulars, folio and amount",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a5abc7f3-92e4-4470-9dde-15047ba5ffe2",
+      "question_text": [
+        "The medium of correcting errors whose differences are shown in the trial balance is by the use of?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debtors' account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "creditor's account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ledger account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f92d768c-be38-4c3b-871c-af73cdbec98c",
+      "question_text": [
+        "Use the information below to answer question .Adamu Stores bought accessories from Mu'azu Beverages for ₦400 on credit. A trade discount of 10% and a cash discount of 15% were provided.Find the total amount paid?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦260",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦380",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "33768007-7ece-4809-a3a9-cb7a2f2066f4",
+      "question_text": [
+        "Use the information below to answer question .Adamu Stores bought accessories from Mu'azu Beverages for ₦400 on credit. A trade discount of 10% and a cash discount of 15% were provided.Calculate the cash discount?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦90",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦100",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8a42c0a2-5228-47a4-a498-4475cff46e58",
+      "question_text": [
+        "In bank reconciliation process, discrepancies cause by timing arises as a result of?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash book bank statement",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bank statement only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "cash book, bank statement and other incidental records",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash book only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c4510c04-fc1f-422f-9356-fc6ecfac2378",
+      "question_text": [
+        "The process of reconciling cheques between banks is termed cheque?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "clearing",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "truncation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "holding",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "confirmation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7d11b8aa-247f-4496-8ff7-cc641856150d",
+      "question_text": [
+        "In a bank reconciliation statement, interest charged for overdrawn balances should be added to the?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "balance as per bank statement",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "bank balance as per adjusted cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "aggregate balance as per cash book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bank balance as per cash book",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "219b43b8-ecee-408a-af26-01b94421e9e8",
+      "question_text": [
+        "Use the information below to answer question i) Stock of goodsIi) FurnitureIii)CreditorsIv) Cash at bank"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "iii and v",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ii and i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "iv and v",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i and ivE",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cebca1f6-4a1c-44b5-8f89-03c998264f6b",
+      "question_text": [
+        "The type of expense charged against administration of a firm is the?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "repairs on building",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "interesr paid on loan",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount allowed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "tax expense",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3f331cc-48f4-4c46-9930-bfd88ac8cf89",
+      "question_text": [
+        "In a period of declining price, which of the following methods would result in higher profit?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "FIFO",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Simple average",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "LIFO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Weighted average",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1122d490-7beb-4570-b4dd-4af6a10f3987",
+      "question_text": [
+        "Use the information above to answer questions 19 and 20.July 30 Closing stock 100 units at ₦90July 8 Purchased 200 units at ₦95July 10 Sold 160 unitsJuly 17 Returned 80 faulty units purchased at ₦95July 18 Purchased 200 units at ₦105July 20 Sold 180 unitsJuly 28 Purchased 200 units at ₦110July 29 Sold 120 unitsJuly 30 Sold 100 unitsHow many units were at hand as at July 30?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "80",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "160",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "776ec432-7050-4357-9256-e214b6e692a6",
+      "question_text": [
+        "What is the value of stock as at the end of July 10 using FIFO?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦14 400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦13 300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦15 200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦12 600",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af61efbc-4e81-41ff-a2ea-74c7ac2162f0",
+      "question_text": [
+        "A typical example of a real account is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "prepayment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "expenses",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "plant",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "income",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eacf2531-1347-4a6c-b89e-77df9044280a",
+      "question_text": [
+        "The control accounting can be used in?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "recording all the business transactions of the enterprise",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Keeping records of all direct deposit in the bank account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "monitoring the books of original entry",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "monitoring the efficiency of bookkepping by accountants",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "33076c16-7fff-4787-b2fd-83c52ddf55a8",
+      "question_text": [
+        "Use the information below to answer questions 23 and 24.Incomplete Record (Extract)Sales......................................₦10,600Rent...........................₦200Depreciation of vehicle (cost ₦5000) 10%Gross profit margin is 20%What is the cost of goods sold?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦4 800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦8 480",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦2 320",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦9 900",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a002883-2158-483d-90a3-dbd5c3fa35e4",
+      "question_text": [
+        "Use the information below to answer questions 23 and 24.Incomplete Record (Extract)Sales......................................₦10,600Rent...........................₦200Depreciation of vehicle (cost ₦5000) 10%Gross profit margin is 20%Calculate the net profit?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦1 620",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1 920",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1 420",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2 120",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8553b761-021c-4b3b-b638-476b75ad16c3",
+      "question_text": [
+        "The cost that are directly traceable to the the goods being produced is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "party manufactured goods",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "overhead cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "total factory expenses",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "prime cost",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cca7f7dc-a1a6-4c0b-b9d6-e8854f6b4cf8",
+      "question_text": [
+        "The product cost that does not form part of the product but is incidental to product and facilitates the production activities is the?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "prime cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "indirect cost",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "total cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "direct cost",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80acc4a6-f18c-45fa-b402-86506e282c74",
+      "question_text": [
+        "Work-in-progress is the?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "value of party finished goods",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "value of finished goods sold",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sales less cost of goods sold",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "value of goods produced",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "626e8757-bd67-426c-bafd-9008c8abbd82",
+      "question_text": [
+        "The major festure of not-for-profit-making-organization is that they are formed?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "to use accumulated fund to described the net amount owed to members",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "mainly to improve the welfare of her member",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "to engaged in trading activities to sponsor its activities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "in order to compute the receipts and payment account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e1817289-dc81-49e4-bfe2-531289a2066b",
+      "question_text": [
+        "The subscription paid in advance is treated in the balance sheet of a club as?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a surplus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a liability",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "a deflicit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an asset",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2f46c5e-b3a7-45d7-be5e-2901a0264464",
+      "question_text": [
+        "The capital of not-for-profit-making organization is referred to as?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "entity fund",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "capital owned",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "accumulated fund",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital employed",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4743bda-0940-47a2-a8e0-0786a2b9cbae",
+      "question_text": [
+        "The major objective of departmental accounts is to ascertain the?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "contribution of each department to profit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "materials sold in each department",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "insurance premium payable on employees",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of employees in each department",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c438be3-73e1-4140-89d0-1d275dc6f935",
+      "question_text": [
+        "The transactions relating to liquidation in partnership account is drawn by using?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "current account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "capital account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "realization account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b7acec0-3a53-4f19-87fa-57ca5a384d48",
+      "question_text": [
+        "The cost method of charging goods to branch is used where?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "branch stock adjustment account is in use",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the retention of branch trading account is in addition to the cost of goods sold",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "goods are sent without invoice or any source documents",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "goods are of a perishable nature on which a pre-determined price is inapplicable",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d53a687-e962-43c3-8b91-1311cce7ce11",
+      "question_text": [
+        "The correct entries to record goods transferred to branch from head office is to debit?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "branch stock account and credit goods sent to branch account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "branch supplies account and credit branch stock account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "branch stock account and credit purchases account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "goods sent to branch account and credit branch stock account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1f85ca9-c413-4533-ad5e-5ed54c1dc52f",
+      "question_text": [
+        "The two accounts that are normally opened in the head office when goods are transferred to a branch are?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "branch supplies and branch receipts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "branch stock account and goods sent to branch accounts",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "goods sent to brannch account and branch receipt account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "goods sent to branch accounts and branch supplies",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3fbf73b3-442a-417c-85c0-d38240256e6f",
+      "question_text": [
+        "Goods invoiced to a branch can be sent using?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cost price, selling price and fixed percentage on selling price",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cost price, selling price and fixed percentage on cost price",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cost priceand fixed percentage on cost price",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cost price and fixed percentage on selling price",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4df2d6d6-a9f8-41a3-8c93-03da93e894dd",
+      "question_text": [
+        "The major point of agreement carried by the partnership deed is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5% interest annum on any loan",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an oral agreement among the partners",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "method of inhertance by the partners' children",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the profit and loss sharing ratio of the partners",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7d61f434-45dd-475c-85b7-cfc49fae4609",
+      "question_text": [
+        "Use the information below to answer questions 40 and 41.Keme and Kemi are in partnership sharing profit and losses in the ratio 3:2.Capital - Keme.............₦20 000........ - Kemi.............₦10 000Drawings - Keme.............₦2 000........ - Kemi.............₦3 000Profit......................₦6 000Interest on capital.........5%Interest on drawings........10%The interest on Kemi's capital is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦1 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦3 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "75ae0f12-259d-49c4-bc68-9f22e9744495",
+      "question_text": [
+        "Use the information below to answer questions 40 and 41.Keme and Kemi are in partnership sharing profit and losses in the ratio 3:2.Capital - Keme.............₦20 000........ - Kemi.............₦10 000Drawings - Keme.............₦2 000........ - Kemi.............₦3 000Profit......................₦6 000Interest on capital.........5%Interest on drawings........10%The interest on Keme's drawings is calculated as?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦150",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦100",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "134f5bfc-1f59-4a4d-801e-1ee7ecfee963",
+      "question_text": [
+        "Which of the following can be used on admission of a new partnership?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Revaluation account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Profit account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Capital account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Trading account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f82b6369-b9e1-41c9-b85b-15ed132d6c39",
+      "question_text": [
+        "Goodwill is determined using?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "capital contribution",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "number of partnerd admitted",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "the business and customer relations",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "number of active partners",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b37406d-6a90-4c34-bf8e-c9999c9daa99",
+      "question_text": [
+        "The founders of a company are?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "promoters",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "shareholders",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "canvassers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "stakeholders",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "776b397b-8fc8-4efa-9843-c09c53d55ef8",
+      "question_text": [
+        "The fund in which all government receipt are paid is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "consolidated revenue fund",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "development fund",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "trust fund",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "contingency fund",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5421aef1-b911-4279-bdba-73aca0759430",
+      "question_text": [
+        "Which of the following accounts for the highest revenue to Nigeria?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Import duties",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Personal income tax",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Petroleum income tax",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Company tax",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ecbbca13-fb96-4dfe-8119-fae2e203a61c",
+      "question_text": [
+        "If Aboki Holdings Limited issued 120, 000 ordinary share of ₦2.00 each at market value of 5.50k each, the share premium would?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦500 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦450 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦550 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦420 000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2c6b673e-e920-459c-919d-6c16e8abdf17",
+      "question_text": [
+        "Which of the following is a signatory to federal government account?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Auditor-General",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Governor of Central Bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Accountant-General",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Persident",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e300950-4b55-4d54-8ac0-02a0460f3b7d",
+      "question_text": [
+        "The chief accounting officer of a local government is the?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Chairman",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Treasurer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Director of personnel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Auditor",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23abdf26-5388-4545-8296-730e82f120f9",
+      "question_text": [
+        "Which of the following signs general warrant for the release of money from the consolidated revenue fund?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Minister of Finance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Chairman, Economic Advisory Committee",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Permanent secretary",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Minister of Economic Planning",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "65a760b9-e723-4dfb-9b5a-b801751fbc8f",
+      "question_text": [
+        "The item on the credit side of the trading account is the?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "returns outwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "caarriage on sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sales",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "purchases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a7fd63ef-9cbb-430d-ab26-70ce6087ef24",
+      "question_text": [
+        "Find the average stock for the period"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦27 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦23 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦20 500",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9de6876c-c902-4b8d-ade8-ed31ae763f40",
+      "question_text": [
+        "Calculate the cost of goods sold."
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦61 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦58 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦62000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦57 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e80d3a2-66b0-41f3-896d-f6f4a91dd946",
+      "question_text": [
+        "The historical development of accounting reveals that it?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "deals with debit and credit of items",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is a product of financial development",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "is a product of its own evironmnent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "is an ideal subject for finacial development",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b24f64bc-bd5f-4aab-ae3a-8d7773ff3f57",
+      "question_text": [
+        "In a trial balance, income and liabilities are?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited and credited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credited",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "credited and debited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debited",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8adae0f7-addb-4e18-9440-890b7767a0e4",
+      "question_text": [
+        "The principle of double entry system ensures?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "mathematical accuracy in trial balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "balances at the bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase in the assets and liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance of cash account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e4c583dd-c5ff-4440-9f89-731ae59b3823",
+      "question_text": [
+        "Ii) Add up both sideIii)Take the difference to the smaller and add to the smaller figure The correct procedure for balancing account is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ii, i and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i, iii and ii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii, iii and i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iiiE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c0312a3a-f4bf-407d-b0e5-d941a1d19de3",
+      "question_text": [
+        "Given:Light expenses...................₦400Purchases........................₦3,000Sales............................₦1,200Creditors........................₦2,250Debtors..........................₦50Calculate the total of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦4,250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦3,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦4,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦3,450",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f947f054-1dcd-4858-929c-fd053ddff6a7",
+      "question_text": [
+        "The major feature of a journal is that it has?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "six columns, date, particulars, folio, amount, debit and credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "five columns, date particulars, folio, debit and credit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "three columns, date particulars and folio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "four columns, date particulars, folio and amount",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "82f243ab-e9fc-4835-8528-24048ace5825",
+      "question_text": [
+        "The medium of correcting errors whose differences are shown in the trial balance is by the use of?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debtors' account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "creditor's account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ledger account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2cde157-ac0c-403b-9d80-e075da24010d",
+      "question_text": [
+        "Use the information below to answer question .Adamu Stores bought accessories from Mu'azu Beverages for ₦400 on credit. A trade discount of 10% and a cash discount of 15% were provided.Find the total amount paid?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦260",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦380",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fcf16a6b-20af-493f-a623-16347307c353",
+      "question_text": [
+        "Find the average stock for the period"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦27 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦23 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦20 500",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "03b67fd2-8791-42dc-a254-9b5ecf4b45b0",
+      "question_text": [
+        "Calculate the cost of goods sold."
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦61 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦58 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦62000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦57 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1494ba5f-ee2e-48da-abfd-17903f527452",
+      "question_text": [
+        "The historical development of accounting reveals that it?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "deals with debit and credit of items",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is a product of financial development",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "is a product of its own evironmnent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "is an ideal subject for finacial development",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "050843ad-6dc2-42bb-a51c-966921cb579b",
+      "question_text": [
+        "In a trial balance, income and liabilities are?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited and credited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credited",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "credited and debited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debited",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c615d4e-c70f-4027-96fe-43f5115e0481",
+      "question_text": [
+        "The principle of double entry system ensures?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "mathematical accuracy in trial balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "balances at the bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase in the assets and liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance of cash account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9ae4bbc6-e587-406f-874a-16485e997aee",
+      "question_text": [
+        "Ii) Add up both sideIii)Take the difference to the smaller and add to the smaller figure The correct procedure for balancing account is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ii, i and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i, iii and ii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii, iii and i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iiiE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe45ed8a-8b06-4007-ab11-9e38a7ce2f01",
+      "question_text": [
+        "Given:Light expenses...................₦400Purchases........................₦3,000Sales............................₦1,200Creditors........................₦2,250Debtors..........................₦50Calculate the total of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦4,250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦3,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦4,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦3,450",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1715afb3-3e8b-4f73-9df8-c4b7932ae87c",
+      "question_text": [
+        "The major feature of a journal is that it has?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "six columns, date, particulars, folio, amount, debit and credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "five columns, date particulars, folio, debit and credit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "three columns, date particulars and folio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "four columns, date particulars, folio and amount",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96af5191-13c9-40a3-91be-9751d591c6a8",
+      "question_text": [
+        "The medium of correcting errors whose differences are shown in the trial balance is by the use of?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debtors' account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "creditor's account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ledger account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dabda8d3-824f-4297-b6f6-098b7d4aa523",
+      "question_text": [
+        "Use the information below to answer question .Adamu Stores bought accessories from Mu'azu Beverages for ₦400 on credit. A trade discount of 10% and a cash discount of 15% were provided.Find the total amount paid?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦260",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦380",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ed421024-9e2c-408d-b76a-d94cc8b3b734",
+      "question_text": [
+        "Find the average stock for the period"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦27 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦23 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦20 500",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "76f11cc0-a141-4a45-bc38-09f9bccea2f5",
+      "question_text": [
+        "Calculate the cost of goods sold."
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦61 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦58 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦62000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦57 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8170131-08fe-446f-b4bf-e0cb656b7776",
+      "question_text": [
+        "The historical development of accounting reveals that it?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "deals with debit and credit of items",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is a product of financial development",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "is a product of its own evironmnent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "is an ideal subject for finacial development",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb19fc79-e6ab-4f7d-becf-09d5b64c1a51",
+      "question_text": [
+        "In a trial balance, income and liabilities are?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited and credited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credited",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "credited and debited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debited",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "234f866e-4c21-400d-9c45-6d47627588f3",
+      "question_text": [
+        "The principle of double entry system ensures?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "mathematical accuracy in trial balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "balances at the bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase in the assets and liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance of cash account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f055972-1e86-49ff-925d-1f15f77c8bd1",
+      "question_text": [
+        "Ii) Add up both sideIii)Take the difference to the smaller and add to the smaller figure The correct procedure for balancing account is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ii, i and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i, iii and ii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii, iii and i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iiiE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "530c6159-ea21-4fb9-aea5-127828386d10",
+      "question_text": [
+        "Given:Light expenses...................₦400Purchases........................₦3,000Sales............................₦1,200Creditors........................₦2,250Debtors..........................₦50Calculate the total of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦4,250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦3,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦4,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦3,450",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b947a252-e63b-435c-bab9-279a38625553",
+      "question_text": [
+        "The major feature of a journal is that it has?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "six columns, date, particulars, folio, amount, debit and credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "five columns, date particulars, folio, debit and credit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "three columns, date particulars and folio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "four columns, date particulars, folio and amount",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d5b5698f-fbe2-44b8-a095-48a6b6c53486",
+      "question_text": [
+        "The medium of correcting errors whose differences are shown in the trial balance is by the use of?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debtors' account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "creditor's account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ledger account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05c54784-f017-426b-a10d-2a9c7e319bef",
+      "question_text": [
+        "Use the information below to answer question .Adamu Stores bought accessories from Mu'azu Beverages for ₦400 on credit. A trade discount of 10% and a cash discount of 15% were provided.Find the total amount paid?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦260",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦380",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3462fd9b-468c-483d-b8bb-1cb877432420",
+      "question_text": [
+        "Find the average stock for the period"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦27 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦23 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦20 500",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "87ca07d4-fdf2-49a6-906d-fecdad52d86a",
+      "question_text": [
+        "Calculate the cost of goods sold."
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦61 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦58 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦62000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦57 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b67e9716-5250-4ff8-abb4-0da4f0759e0e",
+      "question_text": [
+        "The historical development of accounting reveals that it?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "deals with debit and credit of items",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is a product of financial development",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "is a product of its own evironmnent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "is an ideal subject for finacial development",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23e2e0b1-d6db-4e70-b10d-4fb94dcd078a",
+      "question_text": [
+        "In a trial balance, income and liabilities are?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited and credited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credited",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "credited and debited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debited",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a6d15f0b-c4cc-46c7-84b1-6beb0973693c",
+      "question_text": [
+        "The principle of double entry system ensures?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "mathematical accuracy in trial balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "balances at the bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase in the assets and liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance of cash account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "14907c86-dcea-46e4-bbf5-05bd56494418",
+      "question_text": [
+        "Ii) Add up both sideIii)Take the difference to the smaller and add to the smaller figure The correct procedure for balancing account is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ii, i and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i, iii and ii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii, iii and i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iiiE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb176ff6-e3a4-4adc-a30f-5eeb288e642d",
+      "question_text": [
+        "Given:Light expenses...................₦400Purchases........................₦3,000Sales............................₦1,200Creditors........................₦2,250Debtors..........................₦50Calculate the total of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦4,250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦3,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦4,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦3,450",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "07adc9a7-6c16-4860-96b2-5ba206cad94a",
+      "question_text": [
+        "The major feature of a journal is that it has?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "six columns, date, particulars, folio, amount, debit and credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "five columns, date particulars, folio, debit and credit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "three columns, date particulars and folio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "four columns, date particulars, folio and amount",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a1f8b1a5-ebac-4250-963d-125bc44c4dee",
+      "question_text": [
+        "The medium of correcting errors whose differences are shown in the trial balance is by the use of?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debtors' account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "creditor's account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ledger account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e9e9693e-8b68-4133-aca2-76a7a688e77a",
+      "question_text": [
+        "Use the information below to answer question .Adamu Stores bought accessories from Mu'azu Beverages for ₦400 on credit. A trade discount of 10% and a cash discount of 15% were provided.Find the total amount paid?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦260",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦380",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6cb44a7a-72ab-4291-94a3-8719af29ca03",
+      "question_text": [
+        "Find the average stock for the period"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦27 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦23 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦20 500",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9dccb9e0-528d-4621-a592-bfd358696f5b",
+      "question_text": [
+        "Calculate the cost of goods sold."
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc6.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦61 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦58 000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦62000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦57 000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e5f8b040-f7b2-4b72-9ead-d62dbbabc49e",
+      "question_text": [
+        "The historical development of accounting reveals that it?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "deals with debit and credit of items",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is a product of financial development",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "is a product of its own evironmnent",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "is an ideal subject for finacial development",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "03bbc815-361e-46c4-87ac-a4396470ed89",
+      "question_text": [
+        "In a trial balance, income and liabilities are?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited and credited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credited",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "credited and debited respectively",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debited",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "97631eb2-5572-45e7-a231-a6d3aaf9cbbf",
+      "question_text": [
+        "The principle of double entry system ensures?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "mathematical accuracy in trial balance",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "balances at the bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase in the assets and liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance of cash account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eff0e35c-5a15-4445-b2da-ac65a6cfca60",
+      "question_text": [
+        "Ii) Add up both sideIii)Take the difference to the smaller and add to the smaller figure The correct procedure for balancing account is?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ii, i and iii",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "i, iii and ii",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "ii, iii and i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "i, ii and iiiE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d89a322a-0e81-4b03-959e-a6adeffdbe8b",
+      "question_text": [
+        "Given:Light expenses...................₦400Purchases........................₦3,000Sales............................₦1,200Creditors........................₦2,250Debtors..........................₦50Calculate the total of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦4,250",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦3,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦4,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦3,450",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0263b160-02a1-4099-98f0-1efba46cd83b",
+      "question_text": [
+        "The major feature of a journal is that it has?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "six columns, date, particulars, folio, amount, debit and credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "five columns, date particulars, folio, debit and credit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "three columns, date particulars and folio",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "four columns, date particulars, folio and amount",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "141d8ae6-10d4-40ba-8657-ad4d2fa21b0b",
+      "question_text": [
+        "The medium of correcting errors whose differences are shown in the trial balance is by the use of?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debtors' account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "creditor's account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ledger account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fe90de1b-66c1-4e3e-ba34-f575079bb8e8",
+      "question_text": [
+        "Use the information below to answer question .Adamu Stores bought accessories from Mu'azu Beverages for ₦400 on credit. A trade discount of 10% and a cash discount of 15% were provided.Find the total amount paid?"
+      ],
+      "examType": "jamb",
+      "year": "2011",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦260",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦380",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

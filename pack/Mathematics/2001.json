@@ -1,0 +1,4569 @@
+
+[
+    {
+      "id": "458025eb-391e-48f9-8789-cc1a02160ceb",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19acc057-c5c3-4334-ac3e-6336c32ec5ab",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a402ba85-a7b6-44fb-825b-040f27a77372",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "93e24a1f-8dba-45aa-afb6-774089768ec9",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "938623f1-ea96-4e5d-b29c-c3055eb58693",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0f27ba4a-8a00-41c9-a0d0-c9a942d576e7",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c9e0019a-93f5-4500-ab2b-538cf3e91b01",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1c70353b-34f3-4863-abd8-d7369f376cc2",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6c804f17-8c15-434b-b258-45c8ab98cc45",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d36f36d6-67b1-4225-9e9e-074f97eaaf00",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d89383a-8634-41f7-8cf6-04acb28c8a13",
+      "question_text": [
+        "If y = x sinx, find dy/dx when x = π/2."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "y = x sin x dy/dx = 1 x sinx + x cosx = sinx + x cosx At x = π/2, = sin (π/2) + (π/2) cos (π/2) = 1 + (π/2) x (0) = 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-π/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "π/2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c085476-ef2f-41a4-9828-6aa497c37c69",
+      "question_text": [
+        "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Let the rectangle be a square of sides p/4. So that perimeter of square = 4p 4 x (p/4) = p.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "square of sides p",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "square of sides 2p",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "square of sides (p/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f1cf9502-1a18-43c9-8cd7-e5929216e105",
+      "question_text": [
+        "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Hint: Use BODMAS, in other words, do multiplication of the second and the last first before subtracting value obtained from the first.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20.980",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20.351",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20.981",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20.352",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9c200c78-14c6-4b5c-99fb-ea8d0b2bc5cc",
+      "question_text": [
+        "Simplify \\((\\sqrt[3]{64a^{3}})^{-1}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/8a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4a",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "61fd755c-dd75-4097-8bbd-812631d4e99a",
+      "question_text": [
+        "Given that \\(p = 1 + \\sqrt{2}\\) and \\(q = 1 -\\sqrt{2},\\) evaluate \\(\\frac{(p^{2} - q^{2})}{2pq}\\)."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "HINT: \\(\\frac{(p^{2} - q^{2})}{2pq}=\\frac{(1+\\sqrt{2})^{2}}{2((1+\\sqrt{2})(1-\\sqrt{2}))}\\) Use difference of two squares to expand the bracket and reduce to \\(\\frac{2(2\\sqrt{2})}{-2} = -2\\sqrt{2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2(2+√",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2(2+√",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d82bfe0f-e04b-4040-8065-55dcda38c443",
+      "question_text": [
+        "A car dealer bought a second-hand car for ₦250,000 and spent ₦70,000 refurbishing it. He then sold the car for ₦400,000. What is the percentage gain?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Total cost = N(250,000 + 70,000) = ₦320,000 Selling price = ₦400,000 (given) Gain = SP - CP = N(400,000 - 320,000) = ₦80,000 Gain % = gain/CP x 100 = (80,000/320,000) x 100 Gain % = 25%",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "25%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "20%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "db07be6a-3c3a-4a21-a47d-467c5ac20d9d",
+      "question_text": [
+        "If \\(x = \\frac{y}{2}\\),evaluate\\(\\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right)\\)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/16",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4bad5645-d6ac-455e-a8e5-0386e96168d4",
+      "question_text": [
+        "Evaluate (0.142 x 0.275) ÷ 7(0.02) to 3 decimal places."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "(0.142 x 0.275)  7(0.02) = (0.14 x 0.14 x 0.275) ÷ (7 x 0.02) = (0.14 x 0.14 x 0.275)/(0.14) =0.14 x 0.275 = 0.0385 Approx. 0.039 ",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.039",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.358",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.033",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.308",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f581060-31fe-4251-a89e-523fba639301",
+      "question_text": [
+        "Divide: ax3x - 26x2x + 156ax - 216 by a2x - 24ax + 108"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ax - 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "ax + 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "ax - 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ax - 6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5ca8888-33ae-4ff0-ac7c-3c3971d7a323",
+      "question_text": [
+        "If two graphs y = px2 + q and y = 2x2 -1 intersect at x = 2, find the value of p in terms q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(y = px^{2}+q\\\\y = 2x^{2}-1\\\\\\Rightarrow px^{2}+q=2x^{2}-1\\\\px^{2}=2x^{2}-1-q\\\\p=\\frac{(2x^{2}-q-1)}{x^{2}}\\\\At\\hspace{1mm}x=2\\\\p=\\frac{2(2^{2})-1-q)}{2^{2}}\\\\p=\\frac{(8-1-q)}{4}\\\\=\\frac{7-q}{4}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{q-8}{7}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{7-q}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "edbfcea0-36bc-4d1c-ab0c-ea91b6a0d87f",
+      "question_text": [
+        "Find the integral values of x and y satisfying the inequality 3y + 5x \\(\\leq\\) 15, given that y > 0, y < 3 and x > 0."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Hint: Sketch the inequality graph for the 3 conditions given and read out your points from the co-ordinates.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(1,",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": ", (1,",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": ", (1,",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f8bde36a-5f96-4eef-b529-f1c443c2281d",
+      "question_text": [
+        "Solve the equations m2 + n2 = 29 m + n = 7"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "m2 + n2 = 29 .......(1) m + n = 7 ............(2) From (2),  m = 7 - n but m2 + n2 = 29, substituting; (7-n)2 + n2 = 29 49 - 14n + n2 + n2 = 29 => 2n2 -14n + 20 = 0 Thus n2 -7n + 10 = 0 Factorizing; (n-5)(n-2) = 0 n - 5 = 0, => n = 5 n - 2 = 0, => n = 2. When n = 5,  m + n = 7, => m = 2, When n = 2, m + n = 7, => m = 5. Thus (m,n) = (5,2) and (2,5)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " and ( 3, ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(2, 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "50e8df92-6a47-4631-bbf7-033918189e0d",
+      "question_text": [
+        "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "By definition a*b = a + b + 1. Let the inverse of the element 2 be x,  Therefore 2*x = -1 i.e. 2 + x + 1 = -1 3 + x = -1 x = -1 - 3 x = -4",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4b6472ca-672b-456c-b10b-3ef9c12c1eaa",
+      "question_text": [
+        "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "1st statement: U6 = 1/2(U12) a + (n -1)d = 1/2[a + (n-1)d] a + 5d = a + 11d 2(a + 5d) = a + 11d 2a + 10d = a + 11d Solving, => a = d Hence the first term is equal to the common difference",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "half of the common difference",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "double the common difference",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the common difference",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a63c2157-d093-4123-92bd-edc5f5e9ddd8",
+      "question_text": [
+        "Factorize 4x2 - 9y2 + 20x + 25"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Given: 4x2 - 9y2 + 20x + 25 Collect like terms: 4x2 + 20x + 25 - 9y2 (2x + 5)(2x + 5) - 9y2 (2x + 5)2 - (3y)2 (2x - 3y +5)(2x + 3y + 5)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2x -3y + ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(2x - 3y - ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "(2x - 3y",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dd1059be-dbeb-4e21-885a-fb7d8436cf45",
+      "question_text": [
+        "A sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "(r/L) = (θ/360°) Given θ = 300, and L = 7.2cm, => r = (300 x 7.2)/360 r = 6cm",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "9cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d94d2ea0-d8cd-4263-a017-c182b69f8763",
+      "question_text": [
+        "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Hint: Make a sketch of the moving points such that the hypotenuse is 8cm and the adjacent x cm. Cos 30 = x/8 x = 8 cos 30 = 8√3cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4√3cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8√3cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8de9026-8823-42ef-b9a1-0b6614e67260",
+      "question_text": [
+        "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Cos 30 = 5/x x cos 30 = 5, => x = 5√3 Coordinates of P = -5, 3, 0 Coordinates of Q = 0, 5 Gradient of PQ = (y2 - y1)  (X2 - X1) = (5 - 0)/(0 -5√3) = 5/5√3 = 1/√3 Equation of PQ = y - y1 = m (x -x1) y - 0 = 1/√3 (x -(-5√3)) Thus: √3y = x + 5√3 ",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = (x/1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = x + 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "√3y = - x + 5√3D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4e57c9fa-6ca7-44d6-9b1a-a73d0e1d8ad1",
+      "question_text": [
+        "Given an isosceles triangle with length of 2 equal sides t units and opposite side √3t units with angle θ. Find the value of the angle θ opposite to the √3t units."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Cos θ° = t2 + t2 -(√3t)2 2 x t x t = 2t2 - 3t2 2t2 = -t2/2t2 = -1/2 Thus θ = cos-1 (-0.5) = 120° ",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "100°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "120°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "30°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "14c83a73-7acb-4314-89d6-117500e103eb",
+      "question_text": [
+        "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3)."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Hint: If two lines a perpendicular, the gradient of one is equal to minus the reciprocal of the other (P, 4) and (6, -2)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "zero",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "75134065-3f70-449f-8899-71040c63afcb",
+      "question_text": [
+        "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Let the ext. angle = x Thus int. angle = 2x But sum of int + ext = 180 (angle of a straight line). 2x + x = 180 3x = 180 x = 180/3 = 60 Each ext angle = 360/n => 60 = 360/n n = 360/60 = 6",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f42d372-9f61-4327-9d80-badbfa5f43e9",
+      "question_text": [
+        "Triangle SPT is the solution of the linear inequalities"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math138.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2y - x - 2 \\(\\leq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " 0, y + 2x + 2 \\(\\geq",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " 0, x \\(\\geq",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " 0B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "294265a8-b361-41a1-afe8-a780cfcc25e2",
+      "question_text": [
+        "Find the value of \\(\\theta\\) in the diagram"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math136.jpg",
+      "explanation": "Using cosine formula (t\\(\\sqrt{3}\\))2 = t2 + t2 - 2t2 cos\\(\\theta\\)3t2 = 2t2 - 2t2 cos\\(\\theta\\) = 2t2(1 - cos\\(\\theta\\))1 - cos\\(\\theta\\) = \\(\\frac{3t^2}{2t^2}\\) = \\(\\frac{3}{2}\\)cos = 1 - \\(\\frac{3}{2} = -\\frac{1}{2}\\)\\(\\theta\\) = cos-1(-\\(\\frac{1}{2}\\)) = 120\\(^{\\circ}\\) and 240\\(^{\\circ}\\)N.B 0 \\(\\geq\\) \\(\\theta\\) 360",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "100\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7648850e-35ca-4d0a-b27a-2216a106bfb0",
+      "question_text": [
+        "The bar chart shows different colours of cars passing a particular point of a certain street in two minutes. What fraction of the cars is yellow"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math135.jpg",
+      "explanation": "\\(\\begin{array}{c|c} \\text{colour of cars} & \\text{Number (frequency)} \\\\ \\hline yellow & 3 \\\\white & 4\\\\ red & 8\\\\ green & 2\\\\ blue & 6\\\\ black & 2\\\\ \\hline & 25 \\\\ \\hline\\end{array}\\)Thus, the fraction of the total numbers that are yellow is \\(\\frac{3}{25}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{25}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "400085c7-e06d-4393-9f23-8584dac11e21",
+      "question_text": [
+        "The graph shows the cumulative frequency of the distribution of masses of fertilizer for 48 workers in one institution. Which of the following gives the inter-quartile range?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math134.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}(Q_3 - Q_",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Q3 - Q2C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a4a3611-04be-4a78-8d6b-0395b524ff7b",
+      "question_text": [
+        "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Mode = score with highest frequency = 11. Square of 11 = 121",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "49",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "121",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aa44cac8-691e-4fc4-bc16-9434e7e62b0c",
+      "question_text": [
+        "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Mean = ∑fx/∑f Mean = (4x3) + (7x5) + ... + (8x1) all divided by 20Mean = 174/20 = 8.7",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11.0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df5a53fe-38eb-42b1-825f-eca8f9a55d88",
+      "question_text": [
+        "If 6Pr = 6, find the value of 6Pr+1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "6Pr = 6 Thus r = 1N.B 6P1 = \\(\\frac{\\text{6!}}{\\text{(6 - 1)!}}\\)= \\(\\frac{\\text{6!}}{\\text{5!}}\\)= \\(\\frac{6 \\times \\text{5!}}{\\text{5!}}\\) = 66Pr + 1 = 6P2 = \\(\\frac{\\text{6!}}{(6 - 2)\\text{!}} = \\frac{6\\text{!}}{\\text{4!}}\\)= \\(\\frac{6 \\times 5 \\times \\text{4!}}{\\text{4!}}\\)= 30",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "33",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "35",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4d22eb11-081d-4437-97dc-08c6d2d2783b",
+      "question_text": [
+        "Given distribution of color beads: blue, black, yellow, white and brown with frequencies 1, 2, 3, 4, and 5 respectively. Find the probability that a bead picked at random will be blue or white."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Total number of beads = 15.Number of white beads = 4. => P(white) = 4/15.Number of blue beads = 1. => P(blue) = 1/15.P(white or blue) = P(white) + P(blue) = 5/15 = 1/3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58bc7f88-ea7b-4222-b2ab-484fe32c1665",
+      "question_text": [
+        "Find the range of these fractions:1/6, 1/3, 3/2, 2/3, 8/9 and 4/3."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Using the L.C.M of the fractions, convert them to uniform base.L.C.M = 36, the new fraction becomes: 6/36, 12/36, 54/36, 24/36, 32/36 and 48/36.Range = highest value - lowest valueHighest among the given fraction = 54/36Lowest among the given fraction = 6/36.Range = (54/36) - (6/36) = 48/36 = 4/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2ec68cd5-3886-4036-8836-557f7ef1e8c5",
+      "question_text": [
+        "Find the square pf the mode"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math65-e1528647936877.jpg",
+      "explanation": "Mode = 11Square of the mode = 112=121",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "49",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "121",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "64",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b49f239f-4243-4ea2-9be9-d14a4bcaa0fe",
+      "question_text": [
+        "The mean score is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math65-e1528647936877.jpg",
+      "explanation": "Mean ((4*3) + (7*5) + (8*2) + (11*7) + (13*2) + (8*1))/20(12 + 35 + 16 + 77 + 26 + 8)/20174/20 = 8.7",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8.7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11.0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2f6dcbf-c10b-4419-8c19-3fc144fa99e0",
+      "question_text": [
+        "Team P and Q are involved in a game of football.What is the probability that the game ends in a draw?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "P(Games ends in draw)This implies that Team P and Q wins∴ P(P wins) = 1/2P(Q wins) = 1/2∴ P(game ends in a draw) = 1/2*1/2 = 1/4",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "39020fed-be3c-4783-8e9b-954f77037f1d",
+      "question_text": [
+        "The distribution of colours of beads in a bowl is given above. What is the probability that a bead selected at random will be blue or white?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math64.jpg",
+      "explanation": "Total number of beads = 1+2+4+5+3=15Number of blue beads = 1P(Blue beads) = 1/15Numbers of white beads = 4P(white beads) = 4/15∴P(Blue of white beads)= P(Blue) + P(White)= 1/15 + 4/15= 5/15= 1/3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "7/15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eb8f7c02-8d2b-4aa1-a89e-4834be3d96ad",
+      "question_text": [
+        "Find the variance of 2, 6, 8, 6, 2 and 6"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "mean of X = x = (2+6+8+6+2+6)/6 = 30/6 = 5 X → 2,6,8,6,2,6X - x = -3, 1, 3, 1, 3, 1 (X - x)2 = 9, 1, 9, 1, 9, 1∑(X-x) = 9+1+9+1+9+1 = 30Variance  = ∑(X-x)2/n = 30/6 = 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "√6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "√5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96f44e25-86b9-48d8-b95e-bc2d92e83031",
+      "question_text": [
+        "Find the number of ways of selecting 8 subjects from 12 subjects for an examination"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Combination is the number (n) of ways of selecting a number of (m) of objects from n\\(^{12}C_{8}\\frac{12!}{8!(12-8)!}\\\\=\\frac{12!}{8!4!}\\\\\\frac{(12\\times 11\\times 10\\times 9\\times 8\\times 7\\times 6\\times 5\\times 4\\times 3\\times 2\\times 1)}{8\\times 7\\times 6\\times 5\\times 4\\times 3\\times 2\\times 1}\\\\After\\hspace{1mm} cancelling \\hspace{1mm}out \\hspace{1mm}we\\hspace{1mm} have\\\\11\\times 5\\times 9 = 495 \\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "490",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "495",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "496",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "498",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "454d45bb-01b1-43fd-9c77-574e446b4b42",
+      "question_text": [
+        "Find the range of 1/6, 1/3, 3/2, 2/3, 8/9 and 4/3"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "1/6, 1/3, 3/2, 2/3, 8/9 and 4/3L.C.M of the denominators = 36The fraction now becomes 6/36, 12/36, 54/36, 24/36, 32/36 and 48/36Highest fraction = 54/36Lowest fraction = 6/36Range = Highest - Lowest(54/36) - (6/36)= 48/36= 4/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "653cfea3-7679-45d3-ac08-359f6105bcfd",
+      "question_text": [
+        "What is the rate of change of the volume v of a hemisphere with respect to its radius r when r = 2?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "V = 2/3π3dv/dr = 2πr2dv/dr = 2π(2)2= 8π",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "16π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "67bf02c4-1c79-4619-8755-833ef6bd73a9",
+      "question_text": [
+        "Triangle SPT is the solution of the linear inequalities"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math12.jpg",
+      "explanation": "Δ SPT is the solution of the inequalities2y - x - 2 ≤ 02y ≤ 2 + xy ≤ 2/2 + x/2y ≤ 1 + 1/2xy + 2x + 2 ≥ 0,y ≥ -2 -2x∴ the solution of the inequalities2y - x - 2 ≤ 0,y + 2x + 2 ≥ 0= -2 ≤ x ≤ -1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, -2 ≤ x ≤ - 1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "-2 ≤ x ≤ 2, y ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2y - x - 2 ≤ 0, y + 2x + 2 ≤ 0, y ≥ 0, x ≤ 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2y - x - 2 ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "892d638a-71d5-41b6-b9c6-e7af04d56e36",
+      "question_text": [
+        "⊗klmklmklmklmklmThe identity element with respect to the multiplication shown in the table above is"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "k",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac173597-fb3c-435d-b482-b257bc04546c",
+      "question_text": [
+        "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75\\(^{\\circ}\\) and ∠QPT is 25\\(^{\\circ}\\). Calculate the value of ∠RST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math11.jpg",
+      "explanation": "In Δ PQT, ∠PTQ = 25\\(^{\\circ}\\)(base ∠s of isosceles Δ)In Δ QSR,∠RQS = ∠QPT + ∠QTP(Extr = sum of interior opposite ∠s)∠RQS = 25 + 25= 50\\(^{\\circ}\\)Also in Δ QSR,75 + ∠RQS + ∠QSR = 180\\(^{\\circ}\\)(sum of ∠s of Δ)∴75 + 50 + ∠QSR = 180125 + ∠QSR = 180∠QSR = 180 - 125∠QSR = 55\\(^{\\circ}\\)But ∠QSR and ∠RST are the same ∠RST = 55\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "55\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79c2809a-92fd-4a49-b80d-d996d93ba917",
+      "question_text": [
+        "The histogram above shows the distribution of passengers in taxis of a certain motor park. How many taxis have more than 4 passengers"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "17",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "67ee5c53-6d95-4d0d-ae10-8aebbd0bc773",
+      "question_text": [
+        "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math10.jpg",
+      "explanation": "Number of yellow cars = 3Total number of cars = 3 + 4 + 8 + 2 + 6 + 2 = 25Fraction of yellow cars = 3/25",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/25",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2/25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1/5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/15",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cbe519ef-5fca-4f3f-8fb4-6aa77042b68f",
+      "question_text": [
+        "A sector of a circle of radius 7.2cm which subtends an angle of 300\\(^{\\circ}\\) at the centre is used to form a cone. What is the radius of the base of the cone?"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "7cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9cmE",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e58df2d7-07b8-46b7-abfa-2e6b9bda68b9",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d937faf-4a9a-4646-927e-178cfc3dfea7",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c62749e8-2927-4e4c-ab79-ecf55f9e60e3",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2bfae8d-2e18-4c8a-87ac-845ed94a1c7f",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a0f3d26c-ce65-4c28-a78c-3655bfa6e41d",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "011204fc-a0a6-4af7-b493-2e49d455d15e",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "296fe9cb-6867-4279-a606-cd50d0a44f8a",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "444fe682-92b0-4e37-9ba8-c801c6bbee5e",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "78de2669-3586-4319-ad38-3ba5a2187fa3",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dd7b9e95-782b-43c6-be0b-3e1a83b5d2a6",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aef1a9aa-53db-4067-ba47-797ce15e6590",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "863ae694-9e5e-47bd-ac37-9426230d6f00",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "08592cc3-e6c1-4593-be40-ab005498877d",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa0de9ef-5393-4f47-9506-3d7bf7643b8d",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3748cf0c-8e8a-46cf-bfe8-c2b2a21f4db6",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5f254888-7896-46be-8486-e87f07c7d2eb",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35f9868b-b7bd-4460-9f37-fdc7b4f292fd",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fef23e18-e93b-41a2-841a-58a2cc7ce915",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0236d483-ed38-4d9c-a432-11817b47902c",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "521f75ad-61f4-4f0e-b863-2ab4b3fbbe22",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e18b072e-539b-4a56-8657-db000f1d81aa",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "706dfa8e-0d4f-45fa-89ef-83c058af3c47",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c9d7afda-dab2-41bb-ac9d-69b0c9b9358c",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4599575c-2aeb-4790-9b8f-b1a6d5116908",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e95b7a0e-360b-4337-8e96-57e5ebd04ef3",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5d91a5d9-a7a9-4035-a3d0-d0f7c725a894",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2b0a0285-f915-4d4c-9bbe-b053371b4759",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18b8f08a-b0ed-4850-86b7-b435605eb045",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "09945f1b-0974-4105-81fe-c88594aff835",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d92d725f-688b-463b-be0c-7a67d2d08d41",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5877183-266f-40f5-bed5-b909c29bca49",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac26bfc5-0f77-4819-a9a2-8d426c1214bf",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "059093cb-fa20-46dd-8be4-e6a3eb802409",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1690098-cd7e-4826-9ccc-2adb7d1d448c",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2dfb528a-46c3-4274-8f3c-1434cd72ba45",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6b59927a-4a8a-48b9-821e-8ada012f9d15",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce5b1726-98e3-48cc-915c-df29eabdc9b1",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a43c55b0-1ad8-4087-a01b-91d6c32eb85c",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1bdd637c-b143-48b8-982d-5bd196791504",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "74a732f6-669b-423a-be7a-7e3b4323e5d2",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "89afd966-9235-45b1-9617-c2a3991de846",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00dd27c0-2c1c-4bb1-a7dc-74b717241814",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b0563bd0-a921-4bc8-806f-be126d1d37e6",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "336d23d0-e2ea-4928-b227-ce0e48ae2393",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f744721-b57e-475a-8e31-36bf37b9b882",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c9317d72-03d3-43ba-8c77-f7171cdf3882",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2454d2a-9957-4665-9db3-b47c55738d08",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "42031465-6294-424f-8456-2c7707d8ae1d",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d8de1b30-b94b-4738-89bb-0be76bf43d62",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1eab1da5-bbfa-48a8-9e5a-a378c2fa1942",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34952b0f-7364-457b-af1b-3a091b486199",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb96cf74-510c-4f39-ab93-5820fbd239c2",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00236a13-a9c7-49b4-aff7-963031e61197",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "88e32ddd-2760-4545-8b0d-458310146063",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "822bcf3e-520c-44ea-a7bf-9c02fc926a3d",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "70a29f22-8bae-4d62-ad30-939cff1f75f6",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0646d3f7-20d7-42fc-bb97-475d21110cb6",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5e48191-44b8-48aa-835b-67b97917e103",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "17ef4228-cef7-4c3e-a8b3-854e998aae5c",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f8020a3f-c97c-43a7-8328-1e4544c607bc",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ede51852-9606-49d5-a2d3-f30109d1db96",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f035e22a-00c1-4de8-b847-43ce00ec0f72",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af0c64af-5ca2-481c-97fb-92bf8de60dda",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "21bc5610-0fb4-4b84-a8b9-59d0ec3edb81",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ba670d7-895b-4819-941c-d6310eebebd4",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e21bce3-37d3-42a6-988a-a166eb7bb85c",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f14ed7a-e109-4960-ac28-e2b755ebf2dd",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8747040f-d051-475f-be6d-13fe84ed3023",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8ad2b248-4140-482f-8cba-e912546832a2",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e7641334-3927-4c92-b6ac-4c5a1851a26e",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3146261f-0c09-4eb7-8b87-880c2e9bae71",
+      "question_text": [
+        "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "PQ2 = (x2 - x1)2 + (y2 - y1)2 = 122 + 52 = 144 + 25 = 169 PQ = √169 = 13 But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.5 units",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "13.0 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.5 units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7.0 units",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7bf97f29-ebf1-4337-a18e-b98c33a669e3",
+      "question_text": [
+        "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "040°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "070°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "280°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "320°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f404f54e-dc49-463b-904d-f9a3e65b3592",
+      "question_text": [
+        "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?(Take pi = 22/7)"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Capacity = 3080 m3 Base diameter = 14 m, thus radius = 7 m. Volume of cylinder = capacity of cylinder = πr2h. = 3080 22/7 x 72 x h = 3080 h = 3080/(22x7) h = 20 m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "23 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "25 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "22 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ebdfa30f-4374-4e7a-ab6a-e934d2cb4c4d",
+      "question_text": [
+        "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = k + or - 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 4 + or - k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 4 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = k - 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39c6bd6b-6304-4f8e-99a3-f3685188daaf",
+      "question_text": [
+        "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Since ST = the radius r, => SOT is equilateral. Each angle = 60° Length of arc ST = θ/360 x 2πr = 60/360 x 2 x π x r = πr/3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "πr/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "πr/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "πr/12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "πr/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "aeb192d9-662b-4090-85be-715d8964db8c",
+      "question_text": [
+        "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "y = 2kx2 + x + 1 Gradient function dy/dx = 4kx + 1 at dy/dx = 9, => 9 = 4kx + 1 => 8 = 4kx, and k = 8/4x. At x = 1, k = 8/4 = 2",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b2206fc3-a29e-4949-b98d-de5991d68183",
+      "question_text": [
+        "Evaluate ∫2(2x-3)2/3dx"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2. Substitute into the function and work it out.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3/5(2x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3 + k",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6/5(2x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/3 + kC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "543915b5-766d-4131-8bd7-5f685fd9c0ad",
+      "question_text": [
+        "Differentiate (2x+5)2(x-4) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4(2x+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4(2x+5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4116aeae-e603-4ce7-9a85-a301f2c33108",
+      "question_text": [
+        "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1"
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Hint: y = 4 - x2 and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = -3 or x = 1. Integrating x2 + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20(1/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " sq. units",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " sq. unitsC",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6998769c-17c5-4c8d-984a-b755f502bbf4",
+      "question_text": [
+        "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1."
+      ],
+      "examType": "jamb",
+      "year": "2001",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "Volume of sphere, V = 4/3 x πr3 Rate of change of V = dv/dr Thus if V = 4/3 x πr3, => dv/dr = 4πr2 At r = 1, Rate = 4 x π x 1 = 4π",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "24π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8π",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

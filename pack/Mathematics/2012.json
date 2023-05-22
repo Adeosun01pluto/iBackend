@@ -1,0 +1,3237 @@
+
+[
+    {
+      "id": "b2cd242a-8de3-4375-9fb5-deffb1a8a6c2",
+      "question_text": [
+        "Convert 726 to a number in base three"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "First, convert to base 10 726 = (7 x 61) + (2 x 60) = 42 + 2 = 4410 \\(\\begin{array}{c|c} 3 & 44 \\\\ \\hline 3 & 14 & r 2 \\\\ \\hline 3 & 4 & r 2 \\\\ \\hline 3 & 1 & r 1 \\\\ \\hline 3 & 0 & r 1 \\end{array}\\) Ans = 1122 = D",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2211",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1212",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1122",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "67b8faf0-55f9-480a-bac3-b6dd7dca3a62",
+      "question_text": [
+        "Simply \\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\div \\frac{24}{5}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\times \\frac{5}{24}\\) \\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(1\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(1\\frac{1}{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc1a7677-b3c9-4a9b-b968-b5a8563a2202",
+      "question_text": [
+        "Evaluate \\(\\frac{21}{9}\\) to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.33",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "da2c24fc-5a8f-4bc9-a219-4cc19739cc86",
+      "question_text": [
+        "A man earns ₦3,500 per month out of which he spends 15% on his children's education. If he spends additional ₦1,950 on food, how much does he have left?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "Amount spent on children = \\(\\frac{15}{100} \\times 3500 = ₦525\\) Amount spent = Amount on children + Additional amount on food Amount Spent = ₦525 + ₦1950 = ₦2475 Therefore amount left = ₦3,500 - ₦2,475 = ₦1,025",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦525",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1,025",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,975",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e9f5b7cc-41b7-4082-9ea6-0cd20a66bfb1",
+      "question_text": [
+        "If 27x + 2 \\(\\div\\) 9x + 1 = 32x, find x"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\(27^{x+2} ÷ 9^{x+1} = 3^{2x}\\) Reduce 27 and 9 to have the same base as 3 \\(3^{3(x+2)} ÷ 3^{2(x+1)} = 3^{2x}\\) Note, - is ÷ and + is × for powers of indices of the same bases. \\(3^{3(x+2) - 2(x+1)} = 3^{2x}\\) Equating the exponentials \\(3(x+2) - 2(x+1) = 2x\\) Clear brackets \\(3x+6 - 2x - 2 = 2x\\) Collect like terms \\(3x - 2x - 2x = - 6 + 2\\) \\(x - 2x = -4\\) \\(-x = -4\\) Divide both sides by \\(-\\) \\(x = 4\\) Answer is B",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5677f295-1ec3-433c-bc52-4c349ff4313a",
+      "question_text": [
+        "If log3x2 = -8, what is x?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "log3x2 = -8 x2 = 3-8 x = \\(3^{-8 \\times \\frac{1}{2}}\\) x = 3-4 x = \\(\\frac{1}{3^4}\\) x = \\(\\frac{1}{81}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d7ce8d4f-0cf1-402d-9ba4-acc7f83f8c55",
+      "question_text": [
+        "Simplify \\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "\\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\) = \\([(\\sqrt{6} + 2) + (\\sqrt{6} - 2)][(\\sqrt{6} + 2) - (\\sqrt{6} - 2)]\\) = \\((\\sqrt{6} + 2 + \\sqrt{6} - 2)(\\sqrt{6} + 2 - \\sqrt{6} + 2)]\\) = \\((2\\sqrt{6})(4)\\) = \\(8\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(2\\sqrt{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(4\\sqrt{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "07bbb68e-9f97-4442-b504-4980976b9344",
+      "question_text": [
+        "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P \\(\\cap\\) Q"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "P = {2,3,5} Q = {2,3} P \\(\\cap\\) Q = {2,3}",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2,3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2,3,5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1,2}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8de98210-60f0-40a3-ba25-9facd227ce26",
+      "question_text": [
+        "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "n(f \\(\\cap\\) v) + n(f) + n(v) + n(f \\(\\cap\\) v) = 46 3 + 19 + 23 + x = 46 22 + 23 + x = 46 45 + x = 46 x = 46 - 45 x = 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9a9d9488-6326-4aa8-83b5-7324ae5ccc97",
+      "question_text": [
+        "Make 'n' the subject of the formula if w = \\(\\frac{v(2 + cn)}{1 - cn}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "w = \\(\\frac{v(2 + cn)}{1 - cn}\\) 2v + cnv = w(1 - cn) 2v + cnv = w - cnw 2v - w = -cnv - cnw Multiply through by negative sign -2v + w = cnv + cnw -2v + w = n(cv + cw) n = \\(\\frac{-2v + w}{cv + cw}\\) n = \\(\\frac{1}{c}\\frac{-2v + w}{v + w}\\) Re-arrange... n = \\(\\frac{1}{c}\\frac{w - 2v}{v + w}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v + w",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v - w}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "904bad2a-08c1-4e82-9232-ea754178a12d",
+      "question_text": [
+        "Find the remainder when 2x3 - 11x2 + 8x - 1 is divided by x + 3"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Hence f(x) = 2x3 - 11x2 + 8x - 1 f(-3) = 2(-3)3 - 11(-3)2 + 8(-3) - 1 = 2(-27) - 11(9) + 8(-3) - 1 = -54 - 99 - 24 - 1 = -178",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-871",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-781",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-187",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-178",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f0d6174f-5746-4630-bb13-3a9d23c9a629",
+      "question_text": [
+        "Solve for x and y in the equations below x2 - y2 = 4 x + y = 2"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "x2 - y2 = 4 .... (1) x + y = 2 .... (2) Simplify eqn (1) (x + y)(x - y) = 4 From eqn (2) x + y = 2 so substitute it into simplified eqn (1), we have 2 (x - y) = 4 therefore, x - y = 2 ... (1) x + y = 2 --------- 2x = 4 --------- x = 2, when y = 0",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x = 0, y = -2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 0, y = 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = 2, y = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "x = -2, y = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "edbc6f35-4ccc-48b3-aef8-2a62cdb3362d",
+      "question_text": [
+        "If y varies directly as \\(\\sqrt{n}\\) and y = 4 when n = 4, find y when n = 1\\(\\frac{7}{9}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "y \\(\\alpha \\sqrt{n}\\)  y = k\\(\\sqrt{n}\\)  when y = 4, n = 4 4 = k\\(\\sqrt{4}\\)  4 = 2k k = 2 Therefore, y = 2\\(\\sqrt{n}\\) y = 2\\(\\sqrt{\\frac{16}{9}}\\) y = 2\\((\\frac{4}{3})\\) y = \\(\\frac{8}{3}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\sqrt{17}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{4}{3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1ea34f0d-27c0-4983-b2ad-25d74f61be9f",
+      "question_text": [
+        "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "U \\(\\alpha \\frac{1}{V^3}\\) U = \\(\\frac{k}{V^3}\\) k = UV3 k = 81 x 23 = 81 x 8 When V = 3, U = \\(\\frac{k}{V^3}\\) U = \\(\\frac{81 \\times 8}{3^3}\\) U = \\(\\frac{81 \\times 8}{27}\\) = 24",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "24",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "27",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e481fc91-c88d-466e-8e3b-f945ab7cc89f",
+      "question_text": [
+        "Find the range of values of m which satisfy (m - 3)(m - 4) < 0."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "(m - 3)(m - 4) < 0 (m - 3) < 0 ; (m - 4) < 0 m < 3 ; m < 4 3 < m < 4",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2 < m < 5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "-3 < m < 4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3 < m < 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-4 < m < 3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b6b6ba5c-e60c-470e-8f45-0b088d0286fa",
+      "question_text": [
+        "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "n2 - 6n - 4 For the 3rd term, 32 - 6(3) - 4 9 - 18 -4 = -13 For the 4th term, 42 - 6(4) - 4 16 - 24 - 4 = -12 Sum of both terms -13 - 12 = -25",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "23",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-24",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "-25",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "16d79c91-b4df-4b2b-a217-6ad3465ab044",
+      "question_text": [
+        "The sum to infinity of a geometric progression is \\(-\\frac{1}{10}\\) and the first term is \\(-\\frac{1}{8}\\). Find the common ratio of the progression."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "Sr = \\(\\frac{a}{1 - r}\\) \\(-\\frac{1}{10}\\) = \\(\\frac{1}{8} \\times \\frac{1}{1 - r}\\) \\(-\\frac{1}{10}\\) = \\(\\frac{1}{8(1 - r)}\\) \\(-\\frac{1}{10}\\) = \\(\\frac{1}{8 - 8r}\\) cross multiply... -1(8 - 8r) = -10 -8 + 8r = -10 8r = -2 r = -1/4",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(-\\frac{1}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(-\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84caa768-6410-4f85-8cc5-dd4c16735809",
+      "question_text": [
+        "The binary operation * is defined on the set of integers such that p * q = pq + p - q. Find 2 * (3 * 4)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "p * q = pq + p - q First execute for 3 * 4 ==> 3(4) + 3 - 4 = 12 + 3 - 4 = 11 Now we execute for 2 * 11 ==> 2(11) + 2 - 11 = 22 + 2 - 11 = 13",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "15",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "22",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bffde1ed-1c9e-43dc-96f8-a93f7ac6b0a9",
+      "question_text": [
+        "The binary operation on the set of real numbers is defined by m*n = \\(\\frac{mn}{2}\\) for all m, n \\(\\in\\) R. If the identity element is 2, find the inverse of -5"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "m \\(\\propto\\) n = \\(\\frac{mn}{2} - a\\) Identify = e = 2 a \\(\\propto\\) a-1 = e a \\(\\propto\\) a-1 = 2 -5 \\(\\propto\\) a-1 = 2  \\(\\frac{-5 \\times a^{-1}}{2} = 2\\) \\(a^{-1} = \\frac{2 \\times 2}{-5}\\) \\(a^{-1} = -\\frac{4}{5}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(-\\frac{4}{5}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(-\\frac{2}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd92357b-7386-4f6f-a366-b0026d17a3d5",
+      "question_text": [
+        "If \\(\\begin{vmatrix} 5 & 3 \\\\ x & 2 \\end{vmatrix}\\) = \\(\\begin{vmatrix} 3 & 5 \\\\ 4 & 5 \\end{vmatrix}\\), find the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "\\(\\begin{vmatrix} 5 & 3 \\\\ x & 2 \\end{vmatrix}\\) = \\(\\begin{vmatrix} 3 & 5 \\\\ 4 & 5 \\end{vmatrix}\\) 10 - 3x = 15 - 20 -3x = 15 - 20 - 10 -3x = -15 x = 5",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "aae64e04-c444-4a19-a6a8-72d64cc5146b",
+      "question_text": [
+        "Given that I3 is a unit matrix of order 3, find |I3|"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Recall that a unit matrice is a diagonal matrix in which the elements in the leading diagonal is unity. Therefore, I3 = \\(\\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}\\) I3 = \\(+1\\begin{vmatrix} 1 & 0 \\\\ 0 & 1 \\end{vmatrix} - 0\\begin{vmatrix} 0 & 0 \\\\ 0 & 1 \\end{vmatrix} + 0 \\begin{vmatrix} 0 & 1 \\\\ 0 & 0 \\end{vmatrix} \\) I3 = +1(1 - 0) - 0(0 - 0) + 0(0 - 0) = 1(1) = 1",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "O",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e531075b-e7fd-4d79-8b91-728c5fe5b8b4",
+      "question_text": [
+        "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "24o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "30o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "33o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36o",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d12bc79b-010e-4879-8cdb-8ec74ba4a1c1",
+      "question_text": [
+        "Calculate the volume of a cuboid of length 0.76cm, breadth 2.6cm and height 0.82cm."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "Volume of cuboid = L x b x h = 0.76cm x 2.6cm x 0.82cm = 1.62cm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.92cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.13cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.97cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.62cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "79108e58-a013-4ec4-9e64-13254b328acf",
+      "question_text": [
+        "The locus of a point equidistant from the intersection of lines 3x - 7y + 7 = 0 and 4x - 6y + 1 = 0 is a"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "line parallel to 7x + 13y + 8 = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "circle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "semicircle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "bisector of the line 7x + 13y + 8 = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b0b700fb-53bf-4b3b-9fc0-25f8ee9dc99e",
+      "question_text": [
+        "The gradient of the straight line joining the points P(5, -7) and Q(-2, -3) is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "PQ = \\(\\frac{y_1 - y_0}{x_1 - x_0}\\) = \\(\\frac{-3 - (-7)}{-2 - 5}\\) = \\(\\frac{-3 + 7}{-2 - 5}\\) = \\(\\frac{4}{-7}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{2}{5}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b929535-4935-4107-afbe-bf3b6138c6f0",
+      "question_text": [
+        "The distance between the point (4, 3) and the intersection of y = 2x + 4 and y = 7 - x is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "P1 (4, 3), P2 (x, y) y = 2x + 4 .....(1) y = 7 - x .....(2) Substitute (2) in (1) 7 - x = 2x + 4 7 - 4 = 2x + x 3 = 3x x = 1 Substitute in eqn (2) y = 7 - x y = 7 - 1 y = 6 P2 (1, 6) Distance between 2 points is given as D = \\(\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\\) D = \\(\\sqrt{(1 - 4)^2 + (6 - 3)^2}\\) D = \\(\\sqrt{(-3)^2 + (3)^2}\\) D = \\(\\sqrt{9 + 9}\\) D = \\(\\sqrt{18}\\) D = \\(\\sqrt{9 \\times 2}\\) D = \\(3\\sqrt{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\sqrt{13}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(3\\sqrt{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a7b0f5b6-5a63-4741-aca7-26f254d5cf66",
+      "question_text": [
+        "Find the equation of the line through the points (-2, 1) and (-\\(\\frac{1}{2}\\), 4)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\frac{y - y_1}{x + x_1}\\) = \\(\\frac{y_2 - y_1}{x - x_1}\\)  \\(\\frac{y - 1}{x + 2}\\) = \\(\\frac{4 - 1}{-\\frac{1}{2} + 2}\\)  = \\(\\frac{y - 1}{x + 2}\\) = \\(\\frac{3}{\\frac{3}{2}}\\) y = 2x + 5",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 2x - 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y = 2x + 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "y = 3x - 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 2x + 1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "06f8d561-3c2b-4e02-8190-84a5f93ed58a",
+      "question_text": [
+        "If angle \\(\\theta\\) is 135o, evaluate cos\\(\\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\theta\\) = 135o Cos 135o = Cos(90 + 45)o = cos90ocos45o - sin90osin45o = 0cos45o - (1 x \\(\\frac{\\sqrt{2}}{2}\\)) = \\(-\\frac{\\sqrt{2}}{2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{\\sqrt{2}}{2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3ab1da4-a0d8-44eb-9871-1ad019a57b4a",
+      "question_text": [
+        "If y = x2 - \\(\\frac{1}{x}\\), find \\(\\frac{\\delta y}{\\delta x}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "y = x2 - \\(\\frac{1}{x}\\) y = x2 - x-1 \\(\\frac{\\delta y}{\\delta x}\\) = 2x + x-2 \\(\\frac{\\delta y}{\\delta x}\\) = 2x + \\(\\frac{1}{x^2}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - \\(\\frac{1}{x^2}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cc55ffbf-0721-4804-accb-5e65e737e40b",
+      "question_text": [
+        "Evaluate \\(\\int^2_1(x^2 - 4x)dx\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "\\(\\int^2_1(x^2 - 4x)dx\\) \\((\\frac{x^3}{3} - \\frac{4x^2}{2})\\) substituting integrate values \\([\\frac{8}{3} - \\frac{4 \\times 4}{2}] - [\\frac{1}{2} - 2]\\) = \\(-\\frac{11}{3}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{11}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{11}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3aa87e5a-df70-4af6-8f63-bce32d81ffbf",
+      "question_text": [
+        "Evaluate \\(\\int^{\\frac{\\pi}{4}}_0sec^2 \\theta d \\theta\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc3e4f22-173d-428d-acf8-c9dabe1561af",
+      "question_text": [
+        "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{x}{7} = \\frac{96}{1}\\) ==> \\(\\frac{672 + x}{8} = 112\\) Therefore x = 224",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "126",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "180",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "216",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "224",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d6043e5e-f14f-4e63-8cb6-6cdaaf621907",
+      "question_text": [
+        "Find the median of 2,3,7,3,4,5,8,9,9,4,5,3,4,2,4 and 5"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Arrange all the values in ascending order, 2,2,3,3,3,4,4,4,4,5,5,5,7,8,9,9",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ff3f4384-fe0c-40b9-91ea-ea8455b8fcfc",
+      "question_text": [
+        "Find the range of 4,9,6,3,2,8,10 and 11"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Range = Highest Number - Lowest Number Range = 11 - 2 = 9",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51b9a2fe-09e5-446f-8c06-e7ce429adb4a",
+      "question_text": [
+        "Find the standard deviation of 2,3,8,10 and 12"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\begin{array}{c|c} x & (x - \\varkappa) & (x - \\varkappa)^2 \\\\ \\hline 2 & -5 & 25 \\\\ \\hline 3 & -4 & 16 \\\\ \\hline 8 & 1 & 1 \\\\ \\hline 10 & 3 & 9 \\\\ \\hline 12 & 5 & 25 \\\\ \\hline & & 76 \\end{array}\\) S.D = \\(\\sqrt{\\frac{(x - \\varkappa)^2}{n}}\\) S.D = \\(\\sqrt{\\frac{76}{5}}\\) S.D = 3.9",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.9",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5.9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.9",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f445ffb-77a6-4dd9-9c60-b83f3512ef1e",
+      "question_text": [
+        "Evaluate n+1Cn-2 If n =15"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{n + 1 (n - 2)}{(n + 1)!}\\) \\(\\frac{(n + 1) + (n - 2)!(n - 2)!}{(n + 1)!}\\) \\(\\frac{(n + 1)(n + 1 -1)(n+1-2)(n+1-3)!}{3!(n-2)!}\\) \\(\\frac{(n + 1)(n)(n-1)(n-2)!}{3!(n-2)!}\\) \\(\\frac{(n + 1)(n)(n-1)}{3!}\\) Since n = 15 \\(\\frac{(15 + 1)(15)(15-1)}{3!}\\) \\(\\frac{16 \\times 15 \\times 14}{3 \\times 2 \\times 1}\\) = 560",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3630",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3360",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1120",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "560",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bf45cc32-dc7c-4178-aac6-061e6f2749b7",
+      "question_text": [
+        "In how many ways can the letters of the word TOTALITY be arranged?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{8!}{3!}\\) \\(\\frac{8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1}{3 \\times 2\\times 1}\\) ==> 8 x 7 x 6 x 5 x 4 = 6720",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6720",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "6270",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6207",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6027",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4a3b9d7-7ddc-484a-9883-af8e6d092833",
+      "question_text": [
+        "The probability that a student passes a physics test is \\(\\frac{2}{3}\\). If he takes three physics tests, what is the probability that he passes two of the tests?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Pass(P) = \\(\\frac{2}{3}\\), Fail(F) = \\(\\frac{1}{3}\\) T = P.P.F ==> \\(\\frac{2}{3} \\times \\frac{2}{3} \\times \\frac{1}{3}\\) = \\(\\frac{4}{27}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{27}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{27}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f9364274-d439-4eb4-ad93-0316587b5b14",
+      "question_text": [
+        "The probabilities that a man and his wife live for 80 years are \\(\\frac{2}{3}\\) and \\(\\frac{3}{5}\\) respectively. Find the probability that at least one of them will live up to 80 years"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "Man lives = \\(\\frac{2}{3}\\) not live = \\(\\frac{1}{3}\\) Wife lives = \\(\\frac{3}{5}\\) not live = \\(\\frac{2}{5}\\) \\(P(\\frac{2}{3} \\times \\frac{2}{5}) + (\\frac{2}{5} \\times \\frac{1}{3}) + (\\frac{2}{3} \\times \\frac{3}{5})\\) = \\(\\frac{4}{15} + \\frac{3}{15} + \\frac{6}{15}\\) = \\(\\frac{13}{15}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{2}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{3}{15}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3a42df3b-2a1d-4a34-9675-e8119e6a7070",
+      "question_text": [
+        "Simplify \\(\\frac{1}{p}\\) - \\(\\frac{1}{q}\\) + \\(\\frac{p}{q}\\) - \\(\\frac{q}{p}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "\\(\\frac{1}{p}\\) - \\(\\frac{1}{q}\\) + \\(\\frac{p}{q}\\) - \\(\\frac{q}{p}\\) = \\(\\frac{q - p}{pq}\\) + \\(\\frac{p^2 - q^2}{pq}\\) \\(\\frac{q - p}{pq}\\) x \\(\\frac{pq}{p^2q^2}\\) = \\(\\frac{q - p}{p^2 q^2}\\) \\(\\frac{-(p - q)}{(p + q)(p - q)}\\) = \\(\\frac{-1}{p + q}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{p - q}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{-1}{p + q}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8c78abe-39bb-47c5-8b51-c91fc5d0aa5a",
+      "question_text": [
+        "The shaded region above is represented by the equation"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math72.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y ≤ 4x + 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "y ≥ 4x + 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "y ≤ -4x + 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "y ≤ 4x + 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19c40657-a1d7-4889-add8-4fc03f7fee3c",
+      "question_text": [
+        "In the diagram above, PQR is a circle centre O. If < QPR is XO, find < QRP."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math70.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "xo",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "(90 – ",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "(90 + x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "66234ec0-e579-4a88-8b35-29af4fbc3a5c",
+      "question_text": [
+        "Find the area of the trapezium above."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math69.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "91 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "78 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "60 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "19 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "62a519d7-446a-4837-bd58-0323c700dc82",
+      "question_text": [
+        "The bar chart above shows the distribution of marks in a class test. If the pass mark is 5, what percentage of students failed the test?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math67.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "50%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0781b7b4-28c7-41a6-80ad-d8baee823c27",
+      "question_text": [
+        "If cos(x + 40)o = 0.0872, what is the value of x?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "cos(x + 40)o = 0.0872x + 40 = cos-10.0872x + 40o = 84.99ox = 84.99o - 40ox = 44.99x = 45o",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "85o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "75o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "65o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "45o",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fa5c1b80-ddbd-4dd1-bcd6-2d92d4494b89",
+      "question_text": [
+        "Convert 726 to a number in base three"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "First, convert to base 10 726 = (7 x 61) + (2 x 60) = 42 + 2 = 4410 \\(\\begin{array}{c|c} 3 & 44 \\\\ \\hline 3 & 14 & r 2 \\\\ \\hline 3 & 4 & r 2 \\\\ \\hline 3 & 1 & r 1 \\\\ \\hline 3 & 0 & r 1 \\end{array}\\) Ans = 1122 = D",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2211",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1212",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1122",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "087dc38b-d14d-4c9e-ab6d-d92465a2ddc5",
+      "question_text": [
+        "Simply \\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\div \\frac{24}{5}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\times \\frac{5}{24}\\) \\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(1\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(1\\frac{1}{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51f5734b-69dd-4177-a50a-6acabc65d960",
+      "question_text": [
+        "Evaluate \\(\\frac{21}{9}\\) to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.33",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5b7adc59-0fe1-43f6-9276-faac18040e0f",
+      "question_text": [
+        "A man earns ₦3,500 per month out of which he spends 15% on his children's education. If he spends additional ₦1,950 on food, how much does he have left?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "Amount spent on children = \\(\\frac{15}{100} \\times 3500 = ₦525\\) Amount spent = Amount on children + Additional amount on food Amount Spent = ₦525 + ₦1950 = ₦2475 Therefore amount left = ₦3,500 - ₦2,475 = ₦1,025",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦525",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1,025",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,975",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "256e9e8e-4fea-4266-95e1-4b7b47b7ce14",
+      "question_text": [
+        "If 27x + 2 \\(\\div\\) 9x + 1 = 32x, find x"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(27^{x+2} ÷ 9^{x+1} = 3^{2x}\\) Reduce 27 and 9 to have the same base as 3 \\(3^{3(x+2)} ÷ 3^{2(x+1)} = 3^{2x}\\) Note, - is ÷ and + is × for powers of indices of the same bases. \\(3^{3(x+2) - 2(x+1)} = 3^{2x}\\) Equating the exponentials \\(3(x+2) - 2(x+1) = 2x\\) Clear brackets \\(3x+6 - 2x - 2 = 2x\\) Collect like terms \\(3x - 2x - 2x = - 6 + 2\\) \\(x - 2x = -4\\) \\(-x = -4\\) Divide both sides by \\(-\\) \\(x = 4\\) Answer is B",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b8f6430a-57ae-42f5-9d04-5dbca53d503c",
+      "question_text": [
+        "If log3x2 = -8, what is x?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "log3x2 = -8 x2 = 3-8 x = \\(3^{-8 \\times \\frac{1}{2}}\\) x = 3-4 x = \\(\\frac{1}{3^4}\\) x = \\(\\frac{1}{81}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fdc3130e-a138-4f0d-8b2d-d863942f5cbd",
+      "question_text": [
+        "Simplify \\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\) = \\([(\\sqrt{6} + 2) + (\\sqrt{6} - 2)][(\\sqrt{6} + 2) - (\\sqrt{6} - 2)]\\) = \\((\\sqrt{6} + 2 + \\sqrt{6} - 2)(\\sqrt{6} + 2 - \\sqrt{6} + 2)]\\) = \\((2\\sqrt{6})(4)\\) = \\(8\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(2\\sqrt{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(4\\sqrt{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d962910a-1945-4259-9905-9f7a1cb1278a",
+      "question_text": [
+        "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P \\(\\cap\\) Q"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "P = {2,3,5} Q = {2,3} P \\(\\cap\\) Q = {2,3}",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2,3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2,3,5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1,2}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c7ef6c3e-8e87-4f74-ac6c-c4fc550f3117",
+      "question_text": [
+        "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "n(f \\(\\cap\\) v) + n(f) + n(v) + n(f \\(\\cap\\) v) = 46 3 + 19 + 23 + x = 46 22 + 23 + x = 46 45 + x = 46 x = 46 - 45 x = 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eb85eaef-69fe-42a0-ac00-bf8e9400171d",
+      "question_text": [
+        "Make 'n' the subject of the formula if w = \\(\\frac{v(2 + cn)}{1 - cn}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "w = \\(\\frac{v(2 + cn)}{1 - cn}\\) 2v + cnv = w(1 - cn) 2v + cnv = w - cnw 2v - w = -cnv - cnw Multiply through by negative sign -2v + w = cnv + cnw -2v + w = n(cv + cw) n = \\(\\frac{-2v + w}{cv + cw}\\) n = \\(\\frac{1}{c}\\frac{-2v + w}{v + w}\\) Re-arrange... n = \\(\\frac{1}{c}\\frac{w - 2v}{v + w}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v + w",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v - w}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53bf7972-b712-4195-a010-08dec3065535",
+      "question_text": [
+        "Convert 726 to a number in base three"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "First, convert to base 10 726 = (7 x 61) + (2 x 60) = 42 + 2 = 4410 \\(\\begin{array}{c|c} 3 & 44 \\\\ \\hline 3 & 14 & r 2 \\\\ \\hline 3 & 4 & r 2 \\\\ \\hline 3 & 1 & r 1 \\\\ \\hline 3 & 0 & r 1 \\end{array}\\) Ans = 1122 = D",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2211",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1212",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1122",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "be3a6ca6-17aa-4cb4-ba18-33b25d771799",
+      "question_text": [
+        "Simply \\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\div \\frac{24}{5}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\times \\frac{5}{24}\\) \\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(1\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(1\\frac{1}{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1acb609e-42a9-4781-8322-cc2573590e06",
+      "question_text": [
+        "Evaluate \\(\\frac{21}{9}\\) to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.33",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2ac2f3bd-4d88-4da4-bf9d-f2fd0fab3eec",
+      "question_text": [
+        "A man earns ₦3,500 per month out of which he spends 15% on his children's education. If he spends additional ₦1,950 on food, how much does he have left?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "Amount spent on children = \\(\\frac{15}{100} \\times 3500 = ₦525\\) Amount spent = Amount on children + Additional amount on food Amount Spent = ₦525 + ₦1950 = ₦2475 Therefore amount left = ₦3,500 - ₦2,475 = ₦1,025",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦525",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1,025",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,975",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e4b5da5-757c-43ab-9608-688d8c61c362",
+      "question_text": [
+        "If 27x + 2 \\(\\div\\) 9x + 1 = 32x, find x"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\(27^{x+2} ÷ 9^{x+1} = 3^{2x}\\) Reduce 27 and 9 to have the same base as 3 \\(3^{3(x+2)} ÷ 3^{2(x+1)} = 3^{2x}\\) Note, - is ÷ and + is × for powers of indices of the same bases. \\(3^{3(x+2) - 2(x+1)} = 3^{2x}\\) Equating the exponentials \\(3(x+2) - 2(x+1) = 2x\\) Clear brackets \\(3x+6 - 2x - 2 = 2x\\) Collect like terms \\(3x - 2x - 2x = - 6 + 2\\) \\(x - 2x = -4\\) \\(-x = -4\\) Divide both sides by \\(-\\) \\(x = 4\\) Answer is B",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "efb25745-dc6a-4da6-9b91-554f0e5ceb85",
+      "question_text": [
+        "If log3x2 = -8, what is x?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "log3x2 = -8 x2 = 3-8 x = \\(3^{-8 \\times \\frac{1}{2}}\\) x = 3-4 x = \\(\\frac{1}{3^4}\\) x = \\(\\frac{1}{81}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "782f2097-5dd2-49bc-bd72-b9596491dd58",
+      "question_text": [
+        "Simplify \\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "\\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\) = \\([(\\sqrt{6} + 2) + (\\sqrt{6} - 2)][(\\sqrt{6} + 2) - (\\sqrt{6} - 2)]\\) = \\((\\sqrt{6} + 2 + \\sqrt{6} - 2)(\\sqrt{6} + 2 - \\sqrt{6} + 2)]\\) = \\((2\\sqrt{6})(4)\\) = \\(8\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(2\\sqrt{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(4\\sqrt{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "479fec6c-a263-41a2-8d86-b21c22119625",
+      "question_text": [
+        "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P \\(\\cap\\) Q"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "P = {2,3,5} Q = {2,3} P \\(\\cap\\) Q = {2,3}",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2,3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2,3,5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1,2}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f4ef037d-b159-4ea3-bc30-a3b526113a12",
+      "question_text": [
+        "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "n(f \\(\\cap\\) v) + n(f) + n(v) + n(f \\(\\cap\\) v) = 46 3 + 19 + 23 + x = 46 22 + 23 + x = 46 45 + x = 46 x = 46 - 45 x = 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3645433c-76eb-4e07-8433-c3f588490b69",
+      "question_text": [
+        "Make 'n' the subject of the formula if w = \\(\\frac{v(2 + cn)}{1 - cn}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "w = \\(\\frac{v(2 + cn)}{1 - cn}\\) 2v + cnv = w(1 - cn) 2v + cnv = w - cnw 2v - w = -cnv - cnw Multiply through by negative sign -2v + w = cnv + cnw -2v + w = n(cv + cw) n = \\(\\frac{-2v + w}{cv + cw}\\) n = \\(\\frac{1}{c}\\frac{-2v + w}{v + w}\\) Re-arrange... n = \\(\\frac{1}{c}\\frac{w - 2v}{v + w}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v + w",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v - w}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a571514-1e1a-4072-9d13-6402ce973fdf",
+      "question_text": [
+        "Convert 726 to a number in base three"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "First, convert to base 10 726 = (7 x 61) + (2 x 60) = 42 + 2 = 4410 \\(\\begin{array}{c|c} 3 & 44 \\\\ \\hline 3 & 14 & r 2 \\\\ \\hline 3 & 4 & r 2 \\\\ \\hline 3 & 1 & r 1 \\\\ \\hline 3 & 0 & r 1 \\end{array}\\) Ans = 1122 = D",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2211",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1212",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1122",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dc0de692-d167-4167-8ec6-a95dae1da638",
+      "question_text": [
+        "Simply \\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\div \\frac{24}{5}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\times \\frac{5}{24}\\) \\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(1\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(1\\frac{1}{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "37709090-5e2d-4e83-8333-a0f015e9560b",
+      "question_text": [
+        "Evaluate \\(\\frac{21}{9}\\) to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.33",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9ce7a7f3-9a28-45e5-96ac-d7e4a228778f",
+      "question_text": [
+        "A man earns ₦3,500 per month out of which he spends 15% on his children's education. If he spends additional ₦1,950 on food, how much does he have left?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "Amount spent on children = \\(\\frac{15}{100} \\times 3500 = ₦525\\) Amount spent = Amount on children + Additional amount on food Amount Spent = ₦525 + ₦1950 = ₦2475 Therefore amount left = ₦3,500 - ₦2,475 = ₦1,025",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦525",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1,025",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,975",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f037af8-00f7-4cee-900d-e85d4389686c",
+      "question_text": [
+        "If 27x + 2 \\(\\div\\) 9x + 1 = 32x, find x"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\(27^{x+2} ÷ 9^{x+1} = 3^{2x}\\) Reduce 27 and 9 to have the same base as 3 \\(3^{3(x+2)} ÷ 3^{2(x+1)} = 3^{2x}\\) Note, - is ÷ and + is × for powers of indices of the same bases. \\(3^{3(x+2) - 2(x+1)} = 3^{2x}\\) Equating the exponentials \\(3(x+2) - 2(x+1) = 2x\\) Clear brackets \\(3x+6 - 2x - 2 = 2x\\) Collect like terms \\(3x - 2x - 2x = - 6 + 2\\) \\(x - 2x = -4\\) \\(-x = -4\\) Divide both sides by \\(-\\) \\(x = 4\\) Answer is B",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "006e6e0a-3f08-4eb8-8f94-6f59f5a004c7",
+      "question_text": [
+        "If log3x2 = -8, what is x?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "log3x2 = -8 x2 = 3-8 x = \\(3^{-8 \\times \\frac{1}{2}}\\) x = 3-4 x = \\(\\frac{1}{3^4}\\) x = \\(\\frac{1}{81}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9a88de15-0f85-440b-9b51-46ce0b22a19f",
+      "question_text": [
+        "Simplify \\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "\\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\) = \\([(\\sqrt{6} + 2) + (\\sqrt{6} - 2)][(\\sqrt{6} + 2) - (\\sqrt{6} - 2)]\\) = \\((\\sqrt{6} + 2 + \\sqrt{6} - 2)(\\sqrt{6} + 2 - \\sqrt{6} + 2)]\\) = \\((2\\sqrt{6})(4)\\) = \\(8\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(2\\sqrt{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(4\\sqrt{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e6e36840-6561-4ccb-a2de-5f2292b25ed6",
+      "question_text": [
+        "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P \\(\\cap\\) Q"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "P = {2,3,5} Q = {2,3} P \\(\\cap\\) Q = {2,3}",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2,3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2,3,5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1,2}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "adc39be0-6ec9-42b7-ac50-31cce1041ea8",
+      "question_text": [
+        "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "n(f \\(\\cap\\) v) + n(f) + n(v) + n(f \\(\\cap\\) v) = 46 3 + 19 + 23 + x = 46 22 + 23 + x = 46 45 + x = 46 x = 46 - 45 x = 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "340f3e35-35d6-4e06-bf23-e062ca74841e",
+      "question_text": [
+        "Make 'n' the subject of the formula if w = \\(\\frac{v(2 + cn)}{1 - cn}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "w = \\(\\frac{v(2 + cn)}{1 - cn}\\) 2v + cnv = w(1 - cn) 2v + cnv = w - cnw 2v - w = -cnv - cnw Multiply through by negative sign -2v + w = cnv + cnw -2v + w = n(cv + cw) n = \\(\\frac{-2v + w}{cv + cw}\\) n = \\(\\frac{1}{c}\\frac{-2v + w}{v + w}\\) Re-arrange... n = \\(\\frac{1}{c}\\frac{w - 2v}{v + w}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v + w",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v - w}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f81b27b-859f-4707-b319-bbb4b9a64052",
+      "question_text": [
+        "Convert 726 to a number in base three"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "First, convert to base 10 726 = (7 x 61) + (2 x 60) = 42 + 2 = 4410 \\(\\begin{array}{c|c} 3 & 44 \\\\ \\hline 3 & 14 & r 2 \\\\ \\hline 3 & 4 & r 2 \\\\ \\hline 3 & 1 & r 1 \\\\ \\hline 3 & 0 & r 1 \\end{array}\\) Ans = 1122 = D",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2211",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1212",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1122",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0f53e3a0-194d-4f59-9173-391668340f2c",
+      "question_text": [
+        "Simply \\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\div \\frac{24}{5}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\times \\frac{5}{24}\\) \\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(1\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(1\\frac{1}{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "759fc8d9-f905-4004-8d0d-8d55c029e502",
+      "question_text": [
+        "Evaluate \\(\\frac{21}{9}\\) to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.33",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c5c5091e-978a-4bc5-aaab-3991229cfd2d",
+      "question_text": [
+        "A man earns ₦3,500 per month out of which he spends 15% on his children's education. If he spends additional ₦1,950 on food, how much does he have left?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "Amount spent on children = \\(\\frac{15}{100} \\times 3500 = ₦525\\) Amount spent = Amount on children + Additional amount on food Amount Spent = ₦525 + ₦1950 = ₦2475 Therefore amount left = ₦3,500 - ₦2,475 = ₦1,025",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦525",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1,025",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,975",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "938319e7-0e1f-4cf9-b5e1-ffef6761d0ae",
+      "question_text": [
+        "If 27x + 2 \\(\\div\\) 9x + 1 = 32x, find x"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\(27^{x+2} ÷ 9^{x+1} = 3^{2x}\\) Reduce 27 and 9 to have the same base as 3 \\(3^{3(x+2)} ÷ 3^{2(x+1)} = 3^{2x}\\) Note, - is ÷ and + is × for powers of indices of the same bases. \\(3^{3(x+2) - 2(x+1)} = 3^{2x}\\) Equating the exponentials \\(3(x+2) - 2(x+1) = 2x\\) Clear brackets \\(3x+6 - 2x - 2 = 2x\\) Collect like terms \\(3x - 2x - 2x = - 6 + 2\\) \\(x - 2x = -4\\) \\(-x = -4\\) Divide both sides by \\(-\\) \\(x = 4\\) Answer is B",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "70467038-18f9-497e-b301-2c8344757a7a",
+      "question_text": [
+        "If log3x2 = -8, what is x?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "log3x2 = -8 x2 = 3-8 x = \\(3^{-8 \\times \\frac{1}{2}}\\) x = 3-4 x = \\(\\frac{1}{3^4}\\) x = \\(\\frac{1}{81}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "34897462-9078-4c10-80e4-fb19b759e54e",
+      "question_text": [
+        "Simplify \\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "\\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\) = \\([(\\sqrt{6} + 2) + (\\sqrt{6} - 2)][(\\sqrt{6} + 2) - (\\sqrt{6} - 2)]\\) = \\((\\sqrt{6} + 2 + \\sqrt{6} - 2)(\\sqrt{6} + 2 - \\sqrt{6} + 2)]\\) = \\((2\\sqrt{6})(4)\\) = \\(8\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(2\\sqrt{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(4\\sqrt{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2e632904-2595-490b-bdbd-4a5f9b5bcfe4",
+      "question_text": [
+        "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P \\(\\cap\\) Q"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "P = {2,3,5} Q = {2,3} P \\(\\cap\\) Q = {2,3}",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2,3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2,3,5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1,2}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6eaff18d-11cd-43d0-97b6-3ea836d3e7ea",
+      "question_text": [
+        "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "n(f \\(\\cap\\) v) + n(f) + n(v) + n(f \\(\\cap\\) v) = 46 3 + 19 + 23 + x = 46 22 + 23 + x = 46 45 + x = 46 x = 46 - 45 x = 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b088bf21-8276-4ecf-8414-c31fe3003e29",
+      "question_text": [
+        "Make 'n' the subject of the formula if w = \\(\\frac{v(2 + cn)}{1 - cn}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "w = \\(\\frac{v(2 + cn)}{1 - cn}\\) 2v + cnv = w(1 - cn) 2v + cnv = w - cnw 2v - w = -cnv - cnw Multiply through by negative sign -2v + w = cnv + cnw -2v + w = n(cv + cw) n = \\(\\frac{-2v + w}{cv + cw}\\) n = \\(\\frac{1}{c}\\frac{-2v + w}{v + w}\\) Re-arrange... n = \\(\\frac{1}{c}\\frac{w - 2v}{v + w}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v + w",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v - w}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "edc4bccb-f4a5-4d3d-8f1e-b022de5609cb",
+      "question_text": [
+        "Convert 726 to a number in base three"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "First, convert to base 10 726 = (7 x 61) + (2 x 60) = 42 + 2 = 4410 \\(\\begin{array}{c|c} 3 & 44 \\\\ \\hline 3 & 14 & r 2 \\\\ \\hline 3 & 4 & r 2 \\\\ \\hline 3 & 1 & r 1 \\\\ \\hline 3 & 0 & r 1 \\end{array}\\) Ans = 1122 = D",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2211",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2121",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1212",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1122",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9c12da63-4ef5-4ea0-9624-feba274e6321",
+      "question_text": [
+        "Simply \\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(\\frac{2\\frac{2}{3} \\times 1\\frac{1}{2}}{4\\frac{4}{5}}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\div \\frac{24}{5}\\) \\(\\frac{8}{3} \\times \\frac{3}{2} \\times \\frac{5}{24}\\) \\(\\frac{5}{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(1\\frac{1}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(1\\frac{1}{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a404c087-9dae-439d-a50e-2173fdf76ab2",
+      "question_text": [
+        "Evaluate \\(\\frac{21}{9}\\) to 3 significant figures"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.31",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.32",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.33",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6565dc59-9dc9-455f-9f94-593742c7a94e",
+      "question_text": [
+        "A man earns ₦3,500 per month out of which he spends 15% on his children's education. If he spends additional ₦1,950 on food, how much does he have left?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "Amount spent on children = \\(\\frac{15}{100} \\times 3500 = ₦525\\) Amount spent = Amount on children + Additional amount on food Amount Spent = ₦525 + ₦1950 = ₦2475 Therefore amount left = ₦3,500 - ₦2,475 = ₦1,025",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦525",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦1,025",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,975",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "39994e86-cd8b-48f7-852b-263f37160631",
+      "question_text": [
+        "If 27x + 2 \\(\\div\\) 9x + 1 = 32x, find x"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\(27^{x+2} ÷ 9^{x+1} = 3^{2x}\\) Reduce 27 and 9 to have the same base as 3 \\(3^{3(x+2)} ÷ 3^{2(x+1)} = 3^{2x}\\) Note, - is ÷ and + is × for powers of indices of the same bases. \\(3^{3(x+2) - 2(x+1)} = 3^{2x}\\) Equating the exponentials \\(3(x+2) - 2(x+1) = 2x\\) Clear brackets \\(3x+6 - 2x - 2 = 2x\\) Collect like terms \\(3x - 2x - 2x = - 6 + 2\\) \\(x - 2x = -4\\) \\(-x = -4\\) Divide both sides by \\(-\\) \\(x = 4\\) Answer is B",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "727342e3-8150-476f-a8b3-b4ecd9186a35",
+      "question_text": [
+        "If log3x2 = -8, what is x?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "log3x2 = -8 x2 = 3-8 x = \\(3^{-8 \\times \\frac{1}{2}}\\) x = 3-4 x = \\(\\frac{1}{3^4}\\) x = \\(\\frac{1}{81}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{1}{9}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8e5f0131-03b6-4481-973e-e297ba01b3e9",
+      "question_text": [
+        "Simplify \\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "\\((\\sqrt{6} + 2)^2 - (\\sqrt{6} - 2)^2\\) = \\([(\\sqrt{6} + 2) + (\\sqrt{6} - 2)][(\\sqrt{6} + 2) - (\\sqrt{6} - 2)]\\) = \\((\\sqrt{6} + 2 + \\sqrt{6} - 2)(\\sqrt{6} + 2 - \\sqrt{6} + 2)]\\) = \\((2\\sqrt{6})(4)\\) = \\(8\\sqrt{6}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(2\\sqrt{6}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(4\\sqrt{6}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e1a1dc7-5155-4f8a-b7bc-7debf4e82fc1",
+      "question_text": [
+        "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P \\(\\cap\\) Q"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "P = {2,3,5} Q = {2,3} P \\(\\cap\\) Q = {2,3}",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "{3}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "{2,3}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "{2,3,5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "{1,2}",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1cbfcc5a-8a13-4f15-9645-dd33af6cd325",
+      "question_text": [
+        "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "n(f \\(\\cap\\) v) + n(f) + n(v) + n(f \\(\\cap\\) v) = 46 3 + 19 + 23 + x = 46 22 + 23 + x = 46 45 + x = 46 x = 46 - 45 x = 1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a5e55d85-82f5-4f85-a93c-a1167a2c8d60",
+      "question_text": [
+        "Make 'n' the subject of the formula if w = \\(\\frac{v(2 + cn)}{1 - cn}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "w = \\(\\frac{v(2 + cn)}{1 - cn}\\) 2v + cnv = w(1 - cn) 2v + cnv = w - cnw 2v - w = -cnv - cnw Multiply through by negative sign -2v + w = cnv + cnw -2v + w = n(cv + cw) n = \\(\\frac{-2v + w}{cv + cw}\\) n = \\(\\frac{1}{c}\\frac{-2v + w}{v + w}\\) Re-arrange... n = \\(\\frac{1}{c}\\frac{w - 2v}{v + w}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v + w",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{1}{c}(\\frac{w - 2v}{v - w}",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,4742 @@
+
+[
+    {
+      "id": "e701a5c3-e3ae-40dc-ab4e-5bff96aefbae",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94e9c13f-1094-42fc-a2e0-bc0741287a3b",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "49c5a711-3239-4ccf-82ec-7193323efda3",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c02cd5ca-b137-4fae-b41a-09c714617c02",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0ece525b-a24a-4120-bb0a-a87b49bf4358",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4672453e-ae1d-42dd-a9aa-f6518ec33a0e",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e8a562a7-8b53-4a83-a2b9-8e1750d6d15f",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "5a4c1810-72d4-4315-88fc-5ad25138218f",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ccef44ef-b262-4b08-8550-bfde7f53e956",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f182b341-e7b3-427a-b71a-d31186f27ad8",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4252f223-0942-4c98-8fb8-9c65723b16fa",
+      "question_text": [
+        "Make r subject of the formula given that \\(\\frac{x}{r+a}=\\frac{a}{r}\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{a^{2}}{(x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "\\(\\frac{a^{2}}{(x+a",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c0182206-ae27-4064-bd0c-3793df998b51",
+      "question_text": [
+        "The inverse function f(x) = 3x + 4 is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(x-",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(x-",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "/5C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "43fc2166-f6c5-42eb-9ecf-ee0360a68a29",
+      "question_text": [
+        "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b276dd2-15fa-42e6-b36e-02b2c55c2e08",
+      "question_text": [
+        "The ninary operation * is defined on the set of integers p and q by p*q = pq + p + q. Find 2 * (3 * 4)."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "59",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "19",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "67",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "38",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c35c8194-7ec3-43df-8553-81cfa3712e89",
+      "question_text": [
+        "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "11/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3/2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "273b42e7-ab0c-4baa-b9ad-cb734b80691f",
+      "question_text": [
+        "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "27",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "√3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "√17",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "063a3fbf-8404-43c6-a0a3-2067e16844d1",
+      "question_text": [
+        "A chord of a circle subtends an angle of 12o degrees at the centre of a circle of diameter 4√3 cm. Calculate the area of the major sector."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4π cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "32 π cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "16 π cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8 π cm2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2403f5dc-44b7-4ae2-aaa8-74bee4ec4c3b",
+      "question_text": [
+        "If tan θ = 4/3, calculate sin2θ - cos2θ."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "16/25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "24/25",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7/25",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "9/25",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "971d0783-19e3-44d6-95e2-dcfab12c5d44",
+      "question_text": [
+        "Find the equation of the set of points which are equidistant from the parallel lines x = 1 and x = 7"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "y = 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x = 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x = 4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "y = 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e3c67957-e379-4073-9b7b-cec407362847",
+      "question_text": [
+        "A bucket is 12 cm in diameter at the top, 8 cm in diameterat the bottom and 4 cm deep. Calculate its volume."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "304π/3 cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "144π cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "128π cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "72π cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e893d8fa-7bc2-4186-8e63-3e69cf95e3ac",
+      "question_text": [
+        "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8421cffe-ec45-48d2-954b-af5cc7b2bbba",
+      "question_text": [
+        "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2, ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1, -",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "614aea7b-abe5-46ff-baf8-720f499f0a9e",
+      "question_text": [
+        "A hunter 1.6 m tall, views a bird on top of a tree at an angle of 45 degrees. if the distance between the hunter and the tree is 10.4 m, find the height of the tree."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "9.0 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12. 0 m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "8.8 m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "10.4 m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7abfebd6-2847-4601-bc88-7bffc3e890bb",
+      "question_text": [
+        "A solid hemisphere has a radius of 7 cm. Find the total surface area."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "400 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "462 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "66 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "308 cm2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fc98306f-b3cd-44e1-aa33-77d8d1ee4cc8",
+      "question_text": [
+        "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "-8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8031cd75-f4d5-4d74-8b85-2e4fa44be812",
+      "question_text": [
+        "The locus of a point P which is equidistant from two given points S and T is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the perpendicular bisector of ST",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the angle bisector of PS and ST",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a perpendicular to ST",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a line parallel to ST",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "15f4900d-9f1a-41fe-bb58-708ff3e96681",
+      "question_text": [
+        "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ef63b457-753d-4898-908f-e4c75abbca7c",
+      "question_text": [
+        "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "863e7c83-2f0d-4a2c-a91a-cf81ef6f8618",
+      "question_text": [
+        "The probability of a student passing any exam is 2/3. If the student takes three exams, what is the probability that he will not pass any of them?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4/9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8/27",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/27",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6a9b2c54-4758-46a2-bc3b-e64c50ae0adc",
+      "question_text": [
+        "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "108°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "180°",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "36°",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "60°",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "421d18db-6587-4ff2-85b9-0b6c642e3c03",
+      "question_text": [
+        "How many three-digit numbers can be formed from 32564 without repeating any of the digits?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "120",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e23ab574-34ba-4ce8-bbb4-8ee8fd4953b4",
+      "question_text": [
+        "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "105",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "100",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "95",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "110",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9681c488-7625-4ca7-afc9-d3fc4744e789",
+      "question_text": [
+        "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "13/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "7/6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "229eedcd-02aa-45d0-bfa4-2f37e7946e1f",
+      "question_text": [
+        "The mean and the range of the set of numbers 1, 20, 1.00, 0.90, 1.40, 0.80, 1.20 and 1.10 are me and r"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math164.jpg",
+      "explanation": "m = 1.05, r = 0.6m + r = 1.05 + 0.5= 1.65",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.65",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.85",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.45",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "320e8c75-474a-4ab0-8af0-1d25ec90640b",
+      "question_text": [
+        "Using the graph find the values of p and q if px + qy \\(\\geq\\) 4"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "explanation": "m = \\(\\frac{y_2 - y_1}{x_2 - x_1} = \\frac{2 - 0}{0 - (4)} = \\frac{2}{4} = \\frac{1}{2}\\)\\(\\frac{y_2 - y_1}{x_2 - x_1} \\geq m\\)\\(\\frac{y - 0}{x + 4} \\geq \\frac{1}{2}\\)2y \\(\\geq\\) x + 4, -x + 2y \\(\\geq\\) 4 = px + qy \\(\\geq\\) 4p = -1, q = 2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "p = 2, q = -1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "p = -1, q = 2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "p = 2, q = 2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "p = 1, q = 2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "33d4d6e5-8b5e-48b8-8a07-a7c43762b738",
+      "question_text": [
+        "The triangle POR is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math131.jpg",
+      "explanation": "< PRQ = 180\\(^{\\circ}\\) - 128\\(^{\\circ}\\) = 52\\(^{\\circ}\\) = < R< P + < R + < Q = 180\\(^{\\circ}\\)76\\(^{\\circ}\\) + 52\\(^{\\circ}\\) + < Q = 180\\(^{\\circ}\\)128\\(^{\\circ}\\) + < Q = 180\\(^{\\circ}\\)< Q = 180\\(^{\\circ}\\) - 128\\(^{\\circ}\\)= 52\\(^{\\circ}\\)\\(\\bigtriangleup\\)PQR is an isosceles",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an isosceles triange",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "an obtuse angle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a scalene triangle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "an equilateral triangle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ca4134ca-a2dc-4d0f-8422-021fa607ba17",
+      "question_text": [
+        "In the diagram are two concentric circles of radii r and R respectively with centre O. If r = \\(\\frac{2}{5}\\)R, express the area of the shaded portion in terms of \\(\\pi\\) and R"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math130.jpg",
+      "explanation": "A\\(\\text{shaded portion}\\) = \\(\\pi R^2 - \\pi r^2\\) r = \\(\\frac{2}{5}\\)RA\\(\\text{shaded portion}\\) = \\(\\pi R^2 - \\pi (\\frac{2}{3} R)^2 = \\pi R^2 - \\frac{4 \\pi R^2}{25}\\)= \\(\\pi R^2(1 - \\frac{2}{3}) = \\frac{21}{25} \\pi R^2\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{5}{9} \\pi R^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{21}{25} \\pi R^2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "209241e9-648f-4864-8c4d-ed31ca5ee6dd",
+      "question_text": [
+        "In the diagram, a cylinder is surmounted by a hemispherical bowl. Calculate the volume of the solid"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math129.jpg",
+      "explanation": "V = \\(\\pi r^2 h + \\frac{2}{3} \\pi r^3\\)N.B h = rV = \\(\\pi x (3)^2\\) x 20 = \\(\\frac{2}{3} \\times \\pi \\times (3)^3\\)180\\(\\pi + 18 \\pi = 198cm^3\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "198\\(\\pi cm^3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "180\\(\\pi cm^3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "547ccf5a-e923-49bf-af2a-8e729717da1a",
+      "question_text": [
+        "In the diagram, XZ is the diameter of the circle XYZW, with centre O and radius \\(\\frac{15}{2}\\)cm. If XY = 12cm, find the area of the triangle XYZ"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math128.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "45cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "27cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "75cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "54cm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a86ead3f-4bb2-4c55-a874-d203d5604883",
+      "question_text": [
+        "In the diagram PQ is parallel to RS. What is the value of \\(\\alpha + \\beta + \\gamma\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "4",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/maths1.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "180\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "90\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94acadb2-b31d-41f5-9aff-b4070f24c607",
+      "question_text": [
+        "Without using tables, evaluate (343)1/3 x (0.14)-1 x (25)-1/2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Start by breaking down (343)1/3 x (0.14)-1 x (25)-1/2 to their usual meanings.(3√343) x (1/0.14) x (√25) = 10",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3bef9b9a-c207-4b0a-a9c7-f6e3013f0657",
+      "question_text": [
+        "In a school, 220 students offer Biology or Mathematics or both. 125 offer Biology and 110 mathematics. How many offer Biology but not Mathematics?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Hint: Represent the question in a venn diagram, such thatn(B ∩ M) = xn(B) only = 125-xn(M) only = 110-x=> 125-x + 110-x + x = 220=> x = 15.n(B) only = 125 - 15 = 110",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "95",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "80",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "110",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "31974071-8c3a-4eb8-bdac-09378c7a816c",
+      "question_text": [
+        "Simplify 52.4 - 5.7 - 3.45 - 1.75"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "41.4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "41.5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "42.1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "42.2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "950b639e-8ee1-4403-83bc-c206bec6433f",
+      "question_text": [
+        "Simplify (√0.7 + √70)2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Hint: (√a+√b)2 = (√a)2 + (√b)2 + 2√ab = a + b +  2√abApplying the above to thge question, we have:0.7 + 70 + 2 x √(0.7 x 70) = 0.7 + 70 + 2√49 = 84.7",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "84.7",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "70.7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "217.7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "168.7",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8abf4754-89ee-492c-a546-2b5cd2b0985f",
+      "question_text": [
+        "Evaluate:(0.21 x 0.072 x 0.00054)  (0.006 x 1.68 x 0.063), correct to 4.s.f"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.01286",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.01285",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.1286",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.1285",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f9aac8d-2f60-4d1a-9b7d-fabb5462cfed",
+      "question_text": [
+        "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "Let the number of goats be XC.P of X goats = N4000XS.P of X goats = (75/100) x 4000X = N3000X3000X = 180,000=> X = 180000/3000 = 60.X = 60 goats",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "45",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f80aa98-439b-45bf-b045-f90b3061b52a",
+      "question_text": [
+        "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "explanation": "dy/dx = 2x - 3y = ∫2x - 3 dx => y = x2 - 3x + c3 = (0)2 - 3(0) + c=> c = 3Thus y = x2 - 3x + 3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x2 - 3x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "x2 - 3x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x2 - 3x - 3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x2 - 3x + 3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "00a0d069-5b73-4d67-b5ba-4e978ead0b7b",
+      "question_text": [
+        "In the diagram above , XZ is the diameter of the circle XZW, with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math63.jpg",
+      "explanation": "o (< semi circle )since radius = 15/2 diameter = 2 * (15/2) = 15cmXYZ is a right angled triangle∴ 152 = 122 + (YZ)2225 = 144 = (YZ)2225 - 144 = (YZ)281 = (YZ)2√81 = YZ9 = YZArea of ΔXYZ = 1/2bh(1/2) * 9 * 129 * 6 = 54= 54cm2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "54 cm2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "45 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "27 cm2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "75 cm2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ed1ee481-25b6-4a44-87dc-cf4aa3c84797",
+      "question_text": [
+        "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math61.jpg",
+      "explanation": "30 - x + x + 40 - x = 80 - 20 70 - x = 60- x = 60 - 70- x = - 10∴ x = 10 Music only = 30 - x = 30 - 1020 P(music only) = 20/80= 1/4= 0.25",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.38",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.50",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.25",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bdf6f698-5060-450d-8d0b-c59893794a2f",
+      "question_text": [
+        "In the diagram above calculate the value of x"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "5",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math51.jpg",
+      "explanation": "p + 40\\(^{\\circ}\\) = 100\\(^{\\circ}\\) (exterior ∠  = sum of two interior opp ∠s)p  = 100\\(^{\\circ}\\) - 40\\(^{\\circ}\\)P = 60\\(^{\\circ}\\)But q + p = 180\\(^{\\circ}\\) (∠s on a straight line)q + 60\\(^{\\circ}\\)q = 180\\(^{\\circ}\\) - 60\\(^{\\circ}\\)q = 120\\(^{\\circ}\\)x = q (corresponding ∠)∴x = 120\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "100\\(^{\\circ}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e1a31ff-c78b-4b9b-9d66-94b610ca5fd8",
+      "question_text": [
+        "Simplify \\(\\frac{3}{5} \\div \\left(\\frac{2}{7} \\times \\frac{4}{3} \\div \\frac{4}{9}\\right)\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "\\(\\frac{3}{5} \\div \\left(\\frac{2}{7} \\times \\frac{4}{3} \\div \\frac{4}{9}\\right)\\\\=\\frac{3}{5} \\div \\left(\\frac{2}{7} \\times \\frac{4}{3} \\times \\frac{9}{4}\\right)\\\\=\\frac{3}{5} \\div \\frac{6}{7}\\\\=\\frac{3}{5} \\times \\frac{7}{6}\\\\=\\frac{7}{10}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{4}{5}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{7}{10}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f1d133f4-cd36-4996-a255-ecb5d5d1e6da",
+      "question_text": [
+        "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the  probability that he will not pass any of them"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "P(pass) = 2/3P(not pass) = 1 - 2/3 = 1/3P(not passing any of the 3 Exams) = 1/3 x 1/3 x 1/3= 1/27",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4/9",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "8/27",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1/27",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "619f4e3f-ca94-4fce-bab8-840830118ae5",
+      "question_text": [
+        "In the diagram above, PST is a straight line, PQ = QS = RS. If ∠RST = 72\\(^{\\circ}\\), find x"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math9.jpg",
+      "explanation": "In Δ PQS, ∠PSQ = X(base ∠s of isoc Δ PQS)In Δ QRS, ∠RQS = ∠PSQ + X(Extr ∠ = sum of two intr. opp ∠s)∴ ∠RQS = X + X= 2XAlso ∠QRS = 2X(base ∠s of isoc Δ QRS in Δ PRS,72 = ∠RPS + ∠PRS(Extr, ∠ = sum of two intr. opp ∠s)∴ 72 = x + 2x72 = 3xx = 72/3x = 24\\(^{\\circ}\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "36\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18\\(^{\\circ}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b102a820-c10d-4153-aa03-9cb3e24ac894",
+      "question_text": [
+        "In the diagram above are two concentric circles of radii r and R respectively with center O. If r = 2/3R, express the area of the shaded portion in terms of π and R"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math8.jpg",
+      "explanation": "r = \\(\\frac{2}{3}\\)R∴R = \\(\\frac{3}{3}\\)RArea of small circle = πr2= π(\\(\\frac{2R}{3}\\))2Area of the big circle πr2 = π\\(\\frac{(3R)^2}{3}\\)Area of shaded portion = π(\\(\\frac{3R}{3}\\))2 - π(\\(\\frac{2R}{3}\\))2= π[(\\(\\frac{3R}{3}\\))2 - (\\(\\frac{2R}{3}\\))2]= π[(\\(\\frac{3R}{3}) + (\\frac{2R}{3}) - (\\frac{3R}{3}\\)) - (\\(\\frac{2R}{3}\\))]= π[(\\(\\frac{5R}{3}\\))  (\\(\\frac{R}{3}\\))]= π x \\(\\frac{5R}{3}\\) x \\(\\frac{R}{3}\\)= 5/9πR2",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "21/25πR2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9/25πR2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "21/23πR2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5/9πR2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6fce2420-d8e9-48f8-b950-80b589f1c76f",
+      "question_text": [
+        "In the diagram above, a cylinder is summounted by a hemisphere bowl. Calculate the volume of the solid."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math7.jpg",
+      "explanation": "Volume of cylinder = πr2h= π x 32 x 20= π x 9 x 20= 180 πcm3Volume of hemisphere = 2/3πr3= 2/3 x π x 32= 2 x π x 32= 2 x π x 9= 18π= Volume of the solid = 180π x 18π= 198πcm3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "180 πcm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "162 πcm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "216 πcm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "198 πcm3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "23318903-b947-4972-8eec-f1994e5e0a5f",
+      "question_text": [
+        "The triangle PQR above is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/math6.jpg",
+      "explanation": "∠PQR = 180 - 128 (∠s on a straight line)= 52\\(^{\\circ}\\)∠QPR + 76 + 52 = 180(extr ∠ = sum of intr. opp ∠s)∠QPR + 128 = 180∠QPR = 180 - 128 = 52\\(^{\\circ}\\)∴ΔPQR is an isosceles triangle",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an obtuse-angled triangle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a scalene triangle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "an isosceles triangle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "an equilateral triangle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e36d39fa-7c92-43a1-824c-5a85e6523016",
+      "question_text": [
+        "No. of days123456No. of students20x50402x60The distribution above shows the number of days a group of 260 students were absents from school in a particular term. How many students were absent for at least four days in the term"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "20 + X + 50 + 40 + 2X + 60 = 260 3X + 170 = 2603X = 260 - 1703x = 90x = 30Absent for at least 4 days456402x60i.e 40 + 2x + 60 = 40 + (2 x 30) + 60= 40 + 60 + 60= 160",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "210",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "120",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "160",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "02ae66e3-d32f-42fa-a79a-a83fc0894035",
+      "question_text": [
+        "The slope of the tangent to the curve \\(y = 2x^2 - 2x + 5\\) at the point \\((1,6)\\) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "5E",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e0db800-b470-47ce-9b37-8524cdcdd9f8",
+      "question_text": [
+        "In a school, 220 students offer Biology or Mathematics or both, 125 offer Biology and 110 Mathematics. How many offer Biology but not Mathematics?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "95",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "80",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "125",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "110E",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "44323bb7-0c8e-4339-8d13-16e8b5bdeaa5",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0b6d993-dcf4-48d6-9a2b-725a7957f228",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34d78921-b56c-4745-99a4-48fd643ba065",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ced55b3-c2da-470a-93d5-333c4ea0220d",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "768376fc-bd23-48db-a7fc-f7509ab30333",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f965ea43-38f2-4644-96e3-dec8af5c110a",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "556e7372-6273-4f18-91ef-8d09c7f7a6e2",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b39bfe61-3612-4044-9b60-59febbd196be",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8982b362-8a67-4494-871d-3f55cbd40798",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9b66d4f3-e530-4c2e-b12b-b2dda77011a1",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5afede30-2422-46bf-ae15-b74777bc3dfc",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2466f9d3-9a1d-4ec2-a9a8-4953f43c5859",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6a86b27-03f4-423f-91c9-7b64906e2665",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "663d3838-55d6-444b-819b-7157afb4430c",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0dd6c002-b64f-4a77-b090-089c2c7dc55a",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bd155020-0ac5-439d-8117-f3ba0428a9e7",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f74ef162-13bc-4462-b9f3-b277be8ed08f",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4cbd493f-9d4b-4720-ad84-9a917a33774c",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b45cbd5-2314-425a-9d3b-53b7aff80a41",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "24285006-af6d-435e-8b1c-7591f5a302c1",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7b7052d8-bd2b-4c5f-8229-532d6a2aa8ae",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b3f11f2c-a84a-473f-bf61-34f8cccbb366",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "70f7b04c-a8e4-4070-9b72-efe0fabc15ef",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e2206393-d406-4d8c-acb4-dd9a6e4f23e9",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "172edcd0-521f-4996-b79a-fccb07aa398a",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8b7e771c-08f9-4bec-aefd-ecfe3187a5e0",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "849922f7-aeca-433e-987d-94bb8a0630cb",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "305110ac-5942-466b-9d4b-8269905e3e3a",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2256f434-fe63-4fd6-ac0e-e8238c3bd9a0",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "702b8e57-5011-45ae-8d16-f3dec9a970e4",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "13b7999a-cc88-4867-9f5f-3e8b8b423e94",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7292df35-2a32-4384-8a2b-18fedd35e692",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f26d590-e351-4e69-9914-282a9957ba01",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "396e9498-0ccc-4012-a449-720cfced3d5a",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "de142752-353c-4f2f-acfe-47270030f54c",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "4cd41518-4b25-4c9b-90c8-dcef9e8ed804",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f70d20b0-b454-41d9-87f1-44fa05fde693",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "89c4baba-ef2d-4adf-a01f-5db31fe3aba4",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "575bb98c-6c52-4095-8ff2-c3cc7d71b0e3",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "eb7bd7fe-7506-43fb-bfc9-b384f45bcba8",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0420916-7537-4cef-8fc3-23d8aba9a2f5",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5505e951-4309-4a29-87bc-dc0982137589",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e3640221-7aee-49e5-bbc7-5c2717033467",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac920c09-7944-49bf-9331-f3e86ce1869e",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f828a27-a68c-4653-b5c7-4908238616a0",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9a55e1e9-75f8-4f45-b8ff-2d9d5544213a",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "548c4b7e-7d32-4dc6-80bb-3d76cc9aa9ef",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8bd28244-c9d6-461e-b4dd-9145235529b9",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "60edbdd9-5cf7-4d41-8e16-217baf4bfe05",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "73e538fe-1bb7-4610-807f-6c3af1f68fc5",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "11",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b593ef2-fb9e-4f99-a176-ee48a68618ee",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a85b5e5b-b63e-4be8-8e75-2075b4b07fbc",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "907cf928-d5fa-4e0c-bac5-1d227c9ddde4",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f508930-8591-4447-825d-f11c10c3050d",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf614807-9c48-4efa-ab5b-94c36abe2b3a",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cbec959e-8c74-4d56-a733-4c8ed32f7cbe",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "235b307c-b05f-4add-ab8d-ddf689cbb65f",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "20f30e9c-2e14-4383-9a1b-33e0bfb7d6f3",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e387bc3b-0187-4baa-8a4d-fb08504fbfbd",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8d998a85-c4f9-40c1-b7b6-a0bc8f254d20",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "12",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "35283348-3005-4cee-aa11-b379f0dd7930",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34bb9b62-f856-4533-a130-2425961e0baf",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "03f6d72b-aaae-465b-b09f-0c82dbda9364",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22622414-4000-4c7f-8d1a-00d57b246e08",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c5de026a-b61d-4071-80ec-77568a1fc7b4",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8b65a674-6ec3-4b29-b857-4bdada13163d",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8b8211d-ae04-4991-9c78-88188c428882",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "41e9d0a6-c443-42b8-86e2-a01baee474e4",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d10226d-f228-49a1-ad16-87676d758910",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7787e407-0c13-4604-831c-d4c95a38f423",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "13",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "17202352-f6cc-4875-a121-3f70908b3b95",
+      "question_text": [
+        "Find the derivative of y = sin2(5x) with respect to x."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10 sin 5x cos 5x",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5 sin5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 sin 5x cos 5x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15 sin 5x cos 5x",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "34ef1972-135c-448d-80ff-a00c24c345db",
+      "question_text": [
+        "The slope of the tangent to the curve y = 3x2 - 2x + 5 at the point (1, 6) is"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f48a7616-2d03-4d7d-9b17-ded4373df427",
+      "question_text": [
+        "Evaluate ∫sin 3x dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "(2/",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " cos 3x + c",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "(1/",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": " cos 3x + cC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb269496-4fdc-46ea-85ce-90f1c0081ba5",
+      "question_text": [
+        "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2π",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "π",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4π",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d85ca737-bc84-4fca-bb14-decbeb53af8e",
+      "question_text": [
+        "If y = x2 - (1/x). find dy/dx"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2x - (1/x",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2x + x2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2x - x2D",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8c8b3de3-1a20-4022-98df-37311a6e4638",
+      "question_text": [
+        "Solve for x in the equation x3 - 5x2 - x + 5 = 0"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1, - 1, or 5",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "-1, 1, or -5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1, 1, or 5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "712c6525-97f8-41a7-bfda-06c929fbe267",
+      "question_text": [
+        "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "15 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5 days",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "9 days",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fc8cd3be-e3ca-485f-9c0c-20d69bb3f723",
+      "question_text": [
+        "Find the range of values of x for which \\(\\frac{(x+2)}{4}-\\frac{2x-3}{3}<4\\)"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "x > -6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "x > -3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "x < 8",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "x < 4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d07b3ee-a64c-439e-9d03-030c4c9f1a22",
+      "question_text": [
+        "Find the maximum value of y in the equation y = 1 - 2x - 3x2"
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "5/3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3/4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4/3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dc7a5c67-22ed-408b-a2f3-7790d5bd2608",
+      "question_text": [
+        "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d."
+      ],
+      "examType": "jamb",
+      "year": "2002",
+      "subject": "mathematics",
+      "pageNum": "14",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2a + 2 = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3a + 5d = 0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a + 3d = 0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "a + 2d = 0",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

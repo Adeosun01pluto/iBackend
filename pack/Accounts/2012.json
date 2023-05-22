@@ -1,0 +1,3273 @@
+
+[
+    {
+      "id": "f4bfe6c3-b863-4de2-b7ef-c5593cd9d2a1",
+      "question_text": [
+        "Given:Determine the balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc5.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "415,000 debit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "215,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "215,000 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "315,000 credit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dbf2e1d6-ec19-44f4-a30b-49e12545d208",
+      "question_text": [
+        "Trading, Profit and Loss Account (Extract) DeptX ₦₦Net sales  Less cost of goods sold 3,000Stock 1/1200 Purchases1,000 Cost of goods available for sale1,200 Less stock 31/12400 Cost of goods sold 800Given:From the above information, the gross profit fro department X is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦3,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦2,200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "189eca41-9108-4c2d-8357-ff4449a4066a",
+      "question_text": [
+        "Cash Book (Extract)  ₦ ₦Balance b/f2,200Sundry expenses16,800  Drawings4,700Receipt from customers16,400Suppliers7,300Debtors opening and closing balances amount to ₦6,500 and ₦7,600 respectively, What is the sales value?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦15,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦17,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦31,600",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1126f126-fc90-4637-8076-9a27093b7ae9",
+      "question_text": [
+        "DateParticularsFolioDetailsTotal1/6/022 bags of maizeSL1,8001,80012/6/023 bags of salt    less 5% discount 7,0007,000    8,800The 5% discount shown above indicates"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "trade discount",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash discount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount allowed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount received",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bbf8baee-9f8f-4306-86ac-b06e1a64947b",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Find the gross profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦370,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦230,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦140,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "01386237-91b8-44dc-aaf1-772f4614d768",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Calculate the net profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦105,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦115,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1421c55-8d63-45e0-a697-0ccb82334e21",
+      "question_text": [
+        "Cash Book ₦ ₦Capital2,600Purchases15,000Sales28,200Rent1,250  Motor vehicle7,600Determine the bank balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦6,950 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦6,950 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦6,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦6,000 debit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f328627-9012-4360-993c-eb1650be9eba",
+      "question_text": [
+        "The basis upon which assets of an organization is valued is the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "historical concept",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "business entity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "periodicity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "materiality concept",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1bd2f424-854a-493e-99fd-3a048a2cc7d0",
+      "question_text": [
+        "An accountant must not only be interested in record keeping but also in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the application of proffessional competency",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the accuracy of postings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the casting of financial figures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "effective preparation of balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e3c167f5-3e9d-439a-9d0f-1e03710284dc",
+      "question_text": [
+        "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "capital and debit liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "liabilities and credit assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "assets and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital  and credit assets",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4f6d8dad-3af0-434a-95e1-5d5563808328",
+      "question_text": [
+        "The capital of a sole trader can be increased by"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debiting the capital account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "crediting the capital account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debiting the cash account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "crediting the cash account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eb44b105-4870-45a6-9377-010a89e4429a",
+      "question_text": [
+        "Akirika bought a motor van for his business by cash. The entries are to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "motor van and credit Akirika",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "sales and credit Akrika",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "motor van and credit cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash and credit motor van",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e04f9b90-fd3a-4826-a86c-d4d86ac36bee",
+      "question_text": [
+        "Ibrahim, a micro business operator, sold 10 bags of sugar to Jide at a total cost of #12,000.In the book of Ibrahim, the entry to record the transaction would be to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sugar account #12,000 and credit Jide #12,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Jide #12,000 and credit sales account #12,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ibrahim #12,000 and credit Jide #12,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sugar account #12,000 and credit Ibrahim #12,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b4aa719-0a24-463e-b358-3a40a9a135ac",
+      "question_text": [
+        "Ibrahim, a micro business operator, sold 10 bags of sugar to Jide at a total cost of #12,000.The record in Jide's book would be to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "purchases #12,000 and credit Ibrahim #12,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases #12,000 and credit sugar account #12,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Jide #12,000 and credit purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Ibrahim #12,000 and sugar account #12,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "949fcca2-e645-43bd-a420-cd974fb3ec36",
+      "question_text": [
+        "In a three-column cash book, dishonored cheques will be shown on the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bank column (debi",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "bank column(credi",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "51fc57c7-e97f-4d57-b948-e39574335cd0",
+      "question_text": [
+        "Cash can be drawn from the bank using"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a bank teller",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a credit card",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a recharge card",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ATM card",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "255dd56f-74c9-44d5-880f-2cb29b3b6c5a",
+      "question_text": [
+        "In a modern day banking system, cash transfer cannot be made where the transferor"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "has no sufficient cash with the bank",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "has no account with the bank",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "does not reside in the bank's country",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "does not possess the domestic currency",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4b281ece-cb5c-45c5-8e72-c2921877e0e5",
+      "question_text": [
+        "Given:Cash book balance- #5000Dishonored cheque- #1000Direct credit - ₦800Direct debit - ₦500The adjusted cash book balance is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#6,300",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "#4,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#3,700",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#2,700",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05eaa762-7c18-446b-b277-be84fec7b541",
+      "question_text": [
+        "At the end of a financial period, the tradingProfit and loss account of a sole traderShows a profit of #180,000. it is howeverDiscovered that revenue of #15,000 isRecorded as expenses while expenses of#4,000 is recorded as revenue.The revenue to be added as an adjustment is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#34,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#30,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "#15,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#4,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "57b748d7-e057-4e1d-8546-6356ab8f65c9",
+      "question_text": [
+        "Which of the following is an item of special assets?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fixed assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Current assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Trademark",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Gratuity",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b921c13a-8913-4b75-9c0d-ddc90c510c3f",
+      "question_text": [
+        "1/5/07 Purchased 100 bags of milk at #10.00k each3/5/07 Purchased 60 bags of milk at #11.50k each15/5/07 Issued 85 bags of milk15/5/07 Purchased 180 bags of milk at #12.80K each22/5/07 Issued 145 bags of milk.Using simple average method, calculate the value of stock after 22/5/07"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#1,198.00",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#1,218.38",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#1,257.67",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#1,408.00",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "bf3858c2-7981-4c99-ac70-295cd69e08cc",
+      "question_text": [
+        "The LIFO method has an advantage over FIFO in that stocks are valued at"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "previous prices",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "current prices",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "average rates",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "flat rates",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "57872c42-1c60-4a97-9fed-52f649aff74d",
+      "question_text": [
+        "In sales ledger control account, returns inwards is usually"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited and debtors credited",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credited and sales returns debited",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "debited and cash credited",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credited and bank credited",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1d94cfeb-8e34-4882-bb64-eeb5482b18fd",
+      "question_text": [
+        "Purchasers ledger control account can also be referred to as"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchasers day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "creditors legder",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "debtors ledger",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a5104386-d06e-4ae3-86ce-d599c6e4035b",
+      "question_text": [
+        "Which of the following is a debit item in the sales ledger control account"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Cheque reciepts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Dishonoured cheques",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Discount allowed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Bills recievable",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3482b7fb-b9a4-4d71-87c4-c088c3760af5",
+      "question_text": [
+        "In manufacturing accounts, finance expenses are charged to the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "departmental account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "trading acount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "profit and loss account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e9c3765f-c052-40de-a37f-b9af9c9d36a8",
+      "question_text": [
+        "Total production cost- #360,000Factory overhead cost- #56,000Selling price per unit- # 120Production volume 4000 unitsDetermine the value of prime cost"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#416,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#304,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "#240,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#184,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b542d42b-d4e2-4d51-95b4-64142c25a8cf",
+      "question_text": [
+        "The main advantage of a departmental account is that its"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "expenses are shared",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "gross profit is computed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "net profit is computed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "balance sheet is obtained",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "124f0da7-0efa-480f-8f4d-7f02e10911cd",
+      "question_text": [
+        "The excess revenue over expenditure is charged to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "profit and loss",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "revenue account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "accumulated fund",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "income and expenditure acccount",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "875b5c38-a210-4d22-a448-b1a65180c13e",
+      "question_text": [
+        "Given:Fixtures-#30,000Debtors-#7,000Stock- #8,000Creditors-#3,000Goodwill-#10,000Determine the capital"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#10,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#42,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#45,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#52,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ce61d218-2cbe-4ba4-ba49-6d33133ef993",
+      "question_text": [
+        "In the head office ledger, the value of goods sent to the branch are"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debited to the head office current account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "debited to the branch current account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credited to the head office current account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credited to the branch current account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "20f7d0bf-6306-4a10-96cb-3fa174f3b284",
+      "question_text": [
+        "Which of the  following methods of invoicing goods to branches  facilitate easy checks on the activities of branches?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cost price",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "fixed percentage on cost",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "selling price",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "invoice price",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d89b2969-665f-465d-b7c7-1e1c3ed74f28",
+      "question_text": [
+        "The partners capital are: Modibbo #60,000And Jakata #90,000. The partners shareProfit and losses in the ratio of their capitalContributions.The net profit for the year is #12,000.Find Modibbo's share of the profit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#62,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#48,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "#44,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#43,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "864290e4-bb99-4e2c-9e7c-8a02463c2849",
+      "question_text": [
+        "The partners capital are: Modibbo #60,000And Jakata #90,000. The partners shareProfit and losses in the ratio of their capitalContributions.The net profit for the year is #12,000.What is Jakata's sharing profit?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3:5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2:5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1:5",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3b9b63aa-78fb-4573-896a-48ea2a78bc61",
+      "question_text": [
+        "In what way can goodwill be written off in a partnership business?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Using the partners' profit and loss sharing ratio",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "By neglecting the ratio of partners capital contributions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "By sharing it unequally among the partners where no agreement exists",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "By sharing it among the active partners only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "561ccd06-e955-4447-9139-4d12084389ca",
+      "question_text": [
+        "Ngozi and Musa with a capital of #30,000 each decide to admit Mary into the partnership business with a capital of #20,000 and goodwill #15,000.If the profits and losses are to be shared equally, the journal entries to record goodwill are"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit goodwill #15,000, cash #20,000 and credit Mary's capital #35,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "credit goodwill #15,000, cash #20,000 and debit Mary's #35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit goodwill #15,000, credit cash #20,000 and credit Mary's capital #20,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit old partners capital #15,000, credit cash #20,000 and Mary's capital #35,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f86fbbb-5705-431f-b025-0043c24ed5de",
+      "question_text": [
+        "In converting a partnership into a limited liability company, the necessary accounts to be opened in the books of the company are"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "business purchase account and ordinary share capital account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Business purchase account, vendor account and ordinary share capital account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "business purchase account and vendor account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ordinary share capital account, vendor account and unpaid share capital account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "66bd86bd-18d7-4e0f-9e0c-456520718551",
+      "question_text": [
+        "Given:1. The Memorandum of Association of the Company11.The Article of Association of the Company111. The Incorporation documentsFrom the above, which of the following is delivered to the Registrar of companies for incorporation"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 and 11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1, 11 and 111",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11 and 111",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e28ce9e1-3e25-4f78-84c7-9703193caac2",
+      "question_text": [
+        "When shares are oversubscribed and money returned to unsuccessful applicants, the entry to record such money is to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "application and allotment account and credit unsubscribed shares",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "application and allotment account and credit cash",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "oversubscribed shares and credit allotment account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "oversubscribed shares and credit allotment account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac047309-c0fb-47c1-8f0a-369025a56d29",
+      "question_text": [
+        "Investment at cost of a company is to be disclosed under"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "trading accounts",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "profit and loss account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "balance sheet",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "source and application of fund",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f2e2b96c-9a52-4fb8-8795-bf189196cde3",
+      "question_text": [
+        "Purchasers - #44,880Sales - #85,850Trade creditors - #12,250Trade debtors - #24,000Accrued expenses - # 350Prepaid expenses - # 700Stock 1/1/2006 - #25,120Stock 31/12/2006 - #27,840Calculate the acid test ration"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1:94:1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1:96:1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "1:1:94",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1:1:96",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d87a8c8a-1d05-4857-860f-0625e04f13ff",
+      "question_text": [
+        "Purchasers - #44,880Sales - #85,850Trade creditors - #12,250Trade debtors - #24,000Accrued expenses - # 350Prepaid expenses - # 700Stock 1/1/2006 - #25,120Stock 31/12/2006 - #27,840Determine the number of times stock was turned over during the period to the nearest figure"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "65168637-acb3-4bc9-9449-f3b82044daa5",
+      "question_text": [
+        "Which of the following is a source of revenue to the federation account?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Market fees",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Bicycle licences",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Tarrifs",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Property rates",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "62573c72-d618-4241-a6fe-33361c78dfdb",
+      "question_text": [
+        "The book into which all types of a ministry's expenditure are recorded is the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ledger book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "payment book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "vote book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "expenditure book",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "63bf10f7-32ef-4d16-a69d-c8e14ad7f6b4",
+      "question_text": [
+        "The Petroleum Technology Development Fund is under the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "general fund",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "contingency fund",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "trust fund",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital fund",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9680a090-58c2-4993-8668-dd59a58778dd",
+      "question_text": [
+        "The power to appoint the Auditor General of the Federation is vested in the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "National Assembly",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "President",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Judicial Service Commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Civil Service Commission",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac7710f3-49a9-4943-92cc-4765ad4e6e4c",
+      "question_text": [
+        "Given:Determine the balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc5.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "415,000 debit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "215,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "215,000 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "315,000 credit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ffd35bb5-c73b-49ef-a5de-75bdd9d5ae25",
+      "question_text": [
+        "Trading, Profit and Loss Account (Extract) DeptX ₦₦Net sales  Less cost of goods sold 3,000Stock 1/1200 Purchases1,000 Cost of goods available for sale1,200 Less stock 31/12400 Cost of goods sold 800Given:From the above information, the gross profit fro department X is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦3,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦2,200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "55510fbf-7fa4-4ae9-be4e-a69cf2d1b3bf",
+      "question_text": [
+        "Cash Book (Extract)  ₦ ₦Balance b/f2,200Sundry expenses16,800  Drawings4,700Receipt from customers16,400Suppliers7,300Debtors opening and closing balances amount to ₦6,500 and ₦7,600 respectively, What is the sales value?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦15,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦17,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦31,600",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c4740d2b-6a5d-47c2-8d76-ff4ea55c9919",
+      "question_text": [
+        "DateParticularsFolioDetailsTotal1/6/022 bags of maizeSL1,8001,80012/6/023 bags of salt    less 5% discount 7,0007,000    8,800The 5% discount shown above indicates"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "trade discount",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash discount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount allowed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount received",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1509a7e-1ad0-4b37-9638-3ba1b96f8d3f",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Find the gross profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦370,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦230,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦140,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9080d786-d8c0-4691-a8f5-bc7df176caad",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Calculate the net profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦105,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦115,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3d3fa57a-97d9-41ed-8fb7-ab767e7ae62e",
+      "question_text": [
+        "Cash Book ₦ ₦Capital2,600Purchases15,000Sales28,200Rent1,250  Motor vehicle7,600Determine the bank balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦6,950 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦6,950 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦6,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦6,000 debit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ae543e9-40e6-4cb5-9179-8f4b04aadc74",
+      "question_text": [
+        "The basis upon which assets of an organization is valued is the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "historical concept",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "business entity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "periodicity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "materiality concept",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94c4cc32-f7bf-4d8a-badc-88238683fd62",
+      "question_text": [
+        "An accountant must not only be interested in record keeping but also in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the application of proffessional competency",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the accuracy of postings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the casting of financial figures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "effective preparation of balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9978a97-7137-43b5-926f-f5953029d11d",
+      "question_text": [
+        "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "capital and debit liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "liabilities and credit assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "assets and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital  and credit assets",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4a4d5bde-f10c-422a-a704-dcde81a5c2fb",
+      "question_text": [
+        "Given:Determine the balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc5.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "415,000 debit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "215,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "215,000 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "315,000 credit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "64cc3c22-7952-4561-97e8-2d4da39411bb",
+      "question_text": [
+        "Trading, Profit and Loss Account (Extract) DeptX ₦₦Net sales  Less cost of goods sold 3,000Stock 1/1200 Purchases1,000 Cost of goods available for sale1,200 Less stock 31/12400 Cost of goods sold 800Given:From the above information, the gross profit fro department X is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦3,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦2,200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3c7f6cf-aa85-4469-b891-8fd1b32e15d2",
+      "question_text": [
+        "Cash Book (Extract)  ₦ ₦Balance b/f2,200Sundry expenses16,800  Drawings4,700Receipt from customers16,400Suppliers7,300Debtors opening and closing balances amount to ₦6,500 and ₦7,600 respectively, What is the sales value?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦15,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦17,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦31,600",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0d97b653-af56-4e0b-878b-a65f653de2ff",
+      "question_text": [
+        "DateParticularsFolioDetailsTotal1/6/022 bags of maizeSL1,8001,80012/6/023 bags of salt    less 5% discount 7,0007,000    8,800The 5% discount shown above indicates"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "trade discount",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash discount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount allowed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount received",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b76a1c5-bdcf-4109-83c7-d2f7b8abff38",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Find the gross profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦370,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦230,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦140,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dc74f74c-30e9-4685-8808-d2dfee3eedca",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Calculate the net profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦105,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦115,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29110b3f-02e0-4d72-baa5-ee7158c55ea3",
+      "question_text": [
+        "Cash Book ₦ ₦Capital2,600Purchases15,000Sales28,200Rent1,250  Motor vehicle7,600Determine the bank balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦6,950 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦6,950 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦6,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦6,000 debit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "45ba2eb0-2014-4eb0-9f88-3dd01d2e67d2",
+      "question_text": [
+        "The basis upon which assets of an organization is valued is the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "historical concept",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "business entity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "periodicity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "materiality concept",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9073eaaf-fd73-4665-92c9-f5137061d3ed",
+      "question_text": [
+        "An accountant must not only be interested in record keeping but also in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the application of proffessional competency",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the accuracy of postings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the casting of financial figures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "effective preparation of balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e021ad52-0c2f-4360-b554-041b250f2782",
+      "question_text": [
+        "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "capital and debit liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "liabilities and credit assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "assets and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital  and credit assets",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf98544d-f64a-417c-ae48-004b39d60de1",
+      "question_text": [
+        "Given:Determine the balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc5.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "415,000 debit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "215,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "215,000 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "315,000 credit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7ed70cb5-8ac5-4de0-ae2d-f87f8bd0e021",
+      "question_text": [
+        "Trading, Profit and Loss Account (Extract) DeptX ₦₦Net sales  Less cost of goods sold 3,000Stock 1/1200 Purchases1,000 Cost of goods available for sale1,200 Less stock 31/12400 Cost of goods sold 800Given:From the above information, the gross profit fro department X is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦3,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦2,200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "186898d5-a3a9-41f0-8a86-70b8075e8485",
+      "question_text": [
+        "Cash Book (Extract)  ₦ ₦Balance b/f2,200Sundry expenses16,800  Drawings4,700Receipt from customers16,400Suppliers7,300Debtors opening and closing balances amount to ₦6,500 and ₦7,600 respectively, What is the sales value?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦15,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦17,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦31,600",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2af12505-96b8-4549-9a0b-d8f25fe7a9e3",
+      "question_text": [
+        "DateParticularsFolioDetailsTotal1/6/022 bags of maizeSL1,8001,80012/6/023 bags of salt    less 5% discount 7,0007,000    8,800The 5% discount shown above indicates"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "trade discount",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash discount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount allowed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount received",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5c166107-6135-401c-a08f-0ca9f7c86874",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Find the gross profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦370,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦230,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦140,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "42d4c6c0-7751-45d3-b595-78e33bba9e0a",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Calculate the net profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦105,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦115,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea3d5da1-342f-4888-a593-c3923ec35e77",
+      "question_text": [
+        "Cash Book ₦ ₦Capital2,600Purchases15,000Sales28,200Rent1,250  Motor vehicle7,600Determine the bank balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦6,950 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦6,950 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦6,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦6,000 debit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d82a7d28-8a72-4bbb-bd38-6f9810be4e87",
+      "question_text": [
+        "The basis upon which assets of an organization is valued is the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "historical concept",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "business entity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "periodicity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "materiality concept",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "76d383c1-0f33-4e71-9eb1-d7c256fabe42",
+      "question_text": [
+        "An accountant must not only be interested in record keeping but also in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the application of proffessional competency",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the accuracy of postings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the casting of financial figures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "effective preparation of balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd1ebfa9-765e-4451-9b0e-88369fc703b1",
+      "question_text": [
+        "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "capital and debit liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "liabilities and credit assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "assets and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital  and credit assets",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a667469c-0ab2-4e83-af87-d009e04268ad",
+      "question_text": [
+        "Given:Determine the balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc5.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "415,000 debit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "215,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "215,000 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "315,000 credit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a34202eb-10d5-411f-8ee6-8c48f8fd0b2f",
+      "question_text": [
+        "Trading, Profit and Loss Account (Extract) DeptX ₦₦Net sales  Less cost of goods sold 3,000Stock 1/1200 Purchases1,000 Cost of goods available for sale1,200 Less stock 31/12400 Cost of goods sold 800Given:From the above information, the gross profit fro department X is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦3,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦2,200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "95259ef2-fc5e-4f22-8360-cbac364685ff",
+      "question_text": [
+        "Cash Book (Extract)  ₦ ₦Balance b/f2,200Sundry expenses16,800  Drawings4,700Receipt from customers16,400Suppliers7,300Debtors opening and closing balances amount to ₦6,500 and ₦7,600 respectively, What is the sales value?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦15,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦17,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦31,600",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0b0539b3-e590-4f2f-a7b7-d46a8913e46b",
+      "question_text": [
+        "DateParticularsFolioDetailsTotal1/6/022 bags of maizeSL1,8001,80012/6/023 bags of salt    less 5% discount 7,0007,000    8,800The 5% discount shown above indicates"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "trade discount",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash discount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount allowed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount received",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6ff76775-2001-4fea-b4bc-c9a6b3b050ec",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Find the gross profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦370,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦230,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦140,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3521bdd6-08e5-4e37-b9af-fe115da105e4",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Calculate the net profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦105,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦115,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c963002-0626-4b9a-b7a0-c5008b969869",
+      "question_text": [
+        "Cash Book ₦ ₦Capital2,600Purchases15,000Sales28,200Rent1,250  Motor vehicle7,600Determine the bank balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦6,950 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦6,950 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦6,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦6,000 debit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "45d752eb-3699-47db-a61e-d44765c37b8f",
+      "question_text": [
+        "The basis upon which assets of an organization is valued is the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "historical concept",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "business entity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "periodicity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "materiality concept",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "56ddc53e-d74d-4759-adc2-f1e27eaf37af",
+      "question_text": [
+        "An accountant must not only be interested in record keeping but also in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the application of proffessional competency",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the accuracy of postings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the casting of financial figures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "effective preparation of balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a6365a11-954f-473f-9258-e3d00c354aed",
+      "question_text": [
+        "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "capital and debit liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "liabilities and credit assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "assets and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital  and credit assets",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd2447eb-92b1-47ec-a4e8-433f01fb5b58",
+      "question_text": [
+        "Given:Determine the balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc5.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "415,000 debit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "215,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "215,000 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "315,000 credit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1aca0af3-e179-414a-82b0-9de4a4b7d7e3",
+      "question_text": [
+        "Trading, Profit and Loss Account (Extract) DeptX ₦₦Net sales  Less cost of goods sold 3,000Stock 1/1200 Purchases1,000 Cost of goods available for sale1,200 Less stock 31/12400 Cost of goods sold 800Given:From the above information, the gross profit fro department X is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦3,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦2,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦2,200",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦2,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80d067b8-0c19-4a5a-a947-eb23d690d066",
+      "question_text": [
+        "Cash Book (Extract)  ₦ ₦Balance b/f2,200Sundry expenses16,800  Drawings4,700Receipt from customers16,400Suppliers7,300Debtors opening and closing balances amount to ₦6,500 and ₦7,600 respectively, What is the sales value?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦15,300",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦17,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦28,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦31,600",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "02dd4c74-ad32-4518-8ace-09f668155012",
+      "question_text": [
+        "DateParticularsFolioDetailsTotal1/6/022 bags of maizeSL1,8001,80012/6/023 bags of salt    less 5% discount 7,0007,000    8,800The 5% discount shown above indicates"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "trade discount",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash discount",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount allowed",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "discount received",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ba8967b0-db0c-4f37-ace0-7c60e2ee4716",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Find the gross profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦370,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦230,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦140,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b931cd93-7d01-43b4-b0dc-9f90c37f9f1f",
+      "question_text": [
+        " ₦ ₦Stock 1/120,000Net sales370,000Add purchases250,000  Cost of goods available for sale270,000  Less stock 31/1240,000  Cost of goods sold  230,000Rent expenses35,000  Use the information above to answer the question:Calculate the net profit."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦35,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦105,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦115,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d1b542e9-2fb9-4bda-9e8a-9fd27ee855de",
+      "question_text": [
+        "Cash Book ₦ ₦Capital2,600Purchases15,000Sales28,200Rent1,250  Motor vehicle7,600Determine the bank balance"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦6,950 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦6,950 debit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦6,000 credit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦6,000 debit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "163b709f-a825-43f6-b245-4ae3277d2bd7",
+      "question_text": [
+        "The basis upon which assets of an organization is valued is the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "historical concept",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "business entity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "periodicity concept",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "materiality concept",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8c5dbfd8-1e89-4623-8930-9af1cca23e0e",
+      "question_text": [
+        "An accountant must not only be interested in record keeping but also in"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the application of proffessional competency",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the accuracy of postings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the casting of financial figures",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "effective preparation of balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d499ab0a-282c-443a-b948-031160e0105a",
+      "question_text": [
+        "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "capital and debit liabilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "liabilities and credit assets",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "assets and credit capital",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital  and credit assets",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

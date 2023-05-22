@@ -1,0 +1,3341 @@
+
+[
+    {
+      "id": "5acedbca-84fe-4625-86be-fd6d9a860476",
+      "question_text": [
+        "The formula for calculating depreciation using straight line method is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{\\text{Scrape Value} + \\text{Sales}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{\\text{Cost } - \\text{Scrape Value}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "de725472-a2ea-4005-8d8c-6cc5821747fa",
+      "question_text": [
+        "Determine the closing stock."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc3.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦30,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦60,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29fb49a5-9c31-4421-a28f-f1bb15542a45",
+      "question_text": [
+        "Income and Expenditure (Extract) ₦ ₦Bal. b/d390Expenses300Sales of tickets4,000New tool510Donations3,000Repairs400Subscriptions6,500Electricity350What is the balance carried down?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦11,680",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦11,930",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦12,330",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦13,430",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1663c266-edcf-48cf-87a6-14940d2abe0d",
+      "question_text": [
+        "One of the the differences between bookkeeping and accounting is that the former"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "records data while the latter interprets",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is regarded as the language of the business while the latter ascertains its strenght",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "interprets data while the latter records it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "summarises information while the latter communicates it",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "74720669-8ebf-414a-a2f7-b6d7bf4ed49d",
+      "question_text": [
+        "The concept which states that revenue should be recognized at the point when the sale is deemed to have been made is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "matching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "consistency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "realization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "going concern",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "65635df5-c19d-4631-92ba-bad681381c9d",
+      "question_text": [
+        "A cheque of #5,000 paid to Sulieman had been correctly entered in the cash book but had not been entered in Sulieman's account. To correct this error, debit Sulieman's account and credit"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bank account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "purchases account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a8fe209-b55a-40bc-81a0-3e2b18591fb3",
+      "question_text": [
+        "Aduke Motors  bought three Toyota Hilux vans on cash at the cost of #6,000,000, on debiting the vehicle account, the corresponding credit for the purchase will appear in the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sales subsidiary book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash book",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cb83ff67-50ab-44b1-931a-8237e1e4101d",
+      "question_text": [
+        "Which of the following affects the accuracy and authenticity of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Error of ommission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Error of commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Error of transposition",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Error of original entry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0505f6ac-0ace-4971-844f-61ea1198bdf6",
+      "question_text": [
+        "A ledger is classified into"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "private, sales and purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "personal, general and private",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "general, private and sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sales, purchases and general",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2664e71-be39-4a30-b76b-f905c9fced1c",
+      "question_text": [
+        "The book of account in which information from the source documents are recorded consists of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit and credit notes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ledger and subsidiary books",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "prepayments and accruals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "profit and loss and balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b1b2add8-f985-4058-abed-9a4e98ef8522",
+      "question_text": [
+        "The accounting entries to record a cheque issued by a business is to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit cash book and credit drawer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "credit cash book and debit drawer",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "debit cash book and credit suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit cash book and debit suspense account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1a09da53-b4d7-4926-9300-24f5bff8c7bd",
+      "question_text": [
+        "Given:If Emeka Enterprises settles its suppliers for goods purchased within 7 days, it can earn a cash discount of 12 and half percent. Assuming #22,800 worth of goods were purchased and settled within 5 days, what will be the amount to be credited in the cash column of the company's cash book?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#25,650",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#22,800",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#19,950",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#18,240",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b75da0f5-41ac-42d2-85df-216d8a30a1eb",
+      "question_text": [
+        "The major advantage of an imprest system is that it"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ensures a proper accountability for every expenditure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "trains the young accountants in preparation for greater responsibilities",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "relieves the cheif cashier of the numerous petty cash payments",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "serves as an analysis column for every expenses",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7be8d7b-e6ee-47d0-b813-32d79dcb760f",
+      "question_text": [
+        "Petty cash book records transactions on"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the debit side only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "the credit side only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "both credit and debit sides",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "reversed entry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d3ba41d7-ac29-4c25-b87c-dac130d844de",
+      "question_text": [
+        "A major way by which the headquarters guard against fraud in branches on cash remittance is through the introduction of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "imprest system only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "direct purchase by branch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "separate accountant for the branch",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "credit sales by only the headquarters",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0c41f5fa-2f62-41ab-adeb-b6c7921c566f",
+      "question_text": [
+        "1. Cash sales11. Cash purchases111. Cash discount allowed1V. Cash paymentV. Cash receiptsWhich of the following are recorded on the debit side of the cash book"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1 and 11",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1 and 111",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1 and V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1 and 1V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29bd7ac3-a986-45d4-8f47-8675301fb357",
+      "question_text": [
+        "An item credited in the bank statement but yet to be recorded in the firm's cash book is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "bank loan",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "contract payment",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "standing order",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "direct deposit",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "563caf39-ded8-4d13-bd48-bc31756b18c0",
+      "question_text": [
+        "The major focus of the trading account is to show"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "net profit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "gross margin",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "total purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "total sales",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fcbc9bf1-4550-463f-8ef2-c5a259de045a",
+      "question_text": [
+        "If goods were bought from Tanko at a cost price of #9,000 with a cash discount of 5%, how much will be paid assuming prompt payment was made?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#4,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#8,550",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "#9,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#9,450",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af7e1af5-4a1b-4db8-bdd5-5db27f0124ab",
+      "question_text": [
+        "If machine X cost #600,000 with anticipated life span of five years and estimated scrap value of #50,000, using straight line method; depreciation charged for two years will be"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#700,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#240,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#220,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#202,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "40c6e683-5ebe-40c4-bc9d-9b3367136474",
+      "question_text": [
+        "Balance sheet (Extract)Creditors #7,940Prepaid expenses ₦290Accrual expenses ₦323Stock #4,500Cash balance #4,956Debtors ₦905The value of the current assets will be"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#10,361",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#10,651",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "#17,396",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#17,848",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "694096f4-f9a7-4351-b720-6023a6f573e6",
+      "question_text": [
+        "Balance sheet (Extract)Creditors #7,940Prepaid expenses ₦290Accrual expenses ₦323Stock #4,500Cash balance #4,956Debtors ₦905Determine the current liabilities"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#8,553",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#8,263",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "#7,940",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#1,228",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ae0913b5-1402-4b05-abc8-6439e531d0ff",
+      "question_text": [
+        "The excess of sales over cost of goods sold is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "gross sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "gross profit",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "net profit",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "net sales",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ab18d538-e1e8-4f30-947d-af6f32e3d164",
+      "question_text": [
+        "2/3 Purchases 900 books at #1,000 each4/3 Purchases 590 books at ₦950 each15/3 Sales 300 books at #900 eachDetermine the cost of goods sold using FIFO"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#285,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#300,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "#570,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#600,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c87389cb-0d3a-40f9-a80c-0170eafb3f11",
+      "question_text": [
+        "2/3 Purchases 900 books at #1,000 each4/3 Purchases 590 books at ₦950 each15/3 Sales 300 books at #900 eachCalculate the cost of goods available for sale using LIFO"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#801,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#1,100,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#1,160,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#1,175,500",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a5fe2e26-ad1c-4364-90f1-0f18d5aa6ed9",
+      "question_text": [
+        "The control account is used in facilitating"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the location of errors in the various accounts",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "up to date bank transactions",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "the payment of debts and liabilities of the firm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "assets distribution with respect to income",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e506ad30-9496-4f5b-8512-705d9d0f5c29",
+      "question_text": [
+        "A book of account that possesses the features of both day book and ledger is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "cash book",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "purchases day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "returns day book",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16645fbd-e5f4-491f-bdc7-4c2ebe868ff4",
+      "question_text": [
+        "The value of the sales ledger control account is derived from the summation of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "the total debtors' account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "the total creditors' account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "all day books",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "both the debtors'and creditors' accounts",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "99166338-ea9e-4688-9336-75df2247e37c",
+      "question_text": [
+        "Subscription in arrears is treated in the balance sheet of a club as"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "current asset",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "current liability",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "fixed asset",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "intangible asset",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "deaffabf-970a-411a-a9f7-70f19fa5f08a",
+      "question_text": [
+        "Social Club Subscription (Extract)31/12/2009 Subscription accrued #18,900Subscription received in advance #16,400Subscription received duringThe year 2009 #38,570Determine the amount of subscription for the year"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#57,470",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "#41,070",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#40,210",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "#35,300",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ec0c76d-c305-40f5-8cb8-b3aa0aaea40b",
+      "question_text": [
+        "Social Club Subscription (Extract)31/12/2009 Subscription accrued #18,900Subscription received in advance #16,400Subscription received duringThe year 2009 #38,570What is the amount of subscription to be shown as liability in the balance sheet as at December 2009"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "#14,200",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "#16,400",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "#18,900",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "#20,500",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2cfe1fda-d5dc-49ac-bb45-018eb770c475",
+      "question_text": [
+        "Given:Sales: ₦180,000Stock 1/1: ₦25,000Purchases: ₦110,000Sales returns: ₦1000Purchases returns: ₦1,500Gross profit: ₦58,000Determine the value of stock as at 31st December"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦8000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦9,500",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦12,500",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦15,500",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc078594-a0bd-416d-bb7a-cf7f2b8030c1",
+      "question_text": [
+        "In a departmental account, where no basis of apportionment exist, apportionment is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "on profit basis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "according to employee decision",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "according to material available",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "on equal basis",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fe8f1018-220a-4085-8771-a33be05fafef",
+      "question_text": [
+        "In a departmental account, the expenses to be apportioned on the basis of turnover is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carriage inwards",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "returns outwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "discount recieved",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "carriage outwards",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b7872338-0b55-4f1e-8b0a-c8d85cdebf5f",
+      "question_text": [
+        "If goods are sent to to branch at 25% on cost, what will be the cost of goods sent to the branch at a selling price of ₦100,000?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦130,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦125,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦80,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦75,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dd6e8b89-a1eb-46fc-8126-49da769160b3",
+      "question_text": [
+        "Hussaina Enterprises sent goods worth ₦800,000 at cost plus mark-up of 20% to its branchWhat is the cost price of the goods sent to the branch"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦600,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦620,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦640,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦700,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94a08113-3c8e-4caf-ac59-b772195957a0",
+      "question_text": [
+        "Hussaina Enterprises sent goods worth ₦800,000 at cost plus mark-up of 20% to its branchDetermine the profit on the goods sent to the branch at profit margin of 25% mark-up"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦150,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦160,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦170,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦180,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "98870ea5-b279-4af1-a18f-85fb79c47f69",
+      "question_text": [
+        "In the absence of a partnership deed, the act stipulates that"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "an amount should be fixed as salary for partners",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "interest on partners loan should be 25%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "interest should not be allowed on partners drawings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "profits and losses should not be shared equally",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "396a5633-8325-47ef-ba6f-5607612cf3c2",
+      "question_text": [
+        "The profit of a branch is usually credited to the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "adjustment account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "head office sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "head office goods account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "head office current account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9809b257-b881-483e-b63b-f89701b8e49c",
+      "question_text": [
+        "Where partnership is converted into a limited liability company, current account balances of partners are transferred to a"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "realization account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "savings account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "share capital account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "capital account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6175a3ed-2a90-46ca-b429-5786d9db35fb",
+      "question_text": [
+        "The expenses incurred in purchasing a vehicle is a"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "revenue expenditure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "capital expenditure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "recurrent expenditure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "concurrent expenditure",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ec2cd0da-6635-424a-9a9e-4d1975839f00",
+      "question_text": [
+        "Payment for shares in excess of amount offered gives rise to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "subscription in advance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "revenue reserves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "capital reserves",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "calls-in-advance",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7e455aa6-6b85-4f85-919e-911d915630ea",
+      "question_text": [
+        "The details of the share capital which a company is authorized to issue is contained in the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Articles of Association",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Companies and Allied Matters Act",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Memorandum of Association",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Share capitak certificate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "03f3da27-622a-4b99-a9a4-1b516ae97046",
+      "question_text": [
+        "₦800,000 worth of ordinary shares of 50k were issued at ₦1 each, payable in full on application. The entry in the cash book would be to"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "credit ₦1,600,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "debit ₦1,600,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "credit ₦1,600,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "debit ₦800,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2ece2e0e-4652-45ca-b9b4-fff258edfff6",
+      "question_text": [
+        "Oil and Buns issued to the public 1,300,000 ordinary shares of 75k at a price of ₦1.50k. Application and allotment were received for 900,000 shares at 25k each.Determine the amount received on application and allotment"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦224,950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦225,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦324,950",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦325,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af3ed2b6-aa3d-4a76-a03c-2f1f8afe2bc1",
+      "question_text": [
+        "Oil and Buns issued to the public 1,300,000 ordinary shares of 75k at a price of ₦1.50k. Application and allotment were received for 900,000 shares at 25k each.The book value of issued share capital is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦675,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦975,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦1,350,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦1,950,000",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a53b6ec3-9d76-4fdc-b305-13b409c317cb",
+      "question_text": [
+        "The account of government into which all monies are received and from which all expenditures are disbursed is the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Federation account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Petroleum Technology Development Fund",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Central Bank Account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Development fund",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "49816c37-b8c3-4f56-b840-6225e805ab77",
+      "question_text": [
+        "In government accounting, the method used which records on the basis of financial entity with self-balancing books instead of entity of proprietorship is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "virement",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "fund accounting",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "consolidated fund",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "financial regulation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d2cbb116-6fc9-43c3-b41c-81847e57dafd",
+      "question_text": [
+        "The formula for calculating depreciation using straight line method is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{\\text{Scrape Value} + \\text{Sales}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{\\text{Cost } - \\text{Scrape Value}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2c9cb06-030b-40fb-9c99-ff72d5e28ccd",
+      "question_text": [
+        "Determine the closing stock."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc3.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦30,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦60,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c2bc4d11-e36a-4c87-a9af-cda44d89bd94",
+      "question_text": [
+        "Income and Expenditure (Extract) ₦ ₦Bal. b/d390Expenses300Sales of tickets4,000New tool510Donations3,000Repairs400Subscriptions6,500Electricity350What is the balance carried down?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦11,680",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦11,930",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦12,330",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦13,430",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5328f683-e2e1-4a18-a283-91469f4487ae",
+      "question_text": [
+        "One of the the differences between bookkeeping and accounting is that the former"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "records data while the latter interprets",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is regarded as the language of the business while the latter ascertains its strenght",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "interprets data while the latter records it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "summarises information while the latter communicates it",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11bbfb9c-2756-46b2-9784-0e4637b12d2e",
+      "question_text": [
+        "The concept which states that revenue should be recognized at the point when the sale is deemed to have been made is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "matching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "consistency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "realization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "going concern",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "99cf0265-ea1f-4f80-843d-3eaa0cab8a37",
+      "question_text": [
+        "A cheque of #5,000 paid to Sulieman had been correctly entered in the cash book but had not been entered in Sulieman's account. To correct this error, debit Sulieman's account and credit"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bank account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "purchases account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3457ecd8-65e3-4378-8cfe-8fbd6e0b0543",
+      "question_text": [
+        "Aduke Motors  bought three Toyota Hilux vans on cash at the cost of #6,000,000, on debiting the vehicle account, the corresponding credit for the purchase will appear in the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sales subsidiary book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash book",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "68f474e6-c2c0-4710-a2b7-fcce01e64475",
+      "question_text": [
+        "Which of the following affects the accuracy and authenticity of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Error of ommission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Error of commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Error of transposition",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Error of original entry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e1e14f27-ca4f-4b3d-bf4d-047c9a97fc89",
+      "question_text": [
+        "A ledger is classified into"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "private, sales and purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "personal, general and private",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "general, private and sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sales, purchases and general",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cb3898ac-c7e9-4991-ad45-dd89d58952be",
+      "question_text": [
+        "The book of account in which information from the source documents are recorded consists of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "6",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit and credit notes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ledger and subsidiary books",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "prepayments and accruals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "profit and loss and balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d6d4dc1e-437d-4b6c-af39-c312ab2fda68",
+      "question_text": [
+        "The formula for calculating depreciation using straight line method is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{\\text{Scrape Value} + \\text{Sales}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{\\text{Cost } - \\text{Scrape Value}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b18fd8dc-9b2b-4ce1-adff-9a70dc60ca1e",
+      "question_text": [
+        "Determine the closing stock."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc3.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦30,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦60,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "53003f8a-e25c-4cb2-900e-8eea59f33be8",
+      "question_text": [
+        "Income and Expenditure (Extract) ₦ ₦Bal. b/d390Expenses300Sales of tickets4,000New tool510Donations3,000Repairs400Subscriptions6,500Electricity350What is the balance carried down?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦11,680",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦11,930",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦12,330",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦13,430",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0ad913f-8547-4e0c-89e9-4f4bba95ad70",
+      "question_text": [
+        "One of the the differences between bookkeeping and accounting is that the former"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "records data while the latter interprets",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is regarded as the language of the business while the latter ascertains its strenght",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "interprets data while the latter records it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "summarises information while the latter communicates it",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9597a572-4321-4e6e-916a-a3bf6b97fb68",
+      "question_text": [
+        "The concept which states that revenue should be recognized at the point when the sale is deemed to have been made is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "matching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "consistency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "realization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "going concern",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cd1baf6e-95e5-42c8-9013-2beba0176cc4",
+      "question_text": [
+        "A cheque of #5,000 paid to Sulieman had been correctly entered in the cash book but had not been entered in Sulieman's account. To correct this error, debit Sulieman's account and credit"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bank account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "purchases account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23619600-a215-4bf2-858b-97644957c44b",
+      "question_text": [
+        "Aduke Motors  bought three Toyota Hilux vans on cash at the cost of #6,000,000, on debiting the vehicle account, the corresponding credit for the purchase will appear in the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sales subsidiary book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash book",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7e5197f3-06b4-4ae4-9eec-c64a25582b26",
+      "question_text": [
+        "Which of the following affects the accuracy and authenticity of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Error of ommission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Error of commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Error of transposition",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Error of original entry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c0b6bf16-d60e-4fb1-9358-1a340e4b2e69",
+      "question_text": [
+        "A ledger is classified into"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "private, sales and purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "personal, general and private",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "general, private and sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sales, purchases and general",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "85e23ce8-48a3-4d29-9c1b-de3a71b2b6aa",
+      "question_text": [
+        "The book of account in which information from the source documents are recorded consists of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "7",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit and credit notes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ledger and subsidiary books",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "prepayments and accruals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "profit and loss and balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "12ce232d-9373-4e63-b514-2aec97b8814e",
+      "question_text": [
+        "The formula for calculating depreciation using straight line method is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{\\text{Scrape Value} + \\text{Sales}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{\\text{Cost } - \\text{Scrape Value}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "632cf8b5-dd5e-412b-b345-781776236a79",
+      "question_text": [
+        "Determine the closing stock."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc3.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦30,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦60,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e1385a7-726b-46b2-8172-1a203893edaa",
+      "question_text": [
+        "Income and Expenditure (Extract) ₦ ₦Bal. b/d390Expenses300Sales of tickets4,000New tool510Donations3,000Repairs400Subscriptions6,500Electricity350What is the balance carried down?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦11,680",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦11,930",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦12,330",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦13,430",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0507851a-3a48-49e7-becc-3b7c4fe98e2a",
+      "question_text": [
+        "One of the the differences between bookkeeping and accounting is that the former"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "records data while the latter interprets",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is regarded as the language of the business while the latter ascertains its strenght",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "interprets data while the latter records it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "summarises information while the latter communicates it",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c135677-14ae-4b8b-9932-c9465d0815e0",
+      "question_text": [
+        "The concept which states that revenue should be recognized at the point when the sale is deemed to have been made is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "matching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "consistency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "realization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "going concern",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a152339f-f01f-48e6-a4ed-09343a5b4d6c",
+      "question_text": [
+        "A cheque of #5,000 paid to Sulieman had been correctly entered in the cash book but had not been entered in Sulieman's account. To correct this error, debit Sulieman's account and credit"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bank account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "purchases account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c02275c4-a0b8-4f55-af94-4a24f5e37ec1",
+      "question_text": [
+        "Aduke Motors  bought three Toyota Hilux vans on cash at the cost of #6,000,000, on debiting the vehicle account, the corresponding credit for the purchase will appear in the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sales subsidiary book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash book",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3f3fdd12-c795-45c4-9146-4e1faa61e957",
+      "question_text": [
+        "Which of the following affects the accuracy and authenticity of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Error of ommission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Error of commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Error of transposition",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Error of original entry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4205425-5a49-4e63-86b0-93156fceb57e",
+      "question_text": [
+        "A ledger is classified into"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "private, sales and purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "personal, general and private",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "general, private and sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sales, purchases and general",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f6e465a5-4a35-4ad4-af99-b777b6aa113c",
+      "question_text": [
+        "The book of account in which information from the source documents are recorded consists of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "8",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit and credit notes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ledger and subsidiary books",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "prepayments and accruals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "profit and loss and balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f2e725c-eb6c-4f3b-84c4-3062c241ec93",
+      "question_text": [
+        "The formula for calculating depreciation using straight line method is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{\\text{Scrape Value} + \\text{Sales}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{\\text{Cost } - \\text{Scrape Value}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "742295ca-f33b-4467-b3ef-a6bcf363cf7f",
+      "question_text": [
+        "Determine the closing stock."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc3.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦30,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦60,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b25b3541-3fd8-445c-99e8-4b40d37133fc",
+      "question_text": [
+        "Income and Expenditure (Extract) ₦ ₦Bal. b/d390Expenses300Sales of tickets4,000New tool510Donations3,000Repairs400Subscriptions6,500Electricity350What is the balance carried down?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦11,680",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦11,930",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦12,330",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦13,430",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0cd18c3c-b9e7-4f71-b601-3ac5701153f6",
+      "question_text": [
+        "One of the the differences between bookkeeping and accounting is that the former"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "records data while the latter interprets",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is regarded as the language of the business while the latter ascertains its strenght",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "interprets data while the latter records it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "summarises information while the latter communicates it",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "72a4357c-ace6-4811-a3bc-6565611815e1",
+      "question_text": [
+        "The concept which states that revenue should be recognized at the point when the sale is deemed to have been made is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "matching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "consistency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "realization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "going concern",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "643a4e27-10ed-4f33-9440-d44662822e37",
+      "question_text": [
+        "A cheque of #5,000 paid to Sulieman had been correctly entered in the cash book but had not been entered in Sulieman's account. To correct this error, debit Sulieman's account and credit"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bank account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "purchases account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16fc23da-4c3b-44c7-96e5-f956b2d047f7",
+      "question_text": [
+        "Aduke Motors  bought three Toyota Hilux vans on cash at the cost of #6,000,000, on debiting the vehicle account, the corresponding credit for the purchase will appear in the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sales subsidiary book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash book",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ec4b69fb-88a5-4721-a7ae-8f3478ec4a1b",
+      "question_text": [
+        "Which of the following affects the accuracy and authenticity of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Error of ommission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Error of commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Error of transposition",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Error of original entry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "601a60db-0535-4743-9042-f5d9fb970d0a",
+      "question_text": [
+        "A ledger is classified into"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "private, sales and purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "personal, general and private",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "general, private and sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sales, purchases and general",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8fb7ca3a-b64e-47d2-8fa7-d1e19821d173",
+      "question_text": [
+        "The book of account in which information from the source documents are recorded consists of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "9",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit and credit notes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ledger and subsidiary books",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "prepayments and accruals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "profit and loss and balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "30784ff3-56fb-459c-9048-933c141041a3",
+      "question_text": [
+        "The formula for calculating depreciation using straight line method is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\( \\frac{\\text{Scrape Value} + \\text{Sales}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\( \\frac{\\text{Cost } - \\text{Scrape Value}}{Useful life} ",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2778560-f53b-471d-ba90-b3c9442e0a09",
+      "question_text": [
+        "Determine the closing stock."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/acc3.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦30,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦40,000",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦50,000",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦60,000",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fb6a35b2-a34f-4cfa-ad92-42b8fe5ac898",
+      "question_text": [
+        "Income and Expenditure (Extract) ₦ ₦Bal. b/d390Expenses300Sales of tickets4,000New tool510Donations3,000Repairs400Subscriptions6,500Electricity350What is the balance carried down?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "₦11,680",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "₦11,930",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "₦12,330",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "₦13,430",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5d973dfc-e635-4830-80be-0c5e5f5e671e",
+      "question_text": [
+        "One of the the differences between bookkeeping and accounting is that the former"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "records data while the latter interprets",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "is regarded as the language of the business while the latter ascertains its strenght",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "interprets data while the latter records it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "summarises information while the latter communicates it",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8b36e8d7-5451-4059-bb51-53a1c8e92205",
+      "question_text": [
+        "The concept which states that revenue should be recognized at the point when the sale is deemed to have been made is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "matching",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "consistency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "realization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "going concern",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c9f3609a-df17-4d0d-9452-03b3553d286a",
+      "question_text": [
+        "A cheque of #5,000 paid to Sulieman had been correctly entered in the cash book but had not been entered in Sulieman's account. To correct this error, debit Sulieman's account and credit"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cash account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "bank account",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "suspense account",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "purchases account",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25ac39e2-d95c-4800-8bf1-57e79b247980",
+      "question_text": [
+        "Aduke Motors  bought three Toyota Hilux vans on cash at the cost of #6,000,000, on debiting the vehicle account, the corresponding credit for the purchase will appear in the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sales day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "purchases day book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sales subsidiary book",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "cash book",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "93839e82-724d-4d5f-9bb7-90729e8fc862",
+      "question_text": [
+        "Which of the following affects the accuracy and authenticity of the trial balance?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Error of ommission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Error of commission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Error of transposition",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Error of original entry",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9799ffa-2224-4903-8f89-66404674005e",
+      "question_text": [
+        "A ledger is classified into"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "private, sales and purchases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "personal, general and private",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "general, private and sales",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "sales, purchases and general",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bbf98aa5-0a17-4567-8d26-d3f1b835d64d",
+      "question_text": [
+        "The book of account in which information from the source documents are recorded consists of"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "accounts",
+      "pageNum": "10",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "debit and credit notes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ledger and subsidiary books",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "prepayments and accruals",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "profit and loss and balance sheet",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

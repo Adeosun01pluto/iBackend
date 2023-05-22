@@ -1,0 +1,1706 @@
+[
+    {
+      "id": "cde56754-c605-447c-8c00-4663af15b7ab",
+      "question_text": [
+        "From the diagram above, the measuring accuracy of the micrometer screw gauge is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy327.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.78mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.16mm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.66mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.70mm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b783fcad-a8d3-4536-8d09-4520789507a5",
+      "question_text": [
+        "In the diagram above, the direction of the force between N and S in the magnetic field is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy326.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "MP",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "SN",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "NS",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "PM",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b61afc9f-017c-434c-acf7-eff18d15af84",
+      "question_text": [
+        "Which of the following statements is Not true about atoms?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Atom of different elements have different atomic weights",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The mass of an atom is concentrated in the nucleus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "An atom is made up of a nucleus and number of electrons",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Atoms of all elements are identical",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c292fc84-24ad-4507-8e4d-ea636e54e539",
+      "question_text": [
+        "The frequency of beats produced when two tunning forks of frequencies 258Hz and 270Hz are sounded close to each other"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "Beat = f2 - f1 = 270 - 258 = 12Hz",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "264Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "528Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "12Hz",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fe08acc1-d780-468b-9baf-2a2c3a064440",
+      "question_text": [
+        "Calculate the inductance of a coil of resistance 30\\(\\Omega\\) connected to a 100V a.c source if the coil draws an r.m.s current of 2A"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.60H",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.50H",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.25H",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.04H",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "72be7116-3b9b-4639-b9cb-7d3af6f3c227",
+      "question_text": [
+        "Boiling occurs when the vapour pressure of a liquid is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "At the evaporation point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Less than the atmospheric pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Greater than the atmospheric pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Equal to the atmospheric pressure",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c57c9d97-2825-42df-97d0-aad1f5998eab",
+      "question_text": [
+        "If the magnification of a virtual image formed by an object 10cm from a convex less is 3, then the focal length of the lens is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "M = \\(\\frac{v}{u}\\) = 3 = \\(\\frac{v}{30}\\). V = 30m\\(\\frac{1}{u}\\) + \\(\\frac{1}{v}\\) = \\(\\frac{1}{f}\\) = \\(\\frac{1}{10}\\) - \\(\\frac{1}{30}\\) = \\(\\frac{1}{f}\\)\\(\\frac{3 - 1}{30}\\) = \\(\\frac{1}{f}f = \\(\\frac{30}{2}\\) = 15cm",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "10cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "25cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15cm",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e204a176-3c3e-465e-bd27-7bbedcaa0c87",
+      "question_text": [
+        "An electron in a hydrogen atom makes a transition from the ground level to the third level. If the energy at the ground level,calculate the energy at the third level.[h = 6.6 x 10-34Js; f = 1015Hz]"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "explanation": "E = \\(\\frac{E_o}{n^2}\\) = \\(\\frac{13.6}{3^2}\\) = \\(\\frac{13.6eV}{9}\\)= 1.51eV",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.41eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.71eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.61eV",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.51eV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ce3920df-97d8-4068-849a-0e6669539cd2",
+      "question_text": [
+        "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy325.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "D",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "B",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b5bd1c4f-6c78-493d-9ac9-8c006a342fc2",
+      "question_text": [
+        "In the diagram above, the neutral point is at"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "1",
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/phy324.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "R",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "X",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "S",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "P",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "03e7ac2e-bd17-4ab3-b93e-fc712d91b764",
+      "question_text": [
+        "Which of the following statements about wave motion is correct?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Electromagnetic waves are transverse",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Transverse waves do not require a medium for propagation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Longitudinal waves vibrate perpendicular to the direction of travel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "All mechanical waves are longitudinal",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7bb09f13-74c3-4719-a822-cbe1595339ca",
+      "question_text": [
+        "A satellite revolving around the earth is kept on its orbit by"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Centripetal forces only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Centripetal and frictional forces",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Centrifugal forces only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Centripetal and centrifugal forces",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "87595826-4c45-4c93-9aab-a4a43080255a",
+      "question_text": [
+        "A manometer is an instrument used for measuring"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Relative density of liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Pressure in liquids and gases",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Humidity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Atmospheric pressure",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f990bb7d-acc2-4769-a22c-a1b21524ed79",
+      "question_text": [
+        "A body which weighs 50N in air displaces 3.7kg of water when partially immersed in water. Calculate the upthrust on the body?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "Upthrust = Weight or water displaced= 3.7 x 10 = 37N",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8.7N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "37.0N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "87.0N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "13.0N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "266b58e3-4053-4c86-a898-09a55264c0a4",
+      "question_text": [
+        "The impulse of a force is deduced from Newton's second law as"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "F = ma",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "F = m(\\(\\frac{v - u}{t}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11409059-aff8-4e5b-b8d0-3917a359fc32",
+      "question_text": [
+        "Vapour is said to be saturated on top of an enclosed liquid if _________"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The rate of condensation is greater than that of vapourization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The rate of condensation is equal to that of vapourization",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "There is neither condensation nor vaporization of the liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The rate of condensation is less that that of vaporization",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "723e4ec3-36b2-4e5c-b535-98c63ccb58ad",
+      "question_text": [
+        "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?[Refractive index of water = 1.33]"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "n = \\(\\frac{\\text {Read depth}}{\\text{Apparent depth}}\\) = 1.33 = \\(\\frac{Rd}{1}\\)Rd = 1.33 x 1 = 1.330m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "13.300m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.750m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.013m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.330m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9371b6b1-1cef-4ff7-9f96-47d871fd8ba4",
+      "question_text": [
+        "Shadows and eclipse result from the"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Reflection of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Rectilinear propagation of light",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Diffraction of light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Refraction of light",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6b7ed077-ec36-41dc-b441-b3d56e555f29",
+      "question_text": [
+        "Which of the following is obtained when a magenta is mixed with green colour?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Yellow",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "White",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Red",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a2e73443-cd83-4811-a42b-3bf850e99786",
+      "question_text": [
+        "Which of the following instruments can be used to measure current in an a.c circuit?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "2",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hot wire ammeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Moving coil ammeter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Tangent galvanometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Moving coil galvanometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f8feeb30-a88f-4095-83f5-c67d801bd1b8",
+      "question_text": [
+        "Which of the following waves is both transverse and mechanical?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Water waves",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Radio waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Sound waves",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "X-rays",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "11d32871-18bd-482b-b9c7-ea8b3bcf2f2c",
+      "question_text": [
+        "Calculate the temperature of 6 moles of an ideal gas at a pressure of 7.6 x 106Nm-2 with a volume of 10-3m3.[R = 8.3jmol-1K-1]"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "T = \\(\\frac{PV}{nR}\\) = \\(\\frac{7.6 x 10^6 x 10^-3}{6 x 8.3}\\)= 153oC",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "201oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "126oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "153oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "185oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ade6d8b2-f3f8-489e-8a20-13aa55a2d4db",
+      "question_text": [
+        "The relative density of a liquid is the ratio of the"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mass of water to the mass of an equal volume of liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Upthrust in the liquid to the upthrust in water",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Density of water to the density of the liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Upthrust in water to the upthrust in the liquid",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5104ecea-b9bb-4561-ab20-47cd8b3e6837",
+      "question_text": [
+        "What will happen to the pressure of a gas if its temperature is reduced to -273oC?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "It will decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "it will drop to zero",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "It will increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "It will remain constant",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3f75a46-deb0-4c17-9930-9771d8a81353",
+      "question_text": [
+        "Which of the following does Not use magnetic effect of current to function?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Lead acid accumulator",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "An electric bell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "A moving coil galvanometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A telephone receiver",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7f6209ef-c0d3-4226-a39e-acad76e04f75",
+      "question_text": [
+        "A metre rule is pivoted at its mid-point with a vertical force of 10N hanging from the distance 30cm from the mid-point. At what distance must a 15N force hang to balance the ruler horizontally?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "Clockwise moment = Anti-clockwise moment10 x 30 = 15 x XX = 20cm",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "25m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "acfd9dbd-8a9a-4333-942b-33984a9f5021",
+      "question_text": [
+        "A projectile is fired from the ground level with a velocity of 300ms-1 at an angle of a 30o to the horizontal.Calculate the time taken to reach the maximum height?[g = 10ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "The answer is 30s.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "30s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "20s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "25s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "15s",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7080a5b7-c47e-427b-8948-f26d1d79ae73",
+      "question_text": [
+        "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "t = \\(\\frac{v - u}{a}\\) = \\(\\frac{20 - 0}{2}\\)= 10s",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "40s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "20s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fb5cde87-0c1e-420b-81a9-e1b44c171243",
+      "question_text": [
+        "Which of the following electromagnetic waves has the shortest wavelength?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Visible Light",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ultraviolet rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Infrared rays",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Gamma rays",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ad576c11-3ba3-4965-856c-99d51e2481e1",
+      "question_text": [
+        "A radioactive isotope has a decay constant of 10-6s-1.Calculate its half - life?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "3",
+      "explanation": "t1/2 = \\(\\frac{0.693}{\\gamma}\\) = \\(\\frac{0.693}{10^-6}\\)= 6.93 x 107",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.93 x 106s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.93 x 107s",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.93 x 109s",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "5.93 x 107s",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d363bd7a-32fc-4823-ba62-3337afa5d3d6",
+      "question_text": [
+        "Semiconductor is a class of solid whose conductivity increases with an increase in"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Current",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Voltage",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b6fd9933-dfde-4600-a44a-876e8c430273",
+      "question_text": [
+        "Which of the following statements is NOT correct?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Brownian motion is an evidence of the particle nature of matter",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Atoms combine to form molecules",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The molecules of matter are in constant motion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "matter is made up of molecules",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f3c18dd-4512-48dd-abaf-ba0e0b62efec",
+      "question_text": [
+        "A dynamo primarily converts"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mechanical energy into electrical energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Electrical energy into kinetic energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Potential energy into kinetic energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Kinetic energy into potential energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1f0e0339-5574-4d4a-bcbc-9f6b7882ebc4",
+      "question_text": [
+        "A saturated vapour pressure of a liquid increases when the"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Temperature of a liquid increases",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Volume of the liquid increases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Volume of the liquid decreases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Temperature of the liquid decreases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0aa74341-558e-4f8c-a813-14881a58953e",
+      "question_text": [
+        "What force has to be exerted on a mass 60kg to give it an acceleration of 10ms-2 vertically upwards?[g = 10ms-2"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "F = Ma + mg = 60 x 10 x 60 x 10 = 1200N",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "300N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "600N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1200N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "400N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "972cb50e-e7c7-4e32-ad3b-00cadf0db72b",
+      "question_text": [
+        "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1]"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.8 x 10-4m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.5 x 10-4m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.5 x 10-3m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.8 x 10-3m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bc26276c-e018-43a2-a843-eec2834a994e",
+      "question_text": [
+        "When an athlete perspires after running, he loses heat through"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Evaporation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Conduction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Radiation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Convection",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19f313d9-646a-4061-b8b5-f01ac5f23257",
+      "question_text": [
+        "The rate of cooling of a heated quantity of liquid in an enclosure depends on the"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pressure of the liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Temperature in the enclosure",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Pressure of the enclosure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Volume of the liquid",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "547ec56b-0f09-4c1d-965e-9207cb39b083",
+      "question_text": [
+        "The heat required to raise a mass of a substance through 1K is known as"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Specific heat capacity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Specific latent heat of vaporization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Capacity latent heat of fusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Heat capacity",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "40c63ba0-cb9b-4dbf-8460-9fc54adf58c9",
+      "question_text": [
+        "A boy in a barber's shop sits between two parallel mirrors. The number of images observed by him will be"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "4",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Infinite",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ten",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Eight",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Forty",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "01ccd695-9222-4318-9ac1-2ea6a0773f9b",
+      "question_text": [
+        "If the distance between the object and the pinhole of a pinhole camera is reduced by half the size of the image of the object"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Is quadrupled",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Is halved",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Remains the same",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Is double",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8a1ac288-9674-4281-81e5-6573f56a8db6",
+      "question_text": [
+        "An object is placed 15cm in front of a plane mirror. If the mirror is moved further 5cm away from the object and the image is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "80cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "50cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "70cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6a58bbec-11b6-4b7c-bd02-620dfebc5dda",
+      "question_text": [
+        "Which of the following statements is correct about a machine?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Efficiency of a machine is always greater than I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Efficiency decreases with an increase in friction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Velocity ratio depends on friction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mechanical advantage increases with an increase in friction",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "24ab8e1d-051c-4f71-b868-a9bca5f81520",
+      "question_text": [
+        "The instrument used to view stars is the"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Prism binoculars",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Telescope",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Film projector",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Microscope",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "519720a8-3105-4d9c-bd5d-8cb6f6d8d8f4",
+      "question_text": [
+        "What is the angular magnification of a telescope having objective and eyepiece lenses of a focal lengths 30cm and 3cm respectively?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "M = \\(\\frac{y}{x}\\) = \\(\\frac{30}{3}\\)= 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "30",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "90",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9e650ad1-87c4-43ec-9109-29b1479ae623",
+      "question_text": [
+        "Myopic defects in the human eye can be corrected through the use of a"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Concave Mirror",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Concave lens",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Prism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Convex lens",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ac98dc36-df66-44fa-a562-3f665efb367c",
+      "question_text": [
+        "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Be a straight line",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Curve inwards",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Be a parabola",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Curve outwards",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea453ebe-49d0-4496-a53b-945ade9fb145",
+      "question_text": [
+        "What happens to a water pool on a day when the humidity of the air is very low?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Temperature decreases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Slow evaporation",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Temperature increases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Rapid evaporation",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e6cdd814-4993-4c22-810f-dd6c05496756",
+      "question_text": [
+        "A satellite moves in a circular orbit of radius 4R round the earth. The acceleration of the satellite in terms of g is"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "\\(\\frac{g}{R^2}\\) = \\(\\frac{g}{4^2}\\) = \\(\\frac{g}{16}\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "\\(\\frac{g}{16}",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "\\(\\frac{g}{4}",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e07f94ff-1426-4188-b3bb-ac5140712200",
+      "question_text": [
+        "I.ChemicalII.SoundIII.ElectricityWhich of the above forms of energy can directly be converted to light energy?"
+      ],
+      "examType": "jamb",
+      "year": "2016",
+      "subject": "physics",
+      "pageNum": "5",
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I and II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I, II and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "I and III only",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]

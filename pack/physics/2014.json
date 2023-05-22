@@ -1,0 +1,3119 @@
+
+[
+    {
+      "id": "a35d6ad4-3016-48af-b7f0-840f712ec73b",
+      "question_text": [
+        "Which gas produces a pink coloured light in a discharge tube?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Emission and Absorption Spectra ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Argon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Air",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Neon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bf9d8b8d-ba51-4a11-98f8-f816fee662b0",
+      "question_text": [
+        "In a common emitter configuration, the output voltage is through the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Resistor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Collector",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Emitter",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "80491378-a806-48f9-8534-0259d76f6b2b",
+      "question_text": [
+        "When \\(^{210}_{82}Pb\\) decays to \\(^{206}_{80}Pb\\), it emits"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "two alpha and two beta particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an alpha particle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "one beta particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "one alpha and one beta particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "425dc67f-1f24-41f0-99c1-347979a2b707",
+      "question_text": [
+        "What type of reaction is represented by the equation \\(^{2}_{1}X+^{2}_{1}X\\rightarrow^{3}_{2}Y+^{1}_{0}n+Energy\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Fusion ",
+        " Medical Applications of Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ionization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fusion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Chain",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0365ba6e-a3b6-4459-bae9-9519448e1e40",
+      "question_text": [
+        "A glass bottle of initial volume 2 x 104 cm3 is heated from 20oC to 50oC. If the linear expansivity of glass is 9 x 106K-1, the volume of the bottle at 50oC is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Inclined Plane Example ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "\\(\\gamma = \\frac{V_2 - V_1}{V(\\theta)}\\)\\(3(9 \\times 10^4) = \\frac{V_2 - 2 \\times 10^4}{2 \\times 10^4(30)}\\)V2 - 2 x 104 = 2 x 104 (30) x 3 (9 x 10-6)V2 =  2 x 104 2 x 104 (30) x 3 (9 x 10-6)V2 =  16.2 + 2 x 104V2 =  20016.2cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20016.2cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20005.4cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20008.1cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20013.5cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b068a7f-ca28-4f87-9a50-31e949f59536",
+      "question_text": [
+        "PHCN measures its electrical energy in"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "KWh",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wh",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8833cc47-7a4c-4d50-b608-66f636cfd6b0",
+      "question_text": [
+        "What is the best method of demagnetizing a steel bar magnet?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Magnetic Field Around a Solenoid ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hammering",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Heating it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rough handling it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Solenoid method",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6f470228-eb6b-432e-985e-4ba12399cf36",
+      "question_text": [
+        "The magnitude of the angle of dip at the equator is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Total Internal Reflection ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "360o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "90o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "180o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3ae4d9b4-cf93-40b9-95ef-5ad364c42fc5",
+      "question_text": [
+        "When an atom undergoes a beta decay, the atomic number of the nucleus"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decreases by one",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increases by one",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7dfb698b-b5b6-4210-8350-120a53cae8c8",
+      "question_text": [
+        "Calculate the mass of the copper deposited during electrolysis when a current of 4A passes through a copper salt for 2 hours. [Ece of Copper z=3.3x10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Mass = ZIT kgMass = 3.3 x 10-7 x 4 x 2 x 60 x 60 kgMass = 9.5 x 10-3kg",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.9x105kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9.5x10-7kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.5x10-3kg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.9x104kg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af4d6ab5-f2bc-4f76-9381-5614c6ef15c0",
+      "question_text": [
+        "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Charging by Contact ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains the same",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Collapses",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Collapses and diverges again",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Diverges",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ed6be840-11af-45d7-a7e7-6768c789d8fe",
+      "question_text": [
+        "What charge is stored in a 0.1F capacitor when a 10V supply is connected across it?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Capacitors and Dielectrics ",
+        " Electric Potential and Electric Field"
+      ],
+      "explanation": "Q = CV = 0.1 x 10 = 1C",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4C",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2C",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "739e44bd-869b-4794-889e-1cc5a53bf919",
+      "question_text": [
+        "The maximum power transfer occur in a cell when the external resistance is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Evaluating Internal Resistance in Circuits ",
+        " Electric Circuits"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Twice the internal resistance of the cell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The same as the internal resistance of the cell",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Greater than the internal resistance of the cell",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Less than the internal resistance of the cell",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2cdd264f-9bc0-406b-ae25-1970bde13a25",
+      "question_text": [
+        "If a metal wire 4m long and cross-sectional area 0.8 mm2 has a resistance of 60, find the resistivity of the wire"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Resistance and Resistivity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "\\(P = \\frac{Ra}{L}\\Omega m\\)\\(P = \\frac{6 \\times 0.8}{4}\\Omega m\\)\\(P = 1.2 \\times 10^{-6}\\Omega m\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.3x10-7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3.0x10-5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.2x10-6",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.2x10-6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fff9a228-0c7c-4996-a43a-9708d037c345",
+      "question_text": [
+        "A circuit has a resistance of 200Ω. The resistance of the circuit can be reduced to 120Ω when"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Resistors in Series and Parallel ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "For parallel resistance,\\(\\frac{300 \\times 200}{500}\\)\\(= 120 \\Omega \\)Therefore it is when a 300Ω resistor is connected to it in parallel",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A 300Ω resistor is connected to it in parallel",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "An 80Ω resistor is conneceted to it in series",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "A 150Ω resistor is connected to it in parallel",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "A 240Ω resistor is connected to it in series",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e6129b7c-213d-475e-8299-b05ed404099c",
+      "question_text": [
+        "A boy receives the echo of his clap reflected by a nearby hill 0.8s later. How far is he from the hill?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Reflection and Echoes ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Time for echo both ways = 0.8Therefore time for echo in 1 way = 0.8/2 = 0.4Distance = Speed x timeDistance = 340 x 0.4Distance = 136m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "528m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "66m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "136m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "264m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f844976-9c47-4872-98d3-3d2f44bf8039",
+      "question_text": [
+        "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "\\(\\text{Linear Magnification} = \\frac{\\text{Length of Camera}}{\\text{Distance of the Object}}\\)\\(\\text{Linear Magnification} = \\frac{25}{1000}\\)\\(\\text{Linear Magnification} = 2.5 \\times 10^{-2}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5x102",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.5x10-2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.5x10-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5x101",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d2803ceb-968d-4773-b3fb-8b5eac8fd8fd",
+      "question_text": [
+        "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "\\(\\frac{1}{U} + \\frac{1}{V} = \\frac{1}{f}\\)\\(\\frac{1}{8} + \\frac{1}{V} = \\frac{1}{2}\\)\\(V = \\frac{8}{3}\\)\\(V = 2.7cm\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.7m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.3m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c7534bb-2868-47ab-8e11-516399d9de50",
+      "question_text": [
+        "In a compound microscope, the objective and the eye piece focal lengths are"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Microscopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "At infinity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Long",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Short",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "The same",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5f81b4c8-266e-4e00-8f63-765cb8cb6078",
+      "question_text": [
+        "When a telescope is in normal use, the final image is at"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Telescopes ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Infinity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "The focus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "The radius of curvature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "The near point",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cab7f67e-367e-4183-8eaf-3aed4e7499cc",
+      "question_text": [
+        "The quantity of heat needed to raise the temperature of a body by 1K is the body's"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Heat capacity",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Internal energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Specific heat capacity",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Latent heat of fusion",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "041a3bd5-d2da-4061-9b63-7e1c38e3ccee",
+      "question_text": [
+        "The melting point of a substance is equivalent to its"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Phase Diagrams ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Vapour Pressure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Solidification Temperature",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Liquidification Temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Solidification Pressures",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "18b4b188-458e-4dec-b638-e00c7f5c607c",
+      "question_text": [
+        "The temperature at which the water vapour present in the air is just sufficient to saturate air is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Humidity, Evaporation, and Boiling ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Boiling point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Ice point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Saturation point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dew point",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a86c00fa-7f83-4bcd-ad7f-95335722e21d",
+      "question_text": [
+        "Heat transfer by convection in a liquid is due to the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Heat Transfer Methods ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Latent heat of vaporization of the liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Increased vibration of the molecules of the liquid about theit mean position",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Variation of density of the liquid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Expansion of the liquid as it is heated",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "6a55925e-4639-49f0-91f6-0fc9137145ef",
+      "question_text": [
+        "The distance between two successive crests of a wave is 15cm and the velocity 300ms-1. Calculate the frequency."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Moving Source, Stationary Observer ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "Wavelength = 15cm = 0.15mVelocity = 300m/sV = fxF = V/WavelengthF = 300/0.15 HertzF = 2 x 103Hz",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.0x102Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.5x103Hz",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.0x103Hz",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.5x102Hz",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1bb497c-d34a-4376-9977-f621f4b0197c",
+      "question_text": [
+        "A wheel and an axle is used to raise a load whose weight is 800N when an effort of 250N is applied. If the radii of the wheel and axle are 800mm and 200mm respectively, the efficiency of the machine is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Normal Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "VR = 800/200 = 4\\(Efficiency = \\frac{MA}{VR} \\times \\frac{100}{1}\\)\\(Efficiency = \\frac{L}{E} \\times \\frac{1}{VR} \\times \\frac{100}{1}\\)\\(Efficiency = \\frac{800}{250} \\times \\frac{1}{4} \\times \\frac{100}{1}\\)= 78.74%= 80%",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "90%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "80%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "85%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "87%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a9079e4f-a881-4fb9-ac9c-b8a88ddefad7",
+      "question_text": [
+        "A force of 500N1 is applied to a steel wire of cross-sectional area 0.2m2, The tensile stress is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Elasticity: Stress and Strain ",
+        " Friction, Drag and Elasticity"
+      ],
+      "explanation": "\\(Stress = \\frac{Force}{Area}\\)\\(Stress = \\frac{500}{0.2} = 2500\\)= 2.5 x 103Nm-3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.5x104Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0x102Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.0x103Nm-2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.5x103Nm-2",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8cf84218-4c61-43f0-ab92-372e7c47a2f0",
+      "question_text": [
+        "The small droplets of water that form on the grass in the early hours of the morning is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Ink Jet Printers and Electrostatic Painting ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Fog",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Haul",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Mist",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dew",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f64c206c-fdc2-450d-b7b2-aff4a1f416cf",
+      "question_text": [
+        "What is the equivalent of 20K in Celsius scale?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Temperature Scales ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "273 + 20 = 293",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "293oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "68oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5fd76a94-3996-4ac1-aa4b-9ad2d55b9408",
+      "question_text": [
+        "The equation PaVbTc= constant reduces to Charles Law if"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Coulomb’s Law ",
+        " Electric Charge and Electric Field"
+      ],
+      "explanation": "if a=0, b=1 and c=-1 thenP0V1T-1 = V/T (Charles Law)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "a=1, b=1and c=0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "a=1, b=0 and c=-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "a=0, b=1 and c=1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "a=0, b=1 and c=-1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "9ec6ec33-76c6-44a3-828c-c0861edd058e",
+      "question_text": [
+        "One of the conditions necessary for an object to be in equilibrium when acted upon by a number of parallel forces is that the vector sum of the forces is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Forces in Equilibrium ",
+        " Newton's Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Average",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Zero",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Negative",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Positive",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5ceee134-2bf1-44ea-8ab8-28b07364791d",
+      "question_text": [
+        "What happens when three coplanar non-parallel forces are in equilibrium?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Forces in Equilibrium ",
+        " Newton's Laws"
+      ],
+      "explanation": "Conditions for non-parallel coplanar forces",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Their lines of action are parallel.",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "They are represented in magnitude only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "They are represented in direction only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Their lines of action meet at a point",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fc9ac464-e4c0-4c3c-9647-6fbb21fd0917",
+      "question_text": [
+        "An object of mass 20kg is released from a height of 10m above the ground level. The kinetic energy of the object just before it hits the ground is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Kinetic Energy and the Work-Energy Theorem ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "Kinetic Energy = mgh= 20 x 10 x 10 J= 2000J",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "200J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4000J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2000J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "500J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "00e1fd47-8777-4365-b4dc-20fede7d3fa0",
+      "question_text": [
+        "The energy in the nucleus of atoms produce heat which can be used to generate"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Mechanical Equivalent of Heat ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Kinetic energy",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Mechanical energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Electrical energy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Potential energy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5545aa14-43c2-4183-8d58-147fcc001ff5",
+      "question_text": [
+        "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4."
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Simple Machines ",
+        " Statics and Torque"
+      ],
+      "explanation": "\\(\\frac{MA}{VR}\\times\\frac{100}{1}=efficiency\\)\\(\\frac{L}{E}\\frac{1}{VR}\\times\\frac{100}{1}=75\\)\\(\\frac{1000}{E}\\frac{1}{4}\\times\\frac{100}{1}=75\\)\\(E = \\frac{250 \\times 100}{75}\\)E = 333.3N",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "343.32N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "233.33N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "333.33N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "334.33N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa9504f8-ee23-4c82-b069-bd85daf1f662",
+      "question_text": [
+        "I Electrical potential, II Torque, III Kinetic Energy, IV Momentum. Which of the quantities listed are vectors?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Gyroscopic Effects: Vector Aspects of Angular Momentum ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "II and IV",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "I and II",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I and III",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "II and III",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b12f79eb-0862-4b0f-a5fd-366c85c99657",
+      "question_text": [
+        "Which type of motion do the wheels of a moving car undergo?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Rotational Kinetic Energy: Work and Energy Revisited ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Vibratory and translational motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Random and translational motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rotational mand oscillatory motion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Translational and rotational motion",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8ad6b026-cabe-4786-bd1e-46b1f40327e1",
+      "question_text": [
+        "A car accelerates uniformly from rest at 3ms-2. its velocity after traveling a distance of 24m is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Calculating Work on a Car ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "V2 = U2 x 2axV2 = 0 x 2(3)(24)V2 = 144V = \\(\\sqrt{144}\\)V = 12ms-1",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12ms-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "144ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "72ms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "36ms-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8439db10-6cf2-4426-9302-8d5408f97442",
+      "question_text": [
+        "Calculate the escape velocity of a satellite launched from the earth's surface if the radius of the earth is 6.4x106m"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Earth’s Magnetic Field Continued ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "Vescape = \\(\\sqrt{2gR}\\)Vescape = \\(\\sqrt{2\\times10\\times6.4\\times10^6}\\)Vescape = \\(\\sqrt{128000000}\\)Vescape = 11313.7085mS-1Vescape = 11.313kmS-1",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25.3kms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.2kms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.0kms-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11.3kms-1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "acfe2472-71aa-47a2-a830-f9c643ccf4bc",
+      "question_text": [
+        "An object of weight 80kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "48N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "12N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "27N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "36N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a5ce406-fc70-4a23-aa81-d530af97c09e",
+      "question_text": [
+        "What is the least possible error encountered when taking measurement with a meter rule?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.1mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0mm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.5mm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.2mm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a8585cd-3752-48b6-a8b7-a4ef0be05744",
+      "question_text": [
+        "A quantity which requires magnitude and direction to be specified is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " One-Dimensional Kinematics"
+      ],
+      "explanation": "Displacement is a vector quantity",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Distance",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Displacement",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mass",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6fe4e34-de26-4bba-a23f-1552e8e32bd2",
+      "question_text": [
+        "Which gas produces a pink coloured light in a discharge tube?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Emission and Absorption Spectra ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Argon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Air",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Neon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "22b143fd-5ab5-49b8-a026-b30652ca1e85",
+      "question_text": [
+        "In a common emitter configuration, the output voltage is through the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Resistor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Collector",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Emitter",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "68a781e7-b10f-4574-a87d-a9d070c68c70",
+      "question_text": [
+        "When \\(^{210}_{82}Pb\\) decays to \\(^{206}_{80}Pb\\), it emits"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "two alpha and two beta particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an alpha particle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "one beta particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "one alpha and one beta particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9453fdd6-9a61-4f9b-ab82-f156e02a5229",
+      "question_text": [
+        "What type of reaction is represented by the equation \\(^{2}_{1}X+^{2}_{1}X\\rightarrow^{3}_{2}Y+^{1}_{0}n+Energy\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Fusion ",
+        " Medical Applications of Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ionization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fusion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Chain",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cf721681-75ab-452f-a0fc-736eff7c08fb",
+      "question_text": [
+        "A glass bottle of initial volume 2 x 104 cm3 is heated from 20oC to 50oC. If the linear expansivity of glass is 9 x 106K-1, the volume of the bottle at 50oC is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Inclined Plane Example ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "\\(\\gamma = \\frac{V_2 - V_1}{V(\\theta)}\\)\\(3(9 \\times 10^4) = \\frac{V_2 - 2 \\times 10^4}{2 \\times 10^4(30)}\\)V2 - 2 x 104 = 2 x 104 (30) x 3 (9 x 10-6)V2 =  2 x 104 2 x 104 (30) x 3 (9 x 10-6)V2 =  16.2 + 2 x 104V2 =  20016.2cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20016.2cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20005.4cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20008.1cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20013.5cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8134da5-df45-466b-88cf-1b3f576c5ef2",
+      "question_text": [
+        "PHCN measures its electrical energy in"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "KWh",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wh",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "15b7212b-1f74-4959-b5b7-832841396ac0",
+      "question_text": [
+        "What is the best method of demagnetizing a steel bar magnet?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Magnetic Field Around a Solenoid ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hammering",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Heating it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rough handling it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Solenoid method",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8a3d6072-3f04-4a40-ad68-bd3ebb4e4d2e",
+      "question_text": [
+        "The magnitude of the angle of dip at the equator is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Total Internal Reflection ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "360o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "90o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "180o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ace7856c-def8-475f-9789-a4e38ccc1b68",
+      "question_text": [
+        "When an atom undergoes a beta decay, the atomic number of the nucleus"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decreases by one",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increases by one",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52848dad-30ec-4416-960b-da7abd7b072e",
+      "question_text": [
+        "Calculate the mass of the copper deposited during electrolysis when a current of 4A passes through a copper salt for 2 hours. [Ece of Copper z=3.3x10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Mass = ZIT kgMass = 3.3 x 10-7 x 4 x 2 x 60 x 60 kgMass = 9.5 x 10-3kg",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.9x105kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9.5x10-7kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.5x10-3kg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.9x104kg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8616709e-a494-4421-8b18-0cadddd99204",
+      "question_text": [
+        "Which gas produces a pink coloured light in a discharge tube?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Emission and Absorption Spectra ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Argon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Air",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Neon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19b1eeec-3617-435c-bda7-ed0f3495dc51",
+      "question_text": [
+        "In a common emitter configuration, the output voltage is through the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Resistor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Collector",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Emitter",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "8754ae20-6c93-4e26-b21c-99d336c54d31",
+      "question_text": [
+        "When \\(^{210}_{82}Pb\\) decays to \\(^{206}_{80}Pb\\), it emits"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "two alpha and two beta particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an alpha particle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "one beta particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "one alpha and one beta particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2f0f404b-b72b-400a-94e1-e3405fedf9ee",
+      "question_text": [
+        "What type of reaction is represented by the equation \\(^{2}_{1}X+^{2}_{1}X\\rightarrow^{3}_{2}Y+^{1}_{0}n+Energy\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Fusion ",
+        " Medical Applications of Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ionization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fusion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Chain",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d721ecd7-22f6-4f21-80a2-24239af8c0cb",
+      "question_text": [
+        "A glass bottle of initial volume 2 x 104 cm3 is heated from 20oC to 50oC. If the linear expansivity of glass is 9 x 106K-1, the volume of the bottle at 50oC is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Inclined Plane Example ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "\\(\\gamma = \\frac{V_2 - V_1}{V(\\theta)}\\)\\(3(9 \\times 10^4) = \\frac{V_2 - 2 \\times 10^4}{2 \\times 10^4(30)}\\)V2 - 2 x 104 = 2 x 104 (30) x 3 (9 x 10-6)V2 =  2 x 104 2 x 104 (30) x 3 (9 x 10-6)V2 =  16.2 + 2 x 104V2 =  20016.2cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20016.2cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20005.4cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20008.1cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20013.5cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "05213e1f-ca90-4832-a0c0-b401dfe7e4d0",
+      "question_text": [
+        "PHCN measures its electrical energy in"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "KWh",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wh",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e991a1c9-dae9-4357-9d10-47b4dbcaa500",
+      "question_text": [
+        "What is the best method of demagnetizing a steel bar magnet?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Magnetic Field Around a Solenoid ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hammering",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Heating it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rough handling it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Solenoid method",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fb14c139-a7ec-4e54-b3c3-1f21bbe3de84",
+      "question_text": [
+        "The magnitude of the angle of dip at the equator is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Total Internal Reflection ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "360o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "90o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "180o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "58b7fedb-4b33-49d1-bb18-ea86f851621a",
+      "question_text": [
+        "When an atom undergoes a beta decay, the atomic number of the nucleus"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decreases by one",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increases by one",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2bba4d79-daa1-4d49-8100-6ff8d887c040",
+      "question_text": [
+        "Calculate the mass of the copper deposited during electrolysis when a current of 4A passes through a copper salt for 2 hours. [Ece of Copper z=3.3x10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Mass = ZIT kgMass = 3.3 x 10-7 x 4 x 2 x 60 x 60 kgMass = 9.5 x 10-3kg",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.9x105kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9.5x10-7kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.5x10-3kg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.9x104kg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "14e4c361-6089-4f40-9a01-a75cc4dbf848",
+      "question_text": [
+        "Which gas produces a pink coloured light in a discharge tube?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Emission and Absorption Spectra ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Argon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Air",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Neon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6428a7d8-64b8-46ea-bbd5-04443d142596",
+      "question_text": [
+        "In a common emitter configuration, the output voltage is through the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Resistor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Collector",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Emitter",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "c7432328-575b-4b9b-9bc6-0d50d5f53261",
+      "question_text": [
+        "When \\(^{210}_{82}Pb\\) decays to \\(^{206}_{80}Pb\\), it emits"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "two alpha and two beta particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an alpha particle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "one beta particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "one alpha and one beta particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "88d780e9-6562-4e43-9ec7-8a26508a3db7",
+      "question_text": [
+        "What type of reaction is represented by the equation \\(^{2}_{1}X+^{2}_{1}X\\rightarrow^{3}_{2}Y+^{1}_{0}n+Energy\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Fusion ",
+        " Medical Applications of Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ionization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fusion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Chain",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa0fbe7b-d55d-4f29-9813-7c288e58fb64",
+      "question_text": [
+        "A glass bottle of initial volume 2 x 104 cm3 is heated from 20oC to 50oC. If the linear expansivity of glass is 9 x 106K-1, the volume of the bottle at 50oC is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Inclined Plane Example ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "\\(\\gamma = \\frac{V_2 - V_1}{V(\\theta)}\\)\\(3(9 \\times 10^4) = \\frac{V_2 - 2 \\times 10^4}{2 \\times 10^4(30)}\\)V2 - 2 x 104 = 2 x 104 (30) x 3 (9 x 10-6)V2 =  2 x 104 2 x 104 (30) x 3 (9 x 10-6)V2 =  16.2 + 2 x 104V2 =  20016.2cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20016.2cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20005.4cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20008.1cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20013.5cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1b8a961f-c013-4718-8868-f98da99e8ded",
+      "question_text": [
+        "PHCN measures its electrical energy in"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "KWh",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wh",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6422a853-7ece-4eea-8db8-fa698626138f",
+      "question_text": [
+        "What is the best method of demagnetizing a steel bar magnet?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Magnetic Field Around a Solenoid ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hammering",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Heating it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rough handling it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Solenoid method",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d42763f1-e3a0-4445-a54b-59c52fdf099e",
+      "question_text": [
+        "The magnitude of the angle of dip at the equator is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Total Internal Reflection ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "360o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "90o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "180o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "639a4db5-9e64-455f-a5b6-5a2f0073a48e",
+      "question_text": [
+        "When an atom undergoes a beta decay, the atomic number of the nucleus"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decreases by one",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increases by one",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cabaa899-4e4a-4080-9586-d7d866fc85c6",
+      "question_text": [
+        "Calculate the mass of the copper deposited during electrolysis when a current of 4A passes through a copper salt for 2 hours. [Ece of Copper z=3.3x10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Mass = ZIT kgMass = 3.3 x 10-7 x 4 x 2 x 60 x 60 kgMass = 9.5 x 10-3kg",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.9x105kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9.5x10-7kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.5x10-3kg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.9x104kg",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa6e668c-66ac-418b-9e3c-c50bfc407121",
+      "question_text": [
+        "Which gas produces a pink coloured light in a discharge tube?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Emission and Absorption Spectra ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Mercury",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Argon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Air",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Neon",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0066272-dfb4-48b9-b058-15a8eb59e2e2",
+      "question_text": [
+        "In a common emitter configuration, the output voltage is through the"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Electromotive Force ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Resistor",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Base",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Collector",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Emitter",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "a69c747a-a9f4-4ccd-b856-3189cd4b22d1",
+      "question_text": [
+        "When \\(^{210}_{82}Pb\\) decays to \\(^{206}_{80}Pb\\), it emits"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "two alpha and two beta particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "an alpha particle",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "one beta particle",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "one alpha and one beta particle",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7df34f80-2fe9-4279-b007-9c941482a104",
+      "question_text": [
+        "What type of reaction is represented by the equation \\(^{2}_{1}X+^{2}_{1}X\\rightarrow^{3}_{2}Y+^{1}_{0}n+Energy\\)"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Fusion ",
+        " Medical Applications of Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ionization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Fusion",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Fission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Chain",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "94c6eaae-636a-45e1-af86-070b159c20e6",
+      "question_text": [
+        "A glass bottle of initial volume 2 x 104 cm3 is heated from 20oC to 50oC. If the linear expansivity of glass is 9 x 106K-1, the volume of the bottle at 50oC is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Inclined Plane Example ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "\\(\\gamma = \\frac{V_2 - V_1}{V(\\theta)}\\)\\(3(9 \\times 10^4) = \\frac{V_2 - 2 \\times 10^4}{2 \\times 10^4(30)}\\)V2 - 2 x 104 = 2 x 104 (30) x 3 (9 x 10-6)V2 =  2 x 104 2 x 104 (30) x 3 (9 x 10-6)V2 =  16.2 + 2 x 104V2 =  20016.2cm3",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20016.2cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "20005.4cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "20008.1cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "20013.5cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2263af40-85c0-438c-bbb6-f9a9e0cf47c9",
+      "question_text": [
+        "PHCN measures its electrical energy in"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Conservation of Energy ",
+        " Work, Energy and Energy Resources"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "W",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "KWh",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wh",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0839f90e-801f-451b-b3e5-74b4dcfe84d2",
+      "question_text": [
+        "What is the best method of demagnetizing a steel bar magnet?"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Magnetic Field Around a Solenoid ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Hammering",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Heating it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Rough handling it",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Solenoid method",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "88b0ec1e-e875-43e4-bcfa-f67f629b173e",
+      "question_text": [
+        "The magnitude of the angle of dip at the equator is"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Total Internal Reflection ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "360o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0o",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "90o",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "180o",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "450638fb-bb25-47b8-961c-8ee17a0a7a4a",
+      "question_text": [
+        "When an atom undergoes a beta decay, the atomic number of the nucleus"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Nuclear Decay and Conservation Laws ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Remains unchanged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Decreases by one",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Increases by one",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Becomes zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f3eb20a7-0a92-44e4-87ea-3e3ae960fbef",
+      "question_text": [
+        "Calculate the mass of the copper deposited during electrolysis when a current of 4A passes through a copper salt for 2 hours. [Ece of Copper z=3.3x10-7kgC-1]"
+      ],
+      "examType": "jamb",
+      "year": "2014",
+      "subject": "physics",
+      "pageNum": "9",
+      "related_lessons": [
+        "Drift Velocity ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Mass = ZIT kgMass = 3.3 x 10-7 x 4 x 2 x 60 x 60 kgMass = 9.5 x 10-3kg",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2.9x105kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "9.5x10-7kg",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "9.5x10-3kg",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2.9x104kg",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

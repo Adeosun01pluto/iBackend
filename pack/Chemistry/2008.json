@@ -1,0 +1,5086 @@
+
+[
+    {
+      "id": "37f1441b-a5ad-4056-8ec0-ac56c9a55053",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7377c42a-a245-42d4-a9de-a9f77282ed18",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "89d6384b-be35-4deb-8f9e-790265149d8a",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b595a750-19b9-465d-8fe5-7dbeafb490f4",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c6c9c417-d4c5-4c65-aebf-de6224f62a52",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "796f7e19-fd8f-422a-8a5d-f8634a3b44fc",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1cb49a5d-6eb5-4b40-bd3d-cedceb0223c0",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7c3cc3f6-9859-4326-996b-579571627618",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "afad7b95-7652-4dbd-b662-aeb9b457c8ca",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "81fd780c-30a0-46c4-9a90-b08d57009202",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "1",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8824073e-38ab-4b09-8007-c5173bf507cf",
+      "question_text": [
+        "The product obtained when a mixture of benzene vapour and hydrogen are passed over nickel catalyst at 180oC is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Effect of a Catalyst on Equilibrium ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "cyclohexane",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "cyclopentane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "n- hexane",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "n - pentane",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6ffdcc11-9394-4920-8362-ab8713f31a8e",
+      "question_text": [
+        "Polyvinyl chloride is used in the production of"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "How do polymers form? ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alloy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "pipes",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "ceramics",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "13a22429-8442-49e3-80f2-3d2538da6a00",
+      "question_text": [
+        "Detergents are manufactured with straight hydrocarbon chains so as to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Physical Properties and Branched Groups ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4d61514-cca5-47c8-9c60-27aaa9035955",
+      "question_text": [
+        "If glucose is heated with concentration tetraoxosulphate (VI) acid, it will be dehydrated to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Producing Sulfuric Acid ",
+        " Chemistry and the Real World"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "etheneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3e0afe04-9f0a-43f4-abf7-8cc0482f579d",
+      "question_text": [
+        "The IUPAC nomenclature for the structure above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Ethers ",
+        " Organic Chemistry"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem4.png",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "2, 3 - dichloro - 4, 4, 5 - trimethyl pent - 2 - ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4, 5 - dichloro - 2, 3 - dimethyl hex - 2 - ene",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2, 3 - dichloro - 4, 4 - dimethyl hex - 2- ene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2, 3 dichloro - 2, 2 - dimethyl hex - 2 - ene",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d389968-c859-4f64-ab19-4dcf79ea0bbb",
+      "question_text": [
+        "A hydrocarbon X with a molar mass of 26 consists of 92.3% carbon. What is its molecular formular"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Molar Mass ",
+        " Quantitative Aspects of Chemical Change"
+      ],
+      "explanation": "% of H2 = 100 - 92.3 = 7.7%mole = 92.3/12 7.7/17.1/7.1 7.1/7.1empirical formula = CH(CH)n = 26(12 + 1)n = 26(13)n = 26n = 26/13 = 2molecular formula = C2H2",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C2H2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "C3H3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C4H4",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "C5H5",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a1cf3169-3cb5-4b01-8dce-67a0846ede81",
+      "question_text": [
+        "Reduction of  nitroalkanes, nitrites and amides is a route for the preparation of"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Amines and Amides ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "amines",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkenes",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "polymers",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "detergents",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "709a6152-b7c6-4619-9e52-7613c935ae53",
+      "question_text": [
+        "Leads is used for making bullets and lead shots because of its"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "resistance to corrosion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "low melting point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "high density",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "flexibility",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "155858ea-54ad-41b1-b846-21b20f6438d5",
+      "question_text": [
+        "which of the following gives a precipitate when treated with NaOH solution?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "How Buffers Work ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "AlCl3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "NH4Cl",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Na2CO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "CH3COONa",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1bd41bba-dfdf-4812-9035-6bd5579b4f54",
+      "question_text": [
+        "The most common ores of iron include"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "2",
+      "related_lessons": [
+        "Preparation of the Transition Elements ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "haematite, malachite and limonite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "chalcolite, calamine and bornite",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "magnetite, haematite and bornite",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "magnetite, chalcolite and bornite",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bd7f6af6-8118-4447-b6fd-7983274d9e70",
+      "question_text": [
+        "The type of isomerism shown by cis- and trans- isomers is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Isomerism in Complexes ",
+        " Transition Metals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "optical isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "positional isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "functional isomerism",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "geometrical isomerism",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b839e5a7-93ad-478d-9013-1bffb62ab90b",
+      "question_text": [
+        "If the silver mirror test is positive, it indicates the presence of an"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Uses of Standard Electrode Potentials ",
+        " Electrochemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "alkyne",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "alkanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alkanone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "alkanal",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "41daa404-770f-4269-aa11-ef5c0be4628a",
+      "question_text": [
+        "A catalyst speeds up the rate of chemical reaction by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "How do catalysts work? ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "taking part in the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "increasing the activation energy of the reaction",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "lowering the activation energy of the reaction",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "increasing the heat content",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c22c02f8-2563-4661-a32e-590e9a950591",
+      "question_text": [
+        "The rate of a reaction usually decrease in the concentration of reactants because"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summary of Equilibrium Reactions ",
+        " Chemical Equilibrium"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "kinetic energy decrease",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "temperature increase",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "speed increases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "reactants collision decrease",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "7a947d4e-68af-4cdc-a782-e053c3b2cb0f",
+      "question_text": [
+        "The substance that is used in  the steel industry for the removal of carbon, sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "19511a6c-1a70-4d82-ab60-b05cdfc7d397",
+      "question_text": [
+        "Which of the following compounds of trioxonitrate (V) will decomposes to give dinitrogen (i) oxide and water when heated?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Naming Covalent Compounds ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "NaNO3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Zn(NO",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Cu(NO3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "91bdb691-a1bc-435f-8a14-427c7878c065",
+      "question_text": [
+        "When a solution of ammonium trioxocarbonate (IV) is added to a solution of an unknown salt, a white precipitate which is soluble in dilute hydrochloric acid but insoluble in ethanoic acid is formed. This indicates the presence of"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "More on Acid-Base Reactions ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Ca2+",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Na+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Zn2+",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "K+",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f8d8f9a5-ee0c-40f6-aa62-a128b24158f3",
+      "question_text": [
+        "What is the IUPAC nomenclature of the compound NaCIO?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Chemical Nomenclature ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "sodium oxochlorate (",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "sodium chloro (",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7206d504-8cdf-4bdd-8cf1-dab72cfbff40",
+      "question_text": [
+        "In recharging a lead-acid accumulator, the reaction at the cathode can be represented as"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Naming Binary Acids and Oxyacids ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb2+(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + SO2-4(a",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " →PbSO4(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "86792653-3b7c-48d0-85dc-c0dc4f512e17",
+      "question_text": [
+        "If a given quantity of electricity liberates 0.65g of Zn2+, what amount of Hg2+ would be liberated by the same quantity of current?[Zn = 65, Hg = 201]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "3",
+      "related_lessons": [
+        "Dimensional Analysis ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.00g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.10g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.02g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.04g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c1eb8c9e-0de5-4e11-bcac-a4c559a28b87",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH4Cl(s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "indeterminate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f0875fae-7694-453d-af46-ed59880705b0",
+      "question_text": [
+        "Which of the following reaction is endothermic?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Exothermic and Endothermic Reactions ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "C(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": " + O2(",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " → CO2(",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "B",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "73cadd2d-38af-455b-b59f-7e0a0d1cf0cf",
+      "question_text": [
+        "The basicity of CH3COOH is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Hydrogen Bonding ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7572cbdf-9f38-4cf3-900f-89081dfab2b5",
+      "question_text": [
+        "0.05 mol dm-3 HCl is neutralized by 25 cm3 NaOH. If the volume of acid used is 32.00cm3, what is the concentration  of the base"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "HCl + NaOH → NaCl + H2OCAVA = NA/NB = (0.05 * 32)/(CB * 25) ∴ CB = (0.05 * 32)/25 = 0.064  mol dm-3",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.016 mol dm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.032 mol dm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.039 mol dm-3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.064 mol dm-3",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "0e5b7334-b777-4d90-92a6-879c127facf2",
+      "question_text": [
+        "Insoluble salts can be prepared by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Nature of the Metallic Bond ",
+        " Bonding and Atomic Combinations"
+      ],
+      "explanation": "Two soluble metal salts react with each other to form one soluble salt and one insoluble salt . Lead nitrate solution and sodium chloride solution react to produce solid lead chloride , leaving soluble sodium nitrate in solution. The lead chloride can be recovered by filtration.",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "titrating an alkali against an appropriate acid",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "reacting an acid with trioxocarbonatr (I",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": " salt",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "directing combination of the elements which make up the saltD",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "3abf06f1-05f4-45ae-9297-46fbbf564d37",
+      "question_text": [
+        "The oxidation state of carbon in HCOOH is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Oxidation Numbers ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "HCOOHO.N of H + O.N of C + 2* O.N of oxygen of H = 01 + X + 2X - 2 + 1 = 02 + X -4 = 0X = 4 - 2 = +2",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "+2",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "+3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "zero",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9640eaa7-c74e-4736-a319-efcf70ae6174",
+      "question_text": [
+        "In the course of purifying water for town supply the water is passed through large settlings tanks, containing sodium aluminate (III) to remove"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "The Electrolysis of Molten Sodium Chloride ",
+        " Electrochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "large particles",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "germs",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "fine particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "odour",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa93ebf6-e5dc-424f-ab3f-196e81a40fd7",
+      "question_text": [
+        "When a few drops of water is added to a blue anhydrous cobalt (II) chloride, the colour changes to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Changes in Colour ",
+        " Energy and Chemical Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "white",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "pink",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "blue",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8be0023f-b0c4-40cc-8a07-679efef868b1",
+      "question_text": [
+        "The vulcanizer's solution is prepared by dissolving rubber in"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Aromatic Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "ethanol",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "kerosine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "benzene",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "petrol",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "4725c8b7-2944-43cf-bf61-3d3c7ffa0ca7",
+      "question_text": [
+        "117.0g of sodium chloride was dissolved in the solubility in 1.0dm3 of distilled water at 25oC. Determine the solubility in mol dm-3 of sodium chloride at that temperature[Na = 23, Cl = 35.5]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "4",
+      "related_lessons": [
+        "Ksp and Solubility ",
+        " Equilibria of Other Reaction Classes"
+      ],
+      "explanation": "Relative molecular mass of NaCl = 23 + 35.5 = 55.5 g/molNo. of mole of NaCl = 117/55.5 = 2.1 mol",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "4.0",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c89fecce-4d30-463a-a88f-e7e9bb4561dd",
+      "question_text": [
+        "The uncovered raw food that is sold along major roads is likely to contain some amounts of"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Measuring Nutritional Calories ",
+        " Thermochemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Pb",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Cu",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Ag",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Na",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "cc242cae-e883-4107-b8e3-95de64968c26",
+      "question_text": [
+        "The diagram above represent the electron sub-level for"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Covalent Bonds and Bond Formation ",
+        " Bonding and Atomic Combinations"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem3.png",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "flourine",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5e516d69-9ce3-4ea9-994a-9edd103cad30",
+      "question_text": [
+        "In the periodic table, the electrical and thermal conductivities are properties of elements that"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "decrease across the period and increase down the group",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase across the period and decrease down the group",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "decrease across the period and down the group`",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increase acrosss the period and down the group",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "451903b5-f65b-4d4a-9b7f-009e8d89dede",
+      "question_text": [
+        "\\( _{11} ^{11}Na + _0^1n → _{11}^{24}Na \\)The reaction above is an example of"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Synthesis of Nuclides ",
+        " Nuclear Chemistry"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nuclear fission",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "nuclear fusion",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "artificial transmutation",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "beta decay",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "44c02356-8b83-4ae4-8b85-b3a7f86a01fa",
+      "question_text": [
+        "Air boiled out of water as steam is richer in"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Acid and Metal Oxide ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "nitrogen and oxygen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon (I",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": " oxide and oxygen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "noble gases and carbon (IV",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "350f6f78-c7b0-417c-8baf-fcbef7a4d32b",
+      "question_text": [
+        "2Na(s) + 2H2O(l) → 2NaOH(aq) + H2(g)From the equation above, calculate the mass of sodium hydroxide produced by 2.3g of sodium.[H = 1, O = 16, Na = 23]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Redox Reactions ",
+        " Reactions in Aqueous Solution"
+      ],
+      "explanation": "2Na(s) + 2H2O(l) →  2NaOH(aq) + H2(g)Relative molecular mass of NaOH = 23 + 16 + 1 = 40smol-12 * 23g of sodium react with water to produce 2 * 40g of NaOH∴ 2.3g of sodium will react with water to produce(2.3 * 40 * 2)/(23 * 2) = 4.00g",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.40g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.80g",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "4.00g",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.00g",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bff439e3-b685-4a4a-9a32-7841f16554ca",
+      "question_text": [
+        "16.8 g of sodium hydrogen trioxocarbonate (IV) is completely decomposed by heat. Calculate the volume of carbon(IV) oxide given off s.t.p[Na 23, C = 12, O = 16, H = 1, Molar volume of a gas at s.t.p = 22.4 dm3]"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Standard Conditions of Temperature and Pressure ",
+        " Gases"
+      ],
+      "explanation": "2NaHCO3(s) → Na2CO3(s) + H2O(l) + CO2Relative molecular mass of NaHCO3 = 23 +1 + 12 + 16 * 3 = 84smol-12 * 84g of NaHCO3 will be liberated 22.4dm3 or CO2 at s.t.p16.8g of NaHCO3 will libertae (16.8 * 22.4)/(2 * 84) = 2.24 dm3",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "22.40 dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "11.20 dm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2.24 dm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1.12 dm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "740d354b-13f2-4b5a-9cbf-f49ddc775bbf",
+      "question_text": [
+        "300 cm3 of gas has a pressure of 800 mmHg. If the pressure is reduced to 650 mmHg, find its volume"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Derived SI Units ",
+        " Essential Ideas in Chemistry"
+      ],
+      "explanation": "P1V1= P2V2800 * 300 = 650 * V2V2 = (800 * 300)/650 = 369.23 cm3",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "243.75 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "369.23 cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "738.46 cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1733.36 cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "25cd176a-97d9-41dd-bf96-d07ca31d5875",
+      "question_text": [
+        "Diffusion is slowest in solid particles than in particles of liquid and gases because"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "The Kinetic Theory of Gases ",
+        " States of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "solid particles have more kinetic energy than the particles of liquid and gases",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "solid particles have less kinetic energy than the particles of liqiud and gases",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "solid particles have less restriction in their movement than liquid and gas particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "the particles in solids are far apart and the cohesive forces between them are negligible",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fed56276-11fd-45c6-96f7-77035344931d",
+      "question_text": [
+        "The experiment that showed that atoms have tiny positively charged nucleus was first carried out by"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "5",
+      "related_lessons": [
+        "Atomic Theory Continued ",
+        " Atoms, Molecules and Ions"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Moseley",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Rutherford",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "Millikan",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Dalton",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "308747ac-bc15-412e-8b76-75cd4f32a127",
+      "question_text": [
+        "Chlorophyll obtained from given leaves of plant can be shown to be composed of more than one coloured component by the technique of"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Pure Substances ",
+        " Classification of Matter"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "crystallization",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrolysis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "chromatography",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "sublimation",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "694f4708-08c0-4bdd-a63d-b48846ac6382",
+      "question_text": [
+        "In countries where the temperature falls below 273K, salt is always sprinkled on the icy road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "Melting and Freezing ",
+        " Liquids and Solids"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "lower the melting point of the ice",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "raise the melting point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "224b648e-08ad-4b22-852c-6a87c2f38d00",
+      "question_text": [
+        "What is the pH of 0.001 mol dm4 solution of sodium hydroxide?"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "6",
+      "related_lessons": [
+        "pH and pOH ",
+        " Acid-Base Equilibria"
+      ],
+      "explanation": "The correct answer is 11. pH = -log(H+) Or 14 - pOH pOH = -log(0.001) pOH = 3 pH = 14 - 3 = 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11E",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "32a3cdab-110a-46b0-8f3a-ca0d1f45f49a",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "dfd5145c-342b-42bf-bda3-77d3fb2bb2de",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fe79007e-d603-412e-bef2-f9710136343b",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3fbbd24a-aee5-420a-8948-dad750c64f5e",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ccbfb846-6b0b-47b3-b444-1932fb45c665",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "73becb29-fe18-477e-9b15-2c79d7ce29eb",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f27beb98-503e-4052-8c19-d8c1de85128c",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1bb26e7e-7522-436d-a3f3-20528b5b3892",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a50da42c-8316-4b86-ad89-ad8318cde9ed",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "74b40c8a-28cc-4e3f-9bc2-7e20e316ba64",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "7",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "754f5832-0ecf-474b-b2ce-dfba65fd9999",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fecf50dc-75c9-488e-9702-d6c8318eb053",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ed85ca9a-9d8e-435c-8a05-bf437c263484",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "49818948-3ada-4eec-81d0-7d327cbe7b19",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2189347c-c53f-4bea-a8b3-be5ef248cdfe",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a5f3153-4412-4373-9966-78d64724467c",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52a862dc-5c8b-4d97-ba87-c382a885586d",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "33ef9028-1dc3-45e1-a94f-bef5f258c5bd",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f9f973db-6bb6-46d5-be5d-c40d1f57ca9a",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7cefca93-e3f1-407b-84ba-af80b8051592",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "8",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2ebdd645-9445-42f5-ba3c-bbbdb07d05d3",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7a053f9b-1269-43ef-940b-7750a5ca212c",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "dbdbbc06-7c8e-4b0d-a62e-b4919bef760d",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "421d48a6-79e3-490a-9750-920e0fcd0037",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5fc7ac43-069d-4bef-aa60-e905ad65f5d0",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "38286d35-8980-468e-ae1f-ad0e1fbff32c",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0e164eaa-6bae-4337-ba3f-717a448fb309",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "47ecb8ae-2437-477c-ab66-2230df11d973",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b58f1457-5571-475b-b26c-1504b5898d43",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "56f47f97-6b64-4559-9bcb-f630fd262cfc",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "9",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c946bcf7-9bcf-4e65-a402-6ac8f1bb852f",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b4a0253d-9133-4d89-95c0-1e601b80962d",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "59177b6e-be79-4c8d-b080-26118e33ec37",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "46b27422-07a3-45c4-9e51-5096b9a733d1",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "de40aa31-77b3-484f-bf29-0a645f3d1a67",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b30b96a8-9255-4f39-9db5-c74b49e7a100",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6982a097-b826-49b5-bfa3-5f7bb725285b",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c72bd95-c8a0-4d5f-bd03-f3610d9aeb33",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bda51e96-1233-42c1-adb2-0057635b852a",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "915a6b9c-c00a-4dee-b1eb-17377c9a4ca1",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "10",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fa777f10-adb8-4ad7-bcf0-ca4649bc089b",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "273cb3eb-37ab-483b-8665-630abaf5feda",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1a8c0f2f-2717-4583-87ee-191aef3ec90f",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fd0f6c8d-42e0-4e28-98cb-d85eb957f721",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2c6c6bbb-5cf5-4cce-9f27-e00829404be6",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4b098d8-ab7d-436c-8c23-4972af3d47ee",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fffe7a18-710d-46fa-bfb3-6bf20fe05f07",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09f92c6b-0a3b-411f-8d39-892807afbb17",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c3dfcaa8-c95b-4a7c-be35-759d8b9183cd",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e0d5fbd3-ee6f-4f0f-b5b4-79c0de526bc7",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "11",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3f43fbce-ab53-4df1-b4f1-a80eb832042b",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "8ba5c7ec-d181-484a-904f-5f6d4f08876e",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "03202e55-55d4-4932-a7f0-b5324dd728c6",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e6ca9236-4894-4e83-b72a-c65bab2c4227",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0561a6c3-b0fc-4f5c-8a78-45902a4fe2d8",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "84448de9-ec2a-4b0d-be9f-bf5f6d8a175e",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eff78b8d-d6e5-4914-ac16-20b0d9abf1cc",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d416fde3-41bf-4e49-a86e-c258e0480669",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d0a50973-8633-4b25-a95b-b519a8b167e0",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3de97a0f-efb8-4f93-8cf7-f2cb42e5c708",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "12",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9bb985d2-f870-4b83-924c-c4a2cff9c2b6",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9d9e66f6-094a-47d5-8cdf-a2efe3632f99",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "d818307d-ee59-43c4-b53d-3698e732feda",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f1c95b6f-f1eb-41e1-8baf-9b30d91dddd9",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "493286fb-f749-4c12-b197-91970e9d1c43",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "687a1202-51ef-4e6b-b49a-8ededcc0af4a",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "149e8f85-0178-41e2-9cdc-a76468d0a361",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "978006c8-cf3b-478d-a8d3-a665c0f5035c",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ae94d98e-8966-473f-872e-ac45702679d2",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "09abb970-631f-4443-aedf-1d6573ee7e69",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "13",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "86b743cb-768a-4f72-a706-b1b84dbc7ee3",
+      "question_text": [
+        "If glucose is heated on the concentration tetraoxosulphate(iv)acid, it will be dehydrated"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Hydrocarbons ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Carbon concentration of 4 will not give a precipitate heating. Option B,C,D will not be dehydrated",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "carbon",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "carbon(i",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "oxide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "ethaneD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2764cf53-a058-41f3-a48d-4865c7c644f3",
+      "question_text": [
+        "what is the pH of 0.00lmoldm3 solution of sodium hydroxide"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "The pH scale ",
+        " Acid-Base and Redox Reactions"
+      ],
+      "explanation": "[H+][OH−] = 10 − 4[H+] =10 − 14 ÷ [OH+]=10 −14 ÷ (1 × 10 − 3) = 10 − 11pH = − log10[H+ ]= − log10[10 − 11] = − 1 × −11log10[10 − 11] = 1= − 1 × 11 × 1= − 11",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "14",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "13",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "12",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "11",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2fb4905e-670e-4723-a750-2eb1de773359",
+      "question_text": [
+        "In countries where the temperature fall below 273k, salt always spilled on the ray road in order to"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Solubility ",
+        " Solutions and Colloids"
+      ],
+      "explanation": "Salt is good chemical agent that lowers the melting of an ice only it temperature below 0°C options B,C,D will not have the melting point except is above the 0° C. only salt does that.",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase the making point office",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase the density of the ice",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "make the ice impure",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "rinse the making point of the ice",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eb374777-5cca-4ddf-826c-a3075c5789b3",
+      "question_text": [
+        "The substance that is used in the steel industry for the removal of carbon. Sulphur and phosphorus impurities from pig iron is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Occurrence, Preparation, and Properties of Phosphorus ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "explanation": "Oxygen is a substance that is used to remove impurities from pig iron. Options B, C, D will be effective in removing impurities positive]",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "oxygen",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "chlorine",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "hydrogen",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1270aa3d-40ad-443e-b24a-c1e2fc2030a9",
+      "question_text": [
+        "NH3(g) + HCl(s) → NH 4Cl (s)The entropy change in the system above is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing the Second and Third Laws of Thermodynamics ",
+        " Thermodynamics"
+      ],
+      "explanation": "Entropy s is a measure of the degree of disorder or randomness of a substance. The entropy charge in the system is negative. Options B, C, D will not give negative but the result into positive",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "positive",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "zero",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "negative",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "intermediate",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "c82dc84e-1df4-47e3-9035-2c11ca837877",
+      "question_text": [
+        "Detergents are manufacture with strength hydrocarbon chains is to make them"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Summarizing Alcohols and Ethers ",
+        " Organic Chemistry"
+      ],
+      "explanation": "Biodegradable because the straight hydrocarbons are natural and slightly soluble in water. Options A,C,D do not have strength hydrocarbon chains and they could harm the environment if they are made with the detergent",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "soluble",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "biodegradable",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "cheaper",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "foamy",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "208ae78e-c23d-480d-b33d-8019274f21bc",
+      "question_text": [
+        "Use the diagram to answer this question.The gas that can be used to demonstrate the experiment is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Preparation of Hydrogen ",
+        " Metals, Metalloids, and Nonmetals"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "hydrogen chloride",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "hydrogen sulphide",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "nitrogen(l",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": " oxideD",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "afae0a27-f880-4cae-a8bf-46ea86a0119f",
+      "question_text": [
+        "Use the diagram to answer this question.The colour of the fountain water is"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Unique Properties of Water ",
+        " States of Matter"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem126.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "blue",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "orange",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "red",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "yellow",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "fc114898-8d30-4fef-9bac-0f2e2c039521",
+      "question_text": [
+        "Choose the correct option from the structure above"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "Activation Energy Continued ",
+        " Energy and Chemical Reactions"
+      ],
+      "image": "https://nigerianscholars.com/assets/uploads/2018/06/chem125.jpg",
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "B",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "C",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "D",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "65e1e60c-daea-4455-b159-1935e5473457",
+      "question_text": [
+        "Reduction of alkanonoes with LialH4 produces"
+      ],
+      "examType": "jamb",
+      "year": "2008",
+      "subject": "chemistry",
+      "pageNum": "14",
+      "related_lessons": [
+        "The Alcohols ",
+        " Organic Molecules"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "primary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "secondary alkanols",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "tertiary alkanols",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "polyhydric alkanols",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]

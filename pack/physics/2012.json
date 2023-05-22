@@ -1,0 +1,3080 @@
+
+[
+    {
+      "id": "03f86656-10e3-4dd2-9d6f-8e8d8ce20450",
+      "question_text": [
+        "A piece of radioactive material contains 1000 atmos. If its half -life is 20seconds, the time taken for 125 atoms to remain is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Half-Life and Activity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "1000 → 500 → 250 → 12520 + 20 + 20 = 60s",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60 seconds",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "eb98e6aa-88e9-4080-abe1-58cb638bfa98",
+      "question_text": [
+        "The p-n junction diodes can act as rectifiers because they"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "conduct current when forward-biased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "conduct current when reverse-biased",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "block current when forward-biased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "conduct current in both directions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9f5d813a-cc5e-474d-90c0-0407282f278d",
+      "question_text": [
+        "If a reverse-biased voltage is applied across a p-n junction, the depletion layer width is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreased",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "halved",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2a12a134-c4d0-407f-a2e0-92242ddf767a",
+      "question_text": [
+        "I. Small size.II. Low power requirementIII. Not easily damaged by high temperatureIV. Highly durable. Which of the above are the advantages of semiconductors?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing High-temperature Superconductors ",
+        " Frontiers of Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I,II and lll only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ll,lll and lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "l, Hand lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "l, ll, lll and lV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "ce0d569a-7113-4ef8-93ee-cd5e32fbbdce",
+      "question_text": [
+        "A particle carrying a charge of 1. 0 x 10-8C enters a magnetic field at 3.0x 10-2 ms -1 at right angles to the field. If the force on this particle is 1.8 x 10-8N, what is the magnitude of the field?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Magnetic Fields and Magnetic Field Lines ",
+        " Magnetism"
+      ],
+      "explanation": "F = BQVB = \\(\\frac{F}{QV}\\)B = \\(\\frac{1.8 \\times 10^{-8}}{1.0 \\times 10^{-8} \\times 3.0 \\times 10^{-2}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.0x10-1T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0x10T",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0x10-3T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.0x10-4T",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "af0fcf59-f9f9-4811-b72e-1818a3be01e2",
+      "question_text": [
+        "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Summarizing Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\(\\frac{10}{\\sqrt{2}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.1A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14.1A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff74ef36-ac7b-4387-97ef-f4c96eeb261e",
+      "question_text": [
+        "A conductor of length 1m moves with a velocity of 50ms-1 at an angle of 30o to  the direction of a uniform magnetic field of flux density 1.5Wbm-2. What is the e.m.f induced in the conductor?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Electrical Machines – Generators and Motors ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "37.5V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.5V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "75.0V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80.5V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6f1144a4-c90a-4ac9-bd78-1fa5df260901",
+      "question_text": [
+        "The process of detecting a pin mistakenly swallowed by a child is X-ray"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "X-Ray Diffraction and Crystallography ",
+        " Atomic Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Diagnosis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Therapy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Crystallography",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mammography",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "df9ba5b9-9a77-4a46-87dc-4f9f119de090",
+      "question_text": [
+        "Which of the following particies CANNOT be deflected by both electric and magnetic fields?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Gamma Rays ",
+        " Electromagnetic Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Gamma rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alpha particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wave particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Beta particles",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f598e583-736f-4ae6-b310-fb1e40e186d9",
+      "question_text": [
+        "I. Rays of light travel from a less dense medium to a denser medium. II. The Angle of incidence is greater than critical angle. III. Rays of light travel from a denser medium to a less dense medium. Which of the statements above are conditions for total internal reflection to occur?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "1",
+      "related_lessons": [
+        "Critical Angles and Total Internal Reflection ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I & II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "II & III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d789b906-194e-4ff9-a1df-bfd11eb11d8e",
+      "question_text": [
+        "The use of lenses is Not applicable in the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Aberrations ",
+        " Vision and Optical Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "projector",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "human eye",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "periscope",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "telescope",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9755bea7-b5f0-456e-831f-be49ea44b218",
+      "question_text": [
+        "Disperson of white light is the ability of white light to"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Properties Of Light Revision ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "penetrate air, water and glass",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "move in a straight line",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "move around corners",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "separate to its component colours",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "cda8f13a-6e9c-4578-aec3-566767e510b2",
+      "question_text": [
+        "A newly charged 12V accumulator can easily start a car whereas eight new dry cells in series with a effective e.m.f. of 12V cannot start the same car because"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Newton’s First Law in Action ",
+        " Newton's Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "The current capacity is high",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "The current capacity is low",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "it cannot be re-charged",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "it cannot easily be connected to a car",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "b2c86147-2e14-4d8a-9f31-4740b3e65021",
+      "question_text": [
+        "The fuse in an electric device is always connected to the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Electric Power and Energy ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "neutral side of an electric supply",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "earth side of an electric supply",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "live side of an electric supply",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "terminal side of an electric supply",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d46300bd-a12d-472d-a4ab-32021158525a",
+      "question_text": [
+        "Where can a man place his face to get an enlarged image when using a concave mirror to shave?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Summarizing Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Between the centre of curvature and the principal focus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "At the principal focus",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Between the principal focus and the pole",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "At the centre of curvature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "bb00627c-d6b2-40be-a6eb-372e129c5332",
+      "question_text": [
+        "A pinhole camera is placed 300m in front of a building so that the image is formed on a screen 5cm from the the pinhole. If the image is 2.5cm high, the height of the building will be"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Image Formation by Thin Lenses ",
+        " Geometric Optics"
+      ],
+      "explanation": "==> \\(\\frac{v}{u}\\) = \\(\\frac{hi}{ho}\\)==> \\(\\frac{5}{300}\\) = \\(\\frac{2.5}{ho}\\)= 150m",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "25m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "50m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "100m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "150m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "b7ef5fe3-facb-4b7e-9ea4-6411d04756c5",
+      "question_text": [
+        "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "M = v = \\(\\frac{2}{2}\\) = 1",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.0",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1.0",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.7",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.6",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5175772b-bad5-4efd-bf9e-0f4e338ba885",
+      "question_text": [
+        "After reflection from the concave mirror, rays of light from the sun converges"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Image Formation by Mirrors ",
+        " Geometric Optics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "at the radius of curvature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "at the focus",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "beyond the radius of curvature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "between the focus and radius of curvature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a59e04a3-d492-43b5-b74a-8bbfd77996d7",
+      "question_text": [
+        "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Representing Refraction With Ray Diagrams ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "\\(\\mu\\) = R.9 = 1.5 = 10A.P A.d, Ad = 6.66Displacement = R.d - A.d = 10 - 6.66= 3.33",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3.33cm",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "5.00cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.67cm",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "8.50cm",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f55057e4-cda5-46ea-9309-1ac76fcf7ab5",
+      "question_text": [
+        "The quantity of heat energy required to melt completely 1 kg of ice at - 30oC is[latent heat of fusion = 3.5 x 10 5Jkg -1, specific heat capacity of ice = 2.1x10 3Jkg -1K -1]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "2",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "Q = mL + mcθ = 1 x 3.5 x 10 5 + 1 x 2.1 x 10 3 x 30",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "4.13x10 6J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4.13x10 5J",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "3.56x10 4J",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3.56x10 2J",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "63ce6651-2824-466c-ae68-36b90f22c6dc",
+      "question_text": [
+        "I. It is a rapid, constant and irregular motion of tiny particles. II. It gives evidence that tiny particles of matter called molecules exist. III. It takes place only in gases. IV. It gives evidence that molecules are in a constant state of random motion. which of the combinations above is correct about Brownian notion?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Discovery of the Atom ",
+        " Atomic Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I,II and III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "II,III and IV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "I,III and lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "l, ll and lV only",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "1e953913-23af-4f8c-9b4c-1b53f095f638",
+      "question_text": [
+        "The equation of a wave traveling in a horizontal direction is expressed as y = 15 sin 2/5 (60t - x) what is its wave length?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summarizing Waves ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "\\(\\frac{\\lambda}{2 \\pi}\\)\\(\\frac{5}{2 \\pi}\\) = 5m",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "60m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "15m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "5m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "2m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "eeca2215-e946-42c0-aa75-e93d42737f8e",
+      "question_text": [
+        "Which of the following factors will affect the velocity of sound?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Summary and Main Ideas ",
+        " Mechanical Waves and Sound"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "An increase in the pitch of the sound",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "An increase in the loudness of the sound",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wind travelling in the same direction of the sound",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "A change in the atmospheric pressure at constant temperature",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0150f7ed-0b00-4ece-a48e-7545f5826c60",
+      "question_text": [
+        "The characteristic of a vibration that determines its intensity is the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Energy in Waves: Intensity ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Frequency",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Overtone",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wavelength",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Amplitude",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "00ca5f2a-9012-45c4-8539-2393493c3855",
+      "question_text": [
+        "Clinical thermometers are examples of"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Temperature ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "pressure gas thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "resistance thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "alcohol thermometer",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "mercury- in - glass thermometer",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "56c22f2f-c8e2-429f-b1ed-1643dbaee56c",
+      "question_text": [
+        "2000cm3 of a gas is collected at 27oC and 700mmHg. What is the volume of the gas at standard temperature and pressure?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "The Ideal Gas Law ",
+        " Temperature, Kinetic Theory, and Gas Laws"
+      ],
+      "explanation": "\\(V_2 = \\frac{P_1V_1T_2}{P_2T_2}\\)\\(V_2 = \\frac{700 \\times 2000 \\times 273}{760 \\times 300}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1896.5cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1767.3cm3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1676.3cm3",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1456.5cm3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9c1278d7-194e-4d91-94c7-9505eba4f129",
+      "question_text": [
+        "Calculate the temperature change when 500J of heat is supplied to 100g of water"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Temperature Change and Heat Capacity ",
+        " Heat and Heat Transfer Methods"
+      ],
+      "explanation": "\\(\\theta = \\frac{Q}{MC}\\)\\(\\theta = \\frac{500}{0.1 \\times 4200}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "12.1oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "2.1oC",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1.2oC",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.1oC",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "0c7392f4-3804-444e-815f-ce10a43e6671",
+      "question_text": [
+        "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Variation of Pressure With Depth in a Fluid ",
+        " Fluid Statics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase in the pressure of the atmosphere",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "rise in temperature",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "increase in the average speed of the molecules of water",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increase in the kinetic energy of the molecules of water",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e91066bb-e362-4bcb-b149-2df39b6121c6",
+      "question_text": [
+        "A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Net Work ",
+        " Work, Energy and Power"
+      ],
+      "explanation": "\\(E = \\cfrac{\\text{work output}}{\\text{work input}} \\times 100\\%\\) \\(\\cfrac{250 \\times 30}{250 \\times 30 + 1500} \\times 100\\) \\(= 0.833 \\times 100 = 83.3\\%\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "62.5%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "73.3%",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "83.3%",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "94.3%",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "e7a1b086-4d46-431c-8ace-a78a6d83353f",
+      "question_text": [
+        "If a load of 1 kg stretches a cord by 1.2cm, what is the force constant of the cord?  {g=10ms-2}"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "3",
+      "related_lessons": [
+        "Force Board Experiment ",
+        " Vectors and Scalars"
+      ],
+      "explanation": "K = \\(\\frac{F}{e}\\)K = \\(\\frac{1 \\times 10}{\\frac{0.2}{100}}\\)K = \\(\\frac{10}{12} \\times \\frac{1000}{1}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "866Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "833Nm-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "769Nm-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "667Nm-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "29075361-37c2-419c-8bfe-4b679ea9485c",
+      "question_text": [
+        "An object of volume 1 m 3 and mass 2kg is totally immersed in a liquid of density 1 kgm-3 . Calculate its apparent weight."
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Weight and the Gravitational Force ",
+        " Force and Newton's Laws of Motion"
+      ],
+      "explanation": "M = DV = 1 x 1 = 1kgApp Wt = (2 - 1)g = 1 x 10= 10",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "10N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "2N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1 N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "2e7fd597-82a3-428c-b8a8-0a277bf400d7",
+      "question_text": [
+        "The pressure at any point in a liquid at rest depends only on the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Variation of Pressure With Depth in a Fluid ",
+        " Fluid Statics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "depth and the density",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "mass and the volume",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "quantity and the surface area",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "surface area and the viscosity",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "5a9a19ed-b06a-4171-a363-3bc8bbfeffa6",
+      "question_text": [
+        "A balloon whose volume is 300m3 is filled with hydrogen. If the density of air is 1.3 kgm-3, find the upthrust on the balloon. [g = 10ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Balloon Rocket Experiment ",
+        " Newton's Laws"
+      ],
+      "explanation": "F = mg = D x V x g = 1.3 x 300 x 10 = 3900",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "3000N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "3800N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "3900N",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "4200N",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "80dd9a34-c172-4fb3-a0be-b03309fc8af4",
+      "question_text": [
+        "A car starts from rest and moves with a uniform acceleration of 30ms-2 for 20s. Calculate the distance covered at the end of the motion"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Acceleration ",
+        " One-Dimensional Kinematics"
+      ],
+      "explanation": "S = \\(ut + \\frac{1}{2}at^2\\)S = \\(0 \\times 2 + \\frac{1}{2} \\times 30 \\times 20^2\\)",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6km",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "12km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "18km",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "24km",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "23bd97e6-0dbc-4b7b-be29-bb839502358c",
+      "question_text": [
+        "A rocket is fired from the earth's surface to a distant planet. By Newton's law of universal gravitation, the force F will"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Newton’s Universal Law of Gravitation ",
+        " Uniform Circular Motion and Gravitation"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increase as r reduces",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "increase as G varies",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "remains constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "increases as r increases",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3005edf0-7cc9-4fa7-ac81-9f9f41cfdc41",
+      "question_text": [
+        "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing the Simple Pendulum ",
+        " Oscillatory Motion and Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "acceleration is directly proportional to the displacement",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "motion is directed away from the equilibrium point",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "acceleration is directly proportional to the square of the displacement",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "velocity is minimum at the equilibrium ponit",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "9fdcc3fa-da5a-489f-9850-336cd4fa0664",
+      "question_text": [
+        "An object moves in a circular path of radius 0.5m with a speed of 1ms-1 What is its angular velocity?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Summarizing Angular Acceleration ",
+        " Rotational Motion and Angular Momentum"
+      ],
+      "explanation": "W = \\(\\frac{v}{r} = \\frac{1}{0.5}\\)",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "8 rads-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4 rads-1",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "2 rads-1",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "1 rads-1",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6c492b14-ab1e-4835-bd87-98b4d60762cd",
+      "question_text": [
+        "An object of mass 20kg slides down an inclined plane at an angle of 30o to the horizontal. The coefficient of static friction is?[g = 10ms-2]"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "More Static Friction Examples ",
+        " Newton's Laws"
+      ],
+      "explanation": "\\(\\mu = tan\\theta = tan30\\)",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "0.2",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "0.3",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "0.5",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "0.6",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "166c6c7e-43b1-47e7-81dd-8415b4abaa7d",
+      "question_text": [
+        "In order to remove the error of parallax when talking measurements with a metre rule, the eye should be focused"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Common Physical Quantities ",
+        " Vectors and Scalars"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "slantingly towards the right on the markings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "slantingly towards the left on the markings",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "vertically downwards on the markings",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "vertically upwards on the markings",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ef6d53e1-ddb4-4b1d-a51e-32ae054953c6",
+      "question_text": [
+        "A load is pulled at a uniform speed along a horizontal floor by a rope at 45o to floor. If the force in the rope is 1500N, what is the frictional force on the load ?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "4",
+      "related_lessons": [
+        "Box on a Surface (Alternate Method) ",
+        " Newton's Laws"
+      ],
+      "explanation": "F = mg cos 45o = 1500 x 0.708",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "1524N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "1350N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "1260N",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "1061N",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "2b09c99c-a64d-4da5-aa98-0d7a5e888abe",
+      "question_text": [
+        "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms-1 with a constant retardation of 0.1m-2"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "5",
+      "related_lessons": [
+        "Examples on Motion of a Subway Train ",
+        " One-Dimensional Kinematics"
+      ],
+      "explanation": "S = \\(\\frac{V^2 - U^2}{20}\\)S = \\(\\frac{0^2 - 30^2}{2 \\times 0.1}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5500m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "4500m",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "4200m",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "3000m",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "96dbe0fb-4b6e-482b-8c5e-fe916870eaba",
+      "question_text": [
+        "A piece of radioactive material contains 1000 atmos. If its half -life is 20seconds, the time taken for 125 atoms to remain is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Half-Life and Activity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "1000 → 500 → 250 → 12520 + 20 + 20 = 60s",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60 seconds",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "f4e9d0cf-2b5c-4d4b-ae93-97615be252db",
+      "question_text": [
+        "The p-n junction diodes can act as rectifiers because they"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "conduct current when forward-biased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "conduct current when reverse-biased",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "block current when forward-biased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "conduct current in both directions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a09d1eef-7171-4825-af70-78f5ef9f5cf1",
+      "question_text": [
+        "If a reverse-biased voltage is applied across a p-n junction, the depletion layer width is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreased",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "halved",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "83cd565f-c5ed-4cac-a8fc-298e05acbd22",
+      "question_text": [
+        "I. Small size.II. Low power requirementIII. Not easily damaged by high temperatureIV. Highly durable. Which of the above are the advantages of semiconductors?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing High-temperature Superconductors ",
+        " Frontiers of Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I,II and lll only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ll,lll and lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "l, Hand lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "l, ll, lll and lV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "05f1d26f-9794-4f5f-87a2-4b44d42bb844",
+      "question_text": [
+        "A particle carrying a charge of 1. 0 x 10-8C enters a magnetic field at 3.0x 10-2 ms -1 at right angles to the field. If the force on this particle is 1.8 x 10-8N, what is the magnitude of the field?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Magnetic Fields and Magnetic Field Lines ",
+        " Magnetism"
+      ],
+      "explanation": "F = BQVB = \\(\\frac{F}{QV}\\)B = \\(\\frac{1.8 \\times 10^{-8}}{1.0 \\times 10^{-8} \\times 3.0 \\times 10^{-2}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.0x10-1T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0x10T",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0x10-3T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.0x10-4T",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ea18ab20-09c7-477c-bd80-37a7aa0f954d",
+      "question_text": [
+        "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Summarizing Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\(\\frac{10}{\\sqrt{2}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.1A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14.1A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ce865f65-8447-4697-8834-ed6b34bfae84",
+      "question_text": [
+        "A conductor of length 1m moves with a velocity of 50ms-1 at an angle of 30o to  the direction of a uniform magnetic field of flux density 1.5Wbm-2. What is the e.m.f induced in the conductor?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Electrical Machines – Generators and Motors ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "37.5V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.5V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "75.0V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80.5V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "79fa2a7e-787b-4feb-b647-da237b251b8f",
+      "question_text": [
+        "The process of detecting a pin mistakenly swallowed by a child is X-ray"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "X-Ray Diffraction and Crystallography ",
+        " Atomic Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Diagnosis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Therapy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Crystallography",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mammography",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3b75b51e-3781-46e5-8b8e-a8b8cac84a4e",
+      "question_text": [
+        "Which of the following particies CANNOT be deflected by both electric and magnetic fields?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Gamma Rays ",
+        " Electromagnetic Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Gamma rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alpha particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wave particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Beta particles",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "ff36cfba-18b4-488d-af7a-5d12a2c95479",
+      "question_text": [
+        "I. Rays of light travel from a less dense medium to a denser medium. II. The Angle of incidence is greater than critical angle. III. Rays of light travel from a denser medium to a less dense medium. Which of the statements above are conditions for total internal reflection to occur?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "6",
+      "related_lessons": [
+        "Critical Angles and Total Internal Reflection ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I & II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "II & III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3a0b3513-0c2f-4159-9c7d-3f084e297c3a",
+      "question_text": [
+        "A piece of radioactive material contains 1000 atmos. If its half -life is 20seconds, the time taken for 125 atoms to remain is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Half-Life and Activity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "1000 → 500 → 250 → 12520 + 20 + 20 = 60s",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60 seconds",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "26cdf3c5-85ad-4df2-88e0-e8c18c02c172",
+      "question_text": [
+        "The p-n junction diodes can act as rectifiers because they"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "conduct current when forward-biased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "conduct current when reverse-biased",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "block current when forward-biased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "conduct current in both directions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "3cffb336-9ebb-4ee8-aa44-3602a664b79c",
+      "question_text": [
+        "If a reverse-biased voltage is applied across a p-n junction, the depletion layer width is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreased",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "halved",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f16a72ad-9edd-4127-b465-c96ea7e3e4ee",
+      "question_text": [
+        "I. Small size.II. Low power requirementIII. Not easily damaged by high temperatureIV. Highly durable. Which of the above are the advantages of semiconductors?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing High-temperature Superconductors ",
+        " Frontiers of Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I,II and lll only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ll,lll and lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "l, Hand lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "l, ll, lll and lV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "fb7bbcd5-cc8e-4919-bd6c-bd19d607f2bc",
+      "question_text": [
+        "A particle carrying a charge of 1. 0 x 10-8C enters a magnetic field at 3.0x 10-2 ms -1 at right angles to the field. If the force on this particle is 1.8 x 10-8N, what is the magnitude of the field?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Magnetic Fields and Magnetic Field Lines ",
+        " Magnetism"
+      ],
+      "explanation": "F = BQVB = \\(\\frac{F}{QV}\\)B = \\(\\frac{1.8 \\times 10^{-8}}{1.0 \\times 10^{-8} \\times 3.0 \\times 10^{-2}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.0x10-1T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0x10T",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0x10-3T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.0x10-4T",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "7bf0ca6b-ad0e-41ba-b953-3e1db75838fa",
+      "question_text": [
+        "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Summarizing Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\(\\frac{10}{\\sqrt{2}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.1A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14.1A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52dd437b-a382-4de3-9cd6-61c0ed279ba9",
+      "question_text": [
+        "A conductor of length 1m moves with a velocity of 50ms-1 at an angle of 30o to  the direction of a uniform magnetic field of flux density 1.5Wbm-2. What is the e.m.f induced in the conductor?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Electrical Machines – Generators and Motors ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "37.5V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.5V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "75.0V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80.5V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "6d9217c2-a96f-4085-bb1a-ae7d7f1ca551",
+      "question_text": [
+        "The process of detecting a pin mistakenly swallowed by a child is X-ray"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "X-Ray Diffraction and Crystallography ",
+        " Atomic Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Diagnosis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Therapy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Crystallography",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mammography",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "444e450b-0a3e-4d46-9d22-47ab49ca7ade",
+      "question_text": [
+        "Which of the following particies CANNOT be deflected by both electric and magnetic fields?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Gamma Rays ",
+        " Electromagnetic Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Gamma rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alpha particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wave particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Beta particles",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "f0f263e2-4919-430b-b883-3bfef83c45a5",
+      "question_text": [
+        "I. Rays of light travel from a less dense medium to a denser medium. II. The Angle of incidence is greater than critical angle. III. Rays of light travel from a denser medium to a less dense medium. Which of the statements above are conditions for total internal reflection to occur?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "7",
+      "related_lessons": [
+        "Critical Angles and Total Internal Reflection ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I & II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "II & III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II only",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "16298022-0c27-45ae-9a3b-187a5eb56fc7",
+      "question_text": [
+        "A piece of radioactive material contains 1000 atmos. If its half -life is 20seconds, the time taken for 125 atoms to remain is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Half-Life and Activity ",
+        " Radioactivity and Nuclear Physics"
+      ],
+      "explanation": "1000 → 500 → 250 → 12520 + 20 + 20 = 60s",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "20 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "40 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "80 seconds",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "60 seconds",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "e2d9f148-3feb-4f6e-819f-5771c2aa5c68",
+      "question_text": [
+        "The p-n junction diodes can act as rectifiers because they"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "conduct current when forward-biased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "conduct current when reverse-biased",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "block current when forward-biased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "conduct current in both directions",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "817939fd-e2df-4fd7-9103-9d67f0f4dddb",
+      "question_text": [
+        "If a reverse-biased voltage is applied across a p-n junction, the depletion layer width is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Kirchhoff’s First Rule ",
+        " Circuits and DC Instruments"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "increased",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "decreased",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "constant",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "halved",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "52c49cc5-8a4c-49fd-b844-9cc71465fdc6",
+      "question_text": [
+        "I. Small size.II. Low power requirementIII. Not easily damaged by high temperatureIV. Highly durable. Which of the above are the advantages of semiconductors?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing High-temperature Superconductors ",
+        " Frontiers of Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is D.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I,II and lll only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "ll,lll and lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "l, Hand lV only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "l, ll, lll and lV",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "id": "85ba0c79-bf8f-4cf0-bc37-ef076b680f88",
+      "question_text": [
+        "A particle carrying a charge of 1. 0 x 10-8C enters a magnetic field at 3.0x 10-2 ms -1 at right angles to the field. If the force on this particle is 1.8 x 10-8N, what is the magnitude of the field?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Magnetic Fields and Magnetic Field Lines ",
+        " Magnetism"
+      ],
+      "explanation": "F = BQVB = \\(\\frac{F}{QV}\\)B = \\(\\frac{1.8 \\times 10^{-8}}{1.0 \\times 10^{-8} \\times 3.0 \\times 10^{-2}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "6.0x10-1T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "6.0x10T",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "6.0x10-3T",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "6.0x10-4T",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "93cd9f93-8a54-4a5a-beb3-6ab4e70a66c2",
+      "question_text": [
+        "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Summarizing Alternating Current Versus Direct Current ",
+        " Electric Current, Resistance, and Ohm's Law"
+      ],
+      "explanation": "Irms = \\(\\frac{10}{\\sqrt{2}}\\)",
+      "explanationMsg": "The correct answer is B.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "5.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "7.1A",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "C.",
+          "answer": "10.0A",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "14.1A",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "d4c61fbf-6492-46c1-9a89-0932d379ec2d",
+      "question_text": [
+        "A conductor of length 1m moves with a velocity of 50ms-1 at an angle of 30o to  the direction of a uniform magnetic field of flux density 1.5Wbm-2. What is the e.m.f induced in the conductor?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Electrical Machines – Generators and Motors ",
+        " Magnetism and Faraday's Law"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "37.5V",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "50.5V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "75.0V",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "80.5V",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "a8ed7356-6155-4d93-8373-b6b0a0b4b051",
+      "question_text": [
+        "The process of detecting a pin mistakenly swallowed by a child is X-ray"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "X-Ray Diffraction and Crystallography ",
+        " Atomic Physics"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Diagnosis",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "Therapy",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Crystallography",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "Mammography",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "660a0aae-f13d-458c-b9b3-234e51e3b752",
+      "question_text": [
+        "Which of the following particies CANNOT be deflected by both electric and magnetic fields?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Gamma Rays ",
+        " Electromagnetic Waves"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is A.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "Gamma rays",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "B.",
+          "answer": "Alpha particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "Wave particles",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "D.",
+          "answer": "Beta particles",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "id": "1e1e383c-80f1-48c0-b3c6-aff9fa6dd0b4",
+      "question_text": [
+        "I. Rays of light travel from a less dense medium to a denser medium. II. The Angle of incidence is greater than critical angle. III. Rays of light travel from a denser medium to a less dense medium. Which of the statements above are conditions for total internal reflection to occur?"
+      ],
+      "examType": "jamb",
+      "year": "2012",
+      "subject": "physics",
+      "pageNum": "8",
+      "related_lessons": [
+        "Critical Angles and Total Internal Reflection ",
+        " Optics and Optical Phenomena"
+      ],
+      "explanation": "",
+      "explanationMsg": "The correct answer is C.",
+      "options": [
+        {
+          "opt": "A.",
+          "answer": "I & II only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "B.",
+          "answer": "I & III only",
+          "isCorrect": "false"
+        },
+        {
+          "opt": "C.",
+          "answer": "II & III only",
+          "isCorrect": "true"
+        },
+        {
+          "opt": "D.",
+          "answer": "II only",
+          "isCorrect": "false"
+        }
+      ]
+    },{
+        "id": "1f8edc55-6811-4095-a4f5-c4b1d38c6797",
+        "question_text": [
+          "A piece of radioactive material contains 1000 atmos. If its half -life is 20seconds, the time taken for 125 atoms to remain is"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Summarizing Half-Life and Activity ",
+          " Radioactivity and Nuclear Physics"
+        ],
+        "explanation": "1000 → 500 → 250 → 12520 + 20 + 20 = 60s",
+        "explanationMsg": "The correct answer is D.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "20 seconds",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "40 seconds",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "80 seconds",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "60 seconds",
+            "isCorrect": "true"
+          }
+        ]
+      },
+      {
+        "id": "9ee79bb0-9f8e-4f4d-b6f4-7bdbd4091c13",
+        "question_text": [
+          "The p-n junction diodes can act as rectifiers because they"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Kirchhoff’s First Rule ",
+          " Circuits and DC Instruments"
+        ],
+        "explanation": "",
+        "explanationMsg": "The correct answer is B.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "conduct current when forward-biased",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "conduct current when reverse-biased",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "C.",
+            "answer": "block current when forward-biased",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "conduct current in both directions",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "af863ca8-8d63-4ba5-8322-eb352c143c08",
+        "question_text": [
+          "If a reverse-biased voltage is applied across a p-n junction, the depletion layer width is"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Kirchhoff’s First Rule ",
+          " Circuits and DC Instruments"
+        ],
+        "explanation": "",
+        "explanationMsg": "The correct answer is B.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "increased",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "decreased",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "C.",
+            "answer": "constant",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "halved",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "9b22f610-20a9-4113-a999-80af49a618c9",
+        "question_text": [
+          "I. Small size.II. Low power requirementIII. Not easily damaged by high temperatureIV. Highly durable. Which of the above are the advantages of semiconductors?"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Summarizing High-temperature Superconductors ",
+          " Frontiers of Physics"
+        ],
+        "explanation": "",
+        "explanationMsg": "The correct answer is D.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "I,II and lll only",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "ll,lll and lV only",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "l, Hand lV only",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "l, ll, lll and lV",
+            "isCorrect": "true"
+          }
+        ]
+      },
+      {
+        "id": "182a98d2-9e25-4dcd-965d-f7c81f4ab015",
+        "question_text": [
+          "A particle carrying a charge of 1. 0 x 10-8C enters a magnetic field at 3.0x 10-2 ms -1 at right angles to the field. If the force on this particle is 1.8 x 10-8N, what is the magnitude of the field?"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Summarizing Magnetic Fields and Magnetic Field Lines ",
+          " Magnetism"
+        ],
+        "explanation": "F = BQVB = \\(\\frac{F}{QV}\\)B = \\(\\frac{1.8 \\times 10^{-8}}{1.0 \\times 10^{-8} \\times 3.0 \\times 10^{-2}}\\)",
+        "explanationMsg": "The correct answer is B.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "6.0x10-1T",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "6.0x10T",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "C.",
+            "answer": "6.0x10-3T",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "6.0x10-4T",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "d4e01f65-0e7a-40ef-b69c-9c70738dddea",
+        "question_text": [
+          "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Summarizing Alternating Current Versus Direct Current ",
+          " Electric Current, Resistance, and Ohm's Law"
+        ],
+        "explanation": "Irms = \\(\\frac{10}{\\sqrt{2}}\\)",
+        "explanationMsg": "The correct answer is B.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "5.0A",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "7.1A",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "C.",
+            "answer": "10.0A",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "14.1A",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "b8c4ea44-3d8f-4667-a343-a09319a53bb9",
+        "question_text": [
+          "A conductor of length 1m moves with a velocity of 50ms-1 at an angle of 30o to  the direction of a uniform magnetic field of flux density 1.5Wbm-2. What is the e.m.f induced in the conductor?"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Electrical Machines – Generators and Motors ",
+          " Magnetism and Faraday's Law"
+        ],
+        "explanation": "",
+        "explanationMsg": "The correct answer is A.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "37.5V",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "B.",
+            "answer": "50.5V",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "75.0V",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "80.5V",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "c36ec391-f31d-417e-beac-02eb1711bf82",
+        "question_text": [
+          "The process of detecting a pin mistakenly swallowed by a child is X-ray"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "X-Ray Diffraction and Crystallography ",
+          " Atomic Physics"
+        ],
+        "explanation": "",
+        "explanationMsg": "The correct answer is C.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "Diagnosis",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "Therapy",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "Crystallography",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "D.",
+            "answer": "Mammography",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "f1592061-4469-4e47-bcb0-f92867d20faf",
+        "question_text": [
+          "Which of the following particies CANNOT be deflected by both electric and magnetic fields?"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Gamma Rays ",
+          " Electromagnetic Waves"
+        ],
+        "explanation": "",
+        "explanationMsg": "The correct answer is A.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "Gamma rays",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "B.",
+            "answer": "Alpha particles",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "Wave particles",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "D.",
+            "answer": "Beta particles",
+            "isCorrect": "false"
+          }
+        ]
+      },
+      {
+        "id": "e0928d51-c5c9-494d-9379-c7bc0cf41bdd",
+        "question_text": [
+          "I. Rays of light travel from a less dense medium to a denser medium. II. The Angle of incidence is greater than critical angle. III. Rays of light travel from a denser medium to a less dense medium. Which of the statements above are conditions for total internal reflection to occur?"
+        ],
+        "examType": "jamb",
+        "year": "2012",
+        "subject": "physics",
+        "pageNum": "9",
+        "related_lessons": [
+          "Critical Angles and Total Internal Reflection ",
+          " Optics and Optical Phenomena"
+        ],
+        "explanation": "",
+        "explanationMsg": "The correct answer is C.",
+        "options": [
+          {
+            "opt": "A.",
+            "answer": "I & II only",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "B.",
+            "answer": "I & III only",
+            "isCorrect": "false"
+          },
+          {
+            "opt": "C.",
+            "answer": "II & III only",
+            "isCorrect": "true"
+          },
+          {
+            "opt": "D.",
+            "answer": "II only",
+            "isCorrect": "false"
+          }
+        ]
+      }
+    ]
