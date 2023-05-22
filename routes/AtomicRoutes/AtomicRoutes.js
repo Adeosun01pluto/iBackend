@@ -3,6 +3,9 @@ import { get_Chemistry, get_Economics, get_English, get_Mathematics, get_Physics
 
 const router = express.Router()
 
+router.get("/test", (req, res)  =>{
+    res.json({mssg:"Okayed"})
+})
 router.get("/mathematics/:year", get_Mathematics)
 router.get("/english/:year", get_English)
 router.get("/chemistry/:year", get_Chemistry)
