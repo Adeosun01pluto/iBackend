@@ -86,3 +86,16 @@ export const get_Economics = async (req, res)=> {
         console.log(error)
     }
 }
+
+export const save_question = async(req, res) =>{
+    const {id, subject, year} = req.params
+    try {
+        res.json({id, subject, year})
+    } catch (error) {
+        console.log(error.message)
+    }
+}
+export const savedQuestions = async (req, res) =>{
+    const {id} = req.body
+}
+

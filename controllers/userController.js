@@ -75,19 +75,34 @@ export const savedQuestion = async (req, res) =>{
 //     }
 // }
 
+// export const savedQuestions = async (req, res) =>{
+
+//     try {
+//         const {id} = req.params
+//         const user = await User.findById(id)
+//         const savedQuestions = user.savedQuestions
+//         const result = await QuestionPack.find({
+//             _id : {$in: savedQuestions}
+//         })
+//         res.json(result)
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }
+
+
+
 export const savedQuestions = async (req, res) =>{
 
     try {
-        const {id} = req.params
-        const user = await User.findById(id)
-        // const user = await User.findById(req.body.userID)
-        const savedQuestions = user.savedQuestions
-        const result = await QuestionPack.find({
-            _id : {$in: savedQuestions}
-        })
-        res.json(result)
+        const body = req.body
+        // const result = await QuestionPack.find({
+        //     _id : {$in: id}
+        // })
+        res.json(body)
     } catch (error) {
         console.log(error)
     }
 }
+
 

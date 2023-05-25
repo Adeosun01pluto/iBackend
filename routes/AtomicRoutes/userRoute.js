@@ -9,5 +9,5 @@ router.post("/login", userLogin)
 // router.post("/f_login", f_userLogin)
 router.put("/save", savedQuestion)
 // router.get("/savedQuestions/ids",savedQuestion_ids )
-router.get("/savedQuestions/:id", savedQuestions )
+router.post("/savedQuestions/:id", savedQuestions )
 export default router
