@@ -14,7 +14,7 @@ dotenv.config()
 
 const PORT=3001
 const DB_URI = "mongodb+srv://admin:admin@cluster1.s2gzblr.mongodb.net/Atomic?retryWrites=true&w=majority"
-const API_KEYS = "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"
+// const 
 
 const app = express()
 app.use(express.json())
@@ -44,10 +44,11 @@ app.use("/posts",verifyToken, postRoutes)
 
 const openAi = new OpenAIApi(
     new Configuration({
-      apiKey:API_KEYS,
+      apiKey:process.env.API_KEYS,
     })
 )
 
+console.log(process.env.API_KEYS)
 app.post("/completions", async (req, res)=>{
     const {input} = req.body
     // console.log(input)
