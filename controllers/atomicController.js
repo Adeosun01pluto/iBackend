@@ -1,4 +1,49 @@
-import { Jamb_Chemistry, Jamb_Economics, Jamb_English, Jamb_Mathematics, Jamb_Physics } from "../models/AtomicModel/AtomicModel.js"
+import mongoose, { Schema } from "mongoose"
+// import * as AtomicModel from "../models/AtomicModel/AtomicModel.js"
+// { Jamb_Chemistry, Jamb_Economics, Jamb_English, Jamb_Mathematics, Jamb_Physics }
+
+
+export const get_Questions = async (req, res)=> {
+    const {year, pageNumber, subject}  = req.params
+    const slicer = pageNumber * 10
+    const firstSlice = slicer - 10 
+    // const Subject = subject.charAt(0).toUpperCase() + subject.slice(1)
+    try { 
+        let Model;
+        if (mongoose.models[subject]) {
+        // Model already exists, use the existing one
+        Model = mongoose.model(subject);
+        } 
+        else {
+        // Model doesn't exist, create a new one
+        const schema = new mongoose.Schema({
+            question_text: [String],
+            examType: String,
+            year: String,
+            subject: String,
+            pageNum: String,
+            explanation: String,
+            explanationMsg: String,
+            options: [],
+            related_lessons: [String]
+        });
+        Model = mongoose.model(subject, schema);
+        }
+        const questions = await Model.find({ year}); // Query with the specific criteria
+        res.json({
+          data: questions.slice(firstSlice, slicer),
+          data_Length: questions.length,
+          firstSlice,
+          slicer
+        });
+    } catch (error) {
+        console.log(error)
+    }
+}
+
+
+
+
 
 // export const get_FullQuestions = async (req, res)=> {
 //     // http://localhost:3001/api/v1?examType=jamb&year=2015&subject=accounts&pageNum=1&fields=question_text,year
@@ -29,63 +74,70 @@ import { Jamb_Chemistry, Jamb_Economics, Jamb_English, Jamb_Mathematics, Jamb_Ph
 //         console.log(error)
 //     }
 // }
+// export const get_English = async (req, res)=> {
+//     const {year, pageNumber, subject}  = req.params
+//     const slicer = pageNumber * 10
+//     const firstSlice = slicer - 10 
+//     try { 
+//         const questions = await Jamb_English.find({year})
 
+//         res.json({
+//             data:questions.slice(firstSlice, slicer),
+//             data_Length: questions.length,
+//         })
+//         console.log(subject)
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }
+// export const get_Chemistry = async (req, res)=> {
+//     const {year, pageNumber, subject}  = req.params
+//     const slicer = pageNumber * 10
+//     const firstSlice = slicer - 10 
+//     try { 
+//         const questions = await Jamb_Chemistry.find({year})
 
-export const get_Mathematics = async (req, res)=> {
-    try { 
-        const questions = await Jamb_Mathematics.find()
-        res.json({
-            data:questions,
-            data_Length: questions.length
-        })
-    } catch (error) {
-        console.log(error)
-    }
-}
-export const get_English = async (req, res)=> {
-    try {    
-        const questions = await Jamb_English.find()
-        res.json({
-            data:questions,
-            data_Length: questions.length
-        })
-    } catch (error) {
-        console.log(error)
-    }
-}
-export const get_Chemistry = async (req, res)=> {
-    try {    
-        const questions = await Jamb_Chemistry.find()
-        res.json({
-            data:questions,
-            data_Length: questions.length
-        })
-    } catch (error) {
-        console.log(error)
-    }
-}
-export const get_Physics = async (req, res)=> {
-    try {    
-        const questions = await Jamb_Physics.find()
-        res.json({
-            data:questions,
-            data_Length: questions.length
-        })
-    } catch (error) {
-        console.log(error)
-    }
-}
-export const get_Economics = async (req, res)=> {
-    try {    
-        const questions = await Jamb_Economics.find()
-        res.json({
-            data:questions,
-            data_Length: questions.length
-        })
-    } catch (error) {
-        console.log(error)
-    }
-}
+//         res.json({
+//             data:questions.slice(firstSlice, slicer),
+//             data_Length: questions.length,
+//         })
+//         console.log(subject)
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }
+// export const get_Physics = async (req, res)=> {
+//     const {year, pageNumber, subject}  = req.params
+//     const slicer = pageNumber * 10
+//     const firstSlice = slicer - 10 
+//     try { 
+//         const questions = await Jamb_Physics.find({year})
+
+//         res.json({
+//             data:questions.slice(firstSlice, slicer),
+//             data_Length: questions.length,
+//         })
+//         console.log(subject)
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }
+// export const get_Economics = async (req, res)=> {
+//     const {year, pageNumber, subject}  = req.params
+//     const slicer = pageNumber * 10
+//     const firstSlice = slicer - 10 
+//     try { 
+//         const questions = await Jamb_Economics.find({year})
+
+//         res.json({
+//             data:questions.slice(firstSlice, slicer),
+//             data_Length: questions.length,
+//         })
+//         console.log(subject)
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }
 
 export const save_question = async(req, res) =>{
     const {id, subject, year} = req.params

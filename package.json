@@ -5,7 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "build": "npm install "
   },
   "keywords": [],
@@ -27,6 +27,7 @@
     "mongoose": "^6.10.0",
     "nodemailer": "^6.9.1",
     "openai": "^3.2.1",
+    "react-tiny-virtual-list": "^2.2.0",
     "uuid": "^9.0.0",
     "validator": "^13.9.0"
   }
