@@ -14,7 +14,7 @@ dotenv.config()
 
 const PORT=3001
 const DB_URI = "mongodb+srv://admin:admin@cluster1.s2gzblr.mongodb.net/Atomic?retryWrites=true&w=majority"
-const API_KEYS = "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"
+const API_KEYS = "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"
 
 const app = express()
 app.use(express.json())
