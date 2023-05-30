@@ -10,6 +10,7 @@ import { verifyToken } from "./middleware/atomicWare.js";
 import bodyParser from "body-parser";
 import * as dotenv from 'dotenv'
 import * as fs from 'fs';
+import coursesRouter from "./routes/AtomicRoutes/coursesRouter.js";
 dotenv.config()
 
 const PORT=3001
@@ -36,7 +37,7 @@ mongoose.connect(DB_URI)
 
 app.use("/api/v1/jamb/questions", router)
 // app.use("/api/v1/waec/questions", router)
-// app.use("/api/v1", verifyToken, router)
+app.use("/jamb/syllabus", coursesRouter)
 app.use("/auth", userRoute)
 // app.use("/posts", postRoutes)
 app.use("/posts",verifyToken, postRoutes)
