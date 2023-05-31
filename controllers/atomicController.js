@@ -43,9 +43,7 @@ export const get_Questions = async (req, res)=> {
 
 
 export const get_Quiz = async (req, res)=> {
-    const {year, pageNumber, subject}  = req.params
-    const slicer = pageNumber * 20
-    const firstSlice = slicer - 20 
+    const {year, number, subject}  = req.params
     // const Subject = subject.charAt(0).toUpperCase() + subject.slice(1)
     try { 
         let Model;
@@ -69,11 +67,10 @@ export const get_Quiz = async (req, res)=> {
         Model = mongoose.model(subject, schema);
         }
         const questions = await Model.find({ year}); // Query with the specific criteria
+        const shuffledQuestions = questions.sort(() => Math.random() - 0.5)
+        const questionSlice = shuffledQuestions.slice(0, number*1)
         res.json({
-          data: questions.slice(firstSlice, slicer),
-          data_Length: questions.length,
-          firstSlice,
-          slicer
+          data:questionSlice,
         });
     } catch (error) {
         console.log(error)

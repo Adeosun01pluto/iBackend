@@ -6,7 +6,7 @@ const router = express.Router()
 
 
 router.get("/:subject/:year/:pageNumber", get_Questions)
-router.get("/quiz/:subject/:year/:pageNumber", get_Quiz)
+router.get("/quiz/:subject/:year/:number", get_Quiz)
 
 router.get("/save-question/:subject/:year/:id", save_question)
 router.post("/saved-questions", savedQuestions )
